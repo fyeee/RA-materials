@@ -1,0 +1,966 @@
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+20-May-2010, 01-Jul-2014, N/A, N/A , N/A, N/A, N/A, N/A , N/A, N/A, N/A, N/A , N/A, N/A, N/A, N/A , N/A, N/A, N/A, N/A  
+
+ 
+ 
+TMT 
+ 
+Apple, Inc. 
+How Bad Will Apple's Guidance Be? 
+
+ 
+
+Smartphone upgrade rates remain at record low levels and do not appear 
+poised to rebound in the first calendar quarter. Reduced iPhone 
+promotions could be having an impact (as previously discussed), but the 
+sustained lengthening of the replacement cycle appears driven simply by 
+customer choice to hold onto their phone longer. We reduced our 
+estimates in Apple as detailed in the note below and are concerned that 
+revenue guidance for the March quarter could be as low as $60 billion 
+versus a consensus of $68 billion. 
+
+ 
+
+ 
+
+ 
+
+   Buy 1 164 Reduce 0 11 Hold 0 103 IBC 1 
+
+ 
+Equity Research 
+January 26, 2018 
+ 
+Walter Piecyk 
+(646) 450-9258 
+wpiecyk@btig.com 
+Joseph Galone 
+(212) 527-3523 
+jgalone@btig.com 
+           
+           
+           
+           
+           
+           
+
+ 
+
+AAPL 
+12 month target 
+ 
+
+Upsi de  
+
+BUY 
+ 
+52 week range 
+Dividend Yield 
+Market Cap (m) 
+
+15.7%  
+
+$171.11 
+$198.00 
+ 
+ 
+$121.35 - $179.26 
+1.2% 
+$886,963 
+ 
+
+Price Performance 
+
+Source: IDC 
+
+ 
+
+Estimates 
+
+ 
+
+1Q16 A  2Q16 A  3Q16 A  4Q16 A  FY16 A  1Q17 A  2Q17 A  3Q17 A  4Q17 A  FY17 A 
+FY18 E 
+75,872  50,557  42,358  46,852  215,639  78,351  52,896  45,408  52,579  229,234  255,187 
+39.1% 
+38.7% 
+40.1% 
+11.06 
+8.28 
+3.28 
+2.64 
+0.52 
+2.18 
+7.1%  (18.4%)  (23.0%)  (14.6%)  (10.0%) 
+20.4% 
+
+Sales 
+Gross Margin (%) 
+Diluted EPS (Adj.) 
+DPS 
+EPS Growth (%) 
+Source: BTIG Estimates and Company Documents ($ in millions, except per share amount) 
+Company reports and BTIG estimates 
+
+38.5% 
+1.67 
+0.63 
+16.9% 
+
+38.5% 
+3.36 
+0.57 
+2.3% 
+
+37.9% 
+2.07 
+0.63 
+23.7% 
+
+39.4% 
+1.90 
+0.52 
+
+38.0% 
+1.42 
+0.57 
+
+38.0% 
+1.67 
+0.57 
+
+38.9% 
+2.10 
+0.57 
+10.4% 
+
+38.5% 
+9.19 
+2.40 
+11.0% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Please Read: Important disclosures and analyst’s certification appear in Appendix 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Upgrade rates still dropping 
+
+This week, Verizon reported a 7% decline in smartphones sold in Q4 on a 7.2% 
+upgrade rate, its lowest Q4 upgrade rate of the past decade and at levels more 
+typically seen in a June quarter. We expect Verizon's peers to report similar 
+metrics, although to be fair there are other devices in the mix that could be 
+pushing reported upgrade rates lower. On the bright side for Apple, Verizon's 
+device ASP was $50 higher than we expected and there could be signs that 
+upgrade rates are bottoming out for 2018. 
+
+ 
+
+Units are still growing, but can ASP deliver on consensus revenue?  
+
+Concerns about iPhone X sales have been well documented. Apple's stock has 
+shrugged off a slew of analyst and press reports that highlight these trends. 
+Despite these concerns, Apple will still be able to grow its iPhone unit sales, 
+just not necessarily at the rate that consensus expects. The incremental 
+concern is whether Apple's can hit or even come close to consensus revenue 
+estimates in future quarters, due to its reliance on ASP growth. ASPs are now 
+much more difficult to predict due to Apple's broader and more price diverse 
+product line. 
+
+We believe revenue guidance for March could be as low as $60 billion 
+
+We believe guidance for FQ2 revenue could be as low as $60 billion compared 
+to current consensus of $68 billion. We reduced our FQ2 revenue estimate by 
+$2.5 billion primarily based on a 7 million reduction in the number of iPhones 
+we expect to be sold to 53 million. This was partially offset by a $33 increase in 
+our ASP assumption, detailed below, and higher estimates for the iPad and 
+Services segments. Our estimate reflects a sequential decline in iPhone ASP, 
+while the consensus estimate assumes a sequential rise in ASP, which has not 
+happened since 2011 when Verizon first started selling the CDMA version of 
+the iPhone 4. 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+2 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Our 2018 revenue estimate is $13 billion below consensus, but reflects 11% 
+growth  
+
+We cut our Calendar 2018 revenue estimate by $500 million to $262 
+billion, which implies 11% growth. We are $13 billion below the consensus 
+estimate of $275 billion, which implies 17% growth. Our revisions were driven 
+by a 6% reduction in our estimate of phones sold for the year to 226.5 million 
+from 240.0 million offset by a $32 increase in our iPhone ASP estimate to $721. 
+Our new ASP estimate reflects a 7% annual increase compared to our prior 
+estimate of a 4% increase. 
+
+ 
+
+Lower tax rate means higher EPS 
+
+A lower tax rate assumption of 19% versus our prior estimate of 25.5% 
+cushions the revenue reduction and actually increases our Calendar 2018 EPS 
+estimate to $12.00 from $11.00. Our calendar 2018 EPS estimate is currently 
+$0.25 above consensus, but likely because consensus has not been adjusted for 
+the change in the tax code. 
+
+Estimates may have to come down, but does the stock? 
+
+Apple has shrugged off a slew of press reports and analyst notes highlighting 
+the risk to iPhone sales. However, the unpredictability of the ASP could be 
+the Achilles heel (or maybe slingshot) for the stock. Our estimate of 11% 
+revenue growth may be notably lower than consensus, but it's still impressive 
+for a company at Apple's size and margin profile, thereby deserving a 
+reasonable multiple of Earnings. 
+
+Our $198 target, which remains unchanged, is based on 16.5x (was 18.0x) our 
+Calendar 2018 EPS estimate of $12.00. That is a discount to the current 
+multiple of the S&P 500 of 18.6x. Our target implies a free cash flow yield of 
+6.8%. 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+3 
+
+ 
+ 
+ 
+
+ 
+ 
+
+We recommend that investors avoid trading the quarter given the wide range 
+of ASP outcomes discussed below. It’s possible, if not probable, that Apple's 
+stock could take a more than 5% hit if Apple issues the March quarter guidance 
+that we outline. Even if this occurs, we believe Apple can hit our $198 price 
+target by the end of the year based on the strong recurring revenue dynamics 
+of its growth business, expanding margins and share repurchase activity. 
+
+The Art of Estimating iPhone ASPs 
+
+Estimating iPhone ASPs relies on making assumptions on product and SKU 
+mix. Even if you are successful at predicting product mix, using the iPhone list 
+price is not reliable based on moves in currency and the likelihood that Apple 
+discounts products in select markets throughout the world. Take the June 2017 
+quarter, for example. Reported ASP was $606, but the only products with a list 
+price below that level are the iPhone 6S 16GB ($549) and the iPhone SE 
+models ($399-$499). It appears that we need to apply a 5%-10% discount to an 
+ASP that is calculated from list price in order to come up with our best guess 
+on ASP. As you will see in the analysis below, you can drive a truck through the 
+ASP range based on the range of iPhone product mix. 
+
+Mix of iPhone X is critical to predict ASP in Q4 
+
+The key to figuring out the ASP in calendar Q4 is knowing the mix of iPhone X 
+given its very high ASP. Supplies of the iPhone X were constrained at the 
+November 2nd launch, but it was readily available by the end of the year and 
+should not have limited sales in the quarter. Despite its availability, operator 
+promotions were far less aggressive than prior years and ended up being more 
+focused on Buy One Get One Free (BOGO) for the iPhone 8/8+, rather than on 
+the iPhone X. (Link) 
+
+ 
+
+Stop calling it a super-cycle 
+
+This is an off-cycle/S-Model year, which is important to consider when some of 
+our peers push the questionable thesis of this being a "super-cycle" year. There 
+is no evidence from the operators to suggest there is a "super-cycle", but our 
+visibility into China is admittedly very limited. If Apple sold 80 million phones 
+in Q4 it would reflect a 2.2% increase over last year. 61 million phones sold in 
+the March quarter implies 20% growth. As a point of reference, the 6/6+ launch 
+in 2014 (a true super cycle) resulted in 46% unit growth in that December 
+quarter and 40% in the subsequent March quarter. Just take a look at the spike 
+in Verizon's upgrade rate in the very first chart of this report. 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+4 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Did the iPhone X represent 36-46% of sales in December quarter? 
+
+The table below shows the range of estimates that exist for the mix of phones 
+sold in the December quarter. Our range of estimates implies 36% to 44% of 
+phones sold in the quarter were iPhone X. As a point of reference Wave 7 
+Research ran surveys in stores in the United States in November and 
+December that indicated that iPhone X represented ~12% and ~25% of 
+iPhones sold in those months, respectively. It's certainly possible that the mix 
+of customers electing to have their phones shipped (which would not be 
+captured by their survey) was more highly weighted to iPhone X. 
+
+When have legacy products represented <20% of phones sold? 
+
+We also estimate a relatively high mix of iPhone 8/8+ in our December 
+estimates, and they are also a new product. In fact, at the high end of our 
+range, legacy products represent less than 20% of phones sold in the quarter, 
+which seems implausible based on prior discussions with operators. 
+
+ 
+
+What memory are consumers buying? 
+
+ASP is also impacted by the mix of SKU, or what memory size the consumer 
+buys. We included the mix of SKUs determined by survey work from Wave 7 
+Research in the United States for purposes of comparison. For legacy 
+products, which includes iPhone SE/6S/7, we simply reduced the June quarter 
+ASP by $100-$125 to account for stated price reductions. The resulting range 
+of ASPs based on this analysis is $757-$859. 
+
+Who is getting a discount on iPhones? Not operators in the US  
+
+Experience has taught us that we should apply a 5%-10% discount to this basic 
+math to better predict ASP and presumably account for market discounts to 
+certain markets and distribution channels. To be clear, we do not believe that 
+wireless operators in the United States receive product discounts. In fact, they 
+pay Apple commissions for phones activated in Apple Stores. 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+5 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+$10 billion swing in revenue based on the range of estimates on mix  
+
+The net result of all the assumptions detailed above is an ASP range of $682-
+$816, which implies a revenue range of $55 to $65 billion based on 80 million 
+units sold. We will use the midpoint of that range in our model of $750, which 
+is up from our prior estimate of $722, but clearly that is a really wide range of 
+outcomes. If Apple executed at the high end of the range it would result in 
+total revenue of $91 billion, which compares to guidance of $84-$87 billion and 
+consensus of $87 billion. The low end of the range implies FQ1 revenue of $81 
+billion. 
+
+Cutting our March quarter iPhone estimates to 53 million 
+
+We are lowering our iPhone unit estimate for the March quarter to 53 million 
+from 60 million based on a more conservative outlook for upgrade rates. Our 
+new estimate represents 4% annual unit growth, which is consistent with the 
+low single digit growth of the past few quarters, but is lower than our prior 
+estimate of 18%. 
+
+Our new unit estimate also implies a 33% sequential decline, which is in-line 
+with the declines over the prior two years. Bulls could argue that the 
+November launch of the iPhone X should provide an easier comparable, 
+thereby rendering our 33% sequential decline estimate too conservative. A 
+20% sequential decline would imply 60 million phones sold and lift our revenue 
+estimate by $7.3 billion to $68 billion, which is the consensus estimate for the 
+March quarter. 80 million units does not seem like an easy comparable to us, 
+so we will stick with our estimate of 53 million iPhones sold for the March 
+quarter. 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+6 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Can ASP rise sequentially in the March quarter? 
+
+We believe the $68 billion consensus revenue estimate for the March quarter 
+implies a rise in iPhone ASP. This is likely driven by the belief that the 
+November 2nd launch of the iPhone X and limited supply would help the 
+iPhone X mix in the March quarter compared to the December quarter. It is 
+definitely plausible that Apple could sell a similar number of iPhone X in the 
+March quarter as it did in the December quarter when they were only selling 
+the iPhone X for two months. However, the supply/demand of that phone did 
+quickly move into balance during the December quarter and phone 
+promotions have remain focused on iPhone 8s. A typical seasonal trend is a 
+4%-7% sequential drop in iPhone ASP in the March quarter. The reality likely 
+falls somewhere in between, as we forecast and is shown in the chart below. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+7 
+
+ 
+ 
+ 
+
+ 
+ 
+
+What will the mix of phones be in the March quarter? 
+
+The table below shows a range of estimates for the mix of phones sold in the 
+March quarter. This time we also provide a range for the total number of 
+phones sold of 53-63 million, given the reduction we made to our estimates. 
+This range of total phones sold implies annual growth of 4%-18%, both 
+impressive, but clearly a very wide range, once again. 
+
+ 
+
+The mix of phones is also critical. If the iPhone X mix in the March quarter can 
+exceed the 40% mix at the mid point of the range in the December quarter, 
+Apple will have a shot at growing ASPs sequentially and delivering on 
+consensus revenue estimates. However, that implies a very low mix of legacy 
+iPhone sales. 
+
+No adjustment to SKU mix 
+
+We did not make adjustments to our mix of SKU compared to the December 
+quarter although it's reasonable to assume that the mix would move down to 
+lower priced models after the initial launch. The table below includes some 
+more recent survey work from Wave 7 Research, which shows an expected 
+increase in mix for the iPhone 8/8+. 
+
+ 
+
+We expect March ASP to drop sequentially to $720, the low end of our 
+range 
+
+Our estimates for the March quarter imply an ASP range of $783 - $879. We 
+apply a 5%-10% discount to this basic math in order to generate an estimated 
+reported ASP range of $705-$835. In the March and June quarters, discounts 
+are likely to be larger as Apple moves inventory with lower prices in select 
+markets. 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+8 
+
+ 
+ 
+ 
+
+ 
+ 
+
+We will use the low end of the range for our FQ2 estimates 
+
+We will use the lower end of the ASP range in our model since our unit 
+estimate is now 53 million for the quarter. Our new ASP estimate of $720 for 
+the March quarter is up $32 from our prior estimate, but down $30 from the 
+December quarter and likely below consensus. 
+
+Is 15% revenue growth really a disappointment? 
+
+Cutting our iPhone unit estimate to 53 million from 60 million and increasing 
+our ASP estimate to $720 from $688 reduces our iPhone revenue estimate to 
+$38 billion from $41 billion. Our new estimate implies 15% iPhone revenue 
+growth, which is very impressive, but is down from our prior estimate of 24% 
+growth. These estimates also yield a $60 billion total revenue estimate, which 
+will be the headline guidance number that investors are waiting for when the 
+company reports FQ1. 
+
+How do you get to $68 billion in revenue guidance? 
+
+If we assumed the high end of the range in the tables above (63 million phones 
+sold at an ASP of $835) it would lift our iPhone revenue estimate by $14 billion 
+and imply an astounding 58% iPhone revenue growth. Apple has not grown 
+iPhone revenue that much since FQ1-FQ3 2015 with the true super-cycle of the 
+iPhone 6/6+. Furthermore, it would lift our total revenue estimate for the 
+March quarter to $75 billion, which is $7 billion above consensus. That level of 
+revenue would reflect 41% growth compared to last year. Apple reports Feb 
+1st after the close. 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+9 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Income Statement 
+
+Source: Company reports; BTIG 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+ 
+ 
+ 
+
+Walter Piecyk (646) 450-9258 
+
+10 
+
+www.btigresearch.com 
+
+Apple Income StatementEstEstEstEstEstEst$ millions20152016DecMarJunSep2017DecMarJunSep2018DecRevenues233,715215,63978,35152,89645,40852,579229,23486,00060,37950,87757,931255,18792,702Cost of goods sold140,089131,37648,17532,30527,92032,648141,04852,89036,65031,13635,628156,30456,455Gross profit93,62684,26330,17620,59117,48819,93188,18633,11023,72919,74022,30398,88336,246R&D8,06710,0452,8712,7762,9372,99711,5813,1823,2293,2703,36013,0413,337SG&A14,32914,1943,9463,7183,7833,81415,2614,4724,2444,1884,20217,1064,774Operating Income71,23060,02423,35914,09710,76813,12061,34425,45616,25612,28214,74168,73528,135Other inc and exp1,2851,3488215875407972,7456006006006002,400625NIBT72,51561,37224,18014,68411,30813,91764,08926,05616,85612,88215,34171,13528,760Taxes19,12115,6856,2893,6552,5913,20315,7386,6443,2032,4482,91515,2095,464Net Income53,39445,68717,89111,0298,71710,71448,35119,41213,65310,43412,42655,92623,296EPS$9.20$8.28$3.36$2.10$1.67$2.07$9.19$3.79$2.69$2.08$2.50$11.06$4.73Shares out5,7935,5005,3285,2625,2335,1845,2525,1275,0725,0204,9705,0474,921Dividends per share$1.98$2.18$0.57$0.57$0.63$0.63$2.40$0.63$0.63$0.69$0.69$2.64$0.69Dividends11,46411,9843,0372,9993,2973,26612,5993,2303,1953,4643,42913,3183,396MarginsGPM40.1%39.1%38.5%38.9%38.5%37.9%38.5%38.5%39.3%38.8%38.5%38.7%39.1%R&D/Revenue3.5%4.7%3.7%5.2%6.5%5.7%5.1%3.7%5.3%6.4%5.8%5.1%3.6%SG&A/Revenue6.1%6.6%5.0%7.0%8.3%7.3%6.7%5.2%7.0%8.2%7.3%6.7%5.2%Operating Inc30.5%27.8%29.8%26.7%23.7%25.0%26.8%29.6%26.9%24.1%25.4%26.9%30.4%NIBT31.0%28.5%30.9%27.8%24.9%26.5%28.0%30.3%27.9%25.3%26.5%27.9%31.0%Tax rate26.4%25.6%26.0%24.9%22.9%23.0%24.6%25.5%19.0%19.0%19.0%21.4%19.0%Net Income22.8%21.2%22.8%20.9%19.2%20.4%21.1%22.6%22.6%20.5%21.5%21.9%25.1%Annual growthRevenues27.9%-7.7%3.3%4.6%7.2%12.2%6.3%9.8%14.1%12.0%10.2%11.3%7.8%Operating Income35.7%-15.7%-3.4%0.8%6.6%11.6%2.2%9.0%15.3%14.1%12.4%12.0%10.5%NIBT35.6%-15.4%-1.6%3.8%8.0%14.2%4.4%7.8%14.8%13.9%10.2%11.0%10.4%Net Income35.1%-14.4%-2.6%4.9%11.8%18.9%5.8%8.5%23.8%19.7%16.0%15.7%20.0%EPS43.0%-10.0%2.3%10.4%16.9%23.7%11.0%12.8%28.4%24.8%21.0%20.4%25.0%Dividends9.3%10.1%9.6%9.6%10.5%10.5%10.1%10.5%10.5%9.5%9.5%10.0%9.5%Net cash per share$24.85$27.91$29.76$30.09$29.27$29.56$29.56$30.86$31.21$30.67$32.26$32.26$35.26Net cash(141,204)(150,553)(158,541)(158,319)(153,177)(153,215)(153,215)(158,216)(158,287)(153,955)(160,327)(160,327)(173,546) 
+ 
+ 
+
+ 
+ 
+
+Revenues 
+
+Source: Company reports; BTIG 
+
+ 
+
+BTIG LLC 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+11 
+
+www.btigresearch.com 
+
+Apple Revenue AnalysisEstEstEstEstEstEst$ millions20152016Dec-16Mar-17Jun-17Sep-172017Dec-17Mar-18Jun-18Sep-182018Dec-18Revenue by Product233,715215,63978,35152,89645,40852,579229,23486,00060,37950,87757,931255,18792,702iPhone155,041136,70054,37833,24924,84628,846141,31959,25038,18628,31332,970158,71863,731iPad23,22720,6285,5333,8894,9694,83119,2225,8244,4464,8154,68119,7675,644Mac25,47122,8317,2445,8445,5927,17025,8507,6766,0495,7307,34726,8017,827Services19,90924,3487,1727,0417,2668,50129,9808,7508,4498,7199,43335,35110,500Other Products10,06711,1324,0242,8732,7353,23112,8634,5003,2503,3003,50014,5505,000Annual Revenue Growth27.9%-7.7%3.3%4.6%7.2%12.2%6.3%9.8%14.1%12.0%10.2%11.3%7.8%iPhone52.0%-11.8%5.3%1.2%3.3%2.4%3.4%9.0%14.8%14.0%14.3%12.3%7.6%iPad-23.3%-11.2%-21.9%-11.9%1.9%13.5%-6.8%5.3%14.3%-3.1%-3.1%2.8%-3.1%Mac5.8%-10.4%7.4%14.4%6.7%24.9%13.2%6.0%3.5%2.5%2.5%3.7%2.0%Services10.2%22.3%18.4%17.5%21.6%34.4%23.1%22.0%20.0%20.0%11.0%17.9%20.0%Other Products20.1%10.6%-7.5%31.2%23.3%36.2%15.5%11.8%13.1%20.7%8.3%13.1%11.1%Revenue MixiPhone66.3%63.4%69.4%62.9%54.7%54.9%61.6%68.9%63.2%55.6%56.9%62.2%68.7%iPad9.9%9.6%7.1%7.4%10.9%9.2%8.4%6.8%7.4%9.5%8.1%7.7%6.1%Mac10.9%10.6%9.2%11.0%12.3%13.6%11.3%8.9%10.0%11.3%12.7%10.5%8.4%Services8.5%11.3%9.2%13.3%16.0%16.2%13.1%10.2%14.0%17.1%16.3%13.9%11.3%Other Products4.3%5.2%5.1%5.4%6.0%6.1%5.6%5.2%5.4%6.5%6.0%5.7%5.4%UnitsiPhone231,218211,88478,29050,76341,02646,677216,75679,00053,00042,50048,500223,00082,500iPad54,85645,59013,0818,92211,42410,32643,75313,50010,00010,8539,81044,16312,825Mac20,58718,4845,3744,1994,2925,38619,2515,5624,3464,4425,57519,9255,729Annual Unit GrowthiPhone36.6%-8.4%4.7%-0.8%1.6%2.6%2.3%0.9%4.4%3.6%3.9%2.9%4.4%iPad-19.3%-16.9%-18.9%-13.0%14.8%11.4%-4.0%3.2%12.1%-5.0%-5.0%0.9%-5.0%Mac8.9%-10.2%1.2%4.1%0.9%10.2%4.1%3.5%3.5%3.5%3.5%3.5%3.0%Sequential Unit GrowthiPhone72.0%-35.2%-19.2%13.8%69.2%-32.9%-19.8%14.1%70.1%iPad41.2%-31.8%28.0%-9.6%30.7%-25.9%8.5%-9.6%30.7%Mac10.0%-21.9%2.2%25.5%3.3%-21.9%2.2%25.5%2.8%Average Sales PricesiPhone671645695655606618652750720666680712773iPad423452423436435468439431445444477448440Mac1,2371,2351,3481,3921,3031,3311,3431,3801,3921,2901,3181,3451,366Annual ASP GrowthiPhone11.3%-3.8%0.6%2.1%1.7%-0.1%1.1%8.0%10.0%10.0%10.0%9.2%3.0%iPad-5.0%6.9%-3.7%1.3%-11.2%1.9%-2.9%2.0%2.0%2.0%2.0%1.9%2.0%Mac-2.9%-0.2%6.1%9.9%5.7%13.3%8.7%2.4%0.0%-1.0%-1.0%0.2%-1.0%Sequential ASP GrowthiPhone12.3%-5.7%-7.5%2.0%21.4%-3.9%-7.5%2.0%13.6%iPad-7.9%3.1%-0.2%7.6%-7.8%3.1%-0.2%7.6%-7.8%Mac14.8%3.2%-6.4%2.2%3.7%0.9%-7.3%2.2%3.7% 
+ 
+ 
+
+ 
+ 
+
+Estimate Revisions - Income Statement 
+
+Source: Company reports; BTIG 
+
+ 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+ 
+ 
+ 
+
+Walter Piecyk (646) 450-9258 
+
+12 
+
+www.btigresearch.com 
+
+Apple Income StatementOLDNEWDiffOLDNEWDiffOLDNEWDiffOLDNEWDiff$ millionsDec-17Dec-17Mar-18Mar-18FY2018FY2018CY2018CY2018Revenues84,96186,0001,03962,87260,379(2,493)256,908255,187(1,721)262,398261,889(509)Cost of goods sold52,25152,89063938,35236,650(1,702)157,684156,304(1,379)160,427159,870(557)Gross profit32,71033,11040024,52023,729(791)99,22498,883(341)101,971102,01948R&D3,1443,182383,3623,229(133)13,23413,041(192)13,34613,197(149)SG&A4,4184,472544,4194,244(175)17,31217,106(206)17,55217,408(144)Operating Income25,14925,45630716,73916,256(483)68,67868,7355771,07271,414342Other inc and exp600600060060002,4002,40002,4002,42525NIBT25,74926,05630717,33916,856(483)71,07871,1355773,47273,839367Taxes6,5666,644784,4213,203(1,219)18,12515,209(2,916)18,73514,029(4,706)Net Income19,18319,41222912,91713,65373652,95355,9262,97354,73759,8105,073EPS$3.74$3.79$0.04$2.55$2.69$0.14$10.47$11.06$0.58$11.00$12.00$1.01Shares out5,1255,12725,0695,07235,0435,04744,9774,9825Dividends per share$0.63$0.63$0.00$0.63$0.63$0.00$2.64$2.64$0.00$2.70$2.70$0.00Dividends3,2293,23013,1933,195213,30613,3181213,46813,48416MarginsGPM38.5%38.5%0.0%39.0%39.3%0.3%38.6%38.7%0.1%38.9%39.0%0.1%R&D/Revenue3.7%3.7%0.0%5.3%5.3%0.0%5.2%5.1%0.0%5.1%5.0%0.0%SG&A/Revenue5.2%5.2%0.0%7.0%7.0%0.0%6.7%6.7%0.0%6.7%6.6%0.0%Operating Inc29.6%29.6%0.0%26.6%26.9%0.3%26.7%26.9%0.2%27.1%27.3%0.2%NIBT30.3%30.3%0.0%27.6%27.9%0.3%27.7%27.9%0.2%28.0%28.2%0.2%Tax rate25.5%25.5%0.0%25.5%19.0%-6.5%25.5%21.4%-4.1%25.5%19.0%-6.5%Net Income22.6%22.6%0.0%20.5%22.6%2.1%20.6%21.9%1.3%20.9%22.8%2.0%Annual growthRevenues8.4%9.8%1.3%18.9%14.1%-4.7%12.1%11.3%-0.8%11.3%10.6%-0.7%Operating Income7.7%9.0%1.3%18.7%15.3%-3.4%12.0%12.0%0.1%12.6%12.6%0.0%NIBT6.5%7.8%1.3%18.1%14.8%-3.3%10.9%11.0%0.1%11.9%11.9%0.0%Net Income7.2%8.5%1.3%17.1%23.8%6.7%9.5%15.7%6.1%10.3%19.9%9.7%EPS11.5%12.8%1.3%21.6%28.4%6.8%14.0%20.4%6.4%14.9%24.9%10.0%Dividends10.5%10.5%0.0%10.5%10.5%0.0%10.0%10.0%0.0%9.8%9.8%0.0%Net cash per share$30.83$30.86$0.03$31.45$31.21($0.24)$32.09$32.26$0.18$34.84$35.26$0.42Net cash(158,006)(158,216)(210)(159,394)(158,287)1,108(159,235)(160,327)(1,092)(171,178)(173,546)(2,368) 
+ 
+ 
+
+ 
+ 
+
+Estimate Revisions - Revenues 
+
+Source: Company reports; BTIG 
+
+ 
+
+BTIG LLC 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+13 
+
+www.btigresearch.com 
+
+Apple Revenue AnalysisOLDNEWDiffOLDNEWDiffOLDNEWDiffOLDNEWDiff$ millionsDec-17Dec-17Mar-18Mar-18FY2018FY2018CY2018CY2018Revenue by Product84,96186,0001,03962,87260,379(2,493)256,908255,187(1,721)262,398261,889(509)iPhone57,78859,2501,46241,26438,186(3,078)161,105158,718(2,387)165,295163,199(2,096)iPad5,8245,82404,0014,44644519,32219,76744519,03119,586555Mac8,0997,676(423)6,0496,049027,09826,801(297)27,17726,952(225)Services8,7508,75008,3088,44914134,83235,35151936,14537,101956Other Products4,5004,50003,2503,250014,55014,550014,75015,050300Annual Revenue Growth8.4%9.8%1.3%18.9%14.1%-4.7%12.1%11.3%-0.8%11.3%10.6%-0.7%iPhone6.3%9.0%2.7%24.1%14.8%-9.3%14.0%12.3%-1.7%14.2%11.6%-2.6%iPad5.3%5.3%0.0%2.9%14.3%11.4%0.5%2.8%2.3%-2.5%0.4%2.8%Mac11.8%6.0%-5.8%3.5%3.5%0.0%4.8%3.7%-1.1%1.8%2.6%0.8%Services22.0%22.0%0.0%18.0%20.0%2.0%16.2%17.9%1.7%14.5%17.6%3.0%Other Products11.8%11.8%0.0%13.1%13.1%0.0%13.1%13.1%0.0%10.6%12.8%2.2%Revenue MixiPhone68.0%68.9%0.9%65.6%63.2%-2.4%62.7%62.2%-0.5%63.0%62.3%-0.7%iPad6.9%6.8%-0.1%6.4%7.4%1.0%7.5%7.7%0.2%7.3%7.5%0.2%Mac9.5%8.9%-0.6%9.6%10.0%0.4%10.5%10.5%0.0%10.4%10.3%-0.1%Services10.3%10.2%-0.1%13.2%14.0%0.8%13.6%13.9%0.3%13.8%14.2%0.4%Other Products5.3%5.2%-0.1%5.2%5.4%0.2%5.7%5.7%0.0%3.3%3.4%0.1%UnitsiPhone80,00079,000(1,000)60,00053,000(7,000)237,500223,000(14,500)240,000226,500(13,500)iPad13,50013,50009,00010,0001,00043,16344,1631,00042,48843,4881,000Mac5,7775,562(215)4,3464,346020,04319,925(118)20,15920,092(67)Annual Unit GrowthiPhone2.2%0.9%-1.3%18.2%4.4%-13.8%9.6%2.9%-6.7%9.9%4.2%-5.7%iPad3.2%3.2%0.0%0.9%12.1%11.2%-1.3%0.9%2.3%-3.8%-1.5%2.3%Mac7.5%3.5%-4.0%3.5%3.5%0.0%4.1%3.5%-0.6%2.6%3.4%0.8%Sequential Unit GrowthiPhone71.4%69.2%-2.1%-25.0%-32.9%-7.9%iPad30.7%30.7%0.0%-33.3%-25.9%7.4%Mac7.3%3.3%-4.0%-24.8%-21.9%2.9%Average Sales PricesiPhone72275028688720336787123368972132iPad43143104454450448448(0)4484502Mac1,4021,380(22)1,3921,39201,3521,345(7)1,3481,341(7)Annual ASP GrowthiPhone4.0%8.0%4.0%5.0%10.0%5.0%4.0%9.2%5.1%4.0%7.2%3.2%iPad2.0%2.0%0.0%2.0%2.0%0.0%1.9%1.9%0.0%1.4%2.0%0.6%Mac4.0%2.4%-1.6%0.0%0.0%0.0%0.7%0.2%-0.5%-0.8%-0.8%0.0%Sequential ASP GrowthiPhone16.9%21.4%4.5%-4.8%-3.9%0.9%iPad-7.8%-7.8%0.0%3.1%3.1%0.0%Mac5.3%3.7%-1.6%-0.7%0.9%1.6% 
+ 
+ 
+
+ 
+ 
+
+BTIG Covered Companies Mentioned in this Report 
+ 
+ 
+APPLE, INC. (AAPL, Buy, $198.00 PT; Current Price: $171.11; Analyst: Walter.Piecyk) 
+VERIZON COMMUNICATIONS, INC. (VZ, Neutral, $N/A PT; Current Price: $54.29; Analyst: Walter.Piecyk) 
+ 
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+14 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Appendix: Analyst Certification and Other Important Disclosures 
+ 
+Analyst Certification 
+I,  Walter  Piecyk,  hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are 
+accurately expressed and that I have not received and will not receive direct or indirect compensation in exchange 
+for expressing specific recommendations or views in this report. 
+I,  Joseph  Galone,  hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are 
+accurately expressed and that I have not received and will not receive direct or indirect compensation in exchange 
+for expressing specific recommendations or views in this report. 
+ 
+Regulatory Disclosures 
+Ratings Definitions 
+BTIG LLC’s (“BTIG”) ratings, effective June 12, 2017, are defined as follows: 
+BUY  –  A  security  which  is  expected  to  produce  a  positive  total  return  of  15%  or  greater  over  the  12  months 
+following  the  recommendation.  The  BUY  rating  may  be  maintained  as  long  as  it  is  deemed  appropriate, 
+notwithstanding price fluctuations that would cause the target to fall outside of the 15% return. 
+SELL – A security which is expected to produce a negative total return of 15% or greater over the next 12 months 
+following  the  recommendation.  The  SELL  rating  may  be  maintained  as  long  as  it  is  deemed  appropriate, 
+notwithstanding price fluctuations that would cause the target to fall outside of the 15% return. 
+NEUTRAL – A security which is not expected to appreciate or depreciate meaningfully over the next 12 months. 
+NOT RATED – A security which is not rated or covered by BTIG. 
+UNDER  REVIEW  –  Effective  immediately,  coverage  of  the  following  securities  is  Under  Review.  Ratings,  price 
+targets, disclosures, and estimates for the companies listed below are suspended and should no longer be relied 
+upon. 
+ 
+Distribution of Ratings and Investment Banking Clients 
+BTIG  must  disclose  in  each  research  report  the  percentage  of  all  securities  rated  by  the  member  to  which  the 
+member would assign a “buy”, “neutral” or “sell” rating. The said ratings are updated on a quarterly basis. BTIG 
+must  also  disclose  the  percentage  of  subject  companies  within  each  of  these  three  categories  for  whom  the 
+member has provided investment banking services within the previous twelve months. Stocks under coverage as 
+of the end of the most recent calendar quarter (December 31, 2017): 278 
+  
+Distribution of BTIG’s Research Recommendations (as of December 31, 2017): 
+BUY: 59.0%; NEUTRAL: 37.0%; SELL: 4.0%  
+  
+Distribution of BTIG’s Investment Banking Services (as of December 31, 2017): 
+BUY: 20.1%; NEUTRAL: 6.8%; SELL: 0.0% 
+  
+For purposes of FINRA ratings distribution rules, BTIG’s stock ratings of Buy, Neutral and Sell fall into Buy, Hold 
+and Sell categories, respectively. 
+ 
+Company Valuation and Risk Disclosures 
+Apple, Inc. (AAPL, Buy, $198.00 PT) 
+Valuation:  Our  $198  price  target  is  based  on  16.5x  our  CY  2018  EPS  estimate  of  $12.00,  which  reflects  25% 
+growth in that year. Our price target implies a free cash flow yield of 6.8% and 8.0% if you reduced the market cap 
+by the more than $150 billion of net cash. 
+Risks:  Apple  competes  against  a  number  of  traditional  and  start-up  wireless  device  manufacturers  who  are 
+constantly  bringing  new  products  to  market  that  could  potentially  take  share  from  the  company.  These 
+competitors could also be more willing to cut prices and have promotional offers in the market. 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+15 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Verizon Communications, Inc. (VZ, Neutral),                      PT) 
+Valuation:  We  value  companies  based  on  a  variety  of  valuation  techniques  including  Revenue  multiples, 
+Enterprise Value to EBITDA multiples, Price to Earnings, Free Cash Flow multiples, and Sum-of-the-Parts. In the 
+case  of  Verizon,  current  multiples  do  not  indicate  that  the  company  will  trade  outside  of  +/-  15%  from  current 
+levels over the next 12 months. Note that BTIG does not assign specific price targets to Neutral-rated stocks. 
+Risks: The risks to our Neutral rating is that Verizon is able to increase pricing on customers that are not willing to 
+leave  them  because  of  the  greater  coverage  of  their  wireless  networks,  thereby  driving  EBITDA,  free  cash  flow 
+and EPS higher than our estimate. Verizon could also make a large acquisition in order to pivot to a strategy that 
+
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+16 
+
+ 
+ 
+ 
+
+ 
+ 
+
+offers growth or supports their customers' wireless data growth that would increase the concern by their investors 
+about the company's longer-term ability to fund the dividend. 
+ 
+
+ 
+
+Other Disclosures 
+Additional Information Available Upon Request 
+General Disclosures 
+Research reports produced by BTIG LLC (“BTIG”) are published for and intended to be distributed solely to BTIG 
+institutional and corporate clients. Recipients of BTIG reports will not be considered clients of BTIG solely because 
+they may have received such BTIG report. 
+ 
+The research analyst(s) responsible for the preparation of this report receives compensation based upon a variety 
+of factors, including the quality and accuracy of research, internal/client feedback, and overall Firm revenues. 
+ 
+BTIG  reports  are  based  on  public  information  and  BTIG  considers  the  same  to  be  reliable,  comprehensive 
+information, but makes no representation or warranty that the reports are accurate or complete. BTIG opinions 
+and information provided in this report are as of the date of the report and may change without notice. An issuer 
+may  be  classified  as  “Under  Review”  or  “Research  Restricted”.  In  these  cases,  investors  should  consider  any 
+previous  investment  recommendation  and/or  rating  to  a  subject  company/issuer  to  no  longer  be  current  and 
+should not be relied upon nor considered a solicitation. 
+ 
+This  research  report  is  not  an  offer  to  buy  or  sell  or  solicitation  of  an  offer  to  buy  or  sell  any  security  in  any 
+jurisdiction where such an offer or solicitation would be illegal. This research report was not drafted specifically for 
+any  particular  individual or entity and is not a personal recommendation to participate in any  particular  trading 
+strategy  or  transaction.  Any  recipient  of  this  research  report  should  obtain  independent  advice  specific  to  their 
+personal  circumstances  before  undertaking  any  investment  activity  and  must  make  their  own  independent 
+evaluation of any securities or financial instruments. 
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+17 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Facts,  views  or  opinions  presented  in  this  report  have  not  been  reviewed  by,  and  may  not  reflect  information 
+known to, employees or other professionals in the “BTIG Group” (BTIG Group includes, but is not limited to, BTIG 
+and  its  parents,  subsidiaries  and/or  affiliates).  BTIG  Group  employees,  including  Sales  Representatives  and 
+Traders,  may  provide  oral  or  written  commentary  or  advice  that  may  be  inconsistent  with  the  opinions  and/or 
+views expressed in this research report. BTIG Group employees and/or its affiliates not involved in the preparation 
+of this research report may have investments in securities or derivatives of securities of companies mentioned in 
+this report that are inconsistent with the views discussed in this report. 
+ 
+Investors in securities products bear certain risks in conjunction with those investments. The value of, and income 
+from, any investments may vary because of changes in interest rates or foreign exchange rates, securities prices 
+or  market  indexes,  operational  or  financial  conditions  of  companies  or  other  factors  within  or  beyond  the 
+companies  control.  Recipient  of  the  research  reports  should  be  aware  that  investments  in  securities  may  pose 
+significant  risks  due  to  the  inherent  uncertainty  associated  with  relying  on  forecasts  of  various  factors  that  can 
+affect  the  earnings,  cash  flow  and  overall  valuation  of  a  company.  Any  investment  in  securities  should  be 
+undertaken  only  upon  consideration  of  issues  relating  to  the  recipient’s  overall  investment  portfolio  and 
+objectives (such as diversification by asset class, industry or company) as well as time horizon and liquidity needs. 
+Further,  past  performance  should  not  be  taken  as  an  indication  or  guarantee  of  future  performance,  and  no 
+representation  or  warranty,  express  or  implied,  is  made  regarding  future  performance.  There  may  be  time 
+limitations on the exercise of options or other rights in any securities transactions. 
+ 
+Investing  in  foreign  markets  and  securities,  including  ADRs,  is  subject  to  additional  risks  such  as  currency 
+fluctuation, limited information, political instability, economic risk, and the potential for illiquid markets. Investing 
+in emerging markets may accentuate these risks. Non-U.S. reporting issuers of foreign securities, however, may 
+not  make  regular  or  complete  public  disclosure  relating  to  their  financial  condition  or  the  securities  that  they 
+issue. 
+ 
+The trademarks and service marks contained herein are the property of their respective owners. Third-party data 
+providers make no warranties or representations of any kind relating to the accuracy, completeness, or timeliness 
+of the data they provide and shall not have liability of any damages of any kind relating to such data. The report or 
+any portion hereof may not be reprinted, sold or redistributed without the written consent of BTIG. This report is 
+intended only for use by the recipient. The recipient acknowledges that all research and analysis in this report are 
+the property of BTIG and agrees to limit the use of all publications received from BTIG within his, or her or its, own 
+company  or  organization.  No  rights  are  given  for  passing  on,  transmitting,  re  transmitting  or  reselling  the 
+information provided. 
+ 
+Jurisdiction and Dissemination 
+BTIG is a U.S. broker-dealer and member of FINRA and SIPC. 
+ 
+BTIG  Australia  Limited  ACN  128  554  601,  member  of  ASIC  and  ASX;  BTIG  Hong  Kong  Limited,  an  Exchange 
+Participant  of  SEHK  and  licensed  and  regulated  by  the  SFC;  BTIG  Ltd,  member  of  the  LSE,  authorized  and 
+regulated  by  the  FSA;  and  BTIG  Singapore  Pte  Ltd,  registered  and  licensed  with  MAS;  are  all  separate  but 
+affiliated entities of BTIG. Unless governing law permits otherwise, you must contact a BTIG entity in your home 
+jurisdiction for further information, or if you want to use our services in effecting a transaction. 
+ 
+Issues and approved for distribution in the UK and EEA by  BTIG Ltd.  to eligible counterparties and professional 
+clients only. Issued and distributed in Australia to “wholesale clients” only by BTIG Australia Limited. In Singapore 
+and Hong Kong, further information may be obtained from BTIG Singapore Pte Ltd and BTIG Hong Kong Limited, 
+respectively. 
+ 
+
+ 
+
+BTIG LLC 
+
+ 
+
+Walter Piecyk (646) 450-9258 
+
+www.btigresearch.com 
+
+18 
+
+
