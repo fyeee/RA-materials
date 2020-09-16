@@ -64,12 +64,13 @@ def clean_txt_file(txt_path, output_path=None):
         output_path = txt_path
     with open(txt_path, 'rb') as file:
         content = file.read().decode('utf-8')
-        cleaned = re.sub(r'\w*[^a-zA-Z \n]\w*', '', content)
+        cleaned = re.sub(r"[^\s]*[^A-Za-z\.&,\n\s;’'\:\?\(\)\*\\/\-][^\s]*", '', content)
+        cleaned = re.sub(r"[.,\:;\?\(\)\*\\/]", '', cleaned)
+        cleaned = re.sub(r"(^| ).(( ).)*( |$)", ' ', cleaned, flags=re.MULTILINE)
+        cleaned = re.sub(r"^.$", '', cleaned, flags=re.MULTILINE)
         cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
-        pattern = re.compile('^[a-zA-Z]$', re.MULTILINE)
-        cleaned = pattern.sub('', cleaned)
+        cleaned = re.sub(r"^.$", '', cleaned, flags=re.MULTILINE)
         cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
-        # cleaned = re.sub(r'(^\s*\w+\s*\n)+', r'\n', cleaned)
     with open(output_path, 'w') as file:
         file.write(cleaned)
 
