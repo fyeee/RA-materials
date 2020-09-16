@@ -64,8 +64,9 @@ def clean_txt_file(txt_path, output_path=None):
         output_path = txt_path
     with open(txt_path, 'rb') as file:
         content = file.read().decode('utf-8')
-        cleaned = re.sub(r"[^\s]*[^A-Za-z\.&,\n\s;’'\:\?\(\)\*\\/\-][^\s]*", '', content)
-        cleaned = re.sub(r"[.,\:;\?\(\)\*\\/]", '', cleaned)
+        cleaned = re.sub(r"[^\x00-\x7F]", '', content)
+        cleaned = re.sub(r"[^\s]*[0-9@][^\s]*", '', cleaned)
+        cleaned = re.sub(r"[.,\:;\?\(\)\*\\/]", ' ', cleaned)
         cleaned = re.sub(r"(^| ).(( ).)*( |$)", ' ', cleaned, flags=re.MULTILINE)
         cleaned = re.sub(r"^.$", '', cleaned, flags=re.MULTILINE)
         cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
