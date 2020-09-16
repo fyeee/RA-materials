@@ -1,416 +1,386 @@
 
-May Jul NA NA  NA NA NA NA  NA NA NA NA  NA NA NA NA  NA NA NA NA
 TMT
-Apple Inc
-How Bad Will Apples Guidance Be
+How Bad Will  Guidance
 Smartphone upgrade rates remain at record low levels and do not appear
-poised to rebound in the first calendar quarter Reduced iPhone
-promotions could be having an impact as previously discussed but the
+poised to rebound in the first calendar  Reduced iPhone
+promotions could be having an impact  previously  but the
 sustained lengthening of the replacement cycle appears driven simply by
-customer choice to hold onto their phone longer We reduced our
+customer choice to hold onto their phone  We reduced our
 estimates in Apple as detailed in the note below and are concerned that
 revenue guidance for the March quarter could be as low as  billion
-versus a consensus of  billion
+versus a consensus of
    Buy   Reduce   Hold   IBC
 Equity Research
 January
 Walter Piecyk
-wpiecykbtigcom
 Joseph Galone
-jgalonebtigcom
 AAPL
  month target
 Upsi de
 BUY
  week range
 Dividend Yield
-Market Cap m
+Market Cap
 Price Performance
-Source IDC
+ IDC
 Estimates
-Q A  Q A  Q A  Q A  FY A  Q A  Q A  Q A  Q A  FY A
-FY E
+ A   A   A   A   A   A   A   A   A   A
+ E
 Sales
 Gross Margin
-Diluted EPS Adj
+Diluted EPS
 DPS
 EPS Growth
-Source BTIG Estimates and Company Documents  in millions except per share amount
+ BTIG Estimates and Company Documents  in  except per share
 Company reports and BTIG estimates
-Please Read Important disclosures and analysts certification appear in Appendix
+Please  Important disclosures and  certification appear in Appendix
 Upgrade rates still dropping
-This week Verizon reported a  decline in smartphones sold in Q on a
-upgrade rate its lowest Q upgrade rate of the past decade and at levels more
-typically seen in a June quarter We expect Verizons peers to report similar
-metrics although to be fair there are other devices in the mix that could be
-pushing reported upgrade rates lower On the bright side for Apple Verizons
+This  Verizon reported a  decline in smartphones sold in  on a
+upgrade  its lowest  upgrade rate of the past decade and at levels more
+typically seen in a June  We expect  peers to report similar
+ although to be fair there are other devices in the mix that could be
+pushing reported upgrade rates  On the bright side for
 device ASP was  higher than we expected and there could be signs that
 upgrade rates are bottoming out for
-Units are still growing but can ASP deliver on consensus revenue
-Concerns about iPhone X sales have been well documented Apples stock has
-shrugged off a slew of analyst and press reports that highlight these trends
-Despite these concerns Apple will still be able to grow its iPhone unit sales
-just not necessarily at the rate that consensus expects The incremental
-concern is whether Apples can hit or even come close to consensus revenue
-estimates in future quarters due to its reliance on ASP growth ASPs are now
-much more difficult to predict due to Apples broader and more price diverse
-product line
+Units are still  but can ASP deliver on consensus
+Concerns about iPhone X sales have been well   stock has
+shrugged off a slew of analyst and press reports that highlight these
+Despite these  Apple will still be able to grow its iPhone unit
+just not necessarily at the rate that consensus  The incremental
+concern is whether  can hit or even come close to consensus revenue
+estimates in future  due to its reliance on ASP  ASPs are now
+much more difficult to predict due to  broader and more price diverse
+product
 We believe revenue guidance for March could be as low as  billion
-We believe guidance for FQ revenue could be as low as  billion compared
-to current consensus of  billion We reduced our FQ revenue estimate by
+We believe guidance for  revenue could be as low as  billion compared
+to current consensus of   We reduced our  revenue estimate by
  billion primarily based on a  million reduction in the number of iPhones
-we expect to be sold to  million This was partially offset by a  increase in
-our ASP assumption detailed below and higher estimates for the iPad and
-Services segments Our estimate reflects a sequential decline in iPhone ASP
-while the consensus estimate assumes a sequential rise in ASP which has not
+we expect to be sold to   This was partially offset by a  increase in
+our ASP  detailed  and higher estimates for the iPad and
+Services  Our estimate reflects a sequential decline in iPhone
+while the consensus estimate assumes a sequential rise in  which has not
 happened since  when Verizon first started selling the CDMA version of
 the iPhone
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Our  revenue estimate is  billion below consensus but reflects
+Our  revenue estimate is  billion below  but reflects
 growth
 We cut our Calendar  revenue estimate by  million to
-billion which implies  growth We are  billion below the consensus
-estimate of  billion which implies  growth Our revisions were driven
+ which implies   We are  billion below the consensus
+estimate of   which implies   Our revisions were driven
 by a  reduction in our estimate of phones sold for the year to  million
 from  million offset by a  increase in our iPhone ASP estimate to
 Our new ASP estimate reflects a  annual increase compared to our prior
-estimate of a  increase
+estimate of a
 Lower tax rate means higher EPS
 A lower tax rate assumption of  versus our prior estimate of
 cushions the revenue reduction and actually increases our Calendar  EPS
 estimate to  from  Our calendar  EPS estimate is currently
- above consensus but likely because consensus has not been adjusted for
-the change in the tax code
-Estimates may have to come down but does the stock
+ above  but likely because consensus has not been adjusted for
+the change in the tax
+Estimates may have to come  but does the
 Apple has shrugged off a slew of press reports and analyst notes highlighting
-the risk to iPhone sales However the unpredictability of the ASP could be
-the Achilles heel or maybe slingshot for the stock Our estimate of
-revenue growth may be notably lower than consensus but its still impressive
-for a company at Apples size and margin profile thereby deserving a
-reasonable multiple of Earnings
-Our  target which remains unchanged is based on x was x our
+the risk to iPhone   the unpredictability of the ASP could be
+the Achilles heel  maybe  for the  Our estimate of
+revenue growth may be notably lower than  but  still impressive
+for a company at  size and margin  thereby deserving a
+reasonable multiple of
+Our   which remains  is based on    our
 Calendar  EPS estimate of  That is a discount to the current
-multiple of the SP  of x Our target implies a free cash flow yield of
+multiple of the   of  Our target implies a free cash flow yield of
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
 We recommend that investors avoid trading the quarter given the wide range
-of ASP outcomes discussed below Its possible if not probable that Apples
+of ASP outcomes discussed    if not  that
 stock could take a more than  hit if Apple issues the March quarter guidance
-that we outline Even if this occurs we believe Apple can hit our  price
+that we  Even if this  we believe Apple can hit our  price
 target by the end of the year based on the strong recurring revenue dynamics
-of its growth business expanding margins and share repurchase activity
+of its growth  expanding margins and share repurchase
 The Art of Estimating iPhone ASPs
 Estimating iPhone ASPs relies on making assumptions on product and SKU
-mix Even if you are successful at predicting product mix using the iPhone list
+ Even if you are successful at predicting product  using the iPhone list
 price is not reliable based on moves in currency and the likelihood that Apple
-discounts products in select markets throughout the world Take the June
-quarter for example Reported ASP was  but the only products with a list
-price below that level are the iPhone S GB  and the iPhone SE
+discounts products in select markets throughout the  Take the June
+ for  Reported ASP was  but the only products with a list
+price below that level are the iPhone    and the iPhone SE
 models  It appears that we need to apply a  discount to an
 ASP that is calculated from list price in order to come up with our best guess
-on ASP As you will see in the analysis below you can drive a truck through the
-ASP range based on the range of iPhone product mix
-Mix of iPhone X is critical to predict ASP in Q
-The key to figuring out the ASP in calendar Q is knowing the mix of iPhone X
-given its very high ASP Supplies of the iPhone X were constrained at the
-November nd launch but it was readily available by the end of the year and
-should not have limited sales in the quarter Despite its availability operator
+on  As you will see in the analysis  you can drive a truck through the
+ASP range based on the range of iPhone product
+Mix of iPhone X is critical to predict ASP in
+The key to figuring out the ASP in calendar  is knowing the mix of iPhone X
+given its very high  Supplies of the iPhone X were constrained at the
+November   but it was readily available by the end of the year and
+should not have limited sales in the  Despite its  operator
 promotions were far less aggressive than prior years and ended up being more
-focused on Buy One Get One Free BOGO for the iPhone  rather than on
-the iPhone X Link
-Stop calling it a supercycle
-This is an offcycleSModel year which is important to consider when some of
-our peers push the questionable thesis of this being a supercycle year There
-is no evidence from the operators to suggest there is a supercycle but our
-visibility into China is admittedly very limited If Apple sold  million phones
-in Q it would reflect a  increase over last year  million phones sold in
-the March quarter implies  growth As a point of reference the  launch
-in  a true super cycle resulted in  unit growth in that December
-quarter and  in the subsequent March quarter Just take a look at the spike
-in Verizons upgrade rate in the very first chart of this report
+focused on Buy One Get One Free  for the iPhone  rather than on
+the iPhone
+Stop calling it a
+This is an   which is important to consider when some of
+our peers push the questionable thesis of this being a   There
+is no evidence from the operators to suggest there is a  but our
+visibility into China is admittedly very  If Apple sold  million phones
+in  it would reflect a  increase over last   million phones sold in
+the March quarter implies   As a point of  the  launch
+in   true super  resulted in  unit growth in that December
+quarter and  in the subsequent March  Just take a look at the spike
+in  upgrade rate in the very first chart of this
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Did the iPhone X represent  of sales in December quarter
+Did the iPhone X represent  of sales in December
 The table below shows the range of estimates that exist for the mix of phones
-sold in the December quarter Our range of estimates implies  to  of
-phones sold in the quarter were iPhone X As a point of reference Wave
+sold in the December  Our range of estimates implies  to  of
+phones sold in the quarter were iPhone  As a point of reference Wave
 Research ran surveys in stores in the United States in November and
 December that indicated that iPhone X represented  and  of
-iPhones sold in those months respectively Its certainly possible that the mix
-of customers electing to have their phones shipped which would not be
-captured by their survey was more highly weighted to iPhone X
-When have legacy products represented  of phones sold
+iPhones sold in those    certainly possible that the mix
+of customers electing to have their phones shipped  would not be
+captured by their  was more highly weighted to iPhone
+When have legacy products represented  of phones
 We also estimate a relatively high mix of iPhone  in our December
-estimates and they are also a new product In fact at the high end of our
-range legacy products represent less than  of phones sold in the quarter
-which seems implausible based on prior discussions with operators
-What memory are consumers buying
-ASP is also impacted by the mix of SKU or what memory size the consumer
-buys We included the mix of SKUs determined by survey work from Wave
-Research in the United States for purposes of comparison For legacy
-products which includes iPhone SES we simply reduced the June quarter
-ASP by  to account for stated price reductions The resulting range
+ and they are also a new  In  at the high end of our
+ legacy products represent less than  of phones sold in the
+which seems implausible based on prior discussions with
+What memory are consumers
+ASP is also impacted by the mix of  or what memory size the consumer
+ We included the mix of SKUs determined by survey work from Wave
+Research in the United States for purposes of  For legacy
+ which includes iPhone  we simply reduced the June quarter
+ASP by  to account for stated price  The resulting range
 of ASPs based on this analysis is
-Who is getting a discount on iPhones Not operators in the US
+Who is getting a discount on  Not operators in the US
 Experience has taught us that we should apply a  discount to this basic
 math to better predict ASP and presumably account for market discounts to
-certain markets and distribution channels To be clear we do not believe that
-wireless operators in the United States receive product discounts In fact they
-pay Apple commissions for phones activated in Apple Stores
+certain markets and distribution  To be  we do not believe that
+wireless operators in the United States receive product  In  they
+pay Apple commissions for phones activated in Apple
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
  billion swing in revenue based on the range of estimates on mix
 The net result of all the assumptions detailed above is an ASP range of
  which implies a revenue range of  to  billion based on  million
-units sold We will use the midpoint of that range in our model of  which
+units  We will use the midpoint of that range in our model of  which
 is up from our prior estimate of  but clearly that is a really wide range of
-outcomes If Apple executed at the high end of the range it would result in
-total revenue of  billion which compares to guidance of  billion and
-consensus of  billion The low end of the range implies FQ revenue of
-billion
+ If Apple executed at the high end of the range it would result in
+total revenue of   which compares to guidance of  billion and
+consensus of   The low end of the range implies  revenue of
 Cutting our March quarter iPhone estimates to  million
 We are lowering our iPhone unit estimate for the March quarter to  million
-from  million based on a more conservative outlook for upgrade rates Our
-new estimate represents  annual unit growth which is consistent with the
-low single digit growth of the past few quarters but is lower than our prior
+from  million based on a more conservative outlook for upgrade  Our
+new estimate represents  annual unit  which is consistent with the
+low single digit growth of the past few  but is lower than our prior
 estimate of
-Our new unit estimate also implies a  sequential decline which is inline
-with the declines over the prior two years Bulls could argue that the
-November launch of the iPhone X should provide an easier comparable
-thereby rendering our  sequential decline estimate too conservative A
+Our new unit estimate also implies a  sequential  which is
+with the declines over the prior two  Bulls could argue that the
+November launch of the iPhone X should provide an easier
+thereby rendering our  sequential decline estimate too  A
  sequential decline would imply  million phones sold and lift our revenue
-estimate by  billion to  billion which is the consensus estimate for the
-March quarter  million units does not seem like an easy comparable to us
+estimate by  billion to   which is the consensus estimate for the
+March   million units does not seem like an easy comparable to
 so we will stick with our estimate of  million iPhones sold for the March
-quarter
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Can ASP rise sequentially in the March quarter
+Can ASP rise sequentially in the March
 We believe the  billion consensus revenue estimate for the March quarter
-implies a rise in iPhone ASP This is likely driven by the belief that the
-November nd launch of the iPhone X and limited supply would help the
-iPhone X mix in the March quarter compared to the December quarter It is
+implies a rise in iPhone  This is likely driven by the belief that the
+November  launch of the iPhone X and limited supply would help the
+iPhone X mix in the March quarter compared to the December  It is
 definitely plausible that Apple could sell a similar number of iPhone X in the
 March quarter as it did in the December quarter when they were only selling
-the iPhone X for two months However the supplydemand of that phone did
+the iPhone X for two   the  of that phone did
 quickly move into balance during the December quarter and phone
-promotions have remain focused on iPhone s A typical seasonal trend is a
- sequential drop in iPhone ASP in the March quarter The reality likely
-falls somewhere in between as we forecast and is shown in the chart below
+promotions have remain focused on iPhone  A typical seasonal trend is a
+ sequential drop in iPhone ASP in the March  The reality likely
+falls somewhere in  as we forecast and is shown in the chart
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-What will the mix of phones be in the March quarter
+What will the mix of phones be in the March
 The table below shows a range of estimates for the mix of phones sold in the
-March quarter This time we also provide a range for the total number of
-phones sold of  million given the reduction we made to our estimates
+March  This time we also provide a range for the total number of
+phones sold of   given the reduction we made to our
 This range of total phones sold implies annual growth of  both
-impressive but clearly a very wide range once again
-The mix of phones is also critical If the iPhone X mix in the March quarter can
-exceed the  mix at the mid point of the range in the December quarter
+ but clearly a very wide  once
+The mix of phones is also  If the iPhone X mix in the March quarter can
+exceed the  mix at the mid point of the range in the December
 Apple will have a shot at growing ASPs sequentially and delivering on
-consensus revenue estimates However that implies a very low mix of legacy
-iPhone sales
+consensus revenue   that implies a very low mix of legacy
+iPhone
 No adjustment to SKU mix
 We did not make adjustments to our mix of SKU compared to the December
-quarter although its reasonable to assume that the mix would move down to
-lower priced models after the initial launch The table below includes some
-more recent survey work from Wave  Research which shows an expected
+quarter although  reasonable to assume that the mix would move down to
+lower priced models after the initial  The table below includes some
+more recent survey work from Wave   which shows an expected
 increase in mix for the iPhone
 We expect March ASP to drop sequentially to  the low end of our
 range
 Our estimates for the March quarter imply an ASP range of    We
 apply a  discount to this basic math in order to generate an estimated
-reported ASP range of  In the March and June quarters discounts
+reported ASP range of  In the March and June  discounts
 are likely to be larger as Apple moves inventory with lower prices in select
-markets
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-We will use the low end of the range for our FQ estimates
+We will use the low end of the range for our  estimates
 We will use the lower end of the ASP range in our model since our unit
-estimate is now  million for the quarter Our new ASP estimate of  for
-the March quarter is up  from our prior estimate but down  from the
-December quarter and likely below consensus
-Is  revenue growth really a disappointment
+estimate is now  million for the  Our new ASP estimate of  for
+the March quarter is up  from our prior  but down  from the
+December quarter and likely below
+Is  revenue growth really a
 Cutting our iPhone unit estimate to  million from  million and increasing
 our ASP estimate to  from  reduces our iPhone revenue estimate to
- billion from  billion Our new estimate implies  iPhone revenue
-growth which is very impressive but is down from our prior estimate of
-growth These estimates also yield a  billion total revenue estimate which
+ billion from   Our new estimate implies  iPhone revenue
+ which is very  but is down from our prior estimate of
+ These estimates also yield a  billion total revenue  which
 will be the headline guidance number that investors are waiting for when the
-company reports FQ
-How do you get to  billion in revenue guidance
+company reports
+How do you get to  billion in revenue
 If we assumed the high end of the range in the tables above  million phones
 sold at an ASP of  it would lift our iPhone revenue estimate by  billion
-and imply an astounding  iPhone revenue growth Apple has not grown
-iPhone revenue that much since FQFQ  with the true supercycle of the
-iPhone  Furthermore it would lift our total revenue estimate for the
-March quarter to  billion which is  billion above consensus That level of
-revenue would reflect  growth compared to last year Apple reports Feb
-st after the close
+and imply an astounding  iPhone revenue  Apple has not grown
+iPhone revenue that much since   with the true  of the
+iPhone   it would lift our total revenue estimate for the
+March quarter to   which is  billion above  That level of
+revenue would reflect  growth compared to last  Apple reports Feb
+ after the
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
 Income Statement
-Source Company reports BTIG
+ Company  BTIG
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Apple Income StatementEstEstEstEstEstEst millionsDecMarJunSepDecMarJunSepDecRevenuesCost of goods soldGross profitRDSGAOperating IncomeOther inc and expNIBTTaxesNet IncomeEPSShares outDividends per shareDividendsMarginsGPMRDRevenueSGARevenueOperating IncNIBTTax rateNet IncomeAnnual growthRevenuesOperating IncomeNIBTNet IncomeEPSDividendsNet cash per shareNet cash
+Apple Income   of goods    inc and    per        cash per
 Revenues
-Source Company reports BTIG
+ Company  BTIG
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Apple Revenue AnalysisEstEstEstEstEstEst millionsDecMarJunSepDecMarJunSepDecRevenue by ProductiPhoneiPadMacServicesOther ProductsAnnual Revenue GrowthiPhoneiPadMacServicesOther ProductsRevenue MixiPhoneiPadMacServicesOther ProductsUnitsiPhoneiPadMacAnnual Unit GrowthiPhoneiPadMacSequential Unit GrowthiPhoneiPadMacAverage Sales PricesiPhoneiPadMacAnnual ASP GrowthiPhoneiPadMacSequential ASP GrowthiPhoneiPadMac
+Apple Revenue   by   Revenue     Unit  Unit  Sales  ASP  ASP
 Estimate Revisions  Income Statement
-Source Company reports BTIG
+ Company  BTIG
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Apple Income StatementOLDNEWDiffOLDNEWDiffOLDNEWDiffOLDNEWDiff millionsDecDecMarMarFYFYCYCYRevenuesCost of goods soldGross profitRDSGAOperating IncomeOther inc and expNIBTTaxesNet IncomeEPSShares outDividends per shareDividendsMarginsGPMRDRevenueSGARevenueOperating IncNIBTTax rateNet IncomeAnnual growthRevenuesOperating IncomeNIBTNet IncomeEPSDividendsNet cash per shareNet cash
+Apple Income   of goods    inc and    per        cash per
 Estimate Revisions  Revenues
-Source Company reports BTIG
+ Company  BTIG
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Apple Revenue AnalysisOLDNEWDiffOLDNEWDiffOLDNEWDiffOLDNEWDiff millionsDecDecMarMarFYFYCYCYRevenue by ProductiPhoneiPadMacServicesOther ProductsAnnual Revenue GrowthiPhoneiPadMacServicesOther ProductsRevenue MixiPhoneiPadMacServicesOther ProductsUnitsiPhoneiPadMacAnnual Unit GrowthiPhoneiPadMacSequential Unit GrowthiPhoneiPadMacAverage Sales PricesiPhoneiPadMacAnnual ASP GrowthiPhoneiPadMacSequential ASP GrowthiPhoneiPadMac
+Apple Revenue   by   Revenue     Unit  Unit  Sales  ASP  ASP
 BTIG Covered Companies Mentioned in this Report
-APPLE INC AAPL Buy  PT Current Price  Analyst WalterPiecyk
-VERIZON COMMUNICATIONS INC VZ Neutral NA PT Current Price  Analyst WalterPiecyk
+      Current
+VERIZON       Current
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Appendix Analyst Certification and Other Important Disclosures
+ Analyst Certification and Other Important Disclosures
 Analyst Certification
-I  Walter  Piecyk  hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are
+  Walter    hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are
 accurately expressed and that I have not received and will not receive direct or indirect compensation in exchange
-for expressing specific recommendations or views in this report
-I  Joseph  Galone  hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are
+for expressing specific recommendations or views in this
+  Joseph    hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are
 accurately expressed and that I have not received and will not receive direct or indirect compensation in exchange
-for expressing specific recommendations or views in this report
+for expressing specific recommendations or views in this
 Regulatory Disclosures
 Ratings Definitions
-BTIG LLCs BTIG ratings effective June   are defined as follows
+BTIG    effective June   are defined as
 BUY    A  security  which  is  expected  to  produce  a  positive  total  return  of    or  greater  over  the    months
-following  the  recommendation  The  BUY  rating  may  be  maintained  as  long  as  it  is  deemed  appropriate
-notwithstanding price fluctuations that would cause the target to fall outside of the  return
+following  the    The  BUY  rating  may  be  maintained  as  long  as  it  is  deemed
+notwithstanding price fluctuations that would cause the target to fall outside of the
 SELL  A security which is expected to produce a negative total return of  or greater over the next  months
-following  the  recommendation  The  SELL  rating  may  be  maintained  as  long  as  it  is  deemed  appropriate
-notwithstanding price fluctuations that would cause the target to fall outside of the  return
-NEUTRAL  A security which is not expected to appreciate or depreciate meaningfully over the next  months
-NOT RATED  A security which is not rated or covered by BTIG
-UNDER  REVIEW    Effective  immediately  coverage  of  the  following  securities  is  Under  Review  Ratings  price
-targets disclosures and estimates for the companies listed below are suspended and should no longer be relied
-upon
+following  the    The  SELL  rating  may  be  maintained  as  long  as  it  is  deemed
+notwithstanding price fluctuations that would cause the target to fall outside of the
+NEUTRAL  A security which is not expected to appreciate or depreciate meaningfully over the next
+NOT RATED  A security which is not rated or covered by
+UNDER  REVIEW    Effective    coverage  of  the  following  securities  is  Under      price
+  and estimates for the companies listed below are suspended and should no longer be relied
 Distribution of Ratings and Investment Banking Clients
 BTIG  must  disclose  in  each  research  report  the  percentage  of  all  securities  rated  by  the  member  to  which  the
-member would assign a buy neutral or sell rating The said ratings are updated on a quarterly basis BTIG
+member would assign a   or   The said ratings are updated on a quarterly  BTIG
 must  also  disclose  the  percentage  of  subject  companies  within  each  of  these  three  categories  for  whom  the
-member has provided investment banking services within the previous twelve months Stocks under coverage as
-of the end of the most recent calendar quarter December
-Distribution of BTIGs Research Recommendations as of December
-BUY  NEUTRAL  SELL
-Distribution of BTIGs Investment Banking Services as of December
-BUY  NEUTRAL  SELL
-For purposes of FINRA ratings distribution rules BTIGs stock ratings of Buy Neutral and Sell fall into Buy Hold
-and Sell categories respectively
+member has provided investment banking services within the previous twelve  Stocks under coverage as
+of the end of the most recent calendar quarter
+Distribution of  Research Recommendations  of December
+Distribution of  Investment Banking Services  of December
+For purposes of FINRA ratings distribution   stock ratings of  Neutral and Sell fall into  Hold
+and Sell
 Company Valuation and Risk Disclosures
-Apple Inc AAPL Buy  PT
-Valuation  Our    price  target  is  based  on  x  our  CY    EPS  estimate  of    which  reflects
-growth in that year Our price target implies a free cash flow yield of  and  if you reduced the market cap
-by the more than  billion of net cash
-Risks  Apple  competes  against  a  number  of  traditional  and  startup  wireless  device  manufacturers  who  are
-constantly  bringing  new  products  to  market  that  could  potentially  take  share  from  the  company  These
-competitors could also be more willing to cut prices and have promotional offers in the market
+  Our    price  target  is  based  on    our  CY    EPS  estimate  of    which  reflects
+growth in that  Our price target implies a free cash flow yield of  and  if you reduced the market cap
+by the more than  billion of net
+  Apple  competes  against  a  number  of  traditional  and    wireless  device  manufacturers  who  are
+constantly  bringing  new  products  to  market  that  could  potentially  take  share  from  the    These
+competitors could also be more willing to cut prices and have promotional offers in the
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Verizon Communications Inc VZ Neutral                      PT
-Valuation  We  value  companies  based  on  a  variety  of  valuation  techniques  including  Revenue  multiples
-Enterprise Value to EBITDA multiples Price to Earnings Free Cash Flow multiples and SumoftheParts In the
-case  of  Verizon  current  multiples  do  not  indicate  that  the  company  will  trade  outside  of      from  current
-levels over the next  months Note that BTIG does not assign specific price targets to Neutralrated stocks
-Risks The risks to our Neutral rating is that Verizon is able to increase pricing on customers that are not willing to
-leave  them  because  of  the  greater  coverage  of  their  wireless  networks  thereby  driving  EBITDA  free  cash  flow
-and EPS higher than our estimate Verizon could also make a large acquisition in order to pivot to a strategy that
+Verizon
+  We  value  companies  based  on  a  variety  of  valuation  techniques  including  Revenue
+Enterprise Value to EBITDA  Price to  Free Cash Flow  and  In the
+case  of    current  multiples  do  not  indicate  that  the  company  will  trade  outside  of      from  current
+levels over the next   Note that BTIG does not assign specific price targets to
+ The risks to our Neutral rating is that Verizon is able to increase pricing on customers that are not willing to
+leave  them  because  of  the  greater  coverage  of  their  wireless    thereby  driving    free  cash  flow
+and EPS higher than our  Verizon could also make a large acquisition in order to pivot to a strategy that
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-offers growth or supports their customers wireless data growth that would increase the concern by their investors
-about the companys longerterm ability to fund the dividend
+offers growth or supports their  wireless data growth that would increase the concern by their investors
+about the   ability to fund the
 Other Disclosures
 Additional Information Available Upon Request
 General Disclosures
-Research reports produced by BTIG LLC BTIG are published for and intended to be distributed solely to BTIG
-institutional and corporate clients Recipients of BTIG reports will not be considered clients of BTIG solely because
-they may have received such BTIG report
-The research analysts responsible for the preparation of this report receives compensation based upon a variety
-of factors including the quality and accuracy of research internalclient feedback and overall Firm revenues
-BTIG  reports  are  based  on  public  information  and  BTIG  considers  the  same  to  be  reliable  comprehensive
-information but makes no representation or warranty that the reports are accurate or complete BTIG opinions
-and information provided in this report are as of the date of the report and may change without notice An issuer
-may  be  classified  as  Under  Review  or  Research  Restricted  In  these  cases  investors  should  consider  any
-previous  investment  recommendation  andor  rating  to  a  subject  companyissuer  to  no  longer  be  current  and
-should not be relied upon nor considered a solicitation
+Research reports produced by BTIG LLC  are published for and intended to be distributed solely to BTIG
+institutional and corporate  Recipients of BTIG reports will not be considered clients of BTIG solely because
+they may have received such BTIG
+The research  responsible for the preparation of this report receives compensation based upon a variety
+of  including the quality and accuracy of    and overall Firm
+BTIG  reports  are  based  on  public  information  and  BTIG  considers  the  same  to  be    comprehensive
+ but makes no representation or warranty that the reports are accurate or  BTIG opinions
+and information provided in this report are as of the date of the report and may change without  An issuer
+may  be  classified  as      or      In  these    investors  should  consider  any
+previous  investment  recommendation    rating  to  a  subject    to  no  longer  be  current  and
+should not be relied upon nor considered a
 This  research  report  is  not  an  offer  to  buy  or  sell  or  solicitation  of  an  offer  to  buy  or  sell  any  security  in  any
-jurisdiction where such an offer or solicitation would be illegal This research report was not drafted specifically for
+jurisdiction where such an offer or solicitation would be  This research report was not drafted specifically for
 any  particular  individual or entity and is not a personal recommendation to participate in any  particular  trading
-strategy  or  transaction  Any  recipient  of  this  research  report  should  obtain  independent  advice  specific  to  their
+strategy  or    Any  recipient  of  this  research  report  should  obtain  independent  advice  specific  to  their
 personal  circumstances  before  undertaking  any  investment  activity  and  must  make  their  own  independent
-evaluation of any securities or financial instruments
+evaluation of any securities or financial
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom
-Facts  views  or  opinions  presented  in  this  report  have  not  been  reviewed  by  and  may  not  reflect  information
-known to employees or other professionals in the BTIG Group BTIG Group includes but is not limited to BTIG
-and  its  parents  subsidiaries  andor  affiliates  BTIG  Group  employees  including  Sales  Representatives  and
-Traders  may  provide  oral  or  written  commentary  or  advice  that  may  be  inconsistent  with  the  opinions  andor
-views expressed in this research report BTIG Group employees andor its affiliates not involved in the preparation
+  views  or  opinions  presented  in  this  report  have  not  been  reviewed    and  may  not  reflect  information
+known  employees or other professionals in the    Group  but is not limited  BTIG
+and  its    subsidiaries      BTIG  Group    including  Sales  Representatives  and
+  may  provide  oral  or  written  commentary  or  advice  that  may  be  inconsistent  with  the  opinions
+views expressed in this research  BTIG Group employees  its affiliates not involved in the preparation
 of this research report may have investments in securities or derivatives of securities of companies mentioned in
-this report that are inconsistent with the views discussed in this report
-Investors in securities products bear certain risks in conjunction with those investments The value of and income
-from any investments may vary because of changes in interest rates or foreign exchange rates securities prices
-or  market  indexes  operational  or  financial  conditions  of  companies  or  other  factors  within  or  beyond  the
-companies  control  Recipient  of  the  research  reports  should  be  aware  that  investments  in  securities  may  pose
+this report that are inconsistent with the views discussed in this
+Investors in securities products bear certain risks in conjunction with those  The value  and income
+ any investments may vary because of changes in interest rates or foreign exchange  securities prices
+or  market    operational  or  financial  conditions  of  companies  or  other  factors  within  or  beyond  the
+companies    Recipient  of  the  research  reports  should  be  aware  that  investments  in  securities  may  pose
 significant  risks  due  to  the  inherent  uncertainty  associated  with  relying  on  forecasts  of  various  factors  that  can
-affect  the  earnings  cash  flow  and  overall  valuation  of  a  company  Any  investment  in  securities  should  be
-undertaken  only  upon  consideration  of  issues  relating  to  the  recipients  overall  investment  portfolio  and
-objectives such as diversification by asset class industry or company as well as time horizon and liquidity needs
-Further  past  performance  should  not  be  taken  as  an  indication  or  guarantee  of  future  performance  and  no
-representation  or  warranty  express  or  implied  is  made  regarding  future  performance  There  may  be  time
-limitations on the exercise of options or other rights in any securities transactions
-Investing  in  foreign  markets  and  securities  including  ADRs  is  subject  to  additional  risks  such  as  currency
-fluctuation limited information political instability economic risk and the potential for illiquid markets Investing
-in emerging markets may accentuate these risks NonUS reporting issuers of foreign securities however may
+affect  the    cash  flow  and  overall  valuation  of  a    Any  investment  in  securities  should  be
+undertaken  only  upon  consideration  of  issues  relating  to  the    overall  investment  portfolio  and
+objectives  as diversification by asset  industry or  as well as time horizon and liquidity
+  past  performance  should  not  be  taken  as  an  indication  or  guarantee  of  future    and  no
+representation  or    express  or    is  made  regarding  future    There  may  be  time
+limitations on the exercise of options or other rights in any securities
+Investing  in  foreign  markets  and    including    is  subject  to  additional  risks  such  as  currency
+ limited  political  economic  and the potential for illiquid  Investing
+in emerging markets may accentuate these   reporting issuers of foreign   may
 not  make  regular  or  complete  public  disclosure  relating  to  their  financial  condition  or  the  securities  that  they
-issue
-The trademarks and service marks contained herein are the property of their respective owners Thirdparty data
-providers make no warranties or representations of any kind relating to the accuracy completeness or timeliness
-of the data they provide and shall not have liability of any damages of any kind relating to such data The report or
-any portion hereof may not be reprinted sold or redistributed without the written consent of BTIG This report is
-intended only for use by the recipient The recipient acknowledges that all research and analysis in this report are
-the property of BTIG and agrees to limit the use of all publications received from BTIG within his or her or its own
-company  or  organization  No  rights  are  given  for  passing  on  transmitting  re  transmitting  or  reselling  the
-information provided
+The trademarks and service marks contained herein are the property of their respective   data
+providers make no warranties or representations of any kind relating to the   or timeliness
+of the data they provide and shall not have liability of any damages of any kind relating to such  The report or
+any portion hereof may not be  sold or redistributed without the written consent of  This report is
+intended only for use by the  The recipient acknowledges that all research and analysis in this report are
+the property of BTIG and agrees to limit the use of all publications received from BTIG within  or her or  own
+company  or    No  rights  are  given  for  passing      re  transmitting  or  reselling  the
+information
 Jurisdiction and Dissemination
-BTIG is a US brokerdealer and member of FINRA and SIPC
-BTIG  Australia  Limited  ACN        member  of  ASIC  and  ASX  BTIG  Hong  Kong  Limited  an  Exchange
-Participant  of  SEHK  and  licensed  and  regulated  by  the  SFC  BTIG  Ltd  member  of  the  LSE  authorized  and
-regulated  by  the  FSA  and  BTIG  Singapore  Pte  Ltd  registered  and  licensed  with  MAS  are  all  separate  but
-affiliated entities of BTIG Unless governing law permits otherwise you must contact a BTIG entity in your home
-jurisdiction for further information or if you want to use our services in effecting a transaction
-Issues and approved for distribution in the UK and EEA by  BTIG Ltd  to eligible counterparties and professional
-clients only Issued and distributed in Australia to wholesale clients only by BTIG Australia Limited In Singapore
-and Hong Kong further information may be obtained from BTIG Singapore Pte Ltd and BTIG Hong Kong Limited
-respectively
+BTIG is a   and member of FINRA and
+BTIG  Australia  Limited  ACN        member  of  ASIC  and    BTIG  Hong  Kong    an  Exchange
+Participant  of  SEHK  and  licensed  and  regulated  by  the    BTIG    member  of  the    authorized  and
+regulated  by  the    and  BTIG  Singapore  Pte    registered  and  licensed  with    are  all  separate  but
+affiliated entities of  Unless governing law permits  you must contact a BTIG entity in your home
+jurisdiction for further  or if you want to use our services in effecting a
+Issues and approved for distribution in the UK and EEA by  BTIG   to eligible counterparties and professional
+clients  Issued and distributed in Australia to   only by BTIG Australia  In Singapore
+and Hong  further information may be obtained from BTIG Singapore Pte Ltd and BTIG Hong Kong
 BTIG LLC
 Walter Piecyk
-wwwbtigresearchcom

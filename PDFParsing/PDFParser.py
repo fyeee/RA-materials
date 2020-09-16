@@ -64,7 +64,7 @@ def clean_txt_file(txt_path, output_path=None):
         output_path = txt_path
     with open(txt_path, 'rb') as file:
         content = file.read().decode('utf-8')
-        cleaned = re.sub(r'[^a-zA-Z \n]', '', content)
+        cleaned = re.sub(r'\w*[^a-zA-Z \n]\w*', '', content)
         cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
         pattern = re.compile('^[a-zA-Z]$', re.MULTILINE)
         cleaned = pattern.sub('', cleaned)
@@ -85,6 +85,6 @@ if __name__ == "__main__":
         output_txt_path = join(output_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
         output_clean_txt_path = join(output_clean_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
 
-        export_as_txt(input_pdf_path, output_txt_path)
+        # export_as_txt(input_pdf_path, output_txt_path)
         # export_as_csv(output_txt_path, output_csv_path)
         clean_txt_file(output_txt_path, output_clean_txt_path)

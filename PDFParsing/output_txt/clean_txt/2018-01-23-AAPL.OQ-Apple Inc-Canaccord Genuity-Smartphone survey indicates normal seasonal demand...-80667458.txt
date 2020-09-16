@@ -1,352 +1,322 @@
-US Equity Research
+US Equity
  January
-BUY
-unchanged
-PRICE TARGET
-from US
-Price Jan
-Ticker
-US
-US
-AAPLNASDAQ
-Week Range US
-Avg Daily Vol M
-Market Cap USM
-Shares Out M
-FYE Sep
-Sales USM
-Previous
-EPS GAAP
-US
-Previous
-Quarterly Sales
-Quarterly EPS
+PRICE
+from
+Price
+ Range
+Avg Daily Vol
+Market
+Shares
+FYE
+Quarterly
+Quarterly
 GAAP
-AAPL
-SPrebased
-SourceFactSet
 Priced as of close of business  January
-Apple designs manufactures and sells smartphones
-tablets PCs and other hardware along with related
-software services and networking solutions
-Apple
-Connectivity Technologies
-T Michael Walkley  Analyst  Canaccord Genuity Inc US  mwalkleycanaccordgenuitycom
-Joshua Reilly CFA  Associate  Canaccord Genuity Inc US  jreillycanaccordgenuitycom
-Raising Target Price
-Smartphone survey indicates normal seasonal
-demand adjusting iPhone estimates
-Investment recommendation While our US survey work indicated strong iPhone sales
-during the December quarter sales appear more consistent with normal seasonal
-trends during January Further with iPhone X reaching supply demand balance exiting
-the December quarter or ahead of our expectations we are increasing our December
-quarter estimates but lowering our March quarter iPhone estimates We are modeling
-the global iPhone replacement rate will increase to  in C from  in
-C as the new iPhone features and improving supply drive a stronger upgrade
-cycle from Apples growing installed base Following our expectations that strong
-C upgrade sales will help generate M in iPhone sales we anticipate a slightly
-moderating but still strong upgrade rate of  in C to generate M iPhone
-sales We believe Apple continues to grow its leading market share of the premiumtier
-smartphone market and believe the iPhone installed base will exceed M exiting
-C This impressive installed base should drive strong iPhone replacement sales and
-earnings as well as cash flow generation to fund strong longterm capital returns We
+Apple   and sells
+  and other hardware along with
+  and networking
+Connectivity
+ Michael Walkley  Analyst   Genuity
+Joshua  CFA  Associate   Genuity
+Raising Target
+Smartphone survey indicates normal
+ adjusting iPhone
+Investment  While our US survey work indicated strong iPhone
+during the December  sales appear more consistent with normal
+trends during   with iPhone X reaching supply demand balance
+the December quarter or ahead of our  we are increasing our
+quarter estimates but lowering our March quarter iPhone  We are
+the global iPhone replacement rate will increase to  in  from
+ as the new iPhone features and improving supply drive a stronger
+cycle from  growing installed  Following our expectations that
+ upgrade sales will help generate  in iPhone  we anticipate a
+moderating but still strong upgrade rate of  in  to generate
+ We believe Apple continues to grow its leading market share of the
+smartphone market and believe the iPhone installed base will exceed
+ This impressive installed base should drive strong iPhone replacement sales
+ as well as cash flow generation to fund strong  capital
 reiterate our BUY rating and increase our price target to
-Anticipate more normal seasonal iPhone sales resulting in lowered F iPhone
-estimates but increased F estimates Our survey work indicates iPhone X sales
-were strong during the December quarter but sales appear slower in January more in
-line with normal seasonal trends We had anticipated iPhone X supply would not meet
-demand until well into the March quarter leading to our expectations for a stronger
-than normal March quarter Given supply met demand exiting the December quarter
-combined with a more normal seasonal demand start to C we have increased our
-QF or December quarter iPhone estimates from M units to M units but
-lowered our QF iPhone estimates from M units to M units For F
-we have lowered our iPhone unit assumptions from M to M units but we have
-increased our F iPhone unit estimates from M units to M units With the
-HomePod anticipated to launch in February we have also increased our other products
-revenue estimates These changes led to our Apple CCC EPS estimate
+Anticipate more normal seasonal iPhone  resulting in lowered
+estimates but increased   Our survey work indicates iPhone X
+were strong during the December  but sales appear slower in  more
+line with normal seasonal  We had anticipated iPhone X supply would not
+demand until well into the March  leading to our expectations for a
+than normal March  Given supply met demand exiting the December
+combined with a more normal seasonal demand start to  we have increased
+ or December quarter iPhone estimates from  units to  units
+lowered our  iPhone estimates from  units to   For
+we have lowered our iPhone unit assumptions from  to   but we
+increased our  iPhone unit estimates from  units to   With
+HomePod anticipated to launch in  we have also increased our other
+revenue  These changes led to our Apple  EPS
 changes from  to
-Increased mix of larger screen OLED iPhones likely to drive strong ongoing iPhone
-sales through C We anticipate new OLED screen iPhones will launch in September
- to help drive a continued strong upgrade cycle to higher margin and higher ASP
-iPhones With our belief Apple will launch an iPhone X plus type combined with new
-improved features for the current sized iPhone X product we believe Apples iPhone
-franchise will extend strong sales of higherpriced iPhones through C Despite our
-lowered nearterm estimates we believe our C estimates could prove conservative
-as new iPhones could drive a stronger replacement cycle than the initial iPhone X
-versus our current estimates anticipating a modest slowdown in  upgrade sales
-Further with Apples cash repatriation increased capital returns and especially stock
-repurchases could also create upside to our estimates Therefore we reiterate our BUY
+Increased mix of larger screen OLED iPhones likely to drive strong ongoing
+sales through  We anticipate new OLED screen iPhones will launch in
+ to help drive a continued strong upgrade cycle to higher margin and higher
+ With our belief Apple will launch an iPhone X plus type combined with
+improved features for the current sized iPhone X  we believe
+franchise will extend strong sales of  iPhones through  Despite
+lowered   we believe our  estimates could prove
+as new iPhones could drive a stronger replacement cycle than the initial iPhone
+versus our current estimates anticipating a modest slowdown in  upgrade
+ with  cash  increased capital returns and especially
+repurchases could also create upside to our   we reiterate our
 rating and increase our price target to
-Canaccord Genuity is the global capital markets group of Canaccord Genuity Group Inc CF  TSX
-The recommendations and opinions expressed in this research report accurately reflect the research analysts personal independent and objective views about any and all
-the companies and securities that are the subject of this report discussed herein
-For important information please see the Important Disclosures beginning on page  of this document
-Apple
-Raising Target Price
+Canaccord Genuity is the global capital markets group of Canaccord Genuity Group
+The recommendations and opinions expressed in this research report accurately reflect the research   independent and objective views about any and
+the companies and securities that are the subject of this report discussed
+For important  please see the Important Disclosures beginning on page  of this
+Raising Target
 Surveys indicate normal seasonal iPhone sales trends
 Our survey work indicates iPhone X sales were strong during the December quarter
-but sales appear slower in January more in line with normal seasonal trends We had
-anticipated iPhone X supply would not meet demand until well into the March quarter
-leading to our expectations for a stronger than normal March quarter Given supply
+but sales appear slower in  more in line with normal seasonal  We had
+anticipated iPhone X supply would not meet demand until well into the March
+leading to our expectations for a stronger than normal March  Given supply
 met demand exiting the December quarter combined with a more normal seasonal
-demand start to C we have increased our QF or December quarter
-iPhone estimates from M units to M units but lowered our QF iPhone
-estimates from M units to M units For F we have lowered our iPhone
-unit assumptions from M to M units but we have increased our F
-iPhone unit estimates from M units to M units Despite our lower nearterm
-iPhone estimates we believe new OLED screen iPhones launching in September
- will drive continued strong iPhone sales through C
+demand start to  we have increased our  or December quarter
+iPhone estimates from  units to  units but lowered our  iPhone
+estimates from  units to   For  we have lowered our iPhone
+unit assumptions from  to   but we have increased our
+iPhone unit estimates from  units to   Despite our lower
+iPhone  we believe new OLED screen iPhones launching in September
+ will drive continued strong iPhone sales through
 Large installed iPhone base positions Apple for a strong upgrade cycle through
-Figure  on page  provides detailed analysis of the installed iPhone base annual
-iPhone net additions replacement iPhone sales and replacement rates by regions of
-the world We estimate our M iPhone installed base exiting C represents only
- of the B global premium market smartphone subscribers estimated by the
-end of C according to Gartner Based on our potentially conservative
-replacement rate and installed base growth assumptions we estimate Apple could
-sell roughly M to M iPhone units annually based on its growing and loyal
-installed base of new iPhone consumers
+Figure  on page  provides detailed analysis of the installed iPhone  annual
+iPhone net  replacement iPhone  and replacement rates by regions of
+the  We estimate our  iPhone installed base exiting  represents only
+ of the  global premium market smartphone subscribers estimated by the
+end of  according to  Based on our potentially conservative
+replacement rate and installed base growth  we estimate Apple could
+sell roughly  to  iPhone units annually based on its growing and loyal
+installed base of new iPhone
 We believe there is a large group of iPhone  or older iPhone users positioned to
-upgrade to the new iPhone products and therefore we are modeling the percent of
-iPhone users to upgrade to a new iPhone to increase to  in C from roughly
- in C We note our C replacement sale estimate was lowered from
- given our expectations for a more seasonally normal start to C versus our
-previous expectations for a very strong March quarter We believe the  upgrade
-rate for C is still consistent with the strong upgrade rate in C and C
-driven by the iPhone  upgrade cycle While we anticipate product introductions could
-generate stronger sales in one year versus another we believe Apples growing share
-of the highend smartphone market positions Apple with a strong loyal customer base
-that could enable Apple to maintain the highlevels of sales generated during C
+upgrade to the new iPhone  and therefore we are modeling the percent of
+iPhone users to upgrade to a new iPhone to increase to  in  from roughly
+ in  We note our  replacement sale estimate was lowered from
+ given our expectations for a more seasonally normal start to  versus our
+previous expectations for a very strong March  We believe the  upgrade
+rate for  is still consistent with the strong upgrade rate in  and
+driven by the iPhone  upgrade  While we anticipate product introductions could
+generate stronger sales in one year versus  we believe  growing share
+of the  smartphone market positions Apple with a  loyal customer base
+that could enable Apple to maintain the  of sales generated during
 with the successful iPhone  launch despite the higher ASPs for the iPhone  and X
-products versus the  products In fact given the growing installed base we believe
-Apple will sell more iPhones in C and C with our M and M
-estimates respectively versus the M units sold in C With these levels of
-annual iPhone sales generating strong sales levels and margins we believe this
-should drive very strong longterm sales earnings and cash flow generation for Apple
-to sustain or even increase its capital returns program especially with the anticipated
-repatriation up to M Given our expectations for a strong upgrade cycle
-combined with new product introductions potentially contributing upside to our C
-estimates we reiterate our BUY rating and increase our price target to
-Buy unchanged  Target Price US from US   January
+products versus the   In  given the growing installed  we believe
+Apple will sell more iPhones in  and  with our  and
+ respectively versus the  units sold in  With these levels of
+annual iPhone sales generating strong sales levels and  we believe this
+should drive very strong    and cash flow generation for Apple
+to sustain or even increase its capital returns  especially with the anticipated
+repatriation up to  Given our expectations for a strong upgrade cycle
+combined with new product introductions potentially contributing upside to our
+ we reiterate our BUY rating and increase our price target to
+Buy unchanged  Target Price  from    January
 Connectivity Technologies
+Raising Target
+Figure  iPhone installed  net  replacement sales and replacement rates by region
+ Company  Canaccord Genuity estimates
+Buy unchanged  Target Price  from    January
+Connectivity Technologies
+   EiPhone Units   estimates by region    China  of Asia  East   iPhone  Channel inventory  iPhone channel    EiPhone installed base estimates    China  of Asia  East   installed base  growthNorth   China  of Asia  East    change    ENorth America  net  America   annual replacement  America  net  America  replacement   net   annual replacement   net   annual replacement  Pacific  net  Pacific  annual replacement  East  Africa  net adds  East  Africa  annual replacement sales  iPhone Net  iPhone annual replacement  iPhone annual unit   in  iPhone unit    EReplacement rate     East  Africa  iPhone replacement  net adds  replacement sales estimates
+Raising Target
+A more detailed financial  including balance  income  and cash flow  if  may be obtained by contacting your Canaccord Genuity Sales Person or the Authoring  whose contact information appears on the front page of this
+Buy unchanged  Target Price  from    January
+Connectivity Technologies
+                    to Income StatementNet  of     General and   Income  income and   for income    Diluted  as   of     General and  operating  for income         Operating  Net  important  please visit Canaccord  Online Disclosure    Michael WalkleyCanaccord   Company reports and Canaccord Genuity    Income   except per share
+Raising Target
+ Company  Canaccord Genuity estimates
+Buy unchanged  Target Price  from    January
+Connectivity Technologies
+               ASP  for  iPhone ASP      Current Quarter iPhone      Prior Period iPhone Deferred  iPhone Reported                   of Apple        Current Quarter iPad      Prior Period iPad Deferred  iPad Reported                   of Apple        Current Quarter Mac      Prior Period Mac Deferred  Mac Reported                   of Apple   watch  watch      Current Quarter Watch      Prior Period Watch Deferred  Watch Reported                   of Apple  Other   Revenue  Apple  Sales By  million  Quarterly Sales by Product  million
+Raising Target
+ Important
+Analyst
+Each authoring analyst of Canaccord Genuity whose name appears on the front page of this research hereby certifies that
+recommendations and opinions expressed in this research accurately reflect the authoring   independent
+objective views about any and all of the designated investments or relevant issuers discussed herein that are within such
+ coverage universe and  no part of the authoring  compensation   or will  directly or  related to
+specific recommendations or views expressed by the authoring analyst in the
+Analysts employed outside the US are not registered as research analysts with  These analysts may not be associated persons
+Canaccord Genuity  and therefore may not be subject to the FINRA Rule  and NYSE Rule  restrictions on
+with a subject  public appearances and trading securities held by a research analyst
+Sector
+Individuals identified as   cover a subject  industry in the identified  but are not
+analysts of the
+Investment
+Date and time of first  January
+Date and time of  January
+Target Price  Valuation
 Apple
-Raising Target Price
-Figure  iPhone installed base net adds replacement sales and replacement rates by region
-Source Company reports Canaccord Genuity estimates
-Buy unchanged  Target Price US from US   January
-Connectivity Technologies
- E E EiPhone Units selliniPhone sellthrough estimates by region millionsNorth AmericaLatin AmericaEuropeGreater China JapanRest of Asia PacificMiddle East  AfricaTotal iPhone sellthroughiPhone Channel inventory changeTotal iPhone channel inventory E E EiPhone installed base estimates millionsNorth AmericaLatin AmericaEuropeGreater China JapanRest of Asia PacificMiddle East  AfricaTotaliPhone installed base YY growthNorth AmericaLatin AmericaEuropeGreater China JapanRest of Asia PacificMiddle East  AfricaYoY  change  E E ENorth America  net addsNorth America   annual replacement salesLatin America  net addsLatin America annual replacement salesEurope  net addsEurope  annual replacement salesJapan  net addsJapan  annual replacement salesAsia Pacific  net addsAsia Pacific  annual replacement salesMiddle East  Africa  net adds Middle East  Africa  annual replacement sales Total iPhone Net addsTotal iPhone annual replacement salesTotal iPhone annual unit sellthrough Change in inventoryTotal iPhone unit sales E E EReplacement rate North AmericaLatin AmericaEuropeJapanAsia PacificMiddle East  Africa Global iPhone replacement rateiPhone net adds  replacement sales estimates in millions
+Our  price target is based on shares trading at roughly  our  EPS
+Risks to achieving Target Price
 Apple
-Raising Target Price
-A more detailed financial model including balance sheet income statement and cash flow projections if available may be obtained by contacting your Canaccord Genuity Sales Person or the Authoring Analyst whose contact information appears on the front page of this report
-Buy unchanged  Target Price US from US   January
+Risks to our investment thesis   Gross margin for key products such as the iPhone decline below our
+to innovate slows or competition catches up versus  next iteration of its   Macro uncertainty leads to slower
+expected sales of Apple
+Distribution of
+Global Stock Ratings  of
+Coverage
+Speculative
+ includes stocks that are Under
+IB
+Canaccord Genuity Ratings
+ The stock is expected to generate  returns of over  during the next
+ The stock is expected to generate  returns of  during the next
+ The stock is expected to generate negative  returns during the next
+NOT  Canaccord Genuity does not provide research coverage of the relevant
+  refers to the expected return in relation to the amount of risk associated with the designated investment or
+relevant
+Risk
+ Stocks bear significantly higher risk that typically cannot be valued by normal fundamental  Investments in
+stock may result in material
+ Recommendation History  of date same as the Global Stock Ratings
+Buy unchanged  Target Price  from    January
 Connectivity Technologies
-PeriodQ AQ AQ AQ AQ EQ EQ EQ EQ EQ EQ EQ EQ EFY EFY EFY ECY ECY ECY EDateNotes to Income StatementNet SalesCost of SalesGross ProfitResearch  DevelopmentSelling General and AdministrativeOperating ExpensesOperating Income Other income and expensePretax IncomeProvision for income taxesNet IncomeGAAP EPSBasicFully Diluted SharesCosts as  RevenueCost of SalesGross ProfitResearch  DevelopmentSelling General and AdministrativeProforma operating marginProvision for income taxesTax RateNet IncomeQuarterQuarter  changeSalesOperating IncomeYearYear  changeSalesProforma Operating IncomeProforma Net IncomeFor important information please visit Canaccord Genuitys Online Disclosure Database  httpwwwcanaccordgenuitycomenODDpagesdisclosuresaspxT Michael WalkleyCanaccord GenuitySource  Company reports and Canaccord Genuity estimatesUpdatedJanuary  Consolidated Income Statementin millions except per share informationApple Inc  AAPL
-Apple
-Raising Target Price
-Source Company reports Canaccord Genuity estimates
-Buy unchanged  Target Price US from US   January
-Connectivity Technologies
-FYEFYEFYECYECYECYEQ AQ AQ AQ AQ EQ EQ EQ EQ EQ EQ EQ EQ EFYEFYEFYECYECYECYEiPhone UnitsiPhone ASP adjusting for deferral iPhone ASP reported     Current Quarter iPhone Revenue     Prior Period iPhone Deferred RevenueTotal iPhone Reported Revenue     QQ Growth     YY Growth     age of Apple RevenueiPad UnitsiPad ASP     Current Quarter iPad Revenue     Prior Period iPad Deferred RevenueTotal iPad Reported Revenue     QQ Growth     YY Growth     age of Apple RevenueMac UnitsMac ASP     Current Quarter Mac Revenue     Prior Period Mac Deferred RevenueTotal Mac Reported Revenue     QQ Growth     YY Growth     age of Apple RevenueiPod RevenueApple watch unitsApple watch ASPs     Current Quarter Watch Revenue     Prior Period Watch Deferred RevenueTotal Watch Reported Revenue     QQ Growth     YY Growth     age of Apple RevenueAccessoriesTotal Other ProductsServices Deferred Revenue Total Apple RevenueFYEFYEAnnual Sales By Productin million USDApple Quarterly Sales by Product Categoryin million USDApple
-Raising Target Price
-Appendix Important Disclosures
-Analyst Certification
-Each authoring analyst of Canaccord Genuity whose name appears on the front page of this research hereby certifies that i the
-recommendations and opinions expressed in this research accurately reflect the authoring analysts personal independent and
-objective views about any and all of the designated investments or relevant issuers discussed herein that are within such authoring
-analysts coverage universe and ii no part of the authoring analysts compensation was is or will be directly or indirectly related to the
-specific recommendations or views expressed by the authoring analyst in the research
-Analysts employed outside the US are not registered as research analysts with FINRA These analysts may not be associated persons of
-Canaccord Genuity Inc and therefore may not be subject to the FINRA Rule  and NYSE Rule  restrictions on communications
-with a subject company public appearances and trading securities held by a research analyst account
-Sector Coverage
-Individuals identified as Sector Coverage cover a subject companys industry in the identified jurisdiction but are not authoring
-analysts of the report
-Investment Recommendation
-Date and time of first dissemination January    ET
-Date and time of production January    ET
-Target Price  Valuation Methodology
-Apple  AAPL
-Our  price target is based on shares trading at roughly x our C EPS estimate
-Risks to achieving Target Price  Valuation
-Apple  AAPL
-Risks to our investment thesis include  Gross margin for key products such as the iPhone decline below our expectations  Ability
-to innovate slows or competition catches up versus Apples next iteration of its products  Macro uncertainty leads to slower than
-expected sales of Apple products
-Distribution of Ratings
-Global Stock Ratings as of
-Rating
-Coverage Universe
-Buy
-Hold
-Sell
-Speculative Buy
-Total includes stocks that are Under Review
-IB Clients
-Canaccord Genuity Ratings System
-BUY The stock is expected to generate riskadjusted returns of over  during the next  months
-HOLD The stock is expected to generate riskadjusted returns of  during the next  months
-SELL The stock is expected to generate negative riskadjusted returns during the next  months
-NOT RATED Canaccord Genuity does not provide research coverage of the relevant issuer
-Riskadjusted return refers to the expected return in relation to the amount of risk associated with the designated investment or the
-relevant issuer
-Risk Qualier
-SPECULATIVE Stocks bear significantly higher risk that typically cannot be valued by normal fundamental criteria Investments in the
-stock may result in material loss
-Month Recommendation History as of date same as the Global Stock Ratings table
-Buy unchanged  Target Price US from US   January
-Connectivity Technologies
-Apple
-Raising Target Price
-A list of all the recommendations on any issuer under coverage that was disseminated during the preceding month period
-may be obtained at the following website provided as a hyperlink if this report is being read electronically httpdisclosures
-marcanaccordgenuitycomENPagesdefaultaspx
-Required CompanySpecific Disclosures as of date of this publication
-Canaccord Genuity or one or more of its affiliated companies is a market maker or liquidity provider in the securities of Apple or in any
-related derivatives
-Canaccord Genuity or one or more of its affiliated companies intend to seek or expect to receive compensation for Investment Banking
-services from Apple in the next three months
+Raising Target
+A list of all the recommendations on any issuer under coverage that was disseminated during the preceding
+may be obtained at the following website  as a hyperlink if this report is being read
+Required  Disclosures  of date of this
+Canaccord Genuity or one or more of its affiliated companies is a market maker or liquidity provider in the securities of Apple or in
+related
+Canaccord Genuity or one or more of its affiliated companies intend to seek or expect to receive compensation for Investment
+services from Apple in the next three
 Apple Rating History as of
 Apr  Jul  Oct  Jan  Apr  Jul  Oct  Jan  Apr  Jul  Oct  Jan  Apr  Jul  Oct  Jan  Apr  Jul  Oct  Jan
-Buy B Speculative Buy SB Sell S Hold H Suspended SU Under Review UR Restricted RE Not Rated NR
-Closing Price
-Price Target
-Past performance
-In line with Article b MiFID II Delegated Regulation we disclose price performance for the preceding five years or the whole period
-for which the financial instrument has been offered or investment service provided where less than five years Please note price history
-refers to actual past performance and that past performance is not a reliable indicator of future price andor performance
-Online Disclosures
-Uptodate disclosures may be obtained at the following website provided as a hyperlink if this report is being read electronically
-httpdisclosurescanaccordgenuitycomENPagesdefaultaspx or by sending a request to Canaccord Genuity Corp Research Attn
-Disclosures PO Box  Pacific Centre  Granville Street Vancouver BC Canada VY H or by sending a request
-by email to disclosurescanaccordgenuitycom The reader may also obtain a copy of Canaccord Genuitys policies and procedures
-regarding the dissemination of research by following the steps outlined above
-General Disclaimers
-See Required CompanySpecific Disclosures above for any of the following disclosures required as to companies referred to in this
-report manager or comanager roles  or other ownership compensation for certain services types of client relationships research
-analyst conflicts managedcomanaged public offerings in prior periods directorships market making in equity securities and related
-derivatives For reports identified above as compendium reports the foregoing required companyspecific disclosures can be found in
-a hyperlink located in the section labeled Compendium Reports Canaccord Genuity is the business name used by certain wholly
-owned subsidiaries of Canaccord Genuity Group Inc including Canaccord Genuity Inc Canaccord Genuity Limited Canaccord Genuity
-Corp and Canaccord Genuity Australia Limited an affiliated company that is owned by Canaccord Genuity Group Inc
-The authoring analysts who are responsible for the preparation of this research are employed by Canaccord Genuity Corp a Canadian
-brokerdealer with principal offices located in Vancouver Calgary Toronto Montreal or Canaccord Genuity Inc a US brokerdealer
-with principal offices located in New York Boston San Francisco and Houston or Canaccord Genuity Limited a UK brokerdealer with
-principal offices located in London UK and Dublin Ireland or Canaccord Genuity Australia Limited an Australian brokerdealer with
-principal offices located in Sydney and Melbourne
-The authoring analysts who are responsible for the preparation of this research have received or will receive compensation based upon
-among other factors the Investment Banking revenues and general profits of Canaccord Genuity However such authoring analysts
-have not received and will not receive compensation that is directly based upon or linked to one or more specific Investment Banking
-activities or to recommendations contained in the research
-Buy unchanged  Target Price US from US   January
+Buy  Speculative Buy  Sell  Hold  Suspended  Under Review  Restricted  Not Rated
+Closing
+Price
+Past
+In line with Article  MiFID II Delegated  we disclose price performance for the preceding five years or the whole
+for which the financial instrument has been offered or investment service provided where less than five  Please note price
+refers to actual past  and that past performance is not a reliable indicator of future price
+Online
+ disclosures may be obtained at the following website  as a hyperlink if this report is being read
+ or by sending a request to Canaccord Genuity
+  Box  Pacific   Granville    Canada   or by sending a
+by email to  The reader may also obtain a copy of Canaccord  policies and
+regarding the dissemination of research by following the steps outlined
+General
+See    above for any of the following disclosures required as to companies referred to in
+ manager or    or other  compensation for certain  types of client
+analyst   public offerings in prior   market making in equity securities and
+ For reports identified above as compendium  the foregoing required  disclosures can be found
+a hyperlink located in the section      is the business name used by certain
+owned subsidiaries of Canaccord Genuity Group  including Canaccord Genuity  Canaccord Genuity  Canaccord
+ and Canaccord Genuity   an affiliated company that is  by Canaccord Genuity Group
+The authoring analysts who are responsible for the preparation of this research are employed by Canaccord Genuity  a
+ with principal offices located in     or Canaccord Genuity  a US
+with principal offices located in New   San Francisco and  or Canaccord Genuity  a UK
+principal offices located in London  and Dublin  or Canaccord Genuity   an Australian
+principal offices located in Sydney and
+The authoring analysts who are responsible for the preparation of this research have received  will  compensation based
+ other  the Investment Banking revenues and general profits of Canaccord   such authoring
+have not  and will not  compensation that is directly based upon or linked to one or more specific Investment
+ or to recommendations contained in the
+Buy unchanged  Target Price  from    January
 Connectivity Technologies
-Apple
-Raising Target Price
-Some regulators require that a firm must establish implement and make available a policy for managing conflicts of interest arising as
-a result of publication or distribution of research This research has been prepared in accordance with Canaccord Genuitys policy on
-managing conflicts of interest and information barriers or firewalls have been used where appropriate Canaccord Genuitys policy is
-available upon request
-The information contained in this research has been compiled by Canaccord Genuity from sources believed to be reliable but with the
-exception of the information about Canaccord Genuity no representation or warranty express or implied is made by Canaccord Genuity
-its affiliated companies or any other person as to its fairness accuracy completeness or correctness Canaccord Genuity has not
-independently verified the facts assumptions and estimates contained herein All estimates opinions and other information contained
-in this research constitute Canaccord Genuitys judgement as of the date of this research are subject to change without notice and are
-provided in good faith but without legal responsibility or liability
-From time to time Canaccord Genuity salespeople traders and other professionals provide oral or written market commentary or
-trading strategies to our clients and our principal trading desk that reflect opinions that are contrary to the opinions expressed in this
-research Canaccord Genuitys affiliates principal trading desk and investing businesses also from time to time make investment
-decisions that are inconsistent with the recommendations or views expressed in this research
-This research is provided for information purposes only and does not constitute an offer or solicitation to buy or sell any designated
-investments discussed herein in any jurisdiction where such offer or solicitation would be prohibited As a result the designated
-investments discussed in this research may not be eligible for sale in some jurisdictions This research is not and under no
-circumstances should be construed as a solicitation to act as a securities broker or dealer in any jurisdiction by any person or company
-that is not legally permitted to carry on the business of a securities broker or dealer in that jurisdiction This material is prepared for
-general circulation to clients and does not have regard to the investment objectives financial situation or particular needs of any
-particular person Investors should obtain advice based on their own individual circumstances before making an investment decision
-To the fullest extent permitted by law none of Canaccord Genuity its affiliated companies or any other person accepts any liability
-whatsoever for any direct or consequential loss arising from or relating to any use of the information contained in this research
-Research Distribution Policy
-Canaccord Genuity research is posted on the Canaccord Genuity Research Portal and will be available simultaneously for access by all
-of Canaccord Genuitys customers who are entitled to receive the firms research In addition research may be distributed by the firms
-sales and trading personnel via email instant message or other electronic means Customers entitled to receive research may also
-receive it via third party vendors Until such time as research is made available to Canaccord Genuitys customers as described above
-Authoring Analysts will not discuss the contents of their research with Sales and Trading or Investment Banking employees without prior
-compliance consent
-For further information about the proprietary models associated with the covered issuers in this research report clients should
-contact their local sales representative
-ShortTerm Trade Ideas
-Research Analysts may from time to time discuss shortterm trade ideas in research reports A shortterm trade idea offers a near
-term view on how a security may trade based on market and trading events or catalysts and the resulting trading opportunity that may
-be available Any such trading strategies are distinct from and do not affect the analysts fundamental equity rating for such stocks A
-shortterm trade idea may differ from the price targets and recommendations in our published research reports that reflect the research
-analysts views of the longerterm ie oneyear or greater prospects of the subject company as a result of the differing time horizons
-methodologies andor other factors It is possible for example that a subject companys common equity that is considered a long
-term Hold or Sell might present a shortterm buying opportunity as a result of temporary selling pressure in the market or for other
-reasons described in the research report conversely a subject companys stock rated a longterm Buy or Speculative Buy could be
-considered susceptible to a downward price correction or other factors may exist that lead the research analyst to suggest a sale over
-the shortterm Shortterm trade ideas are not ratings nor are they part of any ratings system and the firm does not intend and does not
-undertake any obligation to maintain or update shortterm trade ideas Shortterm trade ideas are not suitable for all investors and are
-not tailored to individual investor circumstances and objectives and investors should make their own independent decisions regarding
-any securities or strategies discussed herein Please contact your salesperson for more information regarding Canaccord Genuitys
-research
-For Canadian Residents
-This research has been approved by Canaccord Genuity Corp which accepts sole responsibility for this research and its dissemination
-in Canada Canaccord Genuity Corp is registered and regulated by the Investment Industry Regulatory Organization of Canada IIROC
-and is a Member of the Canadian Investor Protection Fund Canadian clients wishing to effect transactions in any designated investment
-discussed should do so through a qualified salesperson of Canaccord Genuity Corp in their particular province or territory
-For United States Persons
-Canaccord Genuity Inc a US registered brokerdealer accepts responsibility for this research and its dissemination in the United States
-This research is intended for distribution in the United States only to certain US institutional investors US clients wishing to effect
-transactions in any designated investment discussed should do so through a qualified salesperson of Canaccord Genuity Inc Analysts
-employed outside the US as specifically indicated elsewhere in this report are not registered as research analysts with FINRA These
-analysts may not be associated persons of Canaccord Genuity Inc and therefore may not be subject to the FINRA Rule  and NYSE
-Buy unchanged  Target Price US from US   January
+Raising Target
+Some regulators require that a firm must  implement and make available a policy for managing conflicts of interest arising
+a result of publication or distribution of  This research has been prepared in accordance with Canaccord  policy
+managing conflicts of  and information barriers or firewalls have been used where  Canaccord  policy
+available upon
+The information contained in this research has been compiled by Canaccord Genuity from sources believed to be  but
+exception of the information about Canaccord  no representation or  express or  is made by Canaccord
+its affiliated companies or any other person as to its   completeness or  Canaccord Genuity has
+independently verified the   and estimates contained  All  opinions and other information
+in this research constitute Canaccord  judgement as of the date of this  are subject to change without notice and
+provided in good faith but without legal responsibility or
+From time to  Canaccord Genuity   and other professionals provide oral or written market commentary
+trading strategies to our clients and our principal trading desk that reflect opinions that are contrary to the opinions expressed in
+ Canaccord   principal trading  and investing businesses also from time to time make
+decisions that are inconsistent with the recommendations or views expressed in this
+This research is provided for information purposes only and does not constitute an offer or solicitation to buy or sell any
+investments discussed herein in any jurisdiction where such offer or solicitation would be  As a  the
+investments discussed in this research may not be eligible for sale in some  This research is  and under
+circumstances should be construed  a solicitation to act as a securities broker or dealer in any jurisdiction by any person or
+that is not legally permitted to carry on the business of a securities broker or dealer in that  This material is prepared
+general circulation to clients and does not have regard to the investment  financial situation or particular needs of
+particular  Investors should obtain advice based on their own individual circumstances before making an investment
+To the fullest extent permitted by  none of Canaccord  its affiliated companies or any other person accepts any
+whatsoever for any direct or consequential loss arising from or relating to any use of the information contained in this
+Research Distribution
+Canaccord Genuity research is posted on the Canaccord Genuity Research Portal and will be available simultaneously for access by
+of Canaccord  customers who are entitled to receive the   In addition research may be distributed by the
+sales and trading personnel via  instant message or other electronic  Customers entitled to receive research may
+receive it via third party  Until such time as research is made available to Canaccord  customers as described
+Authoring Analysts will not discuss the contents of their research with Sales and Trading or Investment Banking employees without
+compliance
+For further information about the proprietary  associated with the covered  in this research  clients
+contact their local sales
+ Trade
+Research Analysts  from time to  discuss  trade  in research  A  trade idea offers a
+term view on how a security may  based on market and trading events or  and the resulting trading opportunity that
+be  Any such trading strategies are distinct from and do not affect the  fundamental equity rating for such
+ trade idea may differ from the price targets and recommendations in our published research reports that reflect the
+ views of the    or  prospects of the subject  as a result of the differing time
+methodologies  other  It is  for  that a subject  common equity that is considered a
+term  or  might present a  buying opportunity as a result of temporary selling pressure in the market or for
+reasons described in the research   a subject  stock rated a   or   could
+considered susceptible to a downward price  or other factors may exist that lead the research analyst to suggest a sale
+the   trade ideas are not  nor are they part of any ratings  and the firm does not  and does
+undertake any  to maintain or update  trade   trade ideas are not suitable for all investors and
+not tailored to individual investor circumstances and  and investors should make their own independent decisions
+any securities or strategies discussed  Please contact your salesperson for more information regarding Canaccord
+For Canadian
+This research has been approved by Canaccord Genuity  which accepts sole responsibility for this research and its
+in  Canaccord Genuity  is registered and regulated by the Investment Industry Regulatory Organization of Canada
+and is a Member of the Canadian Investor Protection  Canadian clients wishing to effect transactions in any designated
+discussed should do so through a qualified salesperson of Canaccord Genuity  in their particular province or
+For United States
+Canaccord Genuity  a US registered  accepts responsibility for this research and its dissemination in the United
+This research is intended for distribution in the United States only to certain US institutional  US clients wishing to
+transactions in any designated investment discussed should do so through a qualified salesperson of Canaccord Genuity
+employed outside the  as specifically indicated elsewhere in this  are not registered as research analysts with
+analysts may not be associated persons of Canaccord Genuity  and therefore may not be subject to the FINRA Rule  and
+Buy unchanged  Target Price  from    January
 Connectivity Technologies
-Apple
-Raising Target Price
-Rule  restrictions on communications with a subject company public appearances and trading securities held by a research analyst
-account
-For United Kingdom and European Residents
-This research is distributed in the United Kingdom and elsewhere Europe as third party research by Canaccord Genuity Limited
-which is authorized and regulated by the Financial Conduct Authority This research is for distribution only to persons who are Eligible
-Counterparties or Professional Clients only and is exempt from the general restrictions in section  of the Financial Services and
-Markets Act  on the communication of invitations or inducements to engage in investment activity on the grounds that it is being
-distributed in the United Kingdom only to persons of a kind described in Article  Investment Professionals and  High Net
-Worth companies unincorporated associations etc of the Financial Services and Markets Act  Financial Promotion Order
-as amended It is not intended to be distributed or passed on directly or indirectly to any other class of persons This material is not for
-distribution in the United Kingdom or elsewhere in Europe to retail clients as defined under the rules of the Financial Conduct Authority
-For Jersey Guernsey and Isle of Man Residents
-This research is sent to you by Canaccord Genuity Wealth International Limited CGWI for information purposes and is not to be
-construed as a solicitation or an offer to purchase or sell investments or related financial instruments This research has been produced
-by an affiliate of CGWI for circulation to its institutional clients and also CGWI Its contents have been approved by CGWI and we are
-providing it to you on the basis that we believe it to be of interest to you This statement should be read in conjunction with your client
-agreement CGWIs current terms of business and the other disclosures and disclaimers contained within this research If you are in any
-doubt you should consult your financial adviser
-CGWI is licensed and regulated by the Guernsey Financial Services Commission the Jersey Financial Services Commission and the Isle
-of Man Financial Supervision Commission CGWI is registered in Guernsey and is a wholly owned subsidiary of Canaccord Genuity Group
-Inc
-For Australian Residents
-This research is distributed in Australia by Canaccord Genuity Australia Limited ABN     holder of AFS Licence No
- To the extent that this research contains any advice this is limited to general advice only Recipients should take into account
-their own personal circumstances before making an investment decision Clients wishing to effect any transactions in any financial
-products discussed in the research should do so through a qualified representative of Canaccord Genuity Australia Limited Canaccord
-Genuity Wealth Management is a division of Canaccord Genuity Australia Limited
-For Hong Kong Residents
-This research is distributed in Hong Kong by Canaccord Genuity Hong Kong Limited which is licensed by the Securities and Futures
-Commission This research is only intended for persons who fall within the definition of professional investor as defined in the Securities
-and Futures Ordinance It is not intended to be distributed or passed on directly or indirectly to any other class of persons Recipients of
-this report can contact Canaccord Genuity Hong Kong Limited Contact Tel    in respect of any matters arising from or
-in connection with this research
-Additional information is available on request
-Copyright  Canaccord Genuity Corp   Member IIROCCanadian Investor Protection Fund
-Copyright  Canaccord Genuity Limited   Member LSE authorized and regulated by the Financial Conduct Authority
-Copyright  Canaccord Genuity Inc   Member FINRASIPC
-Copyright  Canaccord Genuity Australia Limited   Participant of ASX Group Chix Australia and of the NSX Authorized and
-regulated by ASIC
-All rights reserved All material presented in this document unless specifically indicated otherwise is under copyright to Canaccord
-Genuity Corp Canaccord Genuity Limited Canaccord Genuity Inc or Canaccord Genuity Group Inc None of the material nor its content
-nor any copy of it may be altered in any way or transmitted to or distributed to any other party without the prior express written
-permission of the entities listed above
-None of the material nor its content nor any copy of it may be altered in any way reproduced or distributed to any other party
-including by way of any form of social media without the prior express written permission of the entities listed above
-Buy unchanged  Target Price US from US   January
+Raising Target
+Rule  restrictions on communications with a subject  public appearances and trading securities held by a research
+For United Kingdom and European
+This research is distributed in the United Kingdom and elsewhere  as third party research by Canaccord Genuity
+which is authorized and regulated by the Financial Conduct  This research is for distribution only to persons who are
+Counterparties or Professional Clients only and is exempt from the general restrictions in section  of the Financial Services
+Markets Act  on the communication of invitations or inducements to engage in investment activity on the grounds that it is
+distributed in the United Kingdom only to persons of a kind described in Article    and
+Worth  unincorporated associations  of the Financial Services and Markets Act    Order
+  It is not intended to be distributed or passed  directly or  to any other class of  This material is not
+distribution in the United Kingdom or elsewhere in Europe to retail  as defined under the rules of the Financial Conduct
+For  Guernsey and Isle of Man
+This research is sent to you by Canaccord Genuity Wealth  Limited  for information purposes and is not to
+construed as a solicitation or an offer to purchase or sell investments or related financial  This research has been
+by an affiliate of CGWI for circulation to its institutional clients and also  Its contents have been approved by CGWI and we
+providing it to you on the basis that we believe it to be of interest to  This statement should be read in conjunction with your
+  current terms of business and the other disclosures and disclaimers contained within this  If you are in
+ you should consult your financial
+CGWI is licensed and regulated by the Guernsey Financial Services  the Jersey Financial Services Commission and the
+of Man Financial Supervision  CGWI is registered in Guernsey and is a wholly owned subsidiary of Canaccord Genuity
+For Australian
+This research is distributed in Australia by Canaccord Genuity  Limited ABN     holder of AFS Licence
+ To the extent that this research contains any  this is limited to general advice  Recipients should take into
+their own personal circumstances before making an investment  Clients wishing to effect any transactions in any
+products discussed in the research should do so through a qualified representative of Canaccord Genuity
+Genuity Wealth Management is a division of Canaccord Genuity
+For Hong Kong
+This research is distributed in Hong Kong by Canaccord Genuity   Limited which is licensed by the Securities and
+ This research is only intended for persons who fall within the definition of professional investor as defined in the
+and Futures  It is not intended to be distributed or passed  directly or  to any other class of  Recipients
+this report can contact Canaccord Genuity         in respect of any matters arising
+in connection  this
+Additional information is available on
+Copyright  Canaccord Genuity    Member  Investor Protection
+Copyright  Canaccord Genuity    Member  authorized and regulated by the Financial Conduct
+Copyright  Canaccord Genuity    Member
+Copyright  Canaccord Genuity     Participant of ASX   Australia and of the  Authorized
+regulated by
+All rights  All material presented in this  unless specifically indicated  is under copyright to
+Genuity  Canaccord Genuity  Canaccord Genuity Inc or Canaccord Genuity Group  None of the  nor its
+nor any copy of  may be altered in any  or transmitted to or distributed to any other  without the prior express
+permission of the entities listed
+None of the  nor its  nor any copy of  may be altered in any   or distributed to any other
+including by way of any form of social  without the prior express written permission of the entities listed
+Buy unchanged  Target Price  from    January
 Connectivity Technologies
