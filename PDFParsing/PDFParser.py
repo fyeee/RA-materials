@@ -2,6 +2,7 @@ import sys
 import os
 import csv
 import io
+import re
 from os import listdir
 from os.path import isfile, join
 from pdfminer.pdfdocument import PDFDocument
@@ -58,7 +59,22 @@ def export_as_txt(pdf_path, output_txt_path):
     output.close()
 
 
-output_txt_dir = r".\output_txt"
+def clean_txt_file(txt_path, output_path=None):
+    if not output_path:
+        output_path = txt_path
+    with open(txt_path, 'rb') as file:
+        content = file.read().decode('utf-8')
+        cleaned = re.sub(r'[^a-zA-Z \n]', '', content)
+        cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
+        pattern = re.compile('^[a-zA-Z]$', re.MULTILINE)
+        cleaned = pattern.sub('', cleaned)
+        cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
+        # cleaned = re.sub(r'(^\s*\w+\s*\n)+', r'\n', cleaned)
+    with open(output_path, 'w') as file:
+        file.write(cleaned)
+
+output_txt_dir = r".\output_txt\raw_txt"
+output_clean_txt_dir = r".\output_txt\clean_txt"
 output_csv_dir = r".\output_csv"
 input_pdf_dir = r".\input_pdf"
 
@@ -67,7 +83,8 @@ if __name__ == "__main__":
     for file_name in file_names:
         input_pdf_path = join(input_pdf_dir, file_name)
         output_txt_path = join(output_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
-        output_csv_path = join(output_csv_dir, os.path.splitext(file_name)[0]) + ".csv"
+        output_clean_txt_path = join(output_clean_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
 
         export_as_txt(input_pdf_path, output_txt_path)
         # export_as_csv(output_txt_path, output_csv_path)
+        clean_txt_file(output_txt_path, output_clean_txt_path)
