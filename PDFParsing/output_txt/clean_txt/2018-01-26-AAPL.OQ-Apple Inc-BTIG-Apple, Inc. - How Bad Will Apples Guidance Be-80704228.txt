@@ -1,411 +1,203 @@
-
-TMT
-Apple  Inc
-How Bad Will Apple's Guidance Be
-Smartphone upgrade rates remain at record low levels and do not appear
-poised to rebound in the first calendar quarter  Reduced iPhone
-promotions could be having an impact  as previously discussed but the
-sustained lengthening of the replacement cycle appears driven simply by
-customer choice to hold onto their phone longer  We reduced our
-estimates in Apple as detailed in the note below and are concerned that
-revenue guidance for the March quarter could be as low as  billion
-versus consensus of  billion
-  Buy Reduce Hold IBC
-Equity Research
-January
-Walter Piecyk
-Joseph Galone
-AAPL
- month target
-Upsi de
-BUY
- week range
-Dividend Yield
-Market Cap
-Price Performance
-Source  IDC
-Estimates
-Sales
-Gross Margin
-Diluted EPS  Adj
-DPS
-EPS Growth
-Source  BTIG Estimates and Company Documents  in millions  except per share amount
-Company reports and BTIG estimates
-Please Read  Important disclosures and analysts certification appear in Appendix
-Upgrade rates still dropping
-This week  Verizon reported  decline in smartphones sold in  on
-upgrade rate  its lowest  upgrade rate of the past decade and at levels more
-typically seen in June quarter  We expect Verizon's peers to report similar
-metrics  although to be fair there are other devices in the mix that could be
-pushing reported upgrade rates lower  On the bright side for Apple  Verizon's
-device ASP was  higher than we expected and there could be signs that
-upgrade rates are bottoming out for
-Units are still growing  but can ASP deliver on consensus revenue
-Concerns about iPhone sales have been well documented  Apple's stock has
-shrugged off slew of analyst and press reports that highlight these trends
-Despite these concerns  Apple will still be able to grow its iPhone unit sales
-just not necessarily at the rate that consensus expects  The incremental
-concern is whether Apple's can hit or even come close to consensus revenue
-estimates in future quarters  due to its reliance on ASP growth  ASPs are now
-much more difficult to predict due to Apple's broader and more price diverse
-product line
-We believe revenue guidance for March could be as low as  billion
-We believe guidance for  revenue could be as low as  billion compared
-to current consensus of  billion  We reduced our  revenue estimate by
- billion primarily based on  million reduction in the number of iPhones
-we expect to be sold to  million  This was partially offset by  increase in
-our ASP assumption  detailed below  and higher estimates for the iPad and
-Services segments  Our estimate reflects sequential decline in iPhone ASP
-while the consensus estimate assumes sequential rise in ASP  which has not
-happened since  when Verizon first started selling the CDMA version of
-the iPhone
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Our  revenue estimate is  billion below consensus  but reflects
-growth
-We cut our Calendar  revenue estimate by  million to
-billion  which implies  growth  We are  billion below the consensus
-estimate of  billion  which implies  growth  Our revisions were driven
-by  reduction in our estimate of phones sold for the year to  million
-from  million offset by  increase in our iPhone ASP estimate to
-Our new ASP estimate reflects  annual increase compared to our prior
-estimate of  increase
-Lower tax rate means higher EPS
- lower tax rate assumption of  versus our prior estimate of
-cushions the revenue reduction and actually increases our Calendar  EPS
-estimate to  from  Our calendar  EPS estimate is currently
- above consensus  but likely because consensus has not been adjusted for
-the change in the tax code
-Estimates may have to come down  but does the stock
-Apple has shrugged off slew of press reports and analyst notes highlighting
-the risk to iPhone sales  However  the unpredictability of the ASP could be
-the Achilles heel  or maybe slingshot  for the stock  Our estimate of
-revenue growth may be notably lower than consensus  but it's still impressive
-for company at Apple's size and margin profile  thereby deserving
-reasonable multiple of Earnings
-Our  target  which remains unchanged  is based on was  our
-Calendar  EPS estimate of  That is discount to the current
-multiple of the S&P  of  Our target implies free cash flow yield of
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-We recommend that investors avoid trading the quarter given the wide range
-of ASP outcomes discussed below  Its possible  if not probable  that Apple's
-stock could take more than  hit if Apple issues the March quarter guidance
-that we outline  Even if this occurs  we believe Apple can hit our  price
-target by the end of the year based on the strong recurring revenue dynamics
-of its growth business  expanding margins and share repurchase activity
-The Art of Estimating iPhone ASPs
-Estimating iPhone ASPs relies on making assumptions on product and SKU
-mix  Even if you are successful at predicting product mix  using the iPhone list
-price is not reliable based on moves in currency and the likelihood that Apple
-discounts products in select markets throughout the world  Take the June
-quarter  for example  Reported ASP was  but the only products with list
-price below that level are the iPhone  and the iPhone SE
-models  It appears that we need to apply  discount to an
-ASP that is calculated from list price in order to come up with our best guess
-on ASP  As you will see in the analysis below  you can drive truck through the
-ASP range based on the range of iPhone product mix
-Mix of iPhone is critical to predict ASP in
-The key to figuring out the ASP in calendar  is knowing the mix of iPhone
-given its very high ASP  Supplies of the iPhone were constrained at the
-November  launch  but it was readily available by the end of the year and
-should not have limited sales in the quarter  Despite its availability  operator
-promotions were far less aggressive than prior years and ended up being more
-focused on Buy One Get One Free  BOGO  for the iPhone  rather than on
-the iPhone Link
-Stop calling it super-cycle
-This is an off-cycle S-Model year  which is important to consider when some of
-our peers push the questionable thesis of this being "super-cycle" year  There
-is no evidence from the operators to suggest there is "super-cycle"  but our
-visibility into China is admittedly very limited  If Apple sold  million phones
-in  it would reflect  increase over last year million phones sold in
-the March quarter implies  growth  As point of reference  the  launch
-in true super cycle  resulted in  unit growth in that December
-quarter and  in the subsequent March quarter  Just take look at the spike
-in Verizon's upgrade rate in the very first chart of this report
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Did the iPhone represent  of sales in December quarter
-The table below shows the range of estimates that exist for the mix of phones
-sold in the December quarter  Our range of estimates implies  to  of
-phones sold in the quarter were iPhone  As point of reference Wave
-Research ran surveys in stores in the United States in November and
-December that indicated that iPhone represented  and  of
-iPhones sold in those months  respectively  It's certainly possible that the mix
-of customers electing to have their phones shipped  which would not be
-captured by their survey  was more highly weighted to iPhone
-When have legacy products represented  of phones sold
-We also estimate relatively high mix of iPhone  in our December
-estimates  and they are also new product  In fact  at the high end of our
-range  legacy products represent less than  of phones sold in the quarter
-which seems implausible based on prior discussions with operators
-What memory are consumers buying
-ASP is also impacted by the mix of SKU  or what memory size the consumer
-buys  We included the mix of SKUs determined by survey work from Wave
-Research in the United States for purposes of comparison  For legacy
-products  which includes iPhone  we simply reduced the June quarter
-ASP by  to account for stated price reductions  The resulting range
-of ASPs based on this analysis is
-Who is getting discount on iPhones  Not operators in the US
-Experience has taught us that we should apply  discount to this basic
-math to better predict ASP and presumably account for market discounts to
-certain markets and distribution channels  To be clear  we do not believe that
-wireless operators in the United States receive product discounts  In fact  they
-pay Apple commissions for phones activated in Apple Stores
-BTIG LLC
-Walter Piecyk
-www btigresearch com
- billion swing in revenue based on the range of estimates on mix
-The net result of all the assumptions detailed above is an ASP range of
- which implies revenue range of  to  billion based on  million
-units sold  We will use the midpoint of that range in our model of  which
-is up from our prior estimate of  but clearly that is really wide range of
-outcomes  If Apple executed at the high end of the range it would result in
-total revenue of  billion  which compares to guidance of  billion and
-consensus of  billion  The low end of the range implies  revenue of
-billion
-Cutting our March quarter iPhone estimates to  million
-We are lowering our iPhone unit estimate for the March quarter to  million
-from  million based on more conservative outlook for upgrade rates  Our
-new estimate represents  annual unit growth  which is consistent with the
-low single digit growth of the past few quarters  but is lower than our prior
-estimate of
-Our new unit estimate also implies  sequential decline  which is in-line
-with the declines over the prior two years  Bulls could argue that the
-November launch of the iPhone should provide an easier comparable
-thereby rendering our  sequential decline estimate too conservative
- sequential decline would imply  million phones sold and lift our revenue
-estimate by  billion to  billion  which is the consensus estimate for the
-March quarter million units does not seem like an easy comparable to us
-so we will stick with our estimate of  million iPhones sold for the March
-quarter
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Can ASP rise sequentially in the March quarter
-We believe the  billion consensus revenue estimate for the March quarter
-implies rise in iPhone ASP  This is likely driven by the belief that the
-November  launch of the iPhone and limited supply would help the
-iPhone mix in the March quarter compared to the December quarter  It is
-definitely plausible that Apple could sell similar number of iPhone in the
-March quarter as it did in the December quarter when they were only selling
-the iPhone for two months  However  the supply demand of that phone did
-quickly move into balance during the December quarter and phone
-promotions have remain focused on iPhone  typical seasonal trend is
- sequential drop in iPhone ASP in the March quarter  The reality likely
-falls somewhere in between  as we forecast and is shown in the chart below
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-What will the mix of phones be in the March quarter
-The table below shows range of estimates for the mix of phones sold in the
-March quarter  This time we also provide range for the total number of
-phones sold of  million  given the reduction we made to our estimates
-This range of total phones sold implies annual growth of  both
-impressive  but clearly very wide range  once again
-The mix of phones is also critical  If the iPhone mix in the March quarter can
-exceed the  mix at the mid point of the range in the December quarter
-Apple will have shot at growing ASPs sequentially and delivering on
-consensus revenue estimates  However  that implies very low mix of legacy
-iPhone sales
-No adjustment to SKU mix
-We did not make adjustments to our mix of SKU compared to the December
-quarter although it's reasonable to assume that the mix would move down to
-lower priced models after the initial launch  The table below includes some
-more recent survey work from Wave  Research  which shows an expected
-increase in mix for the iPhone
-We expect March ASP to drop sequentially to  the low end of our
-range
-Our estimates for the March quarter imply an ASP range of   We
-apply  discount to this basic math in order to generate an estimated
-reported ASP range of  In the March and June quarters  discounts
-are likely to be larger as Apple moves inventory with lower prices in select
-markets
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-We will use the low end of the range for our  estimates
-We will use the lower end of the ASP range in our model since our unit
-estimate is now  million for the quarter  Our new ASP estimate of  for
-the March quarter is up  from our prior estimate  but down  from the
-December quarter and likely below consensus
-Is  revenue growth really disappointment
-Cutting our iPhone unit estimate to  million from  million and increasing
-our ASP estimate to  from  reduces our iPhone revenue estimate to
- billion from  billion  Our new estimate implies  iPhone revenue
-growth  which is very impressive  but is down from our prior estimate of
-growth  These estimates also yield  billion total revenue estimate  which
-will be the headline guidance number that investors are waiting for when the
-company reports
-How do you get to  billion in revenue guidance
-If we assumed the high end of the range in the tables above  million phones
-sold at an ASP of  it would lift our iPhone revenue estimate by  billion
-and imply an astounding  iPhone revenue growth  Apple has not grown
-iPhone revenue that much since with the true super-cycle of the
-iPhone  Furthermore  it would lift our total revenue estimate for the
-March quarter to  billion  which is  billion above consensus  That level of
-revenue would reflect  growth compared to last year  Apple reports Feb
- after the close
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Income Statement
-Source  Company reports  BTIG
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Apple Income StatementEstEstEstEstEstEst$  of goods  inc and  per  cash per
-Revenues
-Source  Company reports  BTIG
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Apple Revenue AnalysisEstEstEstEstEstEst$  by Revenue Unit  Unit  Sales  ASP  ASP
-Estimate Revisions Income Statement
-Source  Company reports  BTIG
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Apple Income StatementOLDNEWDiffOLDNEWDiffOLDNEWDiffOLDNEWDiff$  of goods  inc and  per  cash per
-Estimate Revisions Revenues
-Source  Company reports  BTIG
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Apple Revenue AnalysisOLDNEWDiffOLDNEWDiffOLDNEWDiffOLDNEWDiff$  by Revenue Unit  Unit  Sales  ASP  ASP
-BTIG Covered Companies Mentioned in this Report
-APPLE  INC AAPL  Buy PT  Current Price Analyst  Walter Piecyk
-VERIZON COMMUNICATIONS  INC VZ  Neutral  $N PT  Current Price Analyst  Walter Piecyk
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Appendix  Analyst Certification and Other Important Disclosures
-Analyst Certification
- Walter  Piecyk hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are
-accurately expressed and that have not received and will not receive direct or indirect compensation in exchange
-for expressing specific recommendations or views in this report
- Joseph  Galone hereby  certify  that  the  views  about  the  companies  and  securities  discussed  in  this  report  are
-accurately expressed and that have not received and will not receive direct or indirect compensation in exchange
-for expressing specific recommendations or views in this report
-Regulatory Disclosures
-Ratings Definitions
-BTIG LLCs  BTIG  ratings  effective June are defined as follows
-BUY   security  which  is  expected  to  produce   positive  total  return  of  or  greater  over  the  months
-following  the  recommendation The  BUY  rating  may  be  maintained  as  long  as  it  is  deemed  appropriate
-notwithstanding price fluctuations that would cause the target to fall outside of the  return
-SELL  security which is expected to produce negative total return of  or greater over the next  months
-following  the  recommendation The  SELL  rating  may  be  maintained  as  long  as  it  is  deemed  appropriate
-notwithstanding price fluctuations that would cause the target to fall outside of the  return
-NEUTRAL  security which is not expected to appreciate or depreciate meaningfully over the next  months
-NOT RATED  security which is not rated or covered by BTIG
-UNDER  REVIEW  Effective  immediately coverage  of  the  following  securities  is  Under  Review Ratings price
-targets  disclosures  and estimates for the companies listed below are suspended and should no longer be relied
-upon
-Distribution of Ratings and Investment Banking Clients
-BTIG  must  disclose  in  each  research  report  the  percentage  of  all  securities  rated  by  the  member  to  which  the
-member would assign buy  neutral or sell rating  The said ratings are updated on quarterly basis  BTIG
-must  also  disclose  the  percentage  of  subject  companies  within  each  of  these  three  categories  for  whom  the
-member has provided investment banking services within the previous twelve months  Stocks under coverage as
-of the end of the most recent calendar quarter  December
-Distribution of BTIGs Research Recommendations  as of December
-BUY NEUTRAL SELL
-Distribution of BTIGs Investment Banking Services  as of December
-BUY NEUTRAL SELL
-For purposes of FINRA ratings distribution rules  BTIGs stock ratings of Buy  Neutral and Sell fall into Buy  Hold
-and Sell categories  respectively
-Company Valuation and Risk Disclosures
-Apple  Inc AAPL  Buy PT
-Valuation Our  price  target  is  based  on  our  CY  EPS  estimate  of  which  reflects
-growth in that year  Our price target implies free cash flow yield of  and  if you reduced the market cap
-by the more than  billion of net cash
-Risks Apple  competes  against   number  of  traditional  and  start-up  wireless  device  manufacturers  who  are
-constantly  bringing  new  products  to  market  that  could  potentially  take  share  from  the  company These
-competitors could also be more willing to cut prices and have promotional offers in the market
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Verizon Communications  Inc VZ  Neutral  PT
-Valuation We  value  companies  based  on   variety  of  valuation  techniques  including  Revenue  multiples
-Enterprise Value to EBITDA multiples  Price to Earnings  Free Cash Flow multiples  and Sum-of-the-Parts  In the
-case  of  Verizon current  multiples  do  not  indicate  that  the  company  will  trade  outside  of   from  current
-levels over the next  months  Note that BTIG does not assign specific price targets to Neutral-rated stocks
-Risks  The risks to our Neutral rating is that Verizon is able to increase pricing on customers that are not willing to
-leave  them  because  of  the  greater  coverage  of  their  wireless  networks thereby  driving  EBITDA free  cash  flow
-and EPS higher than our estimate  Verizon could also make large acquisition in order to pivot to strategy that
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-offers growth or supports their customers' wireless data growth that would increase the concern by their investors
-about the company's longer-term ability to fund the dividend
-Other Disclosures
-Additional Information Available Upon Request
-General Disclosures
-Research reports produced by BTIG LLC  BTIG  are published for and intended to be distributed solely to BTIG
-institutional and corporate clients  Recipients of BTIG reports will not be considered clients of BTIG solely because
-they may have received such BTIG report
-The research analyst  responsible for the preparation of this report receives compensation based upon variety
-of factors  including the quality and accuracy of research  internal client feedback  and overall Firm revenues
-BTIG  reports  are  based  on  public  information  and  BTIG  considers  the  same  to  be  reliable comprehensive
-information  but makes no representation or warranty that the reports are accurate or complete  BTIG opinions
-and information provided in this report are as of the date of the report and may change without notice  An issuer
-may  be  classified  as  Under  Review  or  Research  Restricted In  these  cases investors  should  consider  any
-previous  investment  recommendation  and or  rating  to   subject  company issuer  to  no  longer  be  current  and
-should not be relied upon nor considered solicitation
-This  research  report  is  not  an  offer  to  buy  or  sell  or  solicitation  of  an  offer  to  buy  or  sell  any  security  in  any
-jurisdiction where such an offer or solicitation would be illegal  This research report was not drafted specifically for
-any  particular  individual or entity and is not personal recommendation to participate in any  particular  trading
-strategy  or  transaction Any  recipient  of  this  research  report  should  obtain  independent  advice  specific  to  their
-personal  circumstances  before  undertaking  any  investment  activity  and  must  make  their  own  independent
-evaluation of any securities or financial instruments
-BTIG LLC
-Walter Piecyk
-www btigresearch com
-Facts views  or  opinions  presented  in  this  report  have  not  been  reviewed  by and  may  not  reflect  information
-known to  employees or other professionals in the BTIG Group  BTIG Group includes  but is not limited to  BTIG
-and  its  parents subsidiaries  and or  affiliates  BTIG  Group  employees including  Sales  Representatives  and
-Traders may  provide  oral  or  written  commentary  or  advice  that  may  be  inconsistent  with  the  opinions  and or
-views expressed in this research report  BTIG Group employees and or its affiliates not involved in the preparation
-of this research report may have investments in securities or derivatives of securities of companies mentioned in
-this report that are inconsistent with the views discussed in this report
-Investors in securities products bear certain risks in conjunction with those investments  The value of  and income
-from  any investments may vary because of changes in interest rates or foreign exchange rates  securities prices
-or  market  indexes operational  or  financial  conditions  of  companies  or  other  factors  within  or  beyond  the
-companies  control Recipient  of  the  research  reports  should  be  aware  that  investments  in  securities  may  pose
-significant  risks  due  to  the  inherent  uncertainty  associated  with  relying  on  forecasts  of  various  factors  that  can
-affect  the  earnings cash  flow  and  overall  valuation  of   company Any  investment  in  securities  should  be
-undertaken  only  upon  consideration  of  issues  relating  to  the  recipients  overall  investment  portfolio  and
-objectives  such as diversification by asset class  industry or company  as well as time horizon and liquidity needs
-Further past  performance  should  not  be  taken  as  an  indication  or  guarantee  of  future  performance and  no
-representation  or  warranty express  or  implied is  made  regarding  future  performance There  may  be  time
-limitations on the exercise of options or other rights in any securities transactions
-Investing  in  foreign  markets  and  securities including  ADRs is  subject  to  additional  risks  such  as  currency
-fluctuation  limited information  political instability  economic risk  and the potential for illiquid markets  Investing
-in emerging markets may accentuate these risks  Non-U  reporting issuers of foreign securities  however  may
-not  make  regular  or  complete  public  disclosure  relating  to  their  financial  condition  or  the  securities  that  they
-issue
-The trademarks and service marks contained herein are the property of their respective owners  Third-party data
-providers make no warranties or representations of any kind relating to the accuracy  completeness  or timeliness
-of the data they provide and shall not have liability of any damages of any kind relating to such data  The report or
-any portion hereof may not be reprinted  sold or redistributed without the written consent of BTIG  This report is
-intended only for use by the recipient  The recipient acknowledges that all research and analysis in this report are
-the property of BTIG and agrees to limit the use of all publications received from BTIG within his  or her or its  own
-company  or  organization No  rights  are  given  for  passing  on transmitting re  transmitting  or  reselling  the
-information provided
-Jurisdiction and Dissemination
-BTIG is  broker-dealer and member of FINRA and SIPC
-BTIG  Australia  Limited  ACN  member  of  ASIC  and  ASX BTIG  Hong  Kong  Limited an  Exchange
-Participant  of  SEHK  and  licensed  and  regulated  by  the  SFC BTIG  Ltd member  of  the  LSE authorized  and
-regulated  by  the  FSA and  BTIG  Singapore  Pte  Ltd registered  and  licensed  with  MAS are  all  separate  but
-affiliated entities of BTIG  Unless governing law permits otherwise  you must contact BTIG entity in your home
-jurisdiction for further information  or if you want to use our services in effecting transaction
-Issues and approved for distribution in the UK and EEA by  BTIG Ltd to eligible counterparties and professional
-clients only  Issued and distributed in Australia to wholesale clients only by BTIG Australia Limited  In Singapore
-and Hong Kong  further information may be obtained from BTIG Singapore Pte Ltd and BTIG Hong Kong Limited
-respectively
-BTIG LLC
-Walter Piecyk
-www btigresearch com
+bad appl guidanc
+smartphon upgrad rate remain record low level appear
+pois rebound first calendar quarter reduc iphon
+promot could impact previous discuss
+sustain lengthen replac cycl appear driven simpli
+custom choic hold onto phone longer reduc
+estim appl detail note concern
+revenu guidanc march quarter could low  billion
+versu consensu  billion
+sourc btig estim compani document  million except per share amount
+compani report btig estim
+pleas read import disclosur analyst certif appear appendix
+thi week verizon report  declin smartphon sold
+upgrad rate lowest  upgrad rate past decad level
+typic seen june quarter expect verizon peer report similar
+metric although fair devic mix could
+push report upgrad rate lower bright side appl verizon
+devic asp wa  higher expect could sign
+upgrad rate bottom
+unit still grow asp deliv consensu revenu
+concern iphon sale well document appl stock ha
+shrug slew analyst press report highlight trend
+despit concern appl still abl grow iphon unit sale
+necessarili rate consensu expect increment
+concern whether appl hit even come close consensu revenu
+estim futur quarter due relianc asp growth asp
+much difficult predict due appl broader price divers
+believ revenu guidanc march could low  billion
+believ guidanc  revenu could low  billion compar
+current consensu  billion reduc  revenu estim
+ billion primarili base  million reduct number iphon
+expect sold  million thi wa partial offset  increas
+asp assumpt detail higher estim ipad
+servic segment estim reflect sequenti declin iphon asp
+consensu estim assum sequenti rise asp ha
+happen sinc  verizon first start sell cdma version
+iphon
+ revenu estim  billion consensu reflect
+cut calendar  revenu estim  million
+billion impli  growth  billion consensu
+estim  billion impli  growth revis driven
+  reduct estim phone sold year  million
+ million offset  increas iphon asp estim
+new asp estim reflect  annual increas compar prior
+estim  increas
+ lower tax rate assumpt  versu prior estim
+cushion revenu reduct actual increas calendar  ep
+estim calendar  ep estim current
+ abov consensu like becaus consensu ha adjust
+chang tax code
+estim may come doe stock
+appl ha shrug slew press report analyst note highlight
+risk iphon sale howev unpredict asp could
+achil heel mayb slingshot stock estim
+revenu growth may notabl lower consensu still impress
+ compani appl size margin profil therebi deserv
+reason multipl earn
+ target remain unchang base  wa
+calendar  ep estim  discount current
+multipl sp target impli free cash flow yield
+recommend investor avoid trade quarter given wide rang
+asp outcom discuss possibl probabl appl
+stock could take  hit appl issu march quarter guidanc
+outlin even thi occur believ appl hit  price
+target end year base strong recur revenu dynam
+growth busi expand margin share repurchas activ
+art estim iphon asp
+estim iphon asp reli make assumpt product sku
+mix even success predict product mix use iphon list
+price reliabl base move currenc likelihood appl
+discount product select market throughout world take june
+quarter exampl report asp wa  onli product list
+price level iphon  iphon se
+model  appear need appli  discount
+asp calcul list price order come best guess
+asp see analysi drive truck
+asp rang base rang iphon product mix
+mix iphon critic predict asp
+key figur asp calendar  know mix iphon
+given veri high asp suppli iphon constrain
+novemb  launch wa readili avail end year
+limit sale quarter despit avail oper
+promot far less aggress prior year end
+focus buy one get one free bogo iphon  rather
+iphon link
+stop call supercycl
+thi offcyclesmodel year import consid
+peer push question thesi thi supercycl year
+evid oper suggest supercycl
+visibl china admittedli veri limit appl sold  million phone
+ would reflect  increas last year  million phone sold
+march quarter impli  growth point refer  launch
+ true super cycl result  unit growth decemb
+quarter  subsequ march quarter take look spike
+verizon upgrad rate veri first chart thi report
+iphon repres  sale decemb quarter
+tabl show rang estim exist mix phone
+sold decemb quarter rang estim impli
+phone sold quarter iphon point refer wave
+research ran survey store unit state novemb
+decemb indic iphon repres
+iphon sold month respect certainli possibl mix
+custom elect phone ship would
+captur survey wa highli weight iphon
+legaci product repres  phone sold
+also estim rel high mix iphon  decemb
+estim also new product fact high end
+rang legaci product repres less  phone sold quarter
+seem implaus base prior discuss oper
+memori consum buy
+asp also impact mix sku memori size consum
+buy includ mix sku determin survey work wave
+research unit state purpos comparison legaci
+product includ iphon  simpli reduc june quarter
+asp  account state price reduct result rang
+asp base thi analysi
+get discount iphon oper us
+experi ha taught us appli  discount thi basic
+math better predict asp presum account market discount
+certain market distribut channel clear believ
+wireless oper unit state receiv product discount fact
+pay appl commiss phone activ appl store
+ billion swing revenu base rang estim mix
+net result assumpt detail abov asp rang
+ impli revenu rang billion base  million
+unit sold use midpoint rang model
+prior estim  clearli realli wide rang
+outcom appl execut high end rang would result
+total revenu  billion compar guidanc  billion
+consensu  billion low end rang impli  revenu
+cut march quarter iphon estim  million
+lower iphon unit estim march quarter  million
+ million base conserv outlook upgrad rate
+new estim repres  annual unit growth consist
+low singl digit growth past quarter lower prior
+estim
+new unit estim also impli  sequenti declin inlin
+declin prior two year bull could argu
+novemb launch iphon provid easier compar
+therebi render  sequenti declin estim conserv
+ sequenti declin would impli  million phone sold lift revenu
+estim  billion  billion consensu estim
+march quarter  million unit doe seem like easi compar us
+stick estim  million iphon sold march
+asp rise sequenti march quarter
+believ  billion consensu revenu estim march quarter
+impli rise iphon asp thi like driven belief
+novemb  launch iphon limit suppli would help
+iphon mix march quarter compar decemb quarter
+definit plausibl appl could sell similar number iphon
+march quarter decemb quarter onli sell
+iphon two month howev supplydemand phone
+quickli move balanc dure decemb quarter phone
+promot remain focus iphon  typic season trend
+ sequenti drop iphon asp march quarter realiti like
+fall somewher forecast shown chart
+mix phone march quarter
+tabl show rang estim mix phone sold
+march quarter thi time also provid rang total number
+phone sold  million given reduct made estim
+thi rang total phone sold impli annual growth
+impress clearli veri wide rang onc
+mix phone also critic iphon mix march quarter
+exceed  mix mid point rang decemb quarter
+appl shot grow asp sequenti deliv
+consensu revenu estim howev impli veri low mix legaci
+adjust sku mix
+make adjust mix sku compar decemb
+quarter although reason assum mix would move
+lower price model initi launch tabl includ
+recent survey work wave  research show expect
+increas mix iphon
+expect march asp drop sequenti  low end
+estim march quarter impli asp rang
+appli  discount thi basic math order gener estim
+report asp rang  march june quarter discount
+like larger appl move inventori lower price select
+use low end rang  estim
+use lower end asp rang model sinc unit
+estim  million quarter new asp estim
+march quarter  prior estim
+decemb quarter like consensu
+ revenu growth realli disappoint
+cut iphon unit estim  million  million increas
+asp estim reduc iphon revenu estim
+ billion  billion new estim impli  iphon revenu
+growth veri impress prior estim
+growth estim also yield  billion total revenu estim
+headlin guidanc number investor wait
+get  billion revenu guidanc
+assum high end rang tabl abov  million phone
+sold asp  would lift iphon revenu estim  billion
+impli astound  iphon revenu growth appl ha grown
+iphon revenu much sinc true supercycl
+iphon  furthermor would lift total revenu estim
+march quarter  billion  billion abov consensu level
+revenu would reflect  growth compar last year appl report feb
+ close
+appl incom statementestestestestestest  good  inc  per  cash per
+appl revenu analysisestestestestestest  revenu unit  unit  sale  asp  asp
+appl incom statementoldnewdiffoldnewdiffoldnewdiffoldnewdiff  good  inc  per  cash per
+appl revenu analysisoldnewdiffoldnewdiffoldnewdiffoldnewdiff  revenu unit  unit  sale  asp  asp
+btig cover compani mention thi report

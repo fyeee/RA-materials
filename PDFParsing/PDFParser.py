@@ -14,6 +14,9 @@ from pdfminer.converter import XMLConverter, HTMLConverter, TextConverter, LTCha
 from pdfminer.cmapdb import CMapDB
 from pdfminer.layout import LAParams
 from pdfminer.image import ImageWriter
+from nltk.corpus import stopwords
+import nltk
+import string
 
 
 class CsvConverter(TextConverter):
@@ -36,6 +39,7 @@ class CsvConverter(TextConverter):
                 self.outfp.write("\n")
             except:
                 pass
+
 
 def export_as_csv(txt_path, output_csv_path):
     with open(txt_path, 'r', encoding='utf-8') as in_file:
@@ -60,20 +64,51 @@ def export_as_txt(pdf_path, output_txt_path):
 
 
 def clean_txt_file(txt_path, output_path=None):
+    p = nltk.PorterStemmer()
     if not output_path:
         output_path = txt_path
     with open(txt_path, 'rb') as file:
+        total_lines = sum(1 for line in file)
+    output_fp = open(output_path, 'w')
+    with open(txt_path, 'rb') as file:
+        count = 0
+        line = file.readline().decode('utf-8')
+        stop_writing = False
+        while line:
+            line = re.sub(r"[^\x00-\x7F]", '', line)  # Remove none english characters
+            line = line.translate(str.maketrans('', '', string.punctuation))  # Remove punctuation
+            line = line.lower()  # All words to lower case
+            line = re.sub(r"[^\s]*[0-9@][^\s]*", '', line)  # Remove all numeric related words
+            all_words = line.split(" ")
+            write_line = False
+            stemmed_words = []
+            # Stemming and removing tables
+            # Assumption: None table line should contain at least one stop word
+            # Assumption: Disclosures only exist in the second half of the reports, and none of the information after
+            # that matters
+            for i, word in enumerate(all_words):
+                stemmed_word = p.stem(word)
+                if stemmed_word == "disclosur" and count > (total_lines / 2):
+                    stop_writing = True
+                if len(word) > 1 and stemmed_word in stopwords.words('english'):
+                    write_line = True
+                else:
+                    stemmed_words.append(stemmed_word)
+            if stop_writing:
+                break
+            if write_line:
+                output_fp.write(" ".join(stemmed_words))
+            line = file.readline().decode('utf-8')
+            count += 1
+    output_fp.close()
+    with open(output_path, 'rb') as file:
         content = file.read().decode('utf-8')
-        cleaned = re.sub(r"[^\x00-\x7F]", '', content)
-        cleaned = re.sub(r"[^\s]*[0-9@][^\s]*", '', cleaned)
-        cleaned = re.sub(r"[.,\:;\?\(\)\*\\/]", ' ', cleaned)
-        cleaned = re.sub(r"(^| ).(( ).)*( |$)", ' ', cleaned, flags=re.MULTILINE)
-        cleaned = re.sub(r"^.$", '', cleaned, flags=re.MULTILINE)
-        cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
-        cleaned = re.sub(r"^.$", '', cleaned, flags=re.MULTILINE)
-        cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
     with open(output_path, 'w') as file:
+        cleaned = re.sub(r"(^| ).(( ).)*( |$)", ' ', content, flags=re.MULTILINE)
+        cleaned = re.sub(r'\s*\n+', r'\n', cleaned)
         file.write(cleaned)
+    output_fp.close()
+
 
 output_txt_dir = r".\output_txt\raw_txt"
 output_clean_txt_dir = r".\output_txt\clean_txt"
