@@ -60,7 +60,7 @@ def name_removal(line, list_of_names):
 
 
 def remove_company_name(all_lines, company_ticker):
-    company_df = pd.read_excel("./list_SP500.xlsx", sheet_name="S&P500")
+    company_df = pd.read_excel("./dictionaries/list_SP500.xlsx", sheet_name="S&P500")
     company_df["S&P 500 Index"] = company_df["S&P 500 Index"].str.slice(0, -4)
     company_names = company_df["S&P 500 Index"]
     target_company = company_df[company_df[".SP500"] == company_ticker]["S&P 500 Index"].max()

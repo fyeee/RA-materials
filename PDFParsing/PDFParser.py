@@ -137,7 +137,7 @@ output_txt_dir = r".\output_txt\raw_txt"
 output_clean_txt_dir = r".\output_txt\clean_txt"
 output_csv_dir = r".\output_csv"
 input_pdf_dir = r".\input_pdf"
-phrases_mapping = pd.read_csv(r'.\list_of_high-frequency_phrases.txt', sep="	", header=None).set_index(0).T.to_dict('list')
+phrases_mapping = pd.read_csv(r'.\dictionaries\list_of_high-frequency_phrases.txt', sep="	", header=None).set_index(0).T.to_dict('list')
 
 
 if __name__ == "__main__":
