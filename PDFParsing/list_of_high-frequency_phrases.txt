@@ -1,0 +1,1636 @@
+mkt 	 market 
+/sh 	per-share 
+rev 	 revenue 
+mgmt 	 management 
+mgt 	 management 
+shr 	 share 
+mkt 	 market 
+npas 	 npa 
+offs 	 off 
+bcfe 	 bcf 
+est 	 estimate 
+avg 	 average 
+sery 	 series 
+sss 	 compstore 
+govt 	 government 
+vol 	 volume 
+fwd 	 forward 
+p/t 	 target-price 
+intl 	 intenational 
+proforma	pro-forma
+office of federal housing enterprice oversight	ofheo
+weighted average cost of capital	wacc
+free cash flow per share	fcf-per-share
+private securitie litigation reform act	PSLRA
+other than temporary impairment	otti
+federal deposit insurance corporation	fdic
+after tax operating income	atoi
+after-tax operating income	atoi
+after-tax operating-income	atoi
+average revenue per user	arpu
+average daily room rate	adr
+adjusted fund from operation	affo
+adjustable-rate mortgage	arm
+adjustable rate mortgage	arm
+billion of cubic feet	bcf
+compound annual growth rate	cagr
+cost of good sold	cogs
+food and drug administration	FDA
+food & drug administration	FDA
+harley davidson financial service	hdfs
+harley-davidson financial service	hdfs
+new york stock exchange	NYSE
+performance chemical and intermediate	pci
+performance chemical & intermediate	pci
+return on invested capital	roic
+real estate investment trust	reit
+revenue per available room	revpar
+seasonally adjusted annual rate	saar
+securitie and exchange commission	SEC
+securitie & exchange commission	SEC
+selling general & administrative	sg&a
+selling general and administrative	sg&a
+state of the art	state-of-the-art
+weighted-average cost of capital	wacc
+across the board	across-the-board
+all in one	all-in-one
+apple to apple	apple-to-apple
+asset under management	AUM
+available for sale	available-for-sale
+away from home	away-from-home
+average selling price	asp
+back to school	back-to-school
+book to bill	book-to-bill
+bank holding company	bank-holding-company
+bank of america	bank-of-america
+below the line	below-the-line
+best in class	best-in-class
+best of breed	best-of-breed
+better than average	better-than-average
+brick and mortar	brick-and-mortar
+brick & mortar	brick-and-mortar
+build to suit	build-to-suit
+capital one financial	COF
+case by case	case-by-case
+cash per share	cash-per-share
+carbonated soft drink	csd
+ceramic on ceramic	ceramic-on-ceramic
+charge on deposit	charge-on-deposit
+chicago mercantile exchange	CME
+chief executive officer	CEO
+chief financial officer	CFO
+chief operating officer	COO
+collateralized debt obligation	cdo
+comparable same store	compstore
+consumer to business	ctob
+consumer-to-business	ctob
+consumer to consumer	ctoc
+consumer-to-consumer	ctoc
+convenience and gas	c&g
+commercial real estate	cre
+commercial real-estate	cre
+cost of capital	cost-of-capital
+cost of equity	cost-of-equity
+cost of good	cogs
+day to day	day-to-day
+danaher business system	dbs
+debt to capital	debt-to-capital
+debt to ebitda	debt-to-ebitda
+department of Justice	doj
+deferred tax asset	deferred-tax-asset
+discounted cash flow	dcf
+discounted cash-flow	dcf
+do it yourself	do-it-yourself
+earnings conference call	conference-call
+earnings per share	eps
+ease of use	easy-to-use
+easy to use	easy-to-use
+economy of scale	economy-of-scale
+effective tax rate	effective-tax-rate
+electronic manufacturing service	ems
+end of life	end-of-life
+end to end	end-to-end
+face to face	face-to-face
+fcf per share	fcf-per-share
+fifth third bancorp	FITB
+financial service company	financial-service-company
+first in class	first-in-class
+first to file	first-to-file
+flat to down	flat-to-down
+flat to up	flat-to-up
+flat panel display	fpd
+free cash flow	free-cash-flow
+gain on sale	gain-on-sale
+general and administrative	g&a
+government-sponsored enterprise	fse
+government sponsored enterprise	fse
+go to market	go-to-market
+gulf of mexico	gom
+hart scott rodino	hart-scott-rodino
+head to head	head-to-head
+held for sale	held-for-sale
+home equity loan	home-equity-loan
+in the money	in-the-money
+income tax provision	income-tax-provision
+initial public offering	IPO
+internal revenue service	irs
+interest earning asset	interest-earning-asset
+investment management fee	investment-management-fee
+investment technology group	ITG
+international trade commission	itc
+implantable cardioverter defibrillator	icd
+j p morgan	jp-morgan
+just in time	just-in-time
+like for like	like-for-like
+liquefied natural gas	lng
+loan loss provision	LLP
+loan loss provisioning	LLP
+loan loss reserve	LLR
+loan-to-value	ltv
+loan to value	ltv
+risk weighted asset	rwa
+risk-weighted asset	rwa
+tangible common equity ratio	tce
+mark to market	mtm
+mark-to-market	mtm
+deferred acquisition cost	dac
+fund from operation	ffo
+net operating income	noi
+long-term care	ltc
+long term care	ltc
+long term debt	long-term-debt
+london metal exchange	lme
+low to mid	low-to-mid
+liquid refreshment reverage	lrb
+master limited partnership	mlp
+marked to market	mtm
+market by market	market-by-market
+metal on metal	metal-on-metal
+mid to high	mid-to-high
+mortgage backed security	MBS
+mortgage servicing right	msr
+net charge off	nco
+net interest income	net-interest-income
+net interest margin	NIM
+non interest bearing	non-interest-bearing
+non operating income	non-operating-income
+non performing asset	NPA
+non performing asset	NPA
+non performing loan	NPL
+non small cell	non-small-cell
+not for profit	not-for-profit
+operating cash flow	ocf
+off balance sheet	off-balance-sheet
+one on one	one-on-one
+one to one	one-to-one
+oriented strand board	osb
+original equipment manufacturer	oem
+original equipment manufacturering	oem
+othe than temporary	other-than-temporary
+out of pocket	out-of-pocket
+over the counter	over-the-counter
+over the top	over-the-top
+pay per view	ppv
+pay per-view	ppv
+pay-per-view	ppv
+peak to trough	peak-to-trough
+pharmacy benefit management	pbm
+pick a pay	pick-a-pay
+point of care	pos
+point of sale	pos
+point-of-sale	pos
+point to point	point-to-point
+prescription drug plan	pdp
+price to book	price-to-book
+price to earnings	price-to-earnings
+price to forward	price-to-forward
+price to tangible	price-to-tangible
+proof of concept	proof-of-concept
+provision for loan	provision-for-loan
+pre-provision net revenue	ppnr
+preprovision net revenue	ppnr
+line of business	lob
+line-of-business	lob
+push to talk	push-to-talk
+rate on invested-capital	roic
+ready to drink	ready-to-drink
+ready to eat	ready-to-eat
+ready to serve	ready-to-serve
+research & development	r&d
+research and development	r&d
+research&development	r&d
+research development	r&d
+return on asset	roa
+return on equity	roe
+risk weighted asset	rwa
+salomon smith barney	salomon-smith-barney
+season to date	season-to-date
+surface transportation board	stb
+structured investment vehicle	siv
+sg & a	sg&a
+side by side	side-by-side
+sum of part	sum-of-the-part
+sum of the part	sum-of-the-part
+take or pay	take-or-pay
+tangible book value	tbv
+tangible common equity	tce
+time to market	time-to-market
+two for one	two-for-one
+up to date	up-to-date
+value per share 	value-per-shar
+value to ebitda	value-to-ebitda
+video on demand	vod
+video on-demand	vod
+video-on-demand	vod
+voice over internet protocol	voip
+voice over ip	voip
+vis a vis	vis-a-vis
+wait and see	wait-and-see
+wall street journal	wsj
+waste to energy	waste-to-energy
+abbott laboratory	abbott-laboratory
+above average	above-average
+account receivable	accounts-receivable
+ad supported	ad-supported
+add back	add-back
+add on	add-on
+advisory fee	advisory-fee
+after hour	after-hour
+after market	after-market
+after tax	after-tax
+age related	age-related
+air conditioning	air-conditioning
+alberto culver	alberto-culver
+alcatel lucent	alcatel-lucent
+all cash	all-cash
+all cause	all-cause
+all digital	all-digital
+all time	all-time
+american express	AXP
+angio seal	angio-seal
+anheuser busch	anheuser-busch
+annuity like	annuity-like
+anti cancer	anti-cancer
+anti depressant	anti-depressant
+anti infectivce	anti-infective
+anti infectives	anti-infective
+anti inflammatory	anti-inflammatory
+anti spam	anti-spam
+anti trust	anti-trust
+anti tumor	anti-tumor
+anti virus	anti-virus
+archstone smith	archstone-smith
+arm based	arm-based
+asset backed	asset-backed
+asset based	asset-based
+asset light	asset-light
+asset management	asset-management
+asset manager	asset-manager
+asset mgmt	asset-management
+asset sales	asset-sales
+axis shield	axis-shield
+back end	back-end
+back office	back-office
+back up	back-up
+bad debt	bad-debt
+balance sheet	balance-sheet
+bank one	bank-one
+bare metal	bare-metal
+base case	base-case
+bear stearn	bear-stearns
+before tax	before-tax
+below average	below-average
+best buy	best-buy
+best case	best-case
+best selling	best-selling
+big box	big-box
+big ticket	big-ticket
+blow out	blow-out
+blu ray	blu-ray
+bolt on	bolt-on
+book bill	book-bill
+book value	book-value
+bottom line	bottom-line
+bottom up	bottom-up
+bounce back	bounce-back
+brand name	brand-name
+brand new	brand-new
+break even	break-even
+break out	break-out
+break up	break-up
+bristol myer	bristol-myer
+broad based	broad-based
+broker dealer	broker-dealer
+brown forman	brown-forman
+build out	build-out
+build up 	build-up
+built in 	built-in
+business description	business-description
+business model	business-model
+business unit	business-unit
+business to business	btob
+business-to-business	btob
+business to consumer	btoc
+business-to-consumer	btoc
+buy back	buy-back
+buy in	buy-in
+buy out	buy-out
+buy side	buy-side
+by product	by-product
+capital expenditure	capital-expenditure
+capital intensive	capital-intensive
+capital management	capital-management
+capital market	capital-market
+capital one	capital-one
+capital ratio	capital-ratio
+capital spending	capital-spending
+capital structure	capital-structure
+card business	card-business
+carry over	carry-over
+carve out	carve-out
+cash adjusted	cash-adjusted
+cash equivalent	equivalent
+cash flow	cash-flow
+cash management	cash-management
+castro wright	castro-wright
+cdma based	cdma-based
+charge off	charge-off
+charge offs	charge-off
+charged off	charge-off
+charle schwab	charles-schwab
+china based	china-based
+chlor alkali	chlor-alkali
+class action	class-action
+clean up	clean-up
+click through	click-through
+closed end	closed-end
+cloud based	cloud-based
+ co brand	 co-brand
+ co ceo	 co-ceo
+ co chairman	 co-chairman
+ co development	 co-development
+ co founder	 co-founder
+ co market	 co-market
+ co op	 co-op
+ co pay	 co-pay
+ co payment	 co-payment
+ co primary	 co-primary
+ co promote	co-promote
+coca cola	coca-cola
+cog sold	cogs
+colgate palmolive	colgate-palmolive
+combined cycle	combined-cycle
+combined ratio	combined-ratio
+commercial bank	commercial-bank
+commercial banking	commercial-banking
+commodity price	commodity-price
+common equity	common-equity
+common share	common-share
+common stock	common-stock
+community bank	community-bank
+community banking	community-banking
+comp store	compstore
+company owned	company-owned
+company specific	company-specific
+company wide	company-wide
+comparable same-store	compstore
+comparable store	compstore
+samestore sales	compstore
+conference call	conference-call
+consumer electronic	consumer-electronic
+consumer finance	consumer-finance
+consumer loan	consumer-loan
+continuing operation	continuing-operation
+controlled release	controlled-release
+corporate wide	corporate-wide
+cost efficient	cost-efficient
+cost-of-good sold	cogs
+counter cyclical	counter-cyclical
+coverage universe	coverage-universe
+credit card	credit-card
+credit facility	credit-facility
+credit loss	credit-loss
+credit quality	credit-quality
+credit related	credit-related
+credit suisse	credit-suisse
+credit loss	credit-loss
+credit rating	credit-rating
+cross border	cross-border
+cross connect	cross-connect
+cross license	cross-license
+cross platform	cross-platform
+cross sales	cross-sales
+cross sell	cross-selling
+cross selling	cross-selling
+cross licensing	cross-licensing
+customer service	customer-service
+cutting edge	cutting-edge
+dai ichi	dai-ichi
+datex ohmeda	datex-ohmeda
+davis besse	davis-besse
+ de emphasis	 de-emphasize
+ de emphasize	 de-emphasize
+ de emphasized	 de-emphasize
+ de lever	 de-lever
+ de levered	 de-lever
+ de leverage	 de-lever
+ de leveraging	 de-lever
+ de levering	 de-lever
+ de risk	 de-risk
+ de risk	 de-risk
+ de risking	 de-risk
+debit card	debit-card
+debt adjusted	debt-adjusted
+debt free	debt-free
+decision making	decision-making
+deep water	deep-water
+deferred revenue	deferred-revenue
+department store	department-store
+deutsche bank	deutsche-bank
+dial up	dial-up
+discontinued operation	discontinued-operation
+discount rate	discount-rate
+discounted cash-flow	discounted-cash-flow
+discounted cf	discounted-cash-flow
+dividend yield	dividend-yield
+direct injection	di
+dodd frank	dodd-frank
+ dot com	 dot-com
+double blind	double-blind
+double dip	double-dip
+dresser rand	dresser-rand
+drive through	drive-through
+drop off	drop-off
+drug coated	drug-coated
+drug eluting	drug-eluting
+dual core	dual-core
+ e book	 e-book
+ e business	 e-business
+ e commerce	 e-commerce
+ e reader	 e-reader
+early cycle	early-cycle
+early stage	early-stage
+earn out	earn-out
+earning asset	earning-asset
+earnings power	earnings-power
+earnings release	earnings-release
+earnings per-share	eps
+emerging market	emerging-market
+end demand	end-demand
+end market	end-market
+end stage	end-stage
+end use	end-use
+endo surgery	endo-surgery
+energy efficient	energy-efficient
+energy related	energy-related
+entergy koch	entergy-koch
+enterprise class	enterprise-class
+enterprise value	enterprise-value
+enterprise wide	enterprise-wide
+entry level	entry-level
+equal weight	equal-weight
+equity based	equity-based
+equity linked	equity-linked
+equity market	equity-market
+equity research	equity-research
+event driven	event-driven
+ever increasing	ever-increasing
+ ex cash	 ex-cash
+ ex option	 ex-option
+ ex stock	 ex-stock
+ ex unusual	 ex-unusual
+ ex us	 ex-us
+exchange rate	exchange-rate
+exchange traded	exchange-traded
+fair value	fair-value
+fannie mae	fnm
+fannie-mae	fnm
+fannie mae	fnm
+freddie mac	fre
+freddie-mac	fre
+farm in	farm-in
+fast food	fast-food
+fast track	fast-track
+federal reserve	federal-reserve
+ fee based	 fee-based
+ fee income	 fee-income
+fiber optic	fiber-optic
+fifth third	fifth-third
+fill in	fill-in
+financial advisor	financial-advisor
+financial corporation	financial-corporation
+financial institution	financial-institution
+financial service	financial-service
+fine tune	fine-tune
+fine tuned	fine-tune
+fine tuning	fine-tune
+firm wide	firm-wide
+first call	first-call
+first call	first-call
+first ever	first-ever
+first generation	first-generation
+first line	first-line
+first mover	first-mover
+fisher price	fisher-price
+fixed cost	fixed-cost
+fixed dose	fixed-dose
+fixed income	fixed-income
+fixed line	fixed-line
+fixed price	fixed-price
+fixed rate	fixed-rate
+flash based	flash-based
+flat panel	flat-panel
+flat rolled	flat-rolled
+floating rate	floating-rate
+flow through	flow-through
+for profit	for-profit
+foreign exchange	fx
+foreign-exchange	fx
+ f/x 	 fx 
+ forex 	 fx 
+forward looking	forward-looking
+fox pitt	fox-pitt
+freddie mac	freddie-mac
+free cash-flow	free-cash-flow
+free standing	free-standing
+free-cash flow	free-cash-flow
+freeport mcmoran	freeport-mcmoran
+frito lay	frito-lay
+frond end	front-end
+front line	front-line
+fuel efficient	fuel-efficient
+full blown	full-blown
+full price	full-price
+full priced	full-price
+full scale	full-scale
+full service	full-service
+full size	full-size
+full time	full-time
+full year	full-year
+fully diluted	fully-diluted
+game changing	game-changing
+gen probe	gen-probe
+general purpose	general-purpose
+geo political	geo-political
+georgia pacific	georgia-pacific
+go forward	going-forward
+going forward	going-forward
+going forward	going-forward
+goldman sachs	goldman-sachs
+goldman sach	goldman-sachs
+great west	great-west
+gross margin	gross-margin
+ground based	ground-based
+growth rate	growth-rate
+hand held	hand-held
+hand on	hands-on
+hard pressed	hard-pressed
+harley davidson	harley-davidson
+hatch waxman	hatch-waxman
+health care	health-care
+heavy duty	heavy-duty
+hedge fund	hedge-fund
+hewlett packard	hewlett-packard
+hi tech	high-tech
+high def	high-definition
+high definition	high-definition
+high end	high-end
+high frequency	high-frequency
+high grade	high-grade
+high impact	high-impact
+high power	high-power
+high profile	high-profile
+high quality	high-quality
+high single	high-single
+high speed	high-speed
+high tech	high-tech
+high teen	high-teen
+high voltage	high-voltage
+higher end	higher-end
+hoffmann la	hoffmann-la
+holding company	holding-company
+home depot	home-depot
+home equity	home-equity
+hot rolled	hot-rolled
+housing market	housing-market
+identical store	compstore
+in depth	in-depth
+in flight	in-flight
+in force	in-force
+in home	in-home
+in house	in-house
+in line	in-line
+in process	in-process
+in service	in-service
+in sourcing	in-sourcing
+in stent	in-stent
+in stocks	in-stocks
+in store	in-store
+income statement	income-statement
+income tax	income-tax
+industry leading	industry-leading
+industry standard	industry-standard
+industry wide	industry-wide
+ingersoll rand	ingersoll-rand
+intel based	intel-based
+inter company 	inter-company
+interest bearing	interest-bearing
+interest earning	interest-earning
+interest expense	interest-expense
+interest income	interest-income
+interest margin	interest-margin
+interest only	interest-only
+interest rate	interest-rate
+interest revenue	interest-revenue
+intermediate term	intermediate-term
+internet based	internet-based
+intra day	intra-day
+intra quarter	intra-quarter
+invested capital	invested-capital
+investment advisory	investment-advisory
+investment bank	investment-bank
+investment banking	investment-bank
+investment grade	investment-grade
+investment income	investment-income
+investment management	investment-management
+investment portfolio	investment-portfolio
+investment service	investment-service
+investment thesis	investment-thesis
+investor owned	investor-owned
+investor relations	investor-relation
+issuer specific	issuer-specific
+jack up	jack-up
+janssen cilag	janssen-cilag
+jefferson pilot	jefferson-pilot
+johnson johnson	johnson-johnson
+joint venture	joint-venture
+jp morgan	jp-morgan
+kerr mcgee	kerr-mcgee
+kilowatt hour	kilowatt-hour
+kimberly clark	kimberly-clark
+knapp track	knapp-track
+knight ridder	knight-ridder
+know how	know-how
+land based	land-based
+lap band	lap-band
+large cap	large-cap
+large scale	large-scale
+la vega	las-vegas
+late stage	late-stage
+lead time	lead-time
+leading edge	leading-edge
+lease up	lease-up
+least square	least-square
+left hand	left-hand
+life cycle	life-cycle
+life insurance	life-insurance
+life threatening	life-threatening
+light duty	light-duty
+line item	line-item
+line up	line-up
+liquid rich	liquids-rich
+lithium ion	lithium-ion
+loan loss	loan-loss
+lock in	lock-in
+lock up	lock-up
+long acting	long-acting
+long awaited	long-awaited
+long cycle	long-cycle
+long distance	long-distance
+long haul	long-haul
+long held	long-held
+long lasting	long-lasting
+long lived	long-lived
+long range	long-range
+long run	long-run
+long standing	long-standing
+long tail	long-tail
+long term	long-term
+longer term	long-term
+longterm debt	long-term-debt
+long-term debt	long-term-debt
+loss provision	loss-provision
+louisiana pacific	louisiana-pacific
+low carb	low-carb
+low end	low-end
+low hanging	low-hanging
+low income	low-income
+low price	low-price
+low single	low-single
+low teen	low-teen
+lower income	lower-income
+lower end	lower-end
+ m a 	 m&a 
+ ma 	 m&a 
+ m-a 	 m&a 
+madit crt	madit-crt
+mail order	mail-order
+majority owned	majority-owned
+make up	make-up
+mall based	mall-based
+management fee	management-fee
+management guidance	management-guidance
+mark tomarket	mtm
+mark up	mark-up
+market based	market-based
+market cap	market-cap
+market capitalization	market-capitalization
+market condition	market-condition
+market driven	market-driven
+market implied	market-implied
+market leading	market-leading
+market perform	market-perform
+market place	marketplace
+market related	market-related
+market share	market-share
+market weight	market-weight
+marketable security	marketable-security
+mass market	mass-market
+mcgraw hill	mcgraw-hill
+med tech	med-tech
+medium duty	medium-duty
+medium size	medium-size
+medium sized	medium-size
+medium term	medium-term
+merrill lynch	merrill-lynch
+meta analysi	meta-analysis
+mid atlantic	mid-atlantic
+mid cap	mid-cap
+mid cycle	mid-cycle
+mid market	mid-market
+mid point	mid-point
+mid range	mid-range
+mid size	mid-size
+mid sized	mid-size
+mid teen	mid-teen
+mid term	mid-term
+mid tier	mid-tier
+mid water	mid-water
+mid west	mid-west
+middle income	middle-income
+middle market	middle-market
+million plus	million-plus
+minority interest	minority-interest
+mixed signal	mixed-signal
+money losing	money-losing
+money market	money-market
+morgan stanley	morgan-stanley
+mortgage backed	mortgage-backed
+mortgage banking	mortgage-banking
+mortgage related	mortgage-related
+mortgage servicing	mortgage-servicing
+move up	move-up
+much needed	much-needed
+multi asset	multi-asset
+multi channel	multi-channel
+multi core	multi-core
+multi line	multi-line
+multi million	multi-million
+multi national 	multi-national
+multi product	multi-product
+multi service	multi-service
+multi state	multi-state
+multi year	multi-year
+must have	must-have
+mutual fund	mutual-fund
+narrow body	narrow-body
+national bank	national-bank
+national city	national-city
+near term	short-term
+nearer term	short-term
+net add	net-add
+net charge-off	nco
+net income	net-income
+net worth	net-worth
+neutral rating	neutral-rating
+new jersey	new-jersey
+new york	new-york
+nickel based	nickel-based
+non accrual	non-accrual
+non asset	non-asset
+non bank	non-bank
+non binding	non-binding
+non captive	non-captive
+non carb	non-carb
+non carbonated	non-carb
+non cash	non-cash
+non comparable	non-comparable
+non compete	non-compete
+non compliance	non-compliance
+non consolidated	non-consolidated
+non controlling	non-controlling
+non core	non-core
+non current	non-current
+non discretionary	non-discretionary
+non deposit	non-deposit
+non equity	non-equity
+non executive	non-executive
+non existent	non-existent
+non fatal	non-fatal
+non financial	non-financial
+non food	non-food
+non gaap	non-gaap
+non inferior	non-inferior
+non insulin	non-insulin
+non interest	non-interest
+non invasive	non-invasive
+non machine	non-machine
+non menthol	non-menthol
+non nuclear	non-nuclear
+non operating	non-operating
+non operational	non-operational
+non package	non-package
+non performer	non-performer
+non performing	non-performing
+non perform	non-perform
+non prime	non-prime
+non profit	non-profit
+non public	non-public
+non qualifying	non-qualifying
+non recurring	non-recurring
+non retail	non-retail
+non standard	non-standard
+non steroidal	non-steroidal
+non store	non-store
+non traditional	non-traditional
+non transaction	non-transaction
+non union	non-union
+non us	non-us
+non voting	non-voting
+non guaranteed	non-guaranteed
+non subsidized	non-subsidized
+noninterest bearing	non-interest-bearing
+non-interest bearing	non-interest-bearing
+nonoperating income	non-operating-income
+non-operating income	non-operating-income
+nonperforming asset	NPA
+non-performing asset	NPA
+nonperforming loan	NPL
+non-performing loan	NPL
+number one	number-one
+off B/S	off-balance-sheet
+off balance	off-balance
+off balance-sheet	off-balance-sheet
+off label	off-label
+off line	off-line
+off peak	off-peak
+off premise	off-premise
+off set	off-set
+off shore	off-shore
+off-balance sheet	off-balance-sheet
+oil based	oil-based
+on board	on-board
+on demand	on-demand
+on going	on-going
+on line	on-line
+on peak	on-peak
+on site	on-site
+on stream	on-stream
+on time	on-time
+on track	on-track
+once weekly	once-weekly
+one half	one-half
+one stop	one-stop
+ongoing basis	ongoing-basis
+open ended	open-ended
+open label	open-label
+open source	open-source
+operating expense	operating-expense
+operating income	operating-income
+operating leverage	operating-leverage
+operating margin	operating-margin
+operating performance	operating-performance
+operating profit	operating-profit
+opt in	opt-in
+opt out	opt-out
+oral b	oral-b
+ortho mcneil	ortho-mcneil
+out performance	out-performance
+outperform rating	outperform-rating
+over allotment	over-allotment
+owen illinoi	owens-illinois
+owner occupied	owner-occupied
+ p fresh	 p-fresh
+ p value	 p-value
+paclitaxel eluting	paclitaxel-eluting
+paid in	paid-in
+pan european	pan-european
+paper based	paper-based
+parker hannifin	parker-hannifin
+part time	part-time
+pass through	pass-through
+pay out	pay-out
+pay tv	pay-tv
+payout ratio	payout-ratio
+peg intron	peg-intron
+pent up	pent-up
+pepsi cola 	pepsi-cola
+per share	per-share
+per unit	per-unit
+performance based	performance-based
+period end	period-end
+phase iii	phase-iii
+phase in	phase-in
+phase out	phase-out
+pick up	pick-up
+plug in	plug-in
+pmc sierra	pmc-sierra
+post approval	post-approval
+post marketing	post-marketing
+post operative	post-operative
+post paid	post-paid
+post tax	post-tax
+power one	power-one
+pre announced	pre-announce
+pre announcement	pre-announce
+pre announce	pre-announce
+pre buying	pre-buying
+pre call	pre-call
+pre crisis	pre-crisis
+pre dialysis	pre-dialysis
+pre earnings 	pre-earnings
+pre existing	pre-existing
+pre filled	pre-filled
+pre funding	pre-funding
+pre market	pre-market
+pre marketing	pre-marketing
+pre opening	pre-opening
+pre option	pre-option
+pre order	pre-order
+pre owned	pre-owned
+pre pack	per-pack
+pre paid	pre-paid
+pre payment	pre-payment
+pre provision	pre-provision
+pre released	pre-released
+pre salt	pre-salt
+pre se	per-se
+pre specified	pre-specified
+pre tax	pre-tax
+pre term	pre-term
+pre trial	pre-trial
+preferred dividend	preferred-dividend
+preferred stock	preferred-stock
+press release	press-release
+price sensitive	price-sensitive
+price target	target-price
+pricetarget	target-price
+targetprice	target-price
+target price	target-price
+prime time	prime-time
+private client	private-client
+private equity	private-equity
+private label	private-label
+privately held	privately-held
+pro forma	pro-forma
+pro rata	pro-rata
+probability weighted	probability-weighted
+profit margin	profit-margin
+profit sharing	profit-sharing
+progression free	progression-free
+property casualty	property-casualty
+publicly traded	publicly-traded
+pull back	pull-back
+pull forward	pull-forward
+pull through	pull-through
+purchase price	purchase-price
+pure play	pure-play
+push back	push-back
+push out	push-out
+quad core	quad-core
+quick service	quick-service
+ r squared	 r-squared
+ramp up	ramp-up
+rating system	rating-system
+raw material	raw-material
+raw matl	raw-material
+re affirmed	re-affirmed
+re engineering	re-engineering
+re enter	re-enter
+re entry	re-entry
+re establish	re-establish
+re evaluate	re-evaluate
+re iterate	reiterate
+re price	re-price
+re priced	re-price
+read through	read-through
+real estate	real-estate
+real time	real-time
+real world	real-world
+record high	record-high
+regulation fd	Reg-FD
+ reg fd 	 Reg-FD 
+regional bank	regional-bank
+relapsing remitting	relapsing-remitting
+retail banking	retail-banking
+right hand	right-hand
+right rized	right-size
+right size	right-size
+right sizing	right-size
+risk adjusted	risk-adjusted
+risk free	risk-free
+risk management	risk-management
+risk weighted	risk-weighted
+ritz carlton	ritz-carlton
+robinson humphrey	robinson-humphrey
+roll forward	roll-forward
+roll off	roll-off
+roll out	roll-out
+roll up	roll-up
+roll royce	rolls-royce
+run off	run-off
+run rate	run-rate
+ s g&a	 sg&a
+same property	same-property
+same restaurant	same-restaurant
+same store	compstore
+sanmina sci	sanmina-sci
+sanofi aventi	sanofi-aventis
+sarbane oxley	sarbanes-oxley
+scale out	scale-out
+scale up	scale-up
+schering plough	schering-plough
+scientific atlanta	scientific-atlanta
+second largest	second-largest
+security related	security-related
+self administered	self-administered
+self funded	self-fund
+self funding	self-fund
+self inflicted	self-inflicted
+self insured	self-insured
+self pay	self-pay
+self service	self-service
+self storage	self-storage
+sell off	sell-off
+sell out	sell-out
+sell side	sell-side
+sell through	sell-through
+semi annual	semi-annual
+server based	server-based
+service charge	service-charge
+service fee	service-fee
+set top box	set-top
+set-top box	set-top
+set top 	set-top 
+ settop 	 set-top 
+settop box	set-top
+settop box	set-top
+set-top-box	set-top
+set up	set-up
+share based	share-based
+share outstanding	share-outstanding
+share price	share-price
+share repurchase	share-repurchase
+sherwin william	sherwin-william
+short cycle	short-cycle
+short lived	short-lived
+short run	short-run
+short term	short-term
+shorter term	short-term
+shr price	share-price
+shut down	shut-down
+shut in	shut-in
+side effect	side-effect
+sigma aldrich	sigma-aldrich
+sign up	sign-up
+single chip	single-chip
+single core	single-core
+single family	single-family
+single serve	single-serve
+slow down	slow
+small business	small-business
+small cap	small-cap
+small molecule	small-molecule
+smith barney	smith-barney
+snap back	snap-back
+snap on	snap-on
+so called	so-called
+solid state	solid-state
+specialty finance	specialty-finance
+spin off	spin-off
+spin out 	spin-out
+split adjusted	split-adjusted
+split off	split-off
+split up	split-up
+spread based	spread-based
+spun off	spin-off
+square foot	square-footage
+square footage	square-footage
+ square-foot 	 square-footage 
+stand alone	stand-alone
+standard based	standard-based
+start up	start-up
+state owneed	state-owned
+state street	state-street
+steady state	steady-state
+step down	step-down
+stepped down	step-down
+step up	step-up
+stepped up	stepped-up
+stock based	stock-based
+stock exchange	stock-exchange
+stock market	stock-market
+stock option	stock-option
+stock price	stock-price
+stock rating	stock-rating
+stop loss	stop-loss
+straight line	straight-line
+street high	street-high
+strong buy	strong-buy
+sub industry	sub-industry
+sub optimal	sub-optimal
+sub prime	subprime
+sub-prime	subprime
+sub sector	sub-sector
+sub total	sub-total
+super major	super-major
+super premium	super-premium
+super regional	super-regional
+supply chain	supply-chain
+synvisc one	synvisc-one
+ t cell	 t-cell
+ t shirt	 t-shirt
+take away	take-away
+take home	take-home
+take over	take-over
+tangible equity	tangible-equity
+target based	target-based
+target price	target-price
+tax exempt	tax-exempt
+tax free	tax-free
+tax income	tax-income
+tax rate	tax-rate
+temple inland	temple-inland
+therma tru	therma-tru
+thin film	thin-film
+third party	third-party
+three pronged	three-pronged
+ tie in	 tie-in
+time consuming	time-consuming
+time frame	time-frame
+time share	time-share
+time warner	time-warner
+tnf alpha	tnf-alpha
+top down	top-down
+top end	top-end
+top line	top-line
+top notch	top-notch
+top selling	top-selling
+top tier	top-tier
+track record	track-record
+trade in	trade-in
+trade off	trade-off
+trading volume	trading-volume
+transaction based	transaction-based
+transapical approach	ta
+trend line	trend-line
+tri cyclen	tri-cyclen
+triple a	triple-a
+triple play	triple-play
+true up	true-up
+tuck in	tuck-in
+turn around	turn-around
+twice daily	twice-daily
+two fold	two-fold
+two way	two-way
+ultra deepwater	ultra-deepwater
+ultra low	ultra-low
+un attractive	unattractive
+under appreciated	under-appreciated
+under earning	under-earning
+under funded	under-funded
+under levered	under-levered
+under penetrated	under-penetrated
+under perform	under-perform
+under performance	under-perform
+under performed	under-perform
+under performing	under-perform
+under valued	under-valued
+united state	united-state
+up front	up-front
+up sell	up-sell
+up tick	up-tick
+upper end	upper-end
+upper income	upper-income
+us based	us-based
+user friendly	user-friendly
+utility scale	utility-scale
+valuation methodology	valuation-methodology
+value add	value-add
+value added	value-add
+value based	value-based
+value creating	value-creating
+value priced	value-priced
+veeder root	veeder-root
+venture capital	venture-capital
+vice president	vice-president
+ w cdma	 w-cdma
+ wcdma	 w-cdma
+wal mart	wal-mart
+warner lambert	warner-lambert
+washington mutual	WAMU
+wealth management	wealth-management
+web based	web-based
+weighted average	weighted-average
+weighted-average cost-of-capital	wacc
+well above	well-above
+well attended	well-attended
+well balanced	well-balanced
+well being	well-being
+well controlled	well-controlled
+well defined	well-defined
+well documented	well-documented
+well established	well-established
+well known	well-known
+well managed	well-managed
+well publicized	well-publicized
+well received	well-received
+well run	well-run
+well tolerated	well-tolerated
+well fargo	wells-fargo
+western union	western-union
+wholly owned	wholly-owned
+wi fi	wi-fi
+wide body	wide-body
+wide ranging	wide-ranging
+william sonoma	williams-sonoma
+win win	win-win
+wind down	wind-down
+window based	windows-based
+winn dixie	winn-dixie
+winston salem	winston-salem
+working capital	working-capital
+world class	world-class
+world wide	world-wide
+worst case	worst-case
+wrap up	wrap-up
+write down	write-down
+write off	write-off
+write up	write-up
+wyeth ayerst	wyeth-ayerst
+x ray	x-ray
+year old	year-old
+yield curve	yield-curve
+zero coupon	zero-coupon
+ A/R 	 accounts-receivable 
+ addon 	 add-on 
+aftertax	after-tax
+anticancer	anti-cancer
+antiinfective	anti-infective
+antiinflammatory	anti-inflammatory
+antitrust	anti-trust
+antivirus	anti-virus
+asset-mgmt	asset-management
+assets-under-management	AUM
+ backup 	 back-up 
+betterthan-expected	better-than-expected
+better-thanexpected	better-than-expected
+bigbox	big-box
+bio-analytical	bioanalytical
+blowout	blow-out
+bluray	blu-ray
+bottomline	bottom-line
+brandname	brand-name
+brandnew	brand-new
+breakeven	break-even
+breakout	break-out
+breakup	break-up
+bristolmyer	bristol-myer
+broadbased	broad-based
+buildup	build-up
+builtin	built-in
+buyback	buy-back
+ buyin 	 buy-in 
+ buyout 	 buy-out 
+bv/sh	book-value-to-share
+byproduct	by-product
+ cagr 	 compound-annual-growth-rate 
+ capex 	 capital-expenditure 
+cap-ex	capital-expenditure
+cashflow	cash-flow
+cash/sh	cash-per-share
+cash/sh	cash-per-share
+cash/share	cash-per-share
+ chargeoff 	 charge-off 
+closedend	closed-end
+cloudbased	cloud-based
+cobrand	co-brand
+cocacola	coca-cola
+cochairman	co-chairman
+cofounder	co-founder
+ cog 	 cogs 
+comparable-store	compstore
+ copay 	 co-pay 
+copayment	co-payment
+corporatewide	corporate-wide
+creditcard	credit-card
+debt/total	debt-to-total
+de-emphasized	de-emphasize
+de-emphasizing	de-emphasize
+deleverage	de-lever
+de-leverage	de-lever
+deleveraging	de-lever
+de-leveraging	de-lever
+delevering	de-lever
+de-levering	de-lever
+de-risked	de-risk
+de-risking	de-risk
+ dialup 	 dial-up 
+ diy 	 do-it-yourself 
+dotcom	dot-com
+doubleblind	double-blind
+drivethrough	drive-through
+drive-thru	drive-through
+ dropoff 	 drop-off 
+ dta 	 deferred-tax-asset 
+ dualcore 	 dual-core 
+earnings-per-share	eps
+ ebook 	 e-book 
+ebusiness	e-business
+ecommerce	e-commerce
+ e-mail 	 email 
+equalweight	equal-weight
+ereader	e-reader
+everincreasing	ever-increasing
+fastfood	fast-food
+ fcf 	 free-cash-flow 
+fcf/sh	fcf-per-share
+fcf/share	fcf-per-share
+finetuned	fine-tune
+firmwide	firm-wide
+forwardlooking	forward-looking
+frondend	front-end
+fullpriced	full-priced
+fullservice	full-service
+gain/loss	gains-to-loss
+gains/loss	gains-to-loss
+handson	hands-on
+higherthan-expected	higher-than-expected
+higher-thanexpected	higher-than-expected
+highspeed	high-speed
+hightech	high-tech
+ high-vol 	 high volume 
+hitech	high-tech
+hi-tech	high-tech
+i/b/e/s	i-b-e-s
+ ibes 	 i-b-e-s 
+inflight	in-flight
+initial-public-offering	IPO
+inline	in-line
+intercompany	inter-company
+intraday	intra-day
+jackup	jack-up
+ jit 	 just-in-time 
+largecap	large-cap
+lifecycle	life-cycle
+lineup	line-up
+lithiumion	lithium-ion
+loan-loss-provision	LLP
+loan-loss-reserve	LLR
+lockin	lock-in
+lockup	lock-up
+longdistance	long-distance
+longerterm	long-term
+longer-term	long-term
+longhaul	long-haul
+longlasting	long-lasting
+longlived	long-lived
+longrun	long-run
+longstanding	long-standing
+longtail	long-tail
+longterm	long-term
+lowerthan-expected	lower-than-expected
+lower-thanexpected	lower-than-expected
+macro-economic	macroeconomic
+ makeup 	 make-up 
+market-place	marketplace
+mark-tomarket	mtm
+markup	mark-up
+medtech	med-tech
+ midcap 	 mid-cap 
+midcycle	mid-cycle
+midsize	mid-size
+midsized	mid-size
+midteen	mid-teen
+midwest	mid-west
+mortgage-backed-security	MBS
+multicore	multi-core
+multimillion	multi-million
+multinational	multi-national
+multiyear	multi-year
+nearterm	near-term
+net-interest-margin	nim
+nonaccrual	non-accrual
+nonbinding	non-binding
+noncash	non-cash
+noncompliance	non-compliance
+noncontrolling	non-controlling
+noncore	non-core
+noncurrent	non-current
+nondiscretionary	non-discretionary
+nonexecutivce	non-executive
+nonexistent	non-existent
+nonfatal	non-fatal
+nonfinancial	non-financial
+nongaap	non-gaap
+noninterest	non-interest
+noninterest-bearing	non-interest-bearing
+noninvasive	non-invasive
+nonoperating	non-operating
+nonoperational	non-operational
+nonperforming	non-performing
+nonprime	non-prime
+nonqualifying	non-qualifying
+nonrecurring	non-recurring
+nontraditional	non-traditional
+ nonus 	 non-us 
+nonvoting	non-voting
+off-B/S 	off-balance-sheet 
+offbalance	off-balance
+offpeak	off-peak
+offset	off-set
+offshore	off-shore
+onboard	on-board
+ondemand	on-demand
+ ongoing 	 on-going 
+online	on-line
+onsite	on-site
+onstream	on-stream
+optout	opt-out
+ otc 	 over-the-counter 
+outperformance	out-performance
+ p/b 	 price-to-book 
+ p/bv 	 price-to-book 
+ p/cf 	 price-to-cf 
+ p/e 	 price-to-earnings 
+ p/e-to-growth	 price-to-earnings-to-growth
+ payout 	 pay-out 
+ pepsi 	 pepsi-cola 
+pepsicola	pepsi-cola
+phasein	phase-in
+plugin	plug-in
+postoperative	post-operative
+preannounced	pre-announce
+preannouncement	pre-announce
+preannounce	pre-announce
+precall	pre-call
+precrisis	pre-crisis
+predialysis	pre-dialysis
+preearning	pre-earnings
+prefilled	pre-filled
+premarket	pre-market
+premarketing	pre-marketing
+preopening	pre-opening
+preowned	pre-owned
+preprovision	pre-provision
+prereleased	pre-released
+prespecified	pre-specified
+pretax	pre-tax
+preterm	pre-term
+pretrial	pre-trial
+pricetarge	target-price
+price/book	price-to-book
+price/earnings	price-to-earnings
+price/earnings-to-growth	price-to-earnings-to-growth
+price-target	target-price
+ price-to-e 	 price-to-earnings 
+price-toearnings	price-to-earnings
+primetime	prime-time
+property/casualty	property-casualty
+prorata	pro-rata
+ pushout 	 push-out 
+ pvalue 	 p-value 
+ quadcore 	 quad-core 
+reaffirmed	re-affirmed
+realestate	real-estate
+realtime	real-time
+realworld	real-world
+reengineering	re-engineering
+reenter	re-enter
+reentry	re-entry
+reestablish	re-establish
+reevaluate	re-evaluate
+re-iterate	reiterate
+re-iterated	reiterate
+ reprice 	 re-price 
+ repriced 	 re-price 
+re-purchase	repurchase
+research&development	r&d
+research-and-development	r&d
+return-on-asset	roa
+return-on-equity	roe
+righthand	right-hand
+riskadjusted	risk-adjusted
+ riskfree 	 risk-free 
+ rollout 	 roll-out 
+ rollup 	 roll-up 
+runrate	run-rate
+sale-leaseback	sale-lease-back
+same-store-sales	compstore
+samestore	compstore
+scaleout	scale-out
+scaleup	scale-up
+selloff	sell-off
+sellout	sell-out
+sellside	sell-side
+semiannual	semi-annual
+shortrun	short-run
+shortterm	short-term
+signup	sign-up
+singlecore	single-core
+smallcap	small-cap
+ sox 	 sarbanes-oxley 
+spinoff	spin-off
+spinout	spin-out
+splitup	split-up
+spunoff	spun-off
+standalone	stand-alone
+standards-based	standard-based
+startup	start-up
+stepdown	step-down
+stockbased	stock-based
+subindustry	sub-industry
+suboptimal	sub-optimal
+takeaway	take-away
+takehome	take-home
+takeover	take-over
+tcell	t-cell
+thirdparty	third-party
+timeframe	time-frame
+topline	top-line
+topselling	top-selling
+tradein	trade-in
+tradeoff	trade-off
+trendline	trend-line
+tshirt	t-shirt
+tuckin	tuck-in
+twofold	two-fold
+ultralow	ultra-low
+un-attractive	unattractive
+underlevered	under-levered
+underpenetrated	under-penetrated
+underperform	under-perform
+underperformance	under-perform
+underperformed	under-perform
+underperforming	under-perform
+undervalued	under-valued
+upfront	up-front
+value/sh	value-per-share
+value/share	value-per-share
+valueadded	value-add
+vis-vis	vis-a-vis
+ vp 	 vice-president 
+walmart	wal-mart
+wcdma	w-cdma
+wellbalanced	well-balanced
+well positioned	well-positioned
+wellbeing	well-being
+wellknown	well-known
+ wifi 	 wi-fi 
+worldwide	world-wide
+wrapup	wrap-up
+writedown	write-down
+xray	x-ray
+wellpositioned	well-positioned
+cash flow growth	cash-flow-growth
+cash-flow growth	cash-flow-growth
+revenue growth	revenue-growth
+sales growth	sales-growth
+eps growth	eps-growth
+earnings growth	eps-growth
+organic growth	organic-growth
+volume growth	volume-growth
+top-line growth	top-line-growth
+loan growth	loan-growth
+profit growth	profit-growth
+market growth	market-growth
+income growth	income-growth
+future growth	future-growth
+long-term growth	future-growth
+production growth	production-growth
+ebitda growth	ebitda-growth
+ebit growth	ebit-growth
+expense growth	expense-growth
+margin growth	margin-growth
+demand growth	demand-growth
+international growth	international-growth
+gdp growth	gdp-growth
+asset growth	asset-growth
+dividend growth	dividend-growth
+growth rate	growth-rate
+growth outlook	future-growth
+eps estimate	eps-estimate
+earnings estimate	eps-estimate
+consensus estimate	consensus-estimate
+management estimate	management-estimate
+revenue estimate	revenue-estimate
+analyst estimate	analyst-estimate
+street estimate	street-estimate
+growth estimate	growth-estimate
+eps forecast	eps-forecast
+earnings forecast	eps-forecast
+management forecast	management-forecast
+revenue forecast	revenue-forecast
+growth forecast	growth-forecast
+ topline 	 top-line 
+ bottomline 	 bottom-line 

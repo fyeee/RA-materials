@@ -1,0 +1,1757 @@
+January 11, 2018
+ 
+Rating:
+NEUTRAL (from OUTPERFORM)
+Price:
+$78.53
+12-Month Price Target:
+$80.00 (from $72.00)
+ 
+  
+Analysts
+Seth Basham, CFA
+212-938-9954
+Seth.Basham@wedbush.com
+Nathan Friedman
+212-938-9955
+Nathan.Friedman@wedbush.com
+Jordan Flannery
+212-668-9892
+Jordan.Flannery@wedbush.com
+
+   
+
+Company Information
+Shares Outst (M)
+52-Week Range
+Market Cap (M)
+Cash/sh
+Enterprise Value (M)
+Tangible Book Value/sh
+Net Debt (M)
+Yield
+
+125.6
+$49.53 - $79.49
+$9,860.6
+$0.56
+$10,458
+$10.15
+$247.15
+0.01%
+
+REV (M)
+FYE Dec
+Q1  Mar
+Q2  Jun
+Q3  Sep
+Q4  Dec
+Previous
+Year*
+Previous
+
+EPS
+FYE Dec
+Q1  Mar
+Previous
+Q2  Jun
+Previous
+Q3  Sep
+Previous
+Q4  Dec
+Previous
+Year*
+Previous
+P/E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2017E
+
+2016A
+
+in $
+2018E
+1,467.8A 1,564.1A 1,688.7E
+1,852.5A 2,017.8A 2,147.1E
+1,542.7A 1,721.7A 1,835.2E
+1,916.5A 1,931.2E 2,054.0E
+1,895.4E 2,025.4E
+6,779.6A 7,234.7E 7,724.9E
+7,199.0E 7,696.3E
+
+2016A
+0.50A
+
+2017E
+0.46A
+
+1.16A
+
+1.25A
+
+0.67A
+
+0.72A
+
+0.94A
+
+3.27A
+
+24.0x
+
+0.88E
+0.85E
+3.30E
+3.27E
+23.8x
+
+in $
+2018E
+0.59E
+0.53E
+1.60E
+1.36E
+0.85E
+0.75E
+1.04E
+0.91E
+4.08E
+3.54E
+19.2x
+
+Pricing data provided by Thomson Reuters.
+*Numbers may not add up due to rounding.
+
+Company Report
+
+Tractor Supply Company  (TSCO)
+
+Downgrading to NEUTRAL; Key Drivers Improving, but
+Margin Pressures Persist
+
+  
+The Wedbush View
+
+Comp  drags  in  recent  years  of  weather,  energy  markets  and  deflation  continue
+to lessen or inflect positively. Most notably, favorable weather conditions—colder
+than  expected  temperatures  in  November  and  December—likely  drove  strong
+sales in winter seasonal product categories including fuel, insulated outerwear and
+power equipment, leading us to boost our 4Q17 estimates above consensus. At
+the same time, while the weather forecast for 1Q18 looks favorable against easy
+comparisons, and company-specific drivers have legs, continued SG&A pressures
+including omnichannel spending may lead to initial implied 2018 operating margin
+guidance below consensus. At 20x 2018E EPS including estimated net tax reform
+benefits, TSCO appears fairly valued for ~11% long-term EPS growth, leading us to
+downgrade shares from OUTPERFORM to NEUTRAL but raise our price target to
+$80 (from $72).
+Weather  a  nice  boost  for  4Q17,  leading  us  to  raise  our  estimates.  Favorable
+weather  conditions—colder  than  expected  temperatures  in  November  and
+December  (see  Figure  3)—likely  drove  strong  sales  in  winter  seasonal  product
+categories  including  fuel,  insulated  outerwear  and  power  equipment.  Indeed,
+Planalytics, a weather-intelligence firm, reported strong weather-driven demand
+for the heating (+21% Nov; +5% Dec) and outerwear categories (+5% Nov; -1% Dec)
+despite lapping significantly tougher comparisons (see Figure 4). Based primarily
+on more favorable than expected weather, we are raising our 4Q comp estimate
+to  3.0%  from  1.0%  (vs.  consensus  1.7%)  and  our  EPS  to  $0.88  from  $0.85  (vs.
+consensus $0.86).
+
+Expect  modest  margin  upside  in  4Q  with  more  limited  seasonal  markdowns
+and  SG&A  pressures.  Cold  weather  in  November  and  better  than  anticipated
+sales trends in December, despite the tougher comparison, should limit seasonal
+markdown pressure. We recall in 4Q16 that comps were strong (+3.1% or +3.8%
+calendar-adjusted), but gross margins declined 35 bps y/y in part due to higher
+promotions in an effort to drive traffic to stores. Given that December did not prove
+to  be  the  headwind  that  it  was  expected  to  be,  we  estimate  flat  gross  margins
+(in  line  with  consensus).  We  expect  modest  contributions  from  TSCO’s  ongoing
+initiatives  associated  with  price  management  and  inventory  management  to  be
+offset by increased freight and fulfillment expenses; other headwinds may include
+stronger performance in the CUE segment which operates at lower margins (an
+estimated ~400 bps) than other product segments. Given stronger sales, we now
+expect SG&A as a % of sales to come in at the low end of the company’s 4Q guidance
+of 80-100 bps of y/y deleverage. The company continues to invest in labor hours
+to improve customer service levels and depreciation is growing at a rate faster rate
+than sales due to strategic investments in technology and supply chain investments.
+As well, incentive compensation is normalizing, pressuring SG&A.
+
+Wedbush Securities does and seeks to do business with companies covered in its
+research reports. Thus, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of this report. Investors should
+consider this report as only a single factor in making their investment decision.
+Please see pages 25–29 of this report for analyst certification and important
+disclosure information.
+
+www.wedbush.com
+
+Page 1
+
+Investment Overview
+
+ 
+
+Weather,  deflation  and  oil-economy  cyclical  pressures  should  continue  to  ease  into  2018,  boosting  comps.
+Meanwhile,  improvements  in  merchandising,  omnichannel,  a  new  loyalty  program,  extended  aisle  and  in-store
+pickup, should also help comps. That said, we expect continued elevated investments weighing on margins. Excluding
+tax  reform  benefits  and  related  reinvestments,  we  see  potential  for  initial  2018  margin  and  EPS  guidance  to
+disappoint. Moreover, tax reform benefits appear mostly priced in.
+ 
+Bear Case
+
+Base Case
+
+Bull Case
+
+ 
+
+ 
+
+ 
+
+Comp headwinds mostly
+transitory and biz recovers as
+weather & cyclical pressures
+fade. Compet. from online
+channel, but initiatives drive
+share gains. EPS growth slips to
++HSD ex tax reform benefits
+
+Comps reaccelerate to 3%+
+driven by in-store initiatives and
+normalizing weather. Long-term
++LDD EPS growth algorithm ex tax
+reform benefits remains intact
+
+Comps trend sub-2% due to
+ongoing cyclical/secular pressures.
+Store growth algorithm slows &
+increased spending online drives
+margin compression. EPS growth
+slows to +LSD ex tax reform benefits
+
+ 
+Upcoming Catalysts
+
+ 
+
+● Home improv. supplier/retailer reports
+● Monthly home improvement retail sales
+
+Valuation
+
+ 
+
+Primary Value Driver
+
+Reported comps
+
+● Margin impacts y/y
+
+EPS growth
+
+Investor Sentiment
+
+ 
+
+ 
+
+Our  $80  price  target  (from  $72)  is  20x  our  2018  EPS
+estimate of $4.08 (up from $3.54).
+
+ 
+Company Description
+
+ 
+
+ 
+
+Tractor  Supply  is  the  leading  "rural  lifestyle"  retailer
+with  1,595  TSC  and  143  Petsense  locations  in  2016
+selling products such as pet/animal feed and care, tools/
+hardware, work clothing and truck/trailer supplies.
+
+Positive  due  to  improving  sales  trends,  easy  comps
+and  anticipated  tax  reform  benefits.  These  factors
+overshadow increased spending on digital and online
+channel share shift concerns.
+
+Price Performance
+
+85.00
+
+80.00
+
+75.00
+
+70.00
+
+65.00
+
+60.00
+
+55.00
+
+50.00
+
+45.00
+
+01/ 17
+
+04/ 17
+
+07/ 17
+
+10/ 17
+
+01/ 18
+
+Tractor Supply Company
+
+Source: EDI
+
+www.wedbush.com
+
+Page 2
+
+●
+●
+ 
+
+ 
+
+Downgrading to NEUTRAL; Key Drivers Improving, but Margin Pressures 
+Persist  
+
+ 
+The  Wedbush  View.    Comp  drags  in  recent  years  of  weather,  energy  markets  and  deflation 
+continue to lessen or inflect positively. Most notably, favorable weather conditions—colder than 
+expected temperatures in November and December—likely drove strong sales in winter seasonal 
+product categories including fuel, insulated outerwear and power equipment, leading us to boost 
+our  4Q17  estimates  above  consensus.  At  the  same  time,  while  the  weather  forecast  for  1Q18 
+looks  favorable  against  easy  comparisons,  and  company-specific  drivers  have  legs,  continued 
+SG&A  pressures  including  omnichannel  spending  may  lead  to  initial  implied  2018  operating 
+margin guidance below consensus. At 20x 2018E EPS including estimated net tax reform benefits, 
+TSCO appears fairly valued for ~11% long-term EPS growth, leading us to downgrade shares from 
+OUTPERFORM to NEUTRAL but raise our price target to $80 (from $72).  
+ 
+Weather  a  nice  boost  for  4Q17,  leading  us  to  raise  our  estimates.  Favorable  weather 
+conditions—colder  than  expected  temperatures  in  November  and  December  (see  Figure  3)—
+likely drove strong sales in winter seasonal product categories including fuel, insulated outerwear 
+and power equipment. Indeed, Planalytics, a weather-intelligence firm, reported strong weather-
+driven  demand  for  the  heating  (+21%  Nov;  +5%  Dec)  and  outerwear  categories  (+5%  Nov;  -1% 
+Dec)  despite  lapping  significantly  tougher  comparisons  (see  Figure  4).  Based  primarily  on  more 
+favorable than expected weather, we are raising our 4Q comp estimate to 3.0% from 1.0% (vs. 
+consensus 1.7%) and our EPS to $0.88 from $0.85 (vs. consensus $0.86).    
+ 
+Expect  modest  margin  upside  in  4Q  with  more  limited  seasonal  markdowns  and  SG&A 
+pressures.  Cold  weather  in  November  and  better  than  anticipated  sales  trends  in  December, 
+despite  the  tougher  comparison,  should  limit  seasonal  markdown  pressure.  We  recall  in  4Q16 
+that comps were strong (+3.1% or +3.8% calendar-adjusted), but gross margins declined 35 bps 
+y/y in part due to higher promotions in an effort to drive traffic to stores. Given that December 
+did not prove to be the headwind that it was expected to be, we estimate flat gross margins (in 
+line with consensus). We expect modest contributions from TSCO’s ongoing initiatives associated 
+with  price  management  and  inventory  management  to  be  offset  by  increased  freight  and 
+fulfillment  expenses;  other  headwinds  may  include  stronger  performance  in  the  CUE  segment 
+which operates at lower  margins (an  estimated  ~400 bps) than other product segments. Given 
+stronger sales, we now expect SG&A as a % of sales to come in at the low end of the company’s 
+4Q guidance of 80-100 bps of y/y deleverage. The company continues to invest in labor hours to 
+improve customer service levels and depreciation is growing at a rate faster rate than sales due 
+to  strategic  investments  in  technology  and  supply  chain  investments.  As  well,  incentive 
+compensation is normalizing, pressuring SG&A.  
+ 
+Weather forecast for 1Q18 favorable. In 1Q18, TSCO will be lapping its easiest comp comparison 
+for  the  year  (-2.2%),  driven  primarily  by  unfavorable  weather—very  mild  winter  weather  in 
+January and February diminished demand for winter seasonal products, while unseasonably cold 
+and  snowy  weather  in  March  across  various  weather-sensitive  regions  diminished  demand  for 
+spring seasonal products. The Weather Channel (TWC) forecasts 1Q temperatures to be slightly 
+below average in the upper Midwest and parts of the Northeast, while the majority of the Mid-
+Atlantic,  Southeast  and  parts  of  the  Midwest  and  Lower  Plains  may  experience  temperatures 
+above average; this forecast is relatively consistent on a month-by-month basis (see Figures 5-8). 
+Should  TWC’s  forecast  for  the  next  three  months  prove  accurate,  average  temperatures  in 
+weather-sensitive  regions  we  track  would  decline  a  sharp  ~7⁰F  y/y  in  January  and  ~8⁰F  y/y  in 
+February, which would much more favorable for winter category sales. More importantly, March 
+temperatures  are  currently  forecasted  to  be  flat  y/y  despite  the  6⁰F  y/y  temperature  decline 
+experienced  in  weather-sensitive  regions  in  March  2017  (see  Figure  9).  Flattish  temperatures 
+coupled  with  easy  comparisons,  particularly  in  big  ticket  sales,  should  benefit  TSCO  comps, 
+leaving us comfortable with our 1Q18 comps estimate of 4.0% vs. consensus 3.5%.   
+ 
+
+www.wedbush.com
+
+Page 3
+
+ 
+
+ 
+
+Initial  margin  guidance  for  2018  may  disappoint  modestly;  revising  estimates.  We  anticipate 
+2018  annual  comp  guidance  to  be  somewhat  conservative  and  roughly  in  line  with  the  initial 
+guidance provided last year including 2-3% comps and EPS growth in the +MSD-HSD range (see 
+Figure  20).  Company-specific  initiatives  coupled  with  normalizing  winter  weather  and  easy 
+comparisons through the key spring selling season point to a more favorable top-line outlook for 
+2018, with potential upside to our 2.5% comp estimate (vs. consensus 2.4%). That said, we see 
+additional  risk  to  margins  in  2018  as  TSCO  continues  to  invest  in  technology-related  and 
+customer-centric initiatives, and faces other cost pressures including wage inflation and incentive 
+compensation  costs,  leading  us  to  reduce  our  estimates.  Our  underlying  SG&A  margins  now 
+stand  30  bps  above  consensus  and  our  operating  margins  now  stand  30  bps  below  consensus, 
+leading us to reduce our underlying 2018 EPS estimate from $3.54 to $3.48.  
+ 
+Tax  reform  benefits  likely  partially  reinvested.  Assuming  a  23%  tax  rate  going  forward  (down 
+from 36.5% in 2017E), EPS will rise ~20% all else equal, to $4.18. However, we anticipate that at 
+least  15%  of  tax  expense  savings  will  be  reinvested  back  into  the  business  given  even  more 
+significant  reinvestment  plans  by  home  improvement  peers  such  as  HD  and  FND.  Accordingly, 
+our new 2018 EPS estimate is $4.08 (see Figure 1 and Figures 21-23 for more detail).   
+ 
+Figure 1: Summary of 2018 EPS Revision 
+
+ 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+TSCO big ticket comps bounced in 3Q to out-comp LOW, but we expect relative performance to 
+weaken  going  forward.  For the first time in nine quarters, TSCO out-comped one of the home 
+centers  (HD,  LOW)  in  3Q17  (see  Figures  10-11).  We  believe  a  key  reason  for  the  improvement 
+was favorable weather and stronger big ticket comps. Hurricane-related demand for items such 
+as  power  generators  fueled  +HSD  big  ticket  comps,  the  first  positive  performance  since  2Q15 
+(see Figures  12-13). Although facing a tougher comparison in 4Q, we expect continued positive 
+big ticket comps in 4Q17, driven by categories such as wood-burning fire places and log splitters. 
+Cycling through pressure in gun safes should also help, as should improvement in discretionary 
+demand in energy-centric markets. Nonetheless, we see more limited comp and big ticket comp 
+drivers for TSCO than for the home centers. The home remodel cycle remains strong, with solid 
+demand  for  growth  in  appliances,  Pro  sales  and  remodeling  projects  to  which  TSCO  has  little 
+exposure relative to the home centers. 
+
+www.wedbush.com
+
+Page 4
+
+Prior 2018 EPS Estimate3.54$         Increased spending in supply chain/freightHigher mix in online sales and CUEIncremental pre-opening/operating expenses from New York DCHigher incentive compensationInvestments in digital initiativesWage inflationNew - Underlying (Ex Tax Reform)3.48$         Decreasing corporate tax rate to 23%New - Including Tax Reform4.18$         15% reinvestment of estimated tax reform benefitsNew 2018 EPS Estimate4.08$          
+
+ 
+
+Pressures  on  pet  category  likely  to  grow  from  online,  mass/grocery,  with  PetSmart  recent 
+results  a  sign.  While  TSCO’s  Pet  and  Livestock  category  remains  strong,  we  see  an  increasing 
+threat  from  the  online  and  mass/grocery  channels,  and  given  the  traffic-driving  nature  of  this 
+core  CUE  category,  TSCO  risks  losing  other  (typically  higher-margin)  discretionary  sales  that 
+accrue from the traffic. According to Packaged Facts, Internet sales accounted for 9% of the $48b 
+U.S.  market  for  pet  products  in  2016,  and  this  likely  increased  to  a  LDD  mix  in  2017,  led  by 
+outsized growth from AMZN. Internet sales continue to outpace and cannibalize sales from other 
+channels, notably pet super stores like PetSmart. Indeed, according to One Click Retail, AMZN Pet 
+Products  category  sales  in  the  12  month  period  ending  September,  2017  increased  33%  y/y  to 
+$2.2b;  the  Pet  Food  &  Feeding  Supplies  sub-category  sales  increased  47%  y/y  to  $970m.  Also 
+notable,  PetSmart  reported  30%  y/y  revenue  growth  in  3Q17  driven  entirely  by  its  ~$3b 
+acquisition of Chewy.com, but revenue in its legacy business slipped by 1.5% and legacy business 
+EBITDA  declined  15%  y/y;  management  also  uncharacteristically  refrained  from  guiding  4Q 
+results.  Additional challenges include pet suppliers’ decision to shift to mass distribution as seen 
+by Colgate-Palmolive (Science Diet) in 4Q16 and more recently, Blue Buffalo’s decision to sell its 
+premium pet food brand in the mass and grocery channel.  
+ 
+Company-specific initiatives on track. Benefits from sales-driving initiatives including buy-online-
+pickup-in-store  (BOPIS)  and  its  Neighbor’s  Club  loyalty  program  should  continue  to  rise. 
+Approximately  75%  of  online  orders  were  picked  up  at  stores  in  3Q  (up  from  55%  in  2Q), 
+signaling  the  importance  of  the  bricks  and  mortar  location.  BOPIS  average  tickets  remain 
+significantly  higher  than  the  company  average  and  customers  usually  buy  3.5  to  4  additional 
+items when  they come into the store to pick up an online order, driving sales that are  ~2x the 
+company’s  average  ticket  size.  As  well,  TSCO’s  Neighbor’s  Club  also  continues  to  gain  traction 
+with over 5m members as of 3Q17, up from nearly 4m members in 2Q17. Members are receiving 
+reward opportunities and personalized advertising based on transaction history, driving increases 
+in  comp  transactions  and  basket  sizes.  Other  sales-driving  initiatives  still  being  piloted  include 
+Mobile  POS  and  Stockyard  which  help  improve  checkout  speed  and  offer  an  “endless  aisle”  of 
+merchandise. 
+ 
+Deflation  to  ease  in  2018,  as  should  comp  drag  from  energy  markets.  While  we  forecast  a 
+continued drag from deflation this quarter (30 bps), we see potential for receding deflation and a 
+possible inflection to positive in 2018 based on improving corn and Brent crude oil futures prices. 
+Corn  futures  and  oil  futures  historically  correlate  with  TSCO  inflation/deflation  impacts  on  a 
+three quarter lagged basis (corn 0.85; oil: 0.67) since 2009. Corn futures have remained flattish in 
+recent  months,  decreasing  -0.7%  in  4Q17  (vs.  8.4%  in  3Q),  and  oil  futures  increased  a  sharp 
+20.4% in 4Q17 (vs. 11.1% in 3Q) (see Figures 16-17). 
+ 
+ 
+
+ 
+
+www.wedbush.com
+
+Page 5
+
+ 
+
+ 
+
+Weather a Nice Boost for 4Q17, with Favorable Forecast for 1Q18 
+
+ 
+TSCO customers usually buy on a need-by-need basis and what weather they remember from the 
+prior  year.  Despite  an  easy  comparison  through  October/November,  TSCO  noted  on  its  3Q 
+earnings call (10/25/17) that October started off warm, likely clipping demand.  Colder weather 
+started  to  materialize  in  November  and  continued  through  December,  with  average  daily 
+temperatures in weather-sensitive regions in both months trending 3.9⁰F colder y/y (see Figure 
+2). The December y/y decline was greater than expected, coming on top of a 9.5⁰F y/y decline in 
+December 2016 (see Figure 3), which lifted sales in heating fuel, insulated outerwear and power 
+equipment categories and contributed to a  strong 3.8% calendar-adjusted  comp in 4Q16 (3.1% 
+reported). Favorable weather in 4Q17 leads us to raise our comp estimate to 3.0% from 1.0% (vs. 
+consensus 1.7%). 
+ 
+According  to  Planalytics,  a  weather  intelligence  firm,  national  weather-driven  demand  in 
+categories such as heating and outerwear has been strong recently. Weather-driven demand for 
+heating products across the country increased 3% in October (vs. +6% in Oct 2016) and increased 
+a strong 21% in November (vs. -1% in Nov 2016); demand also increased 5% in December despite 
+lapping a significant +47% in December 2016, suggesting continued strong sales. Weather-driven 
+demand for outerwear increased 2% in October (vs. +6% in Oct 2016), increased 5% in November 
+(vs. 0% in Nov 2016), but declined -1% in December (vs. +5% in Dec 2016) (see Figure 4).  
+ 
+
+Figure 2: Weather Is an Important Variable in Demand and TSCO Comps 
+
+Source: Wunderground, Company data, Wedbush Securities, Inc. estimates 
+Note: Our estimated 4Q17 TSCO Calendar/Inflation-Adjusted Comp of 3.3% includes a 3.0% comp estimate with an estimated 
+30 bps of deflation.  
+
+ 
+
+www.wedbush.com
+
+Page 6
+
+TSCO Calendar / Inflation-Adjusted CompsNotes:OctNovDecQtr AvgOctNovDecQtr Avg4Q11-1.52.911.64.30.03-0.010.060.032.1%Cool Oct helped drive early winter season demand but mild Nov/Dec  and limited precip in Midwest/North hurt; inflation and extra day contributed ~600 bps to comps4Q120.0-4.90.1-1.6-0.03-0.06-0.02-0.043.1%Warmer weather y/y across most of country weighed on comps, with partial offset from relative strength in South due to favorable ground moisture levels4Q131.8-1.2-6.1-1.80.030.050.040.044.4%Colder weather y/y (especially in Dec) drove strong winter merchandise sales4Q14-0.1-1.34.41.00.030.03-0.030.015.8%Cold weather early in quarter initiated early winter season demand that persisted through quarter despite tough Dec comparison4Q150.09.48.56.00.040.110.000.05-1.3%El Nino effects unfavorable; heating (stoves/fuel), installed outerwear and seasonal big ticket items in Northeast/Midwest negatively impacted comps by 400 bps4Q161.7-1.4-9.5-3.1-0.09-0.12-0.04-0.084.4%Unfavorable weather to start quarter; significantly colder y/y temperatures in December spiked winter seasonal sales; favorable exit rate4Q17E1.2-3.9-3.9-2.20.08-0.07-0.010.003.3%Unfavorable warm weather in Oct, but cold weather in November and repeated cold weather in December likely drove strong winter product demandAverage Daily Temperature Y/Y Change (⁰F) Average Daily Precipitation Y/Y Change (in) 
+
+ 
+
+Figure 3: Average Daily Temperatures Were Lower than Normal and Declined 3.9⁰F in November and December in Weather-
+Sensitive Regions… 
+
+Source: The Weather Channel, Wunderground, Weatherbase, Wedbush Securities, Inc. 
+ 
+Figure 4: …Likely Boosting Demand in Key Winter Seasonal Products Including Heating and Outerwear 
+
+Source: Planalytics, Wedbush Securities, Inc. 
+ 
+
+ 
+
+ 
+
+ 
+
+www.wedbush.com
+
+Page 7
+
+Avg. Daily Temperatue ºFCityOct-16Nov-16Dec-16Oct-17Nov-17Dec-17New York City, NY58.949.838.364.546.935.3Atlanta, GA66.956.147.764.154.645.8Chicago, IL57.147.134.257.839.927.4Average61.051.040.162.147.136.2Long-Term Average ("Normal")58.148.338.258.148.338.2Delta vs. Long-Term Avg.2.92.71.94.0(1.2)(2.0)Avg. Daily Temperature ºF Y/Y ChangeCityOct-16Nov-16Dec-16Oct-17Nov-17Dec-17New York City, NY0.6(3.1)(12.8)5.5(2.9)(3.0)Atlanta, GA4.1(0.5)(8.4)(2.8)(1.6)(1.9)Chicago, IL0.3(0.5)(7.2)0.7(7.2)(6.8)Average1.7(1.4)(9.5)1.2(3.9)(3.9)Month EndedTotalEast North CentralNorth EastNorth WestSouth CentralSouth EastSouth WestSouth West CoastWest North CentralOctober3%2%-4%2%31%10%34%-13%6%November21%39%14%47%16%20%22%7%44%December5%7%11%-11%21%17%-6%-14%4%Heating Retail Category Weather-Driven Demand, Y/Y ChangeMonth EndedTotalEast North CentralNorth EastNorth WestSouth CentralSouth EastSouth WestSouth West CoastWest North CentralOctober2%1%-5%-1%17%6%16%0%6%November5%9%4%6%10%6%2%1%10%December-1%0%2%-2%1%4%-2%-11%0%Outerwear Retail Category Weather-Driven Demand, Y/Y Change 
+
+ 
+
+In 1Q18, TSCO will be lapping its easiest comp comparison for the year (-2.2%), driven primarily 
+by unfavorable weather—very mild winter weather in January and February diminished demand 
+for  winter  seasonal  products,  while  unseasonably  cold  and  snowy  weather  in  March  across 
+various weather-sensitive regions diminished demand for spring seasonal products. The Weather 
+Channel (TWC) forecasts 1Q temperatures to be slightly below average in the upper Midwest and 
+parts  of  the  Northeast,  while  the  majority  of  the  Mid-Atlantic,  Southeast  and  parts  of  the 
+Midwest and Lower Plains may experience temperatures above average; this forecast is relatively 
+consistent on a month-by-month basis (see Figures 5-8). Should TWC’s forecast for the next three 
+months  prove  accurate,  average  temperatures  in  weather-sensitive  regions  we  track  would 
+decline a sharp ~7⁰F y/y in January and ~8⁰F y/y in February, which would much more favorable 
+for winter category sales. More importantly, March temperatures are currently forecasted to be 
+flat  y/y  despite  the  6⁰F  y/y  temperature  decline  experienced  in  weather-sensitive  regions  in 
+March 2017 (see Figure 9). Flattish temperatures coupled with easy comparisons, particularly in 
+big  ticket  sales,  should  benefit  TSCO  comps,  leaving  us  comfortable  with  our  1Q18  comps 
+estimate of 4.0% vs. consensus 3.5%.  
+  
+The largest weather catalyst of the quarter hinges on the timing of the spring season in March. 
+TWC forecasts above-average temperatures in March in weather-sensitive regions, about in line 
+with  those  last  year.  Flattish  temperatures  y/y  would  likely  be  positive  for  spring  seasonal 
+products  (e.g.,  lawn  and  garden,  riding  lawn  mowers,  trailers,  fly  control)  relative  to  last  year, 
+when  temperatures  declined  ~6⁰F  y/y  in  March.  We  also  note  that  a  -HSD  decline  in  big-ticket 
+comps  was  a  primary  driver  behind  comp  weakness  in  1Q17,  primarily    due  to  both  the  tough 
+comparison in March spring seasonal sales in the prior year period (big-ticket demand was flat to 
+slightly positive excluding the comparison headwind), but also uncooperative weather. Given the 
+substantially  easier  comparisons,  big-ticket  sales  may  increase  in  March  even  if  temperatures 
+were to decline modestly y/y that month. 
+    
+
+Figure  5:    The  Weather  Channel  Forecasts  Temperatures  to 
+Be  Above  Average  across  the  Majority  of  the  Country  in 
+Calendar 1Q18… 
+
+Figure  6:  …Including  Temperatures  Near  or  Slightly  Above 
+Average in Most Weather-Sensitive Regions in January… 
+ 
+
+Source: The Weather Channel, Wedbush Securities, Inc. 
+ 
+
+ 
+
+ 
+
+Source: The Weather Channel, Wedbush Securities, Inc. 
+
+www.wedbush.com
+
+Page 8
+
+ 
+
+ 
+
+ 
+Figure  7:  …A  Slightly  Colder  Outlook  in  these  Regions  in 
+February… 
+
+Figure 8: …And a Slightly Warmer Outlook in these Regions in 
+March 
+
+Source: The Weather Channel, Wedbush Securities, Inc. 
+ 
+Figure 9: Temperatures in Weather-Sensitive Regions Will Decline Y/Y in January and February (Favorable for TSCO), but Will 
+Remain Flat in March (Negative for TSCO) Should Forecasts Prove Accurate 
+
+Source: The Weather Channel, Wedbush Securities, Inc. 
+ 
+
+ 
+
+ 
+
+Source: The Weather Channel, Wunderground, Weatherbase, Wedbush Securities, Inc. estimates 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+www.wedbush.com
+
+Page 9
+
+Avg. Daily Temperatue ºFCityJan-17Feb-17Mar-17Jan-18Feb-18Mar-18New York City, NY38.241.939.430.936.343.2Atlanta, GA51.555.356.344.348.255.3Chicago, IL28.638.339.623.826.736.9Average39.545.245.133.037.145.1Long-Term Average ("Normal")32.935.342.232.935.342.2Delta vs. Long-Term Avg.6.69.92.90.11.82.9Avg. Daily Temperature ºF Y/Y ChangeCityJan-17Feb-17Mar-17Jan-18Feb-18Mar-18New York City, NY3.54.0(9.7)(7.3)(5.6)3.8Atlanta, GA9.98.4(2.4)(7.2)(7.1)(1.0)Chicago, IL1.15.5(5.9)(4.8)(11.6)(2.7)Average4.96.0(6.0)(6.5)(8.1)0.0 
+
+ 
+
+TSCO Big Ticket Comps Bounced in 3Q to Out-comp LOW, but We Expect 
+Relative Performance to Weaken Going Forward 
+
+ 
+For the first time in nine quarters, TSCO out-comped one of the home centers (HD, LOW) in 3Q17 
+(see  Figures  10-11).  We  believe  a  key  reason  for  the  improvement  was  favorable  weather  and 
+stronger big ticket comps. Hurricane-related demand for items such as power generators fueled 
++HSD big ticket comps, the first positive performance since 2Q15 (see Figures 12-13). Although 
+facing  a  tougher  comparison  in  4Q,  we  expect  continued  positive  big  ticket  comps  in  4Q17, 
+driven by categories such as wood-burning fire places and log splitters. Cycling through pressure 
+in gun safes should also help, as should improvement in discretionary demand in energy-centric 
+markets. Nonetheless, we see more limited comp and big ticket comp drivers for TSCO than for 
+the  home  centers.  The  home  remodel  cycle  remains  strong,  with  solid  demand  for  growth  in 
+appliances, Pro sales and remodeling projects to which TSCO has little  exposure relative to the 
+home centers. 
+ 
+
+Figure  10:  TSCO  Comps  Have  Largely  Underperformed  those 
+of HD and LOW Since Mid-2015… 
+
+Figure 11: …As Also Seen on a Two-Year Stacked Basis 
+ 
+
+Source: Company data, Wedbush Securities, Inc. 
+ 
+
+Figure  12:  TSCO  Comps  Sequentially  Improved  in  3Q17, 
+Improving Primarily due to Hurricane-Related Demand… 
+
+Source: Company data, Wedbush Securities, Inc. 
+ 
+Figure  13:  …And  Also  Improved  Sequentially  on  a  Two-Year 
+Stacked Basis 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TSCO Big Ticket = $350+ (estimate) 
+HD Big Ticket = $900+; LOW Big Ticket = $500+ 
+ 
+Source: Company data, Wedbush Securities, Inc. 
+ 
+
+ 
+ 
+ 
+Source: Company data, Wedbush Securities, Inc. 
+ 
+
+ 
+ 
+ 
+
+www.wedbush.com
+
+Page 10
+
+ 
+
+ 
+
+Core Pet Category Remains in Focus 
+
+ 
+Pet  category  sales  outperformance  slipped  in  3Q17  as  rest  of  business  improved.  Pet  and 
+Livestock  is  TSCO’s  core  category,  accounting  for  ~48%  of  sales.  Excluding  the  Petsense 
+acquisition,  category  comps  increased  ~4%  in  3Q17  vs.  ~5%  in  2Q  and  flattish  in  1Q.  While 
+category  growth  was  solid  in  3Q17,  we  note  that  comps  underperformed  the  reported  total 
+comp of 6.6%, implying that comps excluding Pet and Livestock were ~9%, driving a wide level of 
+underperformance  not  experienced  since  4Q15  (see  Figures  14  and  15).  Strong  hurricane  and 
+weather-related  demand  likely  boosted  sales  performance  outside  of  the  Pet  and  Livestock 
+category in 3Q17, and weather may once again lead Pet and Livestock to underperform in 4Q17. 
+In the face of increasing online and mass/grocery store competition, TSCO continues to fortify its 
+pet offering  with both channel-exclusive brands and proprietary brands. In 2017, in addition to 
+extending  the  4health  proprietary  brand  in  the  pet  food/animal  category,  TSCO  launched  an 
+exclusive brand of premium dog and cat food in Petsense stores this month called TrueSource. 
+ 
+
+14: 
+
+TSCO’s 
+
+Figure 
+Underperformed the Company’s Other Categories in 3Q17… 
+
+Livestock 
+
+Category 
+
+and 
+
+Pet 
+
+Figure 15: …And the Category Decelerated Sequentially on a 
+Two-Year Stacked Basis 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+
+Source: Company data, Wedbush Securities, Inc. estimates    
+
+Note:  Implied  category  comps  derived  from  the  category  sales  mix,  which  includes  the  Petsense  acquisition.  We  exclude 
+estimated Petsense sales since acquisition in 4Q16 of ~$25m-$35m per quarter to calculate the implied comps. 
+
+ 
+
+ 
+
+ 
+Pressures  on  pet  category  likely  to  grow  from  online,  mass/grocery,  with  PetSmart  recent 
+results  a  sign.  While  TSCO’s  Pet  and  Livestock  category  remains  strong,  we  see  an  increasing 
+threat  from  the  online  and  mass/grocery  channels,  and  given  the  traffic-driving  nature  of  this 
+core  CUE  category,  TSCO  risks  losing  other  (typically  higher-margin)  discretionary  sales  that 
+accrue from the traffic. According to Packaged Facts, Internet sales accounted for 9% of the $48b 
+U.S.  market  for  pet  products  in  2016,  and  this  likely  increased  to  a  LDD  mix  in  2017,  led  by 
+outsized growth from AMZN. Internet sales continue to outpace and cannibalize sales from other 
+channels, notably pet super stores like PetSmart. Indeed, according to One Click Retail, AMZN Pet 
+Products  category  sales  in  the  12  month  period  ending  September,  2017  increased  33%  y/y  to 
+$2.2b;  the  Pet  Food  &  Feeding  Supplies  sub-category  sales  increased  47%  y/y  to  $970m.  Also 
+notable,  PetSmart  reported  30%  y/y  revenue  growth  in  3Q17  driven  entirely  by  its  ~$3b 
+acquisition of Chewy.com, but revenue in its legacy business slipped by 1.5% and legacy business 
+EBITDA  declined  15%  y/y;  management  also  uncharacteristically  refrained  from  guiding  4Q 
+results.  Additional challenges include pet suppliers’ decision to shift to mass distribution as seen 
+by Colgate-Palmolive (Science Diet) in 4Q16 and more recently, Blue Buffalo’s decision to sell its 
+premium pet food brand in the mass and grocery channel.  
+ 
+
+www.wedbush.com
+
+Page 11
+
+ 
+
+ 
+
+Footwear and apparel also on watch. In addition to pressure on the pet category, other at-risk 
+categories include apparel and footwear (~7% of sales). These categories are growing fast online. 
+TSCO has a wider selection of footwear and apparel online, often available direct from vendors, 
+but  that  hasn’t  stopped  it  from  underperforming  some  other  categories  in  recent  quarters. 
+Excluding  Petsense,  footwear  and  apparel  penetration  slipped  ~200  bps  y/y  in  1Q17  and 
+remained constant y/y in 2Q17 and 3Q17. We expect better performance from this category in 
+4Q17 due to weather. 
+ 
+ 
+Company-Specific Initiatives on Track 
+
+ 
+TSCO  completed  its  nationwide  rollouts  of  buy-online-pickup-in-store  (BOPIS)  and  Neighbor’s 
+Club loyalty program at the end of 2Q17, both of which we believe should be incremental sales 
+drivers and increase customer loyalty in 2018.  
+ 
+Initial  BOPIS  results  are  encouraging.  Approximately  75%  of  online  orders  were  picked  up  at 
+stores  in  3Q  (up  from  55%  in  2Q),  signaling  the  importance  of  the  bricks  and  mortar  location. 
+BOPIS  average  tickets  remain  significantly  higher  than  the  company  average  and  customers 
+usually buy 3.5 to 4 additional items when they come into the store to pick up an online order, 
+driving sales that are ~2x the company’s average ticket size. 
+ 
+Neighbor’s Club gaining traction. Members are receiving reward opportunities and personalized 
+advertising based on transaction history, driving increases in comp transactions and basket sizes. 
+As of 3Q17 end, Neighbor’s Club had over 5 million members; TSCO believes there are well over 
+10m  customers  for  which  it  will  have  buying  history  for  when  the  program  fully  ramps.  Over 
+time,  the  company  will  able  to  increase  further  refine  its  personalized  communications  and 
+improve customer loyalty. 
+  
+Other  technology  initiatives  on  tap.  TSCO  is  piloting  other  technology  initiatives  including 
+Mobile  POS  and  Stockyard.  Mobile  POS  allows  store  associates  to  find  information,  locate 
+product and check inventory for products in surrounding stores as well as process a sale through 
+a mobile device. Stockyard is a store-level initiative that merges online and in-store capabilities, 
+allowing  store  team  members  and  customers  to  tap  into  a  wider  assortment  of  products  in 
+vendors’  inventories.  This  extends  TSCO’s  digital  footprint  and  gives  store  associates  access  to 
+merchandise that is not usually carried in stores, which is helpful for customers that are looking 
+to  find  more  “long-tail,”  unique/hard-to-find  items.  Associates  can  research  the  item  on  the 
+kiosk, quickly addressing customers’ needs and saving time for both themselves and consumers.    
+ 
+Petsense  outlook  solid.  TSCO  acquired  Petsense  over  a  year  ago,  and  the  company  reported 
+positive comps and +DD revenue growth in 3Q. Over the last year, TSCO has gained a stronger 
+understanding  of  the  business,  determined  where  to  improve  the  model  and  integrated 
+operational functions where possible. The company also launched a new Petsense e-commerce 
+site late in 4Q for online purchasing and the company also plans to launch BOPIS in these stores 
+in the spring of 2018.   
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+
+www.wedbush.com
+
+Page 12
+
+ 
+
+ 
+
+Deflation to Ease in 2018, as Should Comp Drag from Energy Markets 
+
+ 
+Deflation  has  negatively  impacted  TSCO  comps  for  roughly  four  years.  While  we  forecast  a 
+continued drag from deflation this quarter (30 bps), we see potential for receding deflation and a 
+possible inflection to positive in 2018 based on improving corn and Brent crude oil futures prices. 
+Corn  futures  and  oil  futures  historically  correlate  with  TSCO  inflation/deflation  impacts  on  a 
+three quarter lagged basis (corn 0.85; oil: 0.67) since 2009. Corn futures have remained flattish in 
+recent  months,  decreasing  -0.7%  in  4Q17  (vs.  8.4%  in  3Q),  and  oil  futures  increased  a  sharp 
+20.4% in 4Q17 (vs. 11.1% in 3Q).  
+ 
+
+Figure  16:  Corn  Futures  Correlate  Strongly  with  TSCO 
+Inflation/Deflation  and  Suggest  More  Limited  Deflation  in 
+2H17… 
+
+Figure 17: …While Brent Crude Oil Futures Growth Stabilized 
+in Recent Months and May Drive Favorable Oil Patch Market 
+Performance 
+
+Source:  Bloomberg,  Company  data,  Wedbush  Securities,  Inc. 
+estimates 
+ 
+
+Source:  Bloomberg,  Company  data,  Wedbush  Securities,  Inc. 
+estimates 
+ 
+
+Figure 18: Deflation Pressures Should Ease, and Inflation May Arise in 2018 
+
+ 
+
+ 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+
+ 
+
+ 
+
+www.wedbush.com
+
+Page 13
+
+FY 2016Exta WeekFY 2017EFY 2014FY 20151Q162Q163Q164Q16FY 20161Q172Q173Q174Q17EFY 2017EFY 2018ESales DriversSSS3.8%3.1%4.9%(0.5%)(0.6%)3.1%1.6%(2.2%)2.2%6.6%1.0%1.9%2.6%2-Year Stacked SSS8.6%6.9%10.6%5.1%2.3%1.7%4.7%2.7%1.7%6.0%4.1%3.5%4.5%3-Year Stacked SSS13.9%11.7%12.8%7.0%7.9%7.0%8.5%8.4%7.3%8.9%2.7%6.6%6.1%Comp Store Ticket Growth0.6%(0.2%)0.7%(1.9%)(1.1%)(0.9%)(0.9%)(0.9%)0.0%1.5%0.5%0.3%1.0%2-Year Stacked0.6%0.4%1.5%(0.6%)(2.0%)(2.8%)(1.1%)(0.2%)(1.9%)0.4%(0.4%)(0.6%)1.3%3-Year Stacked2.6%0.4%(0.6%)(0.9%)0.2%(0.5%)(0.5%)0.6%(0.6%)(0.5%)(2.3%)(0.8%)0.4%Comp Store Traffic Growth3.2%3.2%4.2%1.5%0.5%4.0%2.5%(1.4%)2.2%5.0%0.5%1.6%1.6%2-Year Stacked7.9%6.4%9.0%5.7%4.3%4.6%5.7%2.8%3.7%5.5%4.5%4.1%3.2%3-Year Stacked10.9%11.1%13.4%8.0%7.6%7.6%8.9%7.6%7.9%9.3%5.1%7.3%5.7%Inflation-Adjusted SSS AnalysisInflation (Deflation) Comp Impact (bps)(80)               (35)               (25)          (25)          (40)          (60)          (38)               (50)           (30)           (30)          (30)          (34)               5                  Inflation Adjusted SSS4.6%3.4%5.2%(0.3%)(0.2%)3.7%2.0%(1.7%)2.5%6.9%1.3%2.3%2.5%2-Year Stacked Inflat Adj SSS8.7%8.0%11.8%5.6%3.0%2.5%5.4%3.5%2.3%6.7%5.0%4.2%4.8%3-Year Stacked Inflat Adj SSS11.5%12.2%14.8%8.5%9.5%8.3%10.0%10.1%8.1%9.9%3.8%7.7%6.8%Comp Store Inflat-Adj Ticket Growth1.4%0.1%1.0%(1.7%)(0.7%)(0.3%)(0.5%)(0.4%)0.3%1.8%0.8%0.6%1.0%2-Year Stacked0.7%1.5%2.7%(0.2%)(1.4%)(2.1%)(0.4%)0.6%(1.4%)1.1%0.5%0.1%1.6%3-Year Stacked0.2%0.9%1.4%0.6%1.8%0.8%1.0%2.3%0.2%0.5%(1.3%)0.3%1.1% 
+
+ 
+
+The regional farm and energy economies tied to these commodity prices are also important to 
+TSCO sales. Indeed, softer demand across oil/energy markets continues to weigh on TSCO, led by 
+softer sales in product categories including welders, compressors and larger ticket items such as 
+truck  boxes  and  fuel  handling  equipment.  For  the  last  several  quarters,  TSCO  has  pointed  to 
+improvement  from  stores  located  in  oil/energy  markets,  but  per-store  sales  in  these  markets 
+remain  far  from  prior  sales  levels.  According  to  the  Dallas  Fed  Energy  Survey,  business  activity 
+(the  survey’s  broadest  measure  of  conditions)  for  oil  and  gas  firms  continued  to  expand  for  a 
+seventh consecutive quarter and improved sequentially to 38.1 in 4Q17 from 27.3 in 3Q, though 
+this reading is below peak 2017 levels in 1Q17.  
+ 
+A sub-segment of the business activity index, the company outlook index, also posted a seventh 
+consecutive  positive  reading  and  increased  by  a  significant  23.8  points  sequentially  to  52.0  in 
+4Q17,  suggesting  increased  optimism  amongst  exploration  and  production  firms  as  well  as 
+services firms. As well, an index measuring uncertainty regarding firms’ outlooks also declined to 
+-5.3  from  4.9,  the  first  negative  reading  since  the  index  was  introduced  in  1Q17  indicating 
+reduced uncertainty. 
+ 
+Figure 19: Texas Oil and Gas Activity Increased Y/Y in Recent Quarters 
+
+ 
+
+ 
+Note: The Dallas Fed Energy Survey is a timely assessment of energy activity among oil and gas firms. Firms 
+are  asked  questions  on  whether  business  activity,  employment,  capital  expenditures  and  other  indicators 
+increased, decreased or remain unchanged 
+ 
+Each  index  is  calculated  by  subtracting  the  percentage  of  respondents  reporting  a  decrease  from  the 
+percentage reporting an increase. When the share of firms reporting an increase exceeds the share reporting 
+a  decrease,  the  index  will  be  greater  than  zero,  suggesting  the  indicator  has  increased  over  the  previous 
+quarter. 
+ 
+Source: Dallas Fed, Wedbush Securities, Inc. 
+ 
+ 
+
+www.wedbush.com
+
+Page 14
+
+ 
+
+ 
+
+Margin Pressures Should Ease Modestly in 2018, but May Be Initially 
+Guided below Consensus  
+
+ 
+We anticipate 2018 annual comp guidance to be somewhat conservative and roughly in line with 
+the  initial  guidance  provided last  year  including  2-3%  comps  and  EPS  growth  in  the  +MSD-HSD 
+range.  While company-specific initiatives coupled with relatively easy comparisons through the 
+key spring selling season point to a favorable top-line outlook in 2018, we see modest downside 
+risk to consensus margin estimates as TSCO continues to invest in technology-related, customer-
+centric  initiatives  and  face  other  cost  pressures  including  wage  inflation  and  incentive 
+compensation  costs,  leading  us  to  reduce  our  estimates.  Our  underlying  SG&A  margins  now 
+stand  30  bps  above  consensus  and  our  operating  margins  now  stand  30  bps  below  consensus, 
+leading us to reduce our underlying 2018 EPS estimate from $3.54 to $3.48.  
+ 
+
+Figure 20: TSCO Beat Initial Annual EPS Guidance in 2014, Met in 2015, Missed in 2016 and Will Likely Miss in 2017; We Look 
+for Initial 2018 Comp and EPS Growth Guidance About in Line with 2017 Initial Guidance 
+
+ 
+
+ 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+Note:  2018  sales  and  EPS  growth  rates  are  from  midpoint  of  current  2017  sales  ($7.17b-$7.22b)  and  EPS  ($3.25-$3.29) 
+guidance.  
+
+ 
+
+Margin pressures likely to ease only slightly in 2018 excluding tax reform reinvestment. Looking 
+into 2018, we expect gross margins to be slightly down y/y due to likely increasing fuel costs and 
+higher  online  sales  penetration  (that  operate  with  estimated  ~1000  bps  lower  gross  margins), 
+and expectations for continued growth in the freight-intensive CUE category. We expect benefits 
+from  exclusive  brands/sourcing  and  vendor  support  from  stocking  the  New  York  DC  based  on 
+past  precedence  (~15  bps  benefit  from  vendors  following  Arizona  DC  opening  noted  in  1Q16) 
+with partial offsets from mix of sales. We expect SG&A deleverage to continue in 2018 due to a 
+number  of  factors  higher  incentive  compensation  and  higher  pre-opening  and  other  related 
+expenses associated with the new New York DC that will be fully built in 3Q18 and begin servicing 
+stores  in  late  4Q18.  On  its  last  earnings  call,  TSCO  provided  some  initial  2018  assumptions 
+including  expectations  for  higher  incentive  compensation  to  impact  2018  EPS  by  $0.06-$0.08 
+(~25-30  bps)  and  incremental  pre-opening  and  other  expenses  associated  with  the  new  DC  to 
+impact  EPS  by  ~$0.03-$0.04  (~10-15  bps)  with  most  of  the  impact  coming  in  2H18.  We  also 
+anticipate continued impact from higher wage inflation across stores and DCs in 2018, but expect 
+the headwind to moderate from levels experienced in 2017. We walk through our assumptions 
+and detailed line-by-line estimates in our margin bridge below (see Figures 21-22).  
+
+www.wedbush.com
+
+Page 15
+
+Initial GuideActualInitial GuideActualInitial GuideActualInitial GuideConsensusSales ($b)$5.62 - $5.70$5.71$6.20 - $6.30$6.23$6.90 - $7.00$6.78$7.22 - $7.29$7.22Sales Growth9% - 10%10.6%9% - 10%9.0%11% - 12%8.9%6% - 8%6.5%Comps2.5% - 4%3.8%2.5% - 4%3.1%3.5% - 5%1.6%2% - 3%2.0%EPS$2.54 - $2.62$2.66$2.95 - $3.05$3.00$3.40 - $3.48$3.27$3.44 - $3.52$3.28EPS Growth10% - 13%14.8%11% - 15%12.7%13% - 16%8.9%5% - 8%0.4%2014201520162017Initial GuideConsensusWS UnderlyingWS Tax ReformSales ($b)$7.62 - $7.82$7.73$7.72$7.72Sales Growth6% - 8%7.4%7.4%7.4%Comps2% - 3%2.4%2.5%2.5%EPS$3.43 - $3.53$3.74$3.48$4.08EPS Growth5% - 8%14.4%6.4%24.8%2018E 
+
+ 
+
+Figure 21:  2018 Gross Margin Bridge 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+ 
+ 
+ 
+
+ 
+
+www.wedbush.com
+
+Page 16
+
+Ex Ex 53rd Week53rd WeekMarginY/Y$Y/Y GrowthNotes:Gross MarginFuel Costs1.0%66.8           Supply Chain ex-Fuel4.0%267.2         Other (Mix, Promotion, Initiatives)60.7%4,054.9      Cost of Sales65.7%4,388.9      Gross Margin (2016):34.3%2,291.0$    Fuel Costs1.0%3            74.8           12.0%Low-double digit increase in fuel prices. Fuel costs account for ~20% of freight expense. Supply Chain ex-Fuel4.2%18          302.4         13.2%Higher freight expense from rapid growth in online sales (assume online GM are 1000 bps lower than in-store GM) and other freight-intensive categories (e.g., CUE)Other (Mix, Promotion, Initiatives)60.6%(13)        4,382.4      8.1%Various pricing initiatives and inventory forecasting benefitted gross margin. Cost of Sales65.8%9            4,759.6      8.4%Gross Margin (2017E):  34.2%(9)           2,475.1$    8.0%Fuel Costs1.1%3            82.3           10.0%Expect ~10% increase in fuel prices based on gasoline futures.Supply Chain ex-Fuel4.3%12          332.2         9.8%Increase sales mix in online (including ramp up in Petsense online initiatives) and CUE.Other (Mix, Promotion, Initiatives)60.6%1            4,679.8      6.8%Expect benefits from exclusive brands/sourcing and vendor support from stocking new DC with offset from mix, promotion and partial reinvestment of tax windfallCost of Sales65.9%16          4,771.0      0.2%Gross Margin (2018E):34.1%(16)        2,630.7$    6.3% 
+
+ 
+
+Figure 22: 2018 SG&A and Operating Margin Bridge 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+ 
+
+www.wedbush.com
+
+ 
+
+Page 17
+
+Ex Ex 53rd Week53rd WeekMarginY/Y$Y/Y GrowthNotes:Total Operating ExpensesAdvertising Costs1.2%82.6           Warehousing and Distribution Facility Costs2.4%163.7         Pre-Opening Costs0.1%9.9              Share-Based Compensation0.4%23.6           Rent Expense4.4%293.0         Depreciation & Amortization2.1%143.0         Other Operating Costs (Labor, Corporate)13.3%890.1         Total Operating Costs (2016):24.1%1,605.9$    Advertising Costs1.3%5            93.1           12.7%Warehousing and Distribution Facility Costs2.5%10          184.5         12.7%Pre-Opening Costs0.2%4            13.6           37.5%Share-Based Compensation0.5%10          32.8           39.0%Rent Expense4.5%10          324.6         10.8%Depreciation & Amortization2.3%17          167.2         16.9%Investments in technology (+16-17% y/y dollar growth).Other Operating Costs (Labor, Corporate)13.5%20          978.2         9.9%Deleverage from investments in labor/payroll.Total Operating Costs (2017E):24.8%76          1,793.9$    11.7%Advertising Costs1.3%-        99.4           6.8%Warehousing and Distribution Facility Costs2.6%10          204.7         11.0%TSCO expects pre-opening and other related expenses with New York DC to impact 2H18 Pre-Opening Costs0.2%5            18.4           35.1%EPS by 0.03-$0.04 (~10-15 bps); we see partial offset from slower new store growth.Incentive Compensation0.7%25          54.3           65.7%TSCO expects higher incentive compensation to impact 2018 EPS by $0.06-$0.08 (~25-30 bps)Rent Expense4.5%-        346.6         6.8%Depreciation & Amortization2.4%5            182.4         9.1%Expect continued investments in digital initiatives. Other Operating Costs (Labor, Corporate)13.7%19          1,058.9      8.2%TSCO expects wage inflation headwind to persist in 2018, but to a lesser degree than in 2017.We see additional reinvestment from the tax windfallTotal Operating Costs (2018E):25.5%64          1,964.6$    9.5%Operating MarginRevenue6,680.0$    Gross Margin34.3%2,291.0      Total Operating Costs24.1%1,605.9      Operating Margin (2016):10.3%685.1$       Revenue7,234.7      8.3%Gross Margin34.2%(9)           2,475.1      8.0%Total Operating Costs24.8%76          1,793.9      11.7%Operating Margin (2017E):9.4%(84)        681.2$       -0.6%Revenue7,724.9      6.8%Gross Margin34.1%(16)        2,630.7      6.3%Total Operating Costs25.5%64          1,964.6      9.5%Operating Margin (2018E):8.6%(79)        666.0         -2.2% 
+
+ 
+
+Tax Reform Benefits Likely Partially Reinvested 
+
+Assuming a 23% tax rate going forward (down from 36.5% in 2017E), EPS will rise ~20% all else equal, to $4.18. However, we anticipate that at 
+least 15% of tax expense savings will be reinvested back into the business given even more significant reinvestment plans by home improvement 
+peers such as HD and FND. Accordingly, our new 2018 EPS estimate is $4.08 (see Figure 1 and Figures 21-23 for more detail). 
+
+Figure 23:  Summary of Estimate Revisions 
+
+Source:  Company data, Wedbush Securities, Inc. estimates 
+
+www.wedbush.com
+
+ 
+
+Page 18
+
+PriorNew - Underlying (Ex Tax Reform)2017E2018E2017E2018ERevenue7,199.0      7,693.3      Revenue7,234.7      7,724.9      Comps1.9%2.6%Comps2.5%2.5%Gross Margin2,461.2      34.2%2,635.0      34.3%Gross Margin2,475.1      34.2%2,639.4      34.2%SG&A1,620.8      22.5%1,755.6      22.8%SG&A1,627.4      22.5%1,774.9      23.0%D&A167.1         2.3%184.8         2.4%D&A167.9         2.3%183.2         2.4%Total Operating Expenses1,787.9      24.8%1,940.4      25.2%Total Operating Expenses1,795.3      24.8%1,958.1      25.3%Operating Profit673.3         9.4%694.6         9.0%Operating Profit679.8         9.4%681.3         8.8%Tax Rate36.5%36.3%Tax Rate36.5%36.3%EPS$3.27$3.54EPS$3.30$3.48New - Including Tax ReformNew - Including Tax Reform + 15% Reinvestment of Est. Tax Reform Benefits2017E2018E2017E2018ERevenue7,234.7      7,724.9      Revenue7,234.7      7,724.9      Comps2.5%2.5%Comps2.5%2.5%Gross Margin2,475.1      34.2%2,639.4      34.2%Gross Margin2,475.1      34.2%2,630.7      34.1%SG&A1,627.4      22.5%1,774.9      23.0%SG&A1,627.4      22.5%1,782.9      23.1%D&A167.9         2.3%183.2         2.4%D&A167.9         2.3%183.2         2.4%Total Operating Expenses1,795.3      24.8%1,958.1      25.3%Total Operating Expenses1,795.3      24.8%1,966.1      25.5%Operating Profit679.8         9.4%681.3         8.8%Operating Profit679.8         9.4%664.6         8.6%Tax Rate36.5%23.0%Tax Rate36.5%23.0%EPS$3.30$4.18EPS$3.30$4.08 
+
+ 
+
+Valuation Fair 
+
+On consensus  estimates,  TSCO trades above its 10-year NTM historical averages on P/E, EV/EBITDA 
+and  PEG  below  its  historical  average  on  NTM  P/E  relative  to  the  S&P  500.  On  our  2018  estimates 
+embedding tax reform, which bumps our underlying EPS forecast of $3.48 to $4.08, TSCO is trading 
+below historical averages on P/E, relative P/E, but above historical averages on EV/EBITDA and well 
+above historical averages on PEG. Moreover, PEG currently embeds a 11.3% underlying EPS growth, 
+which  is  optimistic  excluding  tax  reform  benefits.  Underlying  EPS  may  grow  less  than  10%  for  the 
+third straight year in 2018, and the long-term growth algorithm is no higher than low double digits. 
+Due to a lower underlying EPS growth algorithm, we see limited room for further valuation multiple 
+expansion.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+TSCO  is  trading  at  21.5x  consensus  NTM  P/E,  3%  above  its  10-year  historical  average  of 
+20.9x; on our 2018 estimate, TSCO is trading at 19.6x 
+TSCO  is  trading  at  1.28x  consensus  NTM  relative  P/E,  17%  below  its  10-year  historical 
+average of 1.55x; on our 2018 estimate TSCO is trading at 1.17x 
+TSCO is trading at 11.7x NTM EV/EBITDA, 12% above its 10-year historical average of 10.5x; 
+on our 2018 estimate TSCO is trading at 12.5x  
+TSCO is trading at 1.58x NTM PEG, 22% above its 10-year historical average of 1.31x; on our 
+2018 estimate TSCO is trading at 1.73x  
+
+Figure  25:  TSCO’s  NTM  P/E  Valuation  Is  Slightly  Above  its 
+Historical 10-Year Average… 
+
+Figure  26:  ...And  Is  Below  its  10-Year  Average  on  a  NTM 
+Relative P/E Basis 
+
+Source: Bloomberg, Wedbush Securities, Inc. 
+ 
+Figure  27:  TSCO’s  NTM  EV/EBITDA  Valuation  Is  Above  its 
+Historical 10-Year Average… 
+
+Source: Bloomberg, Wedbush Securities, Inc. 
+
+Figure 28: …As Is TSCO’s NTM PEG Valuation 
+ 
+
+ 
+
+Source: Bloomberg, Wedbush Securities, Inc. 
+ 
+
+Source: Bloomberg, Wedbush Securities, Inc. 
+ 
+
+ 
+
+www.wedbush.com
+
+Page 19
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix 1. Historical Weather Trends 
+ 
+Figure 29: Sharp Temperature Changes and Precipitation Drive Fluctuations in TSCO Comps and Stock Price Performance 
+
+Source: Wunderground, Company data, Wedbush Securities, Inc. estimates 
+
+www.wedbush.com
+
+ 
+
+Page 20
+
+TSCO Calendar / Inflation-Adjusted CompsNotes:JanFebMarQtr AvgJanFebMarQtr Avg1Q11-0.84.1-2.00.5-0.02-0.07-0.05-0.059.5%Longer winter in northern regions; favorable weather in southern regions as company transitioned into spring selling season1Q128.24.011.17.80.03-0.03-0.02-0.017.5%Favorable early spring weather (March strong) and 400 bps of inflation more than offset impact of record warm weather in North1Q13-1.3-5.9-15.5-7.50.000.070.010.02-0.9%Extended winter selling season helped, with major offset to sales growth from delayed spring and tough y/y comparison in March1Q14-10.0-3.5-0.3-4.6-0.04-0.01-0.02-0.033.0%Cold temps drove strong winter sales in Jan/Feb; colder than average March delayed spring selling season1Q155.1-5.03.71.30.06-0.020.010.016.6%Strong winter demand in North despite tough compare in Jan; early arrival of spring weather and easy compare in March helped boost comps1Q162.412.27.27.2-0.020.03-0.020.002.9%Favorable winter weather demand in January; warmer weather in Feb/Mar (early spring) drove seasonal category strength in lawn & garden1Q174.96.0-6.01.60.05-0.040.040.010.1%Jan warmth resulted in soft finish to winter sales; Feb warmth drove early spring sales but was more than offset by March coldAprMay JunQtr AvgAprMay JunQtr Avg2Q11-3.0-2.0-1.1-2.10.040.000.020.024.9%Unseasonal weather was a headwind early in the quarter for seasonal items; drought conditions in South markets and late spring arrival in North2Q121.13.4-0.61.3-0.04-0.05-0.06-0.050.5%Cooler spring weather in North in late April/early May with subsequent drought conditions in many regions drove neg impact2Q13-2.8-3.6-0.7-2.30.040.100.160.105.8%High moisutre levels and late-breaking spring weather produced May sales spike against an easy comparison 2Q140.51.31.41.10.03-0.07-0.11-0.052.9%Late-breaking spring produced only gradual sales rise in May against tough comparison; June comps strongest2Q152.52.5-1.21.2-0.020.080.010.025.8%Early spring momentum persisted in Apr/May (easier comparisons); June also solid despite tough comparison2Q16-1.5-2.92.4-0.6-0.01-0.10-0.06-0.061.3%Unfavorable weather in April-May drove seasonal sales softness, particularly in big ticket categories (-8%); favorable trends in June once weather warmed2Q173.9-2.0-2.0-0.10.050.050.120.072.5%Warm April favorable given seasonal demand deferral in 1Q; favorable spring seasonal product demandJulAugSepQtr AvgJulAugSepQtr Avg3Q110.1-1.8-2.1-1.3-0.110.10-0.02-0.017.3%Early cool weather in North had positive impact on sales; favorable impact from Hurricane Irene3Q120.3-0.70.60.10.05-0.05-0.04-0.011.1%Drought-like conditions persisted; lack of cold weather in North during September unfavorable3Q13-3.6-1.00.9-1.30.05-0.01-0.010.016.5%Elevated ground moisture and mild temperatures created exteded spring; temps remained warm in Sept3Q14-1.80.70.3-0.30.020.020.000.016.5%June momentum continued into July which drove late spring seasonal sales; early cool weather in Sept drove winter sales3Q153.31.73.12.7-0.08-0.040.05-0.023.2%Lack of early winter prep demand due to warmth and tough comparison in September 3Q161.12.20.71.30.080.05-0.060.02-0.7%Hot temperatures, particularly in August, negatively impacted weather-sensitive regions by drying out the land; cool weather did not materialize in September3Q17-2.4-5.1-2.9-3.50.00-0.03-0.01-0.016.9%Favorable extended spring selling season following high precip in late-2Q; 120 bps contribution from hurricanes (increase in big ticket products)OctNovDecQtr AvgOctNovDecQtr Avg4Q11-1.52.911.64.30.03-0.010.060.032.1%Cool Oct helped drive early winter season demand but mild Nov/Dec  and limited precip in Midwest/North hurt; inflation and extra day contributed ~600 bps to comps4Q120.0-4.90.1-1.6-0.03-0.06-0.02-0.043.1%Warmer weather y/y across most of country weighed on comps, with partial offset from relative strength in South due to favorable ground moisture levels4Q131.8-1.2-6.1-1.80.030.050.040.044.4%Colder weather y/y (especially in Dec) drove strong winter merchandise sales4Q14-0.1-1.34.41.00.030.03-0.030.015.8%Cold weather early in quarter initiated early winter season demand that persisted through quarter despite tough Dec comparison4Q150.09.48.56.00.040.110.000.05-1.3%El Nino effects unfavorable; heating (stoves/fuel), installed outerwear and seasonal big ticket items in Northeast/Midwest negatively impacted comps by 400 bps4Q161.7-1.4-9.5-3.1-0.09-0.12-0.04-0.084.4%Unfavorable weather to start quarter; significantly colder y/y temperatures in December spiked winter seasonal sales; favorable exit rate4Q17E1.2-3.9-3.9-2.20.08-0.07-0.010.003.3%Unfavorable warm weather in Oct, but cold weather in November and repeated cold weather in December likely drove strong winter product demandAverage Daily Temperature Y/Y Change (⁰F) Average Daily Precipitation Y/Y Change (in) 
+
+ 
+
+Appendix 2. TSCO Weather “Playbook” 
+ 
+Figure 30:  TSCO Weather Playbook 
+
+ 
+
+Fall/Winter: 
+
+o  Positive:  Extreme cold and winter storms; early cold winter weather trends set tone for season 
+and  entice  consumers  to  buy  winter  weather  products.  This  scenario  drives  fuel,  heating  and 
+outdoor power equipment sales. 
+
+ 
+
+Example: Consumers remembering arctic weather temperatures in winter 2013 bought 
+fall/winter  weather  products  as  early  as  September  in  preparation  for  the  upcoming 
+2014  winter  season;  stronger  sales  in  fuel,  wood  pellets,  log  splitters,  fireplaces,  snow 
+blowers and winter apparel 
+
+o  Negative:  Warm temperatures in September and an overall mild winter may result in lackluster 
+
+winter seasonal demand 
+
+ 
+
+ 
+
+Example:  Cool weather came early in fall 2011 which was more favorable, but was more 
+than  overshadowed  by  record  warm  weather  across  Northern  regions  through  the 
+winter season. 
+Example:  Similar  warm  weather  trends  occurred  in  winter  2015-2016;  while  January 
+provided minor bursts of cold weather, majority of the winter season was significantly 
+warmer y/y and drove sluggish seasonal demand 
+
+ 
+
+Spring/Summer: 
+
+o  Positive:  Early  breaking  warm  spring  weather  in  March  drives  sales  in  garden  (e.g.,  soils, 
+fertilizers) and outdoor power equipment (e.g., riding lawn mowers). Ground moisture and mild 
+temperatures can extend summer selling season. 
+
+ 
+
+ 
+
+Example:  Weather  was  relatively  warmer  in  winter  2012,  so  early  transition  to  spring 
+was  easier;  resulted  in  pull-forward  of  sales  to  1Q  (from  2Q).  Note  the  same  also 
+happened in 2016. 
+Example:  Similar  warm  weather  trends  occurred  in  winter  2015-2016;  while  January 
+provided minor bursts of cold weather, majority of the winter season was significantly 
+warmer y/y and drove sluggish seasonal demand 
+
+o  Negative: An extended winter selling season is unfavorable for lawn & garden category sales as 
+well as riding lawnmowers and other outdoor power equipment; dry drought-like conditions are 
+also unfavorable. 
+
+ 
+
+ 
+
+Example:  Drought-like  conditions  across  many  regions  persisted  into  the  summer  and 
+drove sales weakness in 2Q12-3Q12. 
+Example:    Unseasonably  cold  and  snowy  weather  in  March  2017  across  weather-
+sensitive  regions  diminished  demand  for  spring  seasonal  products,  driving  weak  1Q17 
+comps. 
+
+Source: Company data, Wedbush Securities, Inc. 
+ 
+ 
+
+www.wedbush.com
+
+Page 21
+
+ 
+
+ 
+
+Figure 31: TSCO Income Statement ($m, FYE December) 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+
+www.wedbush.com
+
+ 
+
+Page 22
+
+FY 2016Extra WeekFY 2017EFY 2010FY 2011FY 2012FY 2013FY 2014FY 20151Q162Q163Q164Q16FY 20161Q172Q173Q174Q17EFY 2017EFY 2018EFY 2019EFY 2020ETotal Sales3,638.3$      4,232.7$     4,664.1$    5,164.8$     5,711.7$     6,226.5$     1,467.8$ 1,852.5$ 1,542.7$ 1,916.5$ 6,779.6$    1,564.1$ 2,017.8$ 1,721.7$ 1,931.2$ 7,234.7$    7,724.9$    8,253.0$    8,814.1$    Cost of Sales 2,434.72,825.93,098.13,411.23,761.34,083.3973.41,203.31,007.41,270.34,454.41,045.91,313.11,121.21,279.44,759.65,094.25,442.55,812.5Gross Profit1,203.71,406.91,566.11,753.61,950.42,143.2494.4649.2535.3646.32,325.2518.2704.7600.5651.82,475.12,630.72,810.53,001.6Operating Expenses867.6973.81,040.31,138.91,246.31,369.1352.7365.9357.6412.01,488.2382.1405.7410.3429.31,627.41,782.91,904.82,034.3D&A69.880.389.0100.0114.6123.633.634.135.739.7143.039.741.041.945.2167.9183.2195.7209.0Total SG&A937.41,054.21,129.31,239.01,360.91,492.7386.2400.0393.3451.61,631.1421.8446.8452.2474.51,795.31,966.12,100.52,243.3Operating Profit (Loss)266.2352.7436.8514.6589.5650.5108.2249.2142.0194.6694.196.4257.9148.3177.3679.8664.6710.0758.3Depreciation and Amortization69.880.389.0100.0114.6123.633.634.135.739.7143.039.741.041.945.2167.9183.2195.7209.0EBITDA336.0433.1525.8614.7704.1774.1141.8283.3177.7234.3837.0136.1299.0190.2222.5847.7847.8905.7967.3Interest Expense (Income) net1.32.11.10.61.92.91.11.91.11.75.82.83.13.83.513.113.413.713.9Pretax Income (Loss)264.9350.6435.7514.1587.6647.6107.1247.3140.9193.0688.393.6254.8144.5173.8666.7651.2696.4744.4Income tax97.0127.9159.3185.9216.7237.239.490.951.569.4251.233.394.252.663.1243.1149.8160.2171.2Effective Tax Rate36.6%36.5%36.6%36.2%36.9%36.6%36.8%36.8%36.5%36.0%36.5%35.6%37.0%36.4%36.3%36.5%23.0%23.0%23.0%Net Income Ex Extraord.168.0222.7276.5328.2370.9410.467.7156.489.4123.6437.160.3160.691.9110.7423.6501.4536.2573.2EPS - Ex Extraord.$1.12$1.51$1.90$2.32$2.66$3.00$0.50$1.16$0.67$0.94$3.27$0.46$1.25$0.72$0.88$3.30$4.08$4.54$5.06Avg Diluted Shares Outstanding149.4147.8145.5141.7139.4136.8134.7134.6134.3131.9133.8131.1128.7126.9125.9128.2122.9118.2113.3Cash Dividends Per Share0.16$           0.22$          0.36$         0.49$          0.61$          0.76$          0.20$      0.24$      0.24$      0.24$      0.92$         0.24$      0.27$      0.27$      0.27$      1.05$         1.24$         1.49$         1.79$         AnalysisGrowth (Y/Y)preprepreTotal SSS (reported)7.0%8.2%5.3%4.8%3.8%3.1%4.9%(0.5)%(0.6)%3.1%1.6%(2.2)%2.2%6.6%3.0%2.5%2.5%3.0%3.0%Two-Year Stacked Total SSS5.9%15.2%13.5%10.1%8.6%6.9%10.6%5.1%2.3%1.7%4.7%2.7%1.7%6.0%6.1%4.1%4.9%5.5%6.0%Total Revenue 13.5%16.3%10.2%10.7%10.6%9.0%10.2%4.5%4.5%16.4%8.9%6.6%8.9%11.6%0.8%6.7%6.8%6.8%6.8%Gross Profit16.3%16.9%11.3%12.0%11.2%9.9%11.2%3.8%4.5%15.2%8.5%4.8%8.5%12.2%0.9%6.4%6.3%6.8%6.8%Gross Profit Comps9.7%8.7%6.4%6.0%4.4%3.9%5.8%(1.1)%(0.6)%2.0%1.2%(3.8)%1.9%7.1%3.1%2.2%2.0%3.0%3.0%SG&A10.2%12.5%7.1%9.7%9.8%9.7%9.8%5.2%5.4%16.5%9.3%9.2%11.7%15.0%5.1%10.1%9.5%6.8%6.8%Operating Income44.2%32.5%23.8%17.8%14.5%10.4%16.5%1.7%2.0%12.3%6.7%(10.9)%3.5%4.4%(8.9)%(2.1)%(2.2)%6.8%6.8%D&A5.3%15.1%10.7%12.4%14.6%7.8%10.9%12.4%18.3%20.8%15.7%18.3%20.5%17.6%13.9%17.4%9.1%6.8%6.8%EBITDA33.9%28.9%21.4%16.9%14.5%9.9%15.1%2.8%4.9%13.7%8.1%(4.0)%5.5%7.0%(5.0)%1.3%0.0%6.8%6.8%Net Income45.5%32.6%24.1%18.7%13.0%10.7%16.6%2.0%2.4%10.6%6.5%(10.9)%2.7%2.7%(10.4)%(3.1)%18.4%6.9%6.9%EPS42.8%34.0%26.1%21.9%14.8%12.7%19.2%4.2%4.3%13.7%8.9%(8.4)%7.4%8.7%(6.2)%1.2%23.5%11.2%11.5%Shares Outstanding1.9%(1.0)%(1.6)%(2.6)%(1.6)%(1.9)%(2.2)%(2.1)%(1.8)%(2.7)%(2.2)%(2.7)%(4.3)%(5.5)%(4.5)%(4.2)%(4.1)%(3.8)%(4.1)%MarginsGross Margin33.1%33.2%33.6%34.0%34.1%34.4%33.7%35.0%34.7%33.7%34.3%33.1%34.9%34.9%33.8%34.2%34.1%34.1%34.1%Operating Expenses23.8%23.0%22.3%22.1%21.8%22.0%24.0%19.8%23.2%21.5%22.0%24.4%20.1%23.8%22.2%22.5%23.1%23.1%23.1%D&A1.9%1.9%1.9%1.9%2.0%2.0%2.3%1.8%2.3%2.1%2.1%2.5%2.0%2.4%2.3%2.3%2.4%2.4%2.4%Total SG&A25.8%24.9%24.2%24.0%23.8%24.0%26.3%21.6%25.5%23.6%24.1%27.0%22.1%26.3%24.6%24.8%25.5%25.5%25.5%Operating Margin7.3%8.3%9.4%10.0%10.3%10.4%7.4%13.5%9.2%10.2%10.2%6.2%12.8%8.6%9.2%9.4%8.6%8.6%8.6%EBITDA9.2%10.2%11.3%11.9%12.3%12.4%9.7%15.3%11.5%12.2%12.3%8.7%14.8%11.0%11.5%11.7%11.0%11.0%11.0%Net Income4.6%5.3%5.9%6.4%6.5%6.6%4.6%8.4%5.8%6.4%6.4%3.9%8.0%5.3%5.7%5.9%6.5%6.5%6.5%ProductivitySG&A per Store ($000)970.9           1,010.7       998.9         1,010.6       1,024.0       1,040.2       256.7      261.2      252.3      285.0      1,058.1      262.7      275.2      274.5      283.4      1,095.0      1,132.5      1,140.3      1,149.0          Growth1.9%4.1%(1.2)%1.2%1.3%1.6%2.3%(1.8)%(1.8)%8.5%1.7%2.3%5.4%8.8%(0.6)%3.5%3.4%0.7%0.8% 
+
+ 
+
+Figure 32: TSCO Balance Sheet ($m, FYE December) 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+
+ 
+
+www.wedbush.com
+
+Page 23
+
+FY 2010FY 2011FY 2012FY 2013FY 2014FY 2015FY 2016FY 2017EFY 2018EFY 2019EFY 2020EAssetsCash and cash equivalents257.3          177.0         138.6          142.7          51.1            63.8            53.9            238.2          228.6          249.4          303.2          Inventories736.5          830.8         908.1          979.3          1,115.5       1,284.4       1,369.7       1,465.5       1,568.1       1,677.9       1,795.3       Prepaid expenses33.9            51.7           51.8            57.4            66.4            87.5            90.6            96.6            103.2          110.2          117.7          Income taxes receivable3.8              3.7              3.7              3.7              3.7              3.7              Total current assets1,043.7       1,081.4      1,107.0       1,209.2       1,274.0       1,485.4       1,517.8       1,804.0       1,903.6       2,041.2       2,220.0       Property and equipment, net395.8          480.9         550.0          664.9          721.0          847.6          962.3          1,034.4       1,111.2       1,175.5       1,226.5       Goodwill10.3            10.3           10.3            10.3            10.3            10.3            125.7          125.7          125.7          125.7          125.7          Deferred income taxes5.8              8.9             23.1            0.1              8.8              9.2              45.2            45.2            45.2            45.2            45.2            Other assets8.0              13.5           16.5            18.9            20.5            18.3            23.9            23.9            23.9            23.9            23.9            Total Assets1,463.51,594.81,706.81,903.42,034.62,370.82,674.93,033.33,209.73,411.53,641.3Liabilities and Shareholders' EquityAccounts payable247.4          266.4         320.4          316.5          370.8          427.2          519.5          570.5          626.2          686.8          752.8          Total accrued expenses162.0          182.3         196.7          206.2          219.6          237.7          240.9          242.6          244.4          246.4          248.5          Current portion of long-term debt10.0            10.0            10.0            10.0            10.0            Current portion of capital lease obligations0.1              0.0             0.0              0.0              0.2              0.9              1.3              1.3              1.3              1.3              1.3              Income taxes currently payable8.3              11.9           43.4            9.4              12.4            5.4              5.5              5.9              6.2              6.7              7.1              Revolving credit loan150.0          Total current liabilities417.7          460.6         560.5          532.1          603.1          821.3          777.2          830.3          888.1          951.1          1,019.7       Long-term debt263.9          513.9          513.9          513.9          513.9          Capital lease obligations, less current maturities1.3              1.3             1.2              1.2              5.0              17.0            25.9            25.9            25.9            25.9            25.9            Deferred income taxes8.9              13.8           1.5              Deferred rent70.7            75.7           76.2            76.9            79.8            84.8            100.1          106.8          114.0          121.8          130.1          Other long-term liabilities31.7            35.1           42.4            46.2            53.2            54.5            54.7            54.7            54.7            54.7            54.7            Total liabilities530.2          586.5         681.8          656.5          741.0          977.5          1,221.7       1,531.5       1,596.6       1,667.4       1,744.3       Stockholders' Equity933.2          1,008.3      1,025.0       1,246.9       1,293.6       1,393.3       1,453.2       1,501.7       1,613.1       1,744.1       1,897.1       Tot. Liabilities/Stockholders' Equity1,463.51,594.81,706.81,903.42,034.62,370.82,674.93,033.33,209.73,411.53,641.3 
+
+ 
+
+Figure 33: TSCO Cash Flow Statement ($m, FYE December) 
+
+Source: Company data, Wedbush Securities, Inc. estimates 
+ 
+ 
+
+ 
+
+www.wedbush.com
+
+Page 24
+
+FY 2010FY 2011FY 2012FY 2013FY 2014FY 2015FY 2016FY 2017EFY 2018EFY 2019EFY 2020ECash Flow from OperationsNet income168.0          222.7         276.5          328.2          370.9          410.4          437.1          423.6          501.4          536.2          573.2          Non-cash adjustments to net incomeDepreciation and amortization69.8            80.3           89.0            100.0          114.6          123.6          143.0          167.9          183.2          195.7          209.0          Gain on disposition of property and equipment1.1              1.0             0.1              0.0              0.4              0.3              0.6              0.6              0.6              0.6              0.6              Asset impairment related to closed storesStock compensation expense11.8            15.0           17.6            13.9            16.2            19.4            23.6            20.0            20.0            20.0            20.0            Excess tax benefit of stock options exercised(25.8)          (43.5)          (18.9)          (27.0)          (11.7)          (10.0)          (10.0)          (10.0)          (10.0)          Deferred income taxes2.7              1.9             (26.6)          (8.3)            (19.8)          (5.5)            10.0            10.0            10.0            10.0            10.0            OtherSubtotal253.3          320.9         330.7          390.4          463.4          521.2          602.5          612.0          705.2          752.5          802.8          Change in Working CapitalAdjustments to net working capitalAccounts receivableInventories(60.1)          (94.3)          (77.3)          (71.2)          (136.1)        (168.9)        (67.7)          (95.9)          (102.6)        (109.8)        (117.5)        Prepaid expenses and other current assets(3.2)            (17.8)          (0.1)            (5.6)            (9.1)            (21.1)          1.8              Accounts Payable(14.2)          19.0           54.0            (3.9)            54.3            56.4            82.5            51.0            55.6            60.6            66.0            Accrued employee compensation11.9            13.7           0.1              2.2              (13.5)          5.6              (18.2)          1.7              1.8              2.0              2.1              Other accrued expenses26.7            6.3             8.8              9.9              20.4            11.3            20.4            Income taxes payable1.0              3.6             57.3            9.6              21.9            16.3            11.8            0.4              0.4              0.4              0.5              Other7.3              2.7             4.7              2.3              7.9              8.4              6.0              Subtotal(30.7)          (66.8)          47.6            (56.7)          (54.2)          (92.0)          36.5            (42.8)          (44.7)          (46.8)          (48.9)          Cash flow from Operations222.6          254.1         378.3          333.7          409.2          429.2          639.0          569.3          660.5          705.7          753.9          Cash Flow from InvestmentsCapital expenditures(96.5)          (166.2)        (152.9)        (218.2)        (160.6)        (236.5)        (226.0)        (240.0)        (260.0)        (260.0)        (260.0)        Proceeds from sale of property and equipment0.3              0.8             0.4              0.5              0.3              0.6              0.4              Proceeds from short-term investments(15.9)          15.9           Acquisitions(143.6)        Restricted cash deposits(21.9)          13.5            8.4              OtherNet cash flow from Investments(112.1)        (171.4)        (139.1)        (209.3)        (160.3)        (235.9)        (369.3)        (240.0)        (260.0)        (260.0)        (260.0)        Cash Flow from FinancingBorrowings under revolving credit agreement, net150.0          125.0          125.0          125.0          125.0          125.0          Debt Issuance Costs(1.4)            Debt Repayments(50.0)          (150.0)        (150.0)        (150.0)        Debt Proceeds300.0          150.0          150.0          150.0          Excess tax benefit of stock options exercised9.8              17.4           25.8            43.5            18.9            27.0            11.7            25.0            25.0            25.0            25.0            Principal payments under capital lease obligations(0.4)            (0.1)            (0.0)            (0.0)            (0.1)            (0.5)            (1.2)            Repurchase of shares to satisfy tax obligations(0.8)            (1.1)            (6.8)            (4.1)            (4.8)            (3.0)            (0.8)            (5.0)            (5.0)            (5.0)            (5.0)            Repurchase of common stock(38.2)          (180.0)        (271.8)        (129.4)        (298.5)        (292.7)        (331.7)        (425.0)        (425.0)        (425.0)        (425.0)        Net proceeds from issuance/sale of common stock23.9            31.5           26.6            38.3            28.1            41.7            41.0            20.0            20.0            20.0            20.0            Redemption of preffered stockPayment of preferred stock dividendCash dividends paid to stockholders(20.4)          (30.9)          (51.3)          (68.5)          (84.1)          (103.1)        (122.3)        (135.0)        (150.0)        (165.0)        (180.0)        OtherNet cash flow from Financing(26.0)          (163.2)        (277.6)        (120.2)        (340.5)        (180.6)        (279.7)        (145.0)        (410.0)        (425.0)        (440.0)        F/X effect, netNet increase (decrease) in cash84.5            (80.4)          (38.3)          4.1              (91.6)          12.7            (9.9)            184.3          (9.5)            20.7            53.9            Cash balance beginning of period172.8          257.3         177.0          138.6          142.7          51.1            63.8            53.9            238.2          228.6          249.4          Cash balance end of period257.3          177.0         138.6          142.7          51.1            63.8            53.9            238.2          228.6          249.4          303.2          Free Cash Flow (CFO-CapEx)126.1          88.0           225.4          115.5          248.6          192.7          413.0          329.3          400.5          445.7          493.9          FCF per Share0.84            0.60           1.55            0.81            1.78            1.41            3.09            2.57            3.26            3.77            4.36            Valuation
+Our $80 price target (from $72) is 20x our 2018 EPS estimate of $4.08 (up from $3.54).
+
+Risks to the Attainment of Our Price Target and Rating:
+Risks to the attainment of our price target and rating include increasing competition, fluctuating industry sales and farmer income
+reports, stronger macro factors, store growth plans, future promotional cadence and discounting, investments impacting SG&A, volatile
+gasoline prices, energy costs, interest rates and weather.
+
+Analyst Certification
+We, Seth Basham, Nathan Friedman and Jordan Flannery, certify that the views expressed in this report accurately reflect our personal
+opinions and that we have not and will not, directly or indirectly, receive compensation or other payments in connection with our
+specific recommendations or views contained in this report.
+
+Mentioned Companies
+
+Company
+
+Amazon.com
+
+Floor & Decor Holdings, Inc.
+
+Home Depot
+
+Lowe's Companies
+
+Rating
+
+OUTPERFORM
+
+OUTPERFORM
+
+NEUTRAL
+
+NEUTRAL
+
+Price
+
+$1,254.33
+
+$46.25
+
+$191.80
+
+$94.17
+
+Target
+
+$1,285.00
+
+$50.00
+
+$170.00
+
+$80.00
+
+Investment Rating System:
+OUTPERFORM: Expect the total return of the stock to outperform relative to the median total return of the analyst's (or the analyst's
+team) coverage universe over the next 6-12 months.
+NEUTRAL: Expect the total return of the stock to perform in-line with the median total return of the analyst's (or the analyst's team)
+coverage universe over the next 6-12 months.
+UNDERPERFORM: Expect the total return of the stock to underperform relative to the median total return of the analyst's (or the
+analyst's team) coverage universe of the next 6-12 months.
+The Investment Ratings are based on the expected performance of a stock (based on anticipated total return to price target) relative
+to the other stocks in the analyst's coverage universe (or the analyst's team coverage).*
+ 
+
+Rating distribution
+(as of January 11, 2018)
+OUTPERFORM: 54.42%
+NEUTRAL: 44.17%
+UNDERPERFORM: 1.41%
+
+Investment Banking Relationships
+(as of January 11, 2018)
+OUTPERFORM: 11.69%
+NEUTRAL: 3.20%
+UNDERPERFORM: 0.00%
+
+ 
+The Distribution of Ratings is required by FINRA rules; however, WS' stock ratings of Outperform, Neutral, and Underperform most
+closely conform to Buy, Hold, and Sell, respectively. Please note, however, the definitions are not the same as WS' stock ratings are
+on a relative basis.
+
+The analysts responsible for preparing research reports do not receive compensation based on specific investment banking activity.
+The analysts receive compensation that is based upon various factors including WS' total revenues, a portion of which are generated
+by WS' investment banking activities.
+
+Company Specific Disclosures
+1. WS makes a market in the securities of Tractor Supply Company, Amazon.com, Floor & Decor Holdings, Inc., Home Depot and Lowe's
+Companies.
+
+Price Charts
+
+www.wedbush.com
+
+Page 25
+
+OP:100.00
+02/ 25/ 2015
+
+OP:94.00
+01/ 28/ 2016
+
+OP:96.00
+04/ 21/ 2016
+
+N:72.00
+09/ 08/ 2016
+
+N:65.00
+10/ 20/ 2016
+
+OP:85.00
+01/ 13/ 2017
+
+OP:83.00
+04/ 12/ 2017
+
+OP:80.00
+04/ 27/ 2017
+
+OP:70.00
+06/ 06/ 2017
+
+Tractor Supply Company Rating History as of 01/ 05/ 2018
+
+powered by: BlueMatrix
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+Apr 15
+
+Jul 15
+
+Oct 15
+
+Jan 16
+
+Apr 16
+
+Jul 16
+
+Oct 16
+
+Jan 17
+
+Apr 17
+
+Jul 17
+
+Oct 17
+
+Jan 18
+
+OP:65.00
+07/ 27/ 2017
+
+OP:72.00
+10/ 03/ 2017
+
+Closing Price
+
+Price Target
+
+Outperform (OP); Neutral (N); Underperform (UP); Not Rated (NR)
+
+Amazon.com Rating History as of 01/ 05/ 2018
+
+powered by: BlueMatrix
+
+N:395.00
+04/ 20/ 2015
+
+N:435.00
+04/ 24/ 2015
+
+OP:575.00
+07/ 20/ 2015
+
+OP:700.00
+07/ 23/ 2015
+
+OP:775.00
+04/ 29/ 2016
+
+OP:835.00
+07/ 25/ 2016
+
+OP:900.00
+07/ 29/ 2016
+
+OP:1,250.00
+04/ 24/ 2017
+
+OP:1,285.00
+10/ 27/ 2017
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+Apr 15
+
+Jul 15
+
+Oct 15
+
+Jan 16
+
+Apr 16
+
+Jul 16
+
+Oct 16
+
+Jan 17
+
+Apr 17
+
+Jul 17
+
+Oct 17
+
+Jan 18
+
+Closing Price
+
+Price Target
+
+Outperform (OP); Neutral (N); Underperform (UP); Not Rated (NR)
+
+www.wedbush.com
+
+Page 26
+
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+Floor & Decor Holdings, Inc. Rating History as of 01/ 05/ 2018
+
+powered by: BlueMatrix
+
+N:45.00
+06/ 13/ 2017
+
+OP:45.00
+07/ 24/ 2017
+
+OP:47.00
+11/ 03/ 2017
+
+OP:50.00
+12/ 11/ 2017
+
+Apr 15
+
+Jul 15
+
+Oct 15
+
+Jan 16
+
+Apr 16
+
+Jul 16
+
+Oct 16
+
+Jan 17
+
+Apr 17
+
+Jul 17
+
+Oct 17
+
+Jan 18
+
+Closing Price
+
+Price Target
+
+Outperform (OP); Neutral (N); Underperform (UP); Not Rated (NR)
+
+N:120.00
+02/ 27/ 2015
+
+N:130.00
+08/ 20/ 2015
+
+N:135.00
+11/ 19/ 2015
+
+N:140.00
+12/ 09/ 2015
+
+N:145.00
+08/ 16/ 2016
+
+N:155.00
+03/ 02/ 2017
+
+N:165.00
+05/ 17/ 2017
+
+N:170.00
+11/ 15/ 2017
+
+Home Depot Rating History as of 01/ 05/ 2018
+
+powered by: BlueMatrix
+
+Apr 15
+
+Jul 15
+
+Oct 15
+
+Jan 16
+
+Apr 16
+
+Jul 16
+
+Oct 16
+
+Jan 17
+
+Apr 17
+
+Jul 17
+
+Oct 17
+
+Jan 18
+
+Closing Price
+
+Price Target
+
+Outperform (OP); Neutral (N); Underperform (UP); Not Rated (NR)
+
+www.wedbush.com
+
+Page 27
+
+Lowe's Companies Rating History as of 01/ 05/ 2018
+
+powered by: BlueMatrix
+
+N:80.00
+02/ 27/ 2015
+
+OP:82.00
+06/ 15/ 2015
+
+OP:84.00
+08/ 20/ 2015
+
+N:73.00
+10/ 26/ 2016
+
+N:77.00
+12/ 08/ 2016
+
+N:85.00
+03/ 02/ 2017
+
+N:75.00
+08/ 24/ 2017
+
+N:80.00
+11/ 22/ 2017
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+Apr 15
+
+Jul 15
+
+Oct 15
+
+Jan 16
+
+Apr 16
+
+Jul 16
+
+Oct 16
+
+Jan 17
+
+Apr 17
+
+Jul 17
+
+Oct 17
+
+Jan 18
+
+Closing Price
+
+Price Target
+
+Outperform (OP); Neutral (N); Underperform (UP); Not Rated (NR)
+
+Wedbush disclosure price charts are updated within the first fifteen days of each new calendar quarter per FINRA regulations. Price
+charts for companies intiated upon in the current quarter, and rating and target price changes occurring in the current quarter, will not
+be displayed until the following quarter. Additional information on recommended securities is available on request.
+Disclosure  information  regarding  historical  ratings  and  price  targets  is  available  at  http://www.wedbush.com/ResearchDisclosure/
+DisclosureQ217.pdf
+*WS changed its rating system from (Strong Buy/ Buy/ Hold/ Sell) to (Outperform/ Neutral/ Underperform) on July 14, 2009.
+Please access the attached hyperlink for WS' Coverage Universe: http://www.wedbush.com/services/cmg/equities-division/research/
+equity-research
+Applicable  disclosure  information  is  also  available  upon  request  by  contacting  Leslie  Lippai  in  the  Research  Department  at  (212)
+833-1375, by email to leslie.lippai@wedbush.com, or the Business Conduct Department (213) 688-8090. You may also submit a written
+request to the following: Business Conduct Department, 1000 Wilshire Blvd., Los Angeles, CA 90017.
+
+OTHER DISCLOSURES
+
+The information herein is based on sources that we consider reliable, but its accuracy is not guaranteed. The information contaned
+herein is not a representation by this corporation, nor is any recommendation made herein based on any privileged information. This
+information is not intended to be nor should it be relied upon as a complete record or analysis: neither is it an offer nor a solicitation
+of an offer to sell or buy any security mentioned herein. This firm, Wedbush Securities, its officers, employees, and members of their
+families, or any one or more of them, and its discretionary and advisory accounts, may have a position in any security discussed herein
+or in related securities and may make, from time to time, purchases or sales thereof in the open market or otherwise. The information
+and expressions of opinion contained herein are subject to change without further notice. The herein mentioned securities may be
+sold to or bougt from customers on a principal basis by this firm. Additional information with respect to the information contained
+herein may be obtained upon request.
+
+www.wedbush.com
+
+Page 28
+
+                
+
+ 
+
+               
+
+www.wedbush.com
+
+Page 29
+
+BiotechnologyFootwear & ApparelDavid Nierengarten, Ph.D.(415) 274-6862david.nierengarten@wedbush.comChristopher Svezia(212) 938-9922christopher.svezia@wedbush.comBiotechnologyHardlines RetailRobert Driscoll(415) 274-6863robert.driscoll@wedbush.comSeth Basham(212) 938-9954seth.basham@wedbush.comEmerging PharmaceuticalsHomebuilders/Building ProductsLiana Moussatos, Ph.D.(415) 263-6626liana.moussatos@wedbush.comJay McCanless(212) 833-1381jay.mccanless@wedbush.comLeisureJames Hardiman(212) 833-1362james.hardiman@wedbush.comPayments/IT ServicesRestaurantsMoshe Katri(212) 938-9947moshe.katri@wedbush.comNick Setyan(213) 688-4519nick.setyan@wedbush.comDigital MediaMichael Pachter(213) 688-4474michael.pachter@wedbush.comDigital MediaFinancial Infrastructure & Real Estate FinanceNick McKay(213) 688-4343nick.mckay@wedbush.comJason Weaver(212) 833-1383jason.weaver@wedbush.comInternet: E-commerceMid-Cap BanksAaron Turner(213) 688-4429aaron.turner@wedbush.comDavid Chiaverini(212) 938-9934david.chiaverini@wedbush.comEnterprise SoftwareRegional BanksSteve Koenig(415) 274-6801steve.koenig@wedbush.comPeter Winter(212) 938-9942peter.winter@wedbush.comSpecialty FinanceHenry Coffey(212) 833-1382henry.coffey@wedbush.comConsumerFinancialsJack Collins(415) 274-6816jack.collins@wedbush.comRob Cohen(212) 938-9952rob.cohen@wedbush.comHealthcareTMTSahak Manualian(213) 688-4533sahak.manuelian@wedbush.comJoel Kulina(212) 938-2056joel.kulina@wedbush.comEQUITY CO-HEADSjesse.bigelow@wedbush.com(212) 259-6581Strecker BackeAssociate, Equity Research strecker.backe@wedbush.com(212) 833-1367Jesse BigelowDirector of ResearchRESEARCH MANAGEMENTEquity ResearchHEALTHCARERETAIL AND CONSUMERTMTFINANCIAL INSTITUTIONS GROUPAnita MinassianPhylicia KirvenKirsten FrauncesIan Winerkirsten.fraunces@wedbush.comian.winer@wedbush.com(213) 688-4404(213) 688-4471CORPORATE ACCESSTRADINGWEDBUSH OFFICESVP, Corporate AccessAVP, Corporate Accesswedbush.conferences@wedbush.comequitymarketing@wedbush.com(213) 688-4404(213) 688-4455LOS ANGELESNEW YORKSAN FRANCISCO1000 Wilshire Boulevard142 W 57th Street2 Embarcadero Center, Suite 600Los Angeles, CA 90017New York, NY 10019San Francisco, CA 94111(213) 688-8000(212) 938-9920(415) 273-7300(617) 832-3700(312) 786-1930BOSTON CHICAGO265 Franklin Street141 W. Jackson Boulevard, Suite 1710ABoston, MA 02110Chicago, IL 60604

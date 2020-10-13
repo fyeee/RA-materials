@@ -1,22 +1,16 @@
-import sys
-import os
 import csv
-import io
 import re
 from os import listdir
 from os.path import isfile, join
-from pdfminer.pdfdocument import PDFDocument
-from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.pdfdevice import PDFDevice, TagExtractor
 from pdfminer.pdfpage import PDFPage
-from pdfminer.converter import XMLConverter, HTMLConverter, TextConverter, LTChar
-from pdfminer.cmapdb import CMapDB
+from pdfminer.converter import TextConverter, LTChar
 from pdfminer.layout import LAParams
-from pdfminer.image import ImageWriter
 from nltk.corpus import stopwords
 import nltk
-import string
+import pandas as pd
+from CompanyNameRecognition import *
+import time
 
 
 class CsvConverter(TextConverter):
@@ -63,43 +57,72 @@ def export_as_txt(pdf_path, output_txt_path):
     output.close()
 
 
-def clean_txt_file(txt_path, output_path=None):
+def remove_table_and_disclosure(all_decoded_lines):
     p = nltk.PorterStemmer()
+    cleaned_lines = []
+    stop_parsing = False
+    for i, line in enumerate(all_decoded_lines):
+        write_line = False
+        all_words = line.split(" ")
+        for word in all_words:
+            stemmed_word = p.stem(word)
+            if stemmed_word == "disclosur" and i > (len(all_decoded_lines) / 2):
+                stop_parsing = True
+            if len(word) > 1 and stemmed_word in stopwords.words('english'):
+                write_line = True
+        if write_line:
+            cleaned_lines.append(line)
+        if stop_parsing:
+            break
+    return cleaned_lines
+
+
+def pre_processing(all_lines):
+    """
+    Removing stop words,
+    Replace all words with lower-case
+    Remove punctuation
+    Remove all numeric related words
+    """
+    p = nltk.PorterStemmer()
+    cleaned_lines = []
+    for line in all_lines:
+        line = re.sub(r"[^\s]*[0-9@][^\s]*", '', line)  # Remove all numeric related words
+        line = line.translate(dict((ord(char), " ") for char in ",.!:;@#$%^*()+_=~?<>\"'"))  # Remove punctuation
+        line = line.lower()  # All words to lower case
+        for key in phrases_mapping:
+            if key in line:
+                line = re.sub(key, phrases_mapping[key][0], line)
+        all_words = line.split(" ")
+        stemmed_words = []
+        # Stemming and removing stop words
+        for i, word in enumerate(all_words):
+            stemmed_word = p.stem(word)
+            if stemmed_word not in stopwords.words('english'):
+                stemmed_words.append(stemmed_word)
+        cleaned_lines.append(" ".join(stemmed_words))
+    return cleaned_lines
+
+
+def clean_txt_file(txt_path, output_path=None):
+    report_name = os.path.splitext(txt_path)[0]
+    company_ticker = report_name.split("-")[3]
     if not output_path:
         output_path = txt_path
-    with open(txt_path, 'rb') as file:
-        total_lines = sum(1 for line in file)
     output_fp = open(output_path, 'w')
     with open(txt_path, 'rb') as file:
-        count = 0
+        all_decoded_lines = []
         line = file.readline().decode('utf-8')
-        stop_writing = False
         while line:
             line = re.sub(r"[^\x00-\x7F]", '', line)  # Remove none english characters
-            line = line.translate(str.maketrans('', '', string.punctuation))  # Remove punctuation
-            line = line.lower()  # All words to lower case
-            line = re.sub(r"[^\s]*[0-9@][^\s]*", '', line)  # Remove all numeric related words
-            all_words = line.split(" ")
-            write_line = False
-            stemmed_words = []
-            # Stemming and removing tables
-            # Assumption: None table line should contain at least one stop word
-            # Assumption: Disclosures only exist in the second half of the reports, and none of the information after
-            # that matters
-            for i, word in enumerate(all_words):
-                stemmed_word = p.stem(word)
-                if stemmed_word == "disclosur" and count > (total_lines / 2):
-                    stop_writing = True
-                if len(word) > 1 and stemmed_word in stopwords.words('english'):
-                    write_line = True
-                else:
-                    stemmed_words.append(stemmed_word)
-            if stop_writing:
-                break
-            if write_line:
-                output_fp.write(" ".join(stemmed_words))
+            line = line.replace('\r', '')
+            all_decoded_lines.append(line)
             line = file.readline().decode('utf-8')
-            count += 1
+        all_decoded_lines = remove_table_and_disclosure(all_decoded_lines)
+        no_company_lines = remove_company_name(all_decoded_lines, company_ticker)
+        all_clean_lines = pre_processing(no_company_lines)
+        for line in all_clean_lines:
+            output_fp.write(line)
     output_fp.close()
     with open(output_path, 'rb') as file:
         content = file.read().decode('utf-8')
@@ -114,8 +137,11 @@ output_txt_dir = r".\output_txt\raw_txt"
 output_clean_txt_dir = r".\output_txt\clean_txt"
 output_csv_dir = r".\output_csv"
 input_pdf_dir = r".\input_pdf"
+phrases_mapping = pd.read_csv(r'.\list_of_high-frequency_phrases.txt', sep="	", header=None).set_index(0).T.to_dict('list')
+
 
 if __name__ == "__main__":
+    start = time.time()
     file_names = [f for f in listdir(input_pdf_dir) if isfile(join(input_pdf_dir, f))]
     for file_name in file_names:
         input_pdf_path = join(input_pdf_dir, file_name)
@@ -125,3 +151,5 @@ if __name__ == "__main__":
         # export_as_txt(input_pdf_path, output_txt_path)
         # export_as_csv(output_txt_path, output_csv_path)
         clean_txt_file(output_txt_path, output_clean_txt_path)
+    end = time.time()
+    print(end - start)
