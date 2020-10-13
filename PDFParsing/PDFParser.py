@@ -68,7 +68,7 @@ def remove_table_and_disclosure(all_decoded_lines):
             stemmed_word = p.stem(word)
             if stemmed_word == "disclosur" and i > (len(all_decoded_lines) / 2):
                 stop_parsing = True
-            if len(word) > 1 and stemmed_word in stopwords.words('english'):
+            if len(word) > 1 and word in stopwords.words('english'):
                 write_line = True
         if write_line:
             cleaned_lines.append(line)
@@ -88,7 +88,7 @@ def pre_processing(all_lines):
     cleaned_lines = []
     for line in all_lines:
         line = re.sub(r"[^\s]*[0-9@][^\s]*", '', line)  # Remove all numeric related words
-        line = line.translate(dict((ord(char), " ") for char in ",.!:;@#$%^*()+_=~?<>\"'"))  # Remove punctuation
+        line = line.translate(dict((ord(char), " ") for char in ",.!:;@#$%^*()+_=~?<>\"'/\\"))  # Remove punctuation
         line = line.lower()  # All words to lower case
         for key in phrases_mapping:
             if key in line:
@@ -98,7 +98,7 @@ def pre_processing(all_lines):
         # Stemming and removing stop words
         for i, word in enumerate(all_words):
             stemmed_word = p.stem(word)
-            if stemmed_word not in stopwords.words('english'):
+            if word not in stopwords.words('english'):
                 stemmed_words.append(stemmed_word)
         cleaned_lines.append(" ".join(stemmed_words))
     return cleaned_lines

@@ -71,7 +71,7 @@ def remove_company_name(all_lines, company_ticker):
         recognized_names = identify_company_name(company_names, all_possible_names, target_company)
         if len(recognized_names) > 0:
             line = name_removal(line, recognized_names)
-        line = name_removal(line, [company_ticker])
+        line = name_removal(line.lower(), [company_ticker.lower().split(".")[0], company_ticker.lower()])
         cleaned_lines.append(line)
     return cleaned_lines
 
