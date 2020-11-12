@@ -8,6 +8,12 @@ from pdfminer.converter import TextConverter, LTChar
 from pdfminer.layout import LAParams
 from nltk.corpus import stopwords
 import nltk
+import sys, getopt
+# nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('maxent_ne_chunker')
+# nltk.download('words')
 import pandas as pd
 from CompanyNameRecognition import *
 import time
@@ -63,7 +69,7 @@ def remove_table_and_disclosure(all_decoded_lines):
     stop_parsing = False
     for i, line in enumerate(all_decoded_lines):
         write_line = False
-        all_words = line.split(" ")
+        all_words = line.strip("\n").split(" ")
         for word in all_words:
             stemmed_word = p.stem(word)
             if stemmed_word == "disclosur" and i > (len(all_decoded_lines) / 2):
@@ -84,20 +90,25 @@ def pre_processing(all_lines):
     Remove punctuation
     Remove all numeric related words
     """
+    phrases_df = pd.read_csv('./dictionaries/list_of_high-frequency_phrases.txt', sep="	", header=None)
+    phrases_df.iloc[:, 0] = phrases_df.iloc[:, 0].str.strip(" ")
+    phrases_df.iloc[:, 1] = phrases_df.iloc[:, 1].str.strip(" ")
+    phrases_mapping = phrases_df.set_index(0).T.to_dict('list')
     p = nltk.PorterStemmer()
     cleaned_lines = []
     for line in all_lines:
         line = re.sub(r"[^\s]*[0-9@][^\s]*", '', line)  # Remove all numeric related words
-        line = line.translate(dict((ord(char), " ") for char in ",.!:;@#$%^*()+_=~?<>\"'/\\"))  # Remove punctuation
+        line = line.translate(dict((ord(char), " ") for char in ",.!:;@#$%^*()[]{}+_=~?<>\"'"))  # Remove punctuation
         line = line.lower()  # All words to lower case
-        for key in phrases_mapping:
-            if key in line:
-                line = re.sub(key, phrases_mapping[key][0], line)
         all_words = line.split(" ")
         stemmed_words = []
         # Stemming and removing stop words
         for i, word in enumerate(all_words):
-            stemmed_word = p.stem(word)
+            stripped_word = word.strip(" ")
+            if stripped_word in phrases_mapping:
+                stemmed_word = phrases_mapping[stripped_word][0]
+            else:
+                stemmed_word = p.stem(stripped_word)
             if word not in stopwords.words('english'):
                 stemmed_words.append(stemmed_word)
         cleaned_lines.append(" ".join(stemmed_words))
@@ -133,23 +144,58 @@ def clean_txt_file(txt_path, output_path=None):
     output_fp.close()
 
 
-output_txt_dir = r".\output_txt\raw_txt"
-output_clean_txt_dir = r".\output_txt\clean_txt"
-output_csv_dir = r".\output_csv"
-input_pdf_dir = r".\input_pdf"
-phrases_mapping = pd.read_csv(r'.\dictionaries\list_of_high-frequency_phrases.txt', sep="	", header=None).set_index(0).T.to_dict('list')
+def makedir(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+
+def main(argv):
+    output_dir = "./output_txt"
+    input_pdf_dir = "./input_pdf"
+    pdf_to_txt = False
+    clean_txt = False
+    try:
+      opts, args = getopt.getopt(argv,"pci:o:",["ifolder=", "ofolder="])
+    except getopt.GetoptError:
+      print('PDFParser.py -p -c -i <inputFolder> -o <outputFolder>')
+      sys.exit(2)
+    for opt, arg in opts:
+        if opt == '-p':
+            pdf_to_txt = True
+        elif opt == '-c':
+            clean_txt = True
+        elif opt in ("-i", "--ifolder"):
+            input_pdf_dir = arg
+        elif opt in ("-o", "--ofolder"):
+            output_dir = arg
+            makedir(output_dir)
+    output_raw_txt_dir = join(output_dir, "raw_txt")
+    makedir(output_raw_txt_dir)
+    output_clean_txt_dir = join(output_dir, "clean_txt")
+    makedir(output_clean_txt_dir)
+    if pdf_to_txt:
+        file_names = [f for f in listdir(input_pdf_dir) if isfile(join(input_pdf_dir, f))]
+        for file_name in file_names:
+            output_raw_txt_path = join(output_raw_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
+            print("Parsing: " + file_name)
+            input_pdf_path = join(input_pdf_dir, file_name)
+            try:
+                export_as_txt(input_pdf_path, output_raw_txt_path)
+            except:
+                print("Failed Parsing: " + file_name)
+            # export_as_csv(output_txt_path, output_csv_path)
+    if clean_txt:
+        file_names = [f for f in listdir(output_raw_txt_dir) if isfile(join(output_raw_txt_dir, f))]
+        for file_name in file_names:
+            print("Cleaning: " + file_name)
+            output_raw_txt_path = join(output_raw_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
+            output_clean_txt_path = join(output_clean_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
+            clean_txt_file(output_raw_txt_path, output_clean_txt_path)
+    return 0
 
 
 if __name__ == "__main__":
     start = time.time()
-    file_names = [f for f in listdir(input_pdf_dir) if isfile(join(input_pdf_dir, f))]
-    for file_name in file_names:
-        input_pdf_path = join(input_pdf_dir, file_name)
-        output_txt_path = join(output_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
-        output_clean_txt_path = join(output_clean_txt_dir, os.path.splitext(file_name)[0]) + ".txt"
-
-        # export_as_txt(input_pdf_path, output_txt_path)
-        # export_as_csv(output_txt_path, output_csv_path)
-        clean_txt_file(output_txt_path, output_clean_txt_path)
+    main(sys.argv[1:])
     end = time.time()
     print(end - start)

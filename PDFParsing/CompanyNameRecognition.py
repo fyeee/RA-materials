@@ -52,6 +52,18 @@ def identify_company_name(company_names_list, all_possible_name_list, target_com
     return name_list
 
 
+def identify_tickers(company_ticker_list, words):
+    name_list = []
+    for word in words:
+        for ticker in company_ticker_list:
+            if len(ticker) <= 3:
+                continue
+            if len(word) > 3 and word.lower() == ticker.lower() and word not in name_list:
+                name_list.append(word)
+                break
+    return name_list
+
+
 def name_removal(line, list_of_names):
     list_of_names.sort(key=len, reverse=True)
     for name in list_of_names:
@@ -64,14 +76,17 @@ def remove_company_name(all_lines, company_ticker):
     company_df["S&P 500 Index"] = company_df["S&P 500 Index"].str.slice(0, -4)
     company_names = company_df["S&P 500 Index"]
     target_company = company_df[company_df[".SP500"] == company_ticker]["S&P 500 Index"].max()
+    full_company_ticker_list = pd.read_excel("./dictionaries/list_SP500.xlsx", sheet_name="Russell 3000")[".RUA"].str.split('.').str[0]
     cleaned_lines = []
     for line in all_lines:
+        all_proper_nouns = identify_proper_noun(line)
         all_possible_names = get_continuous_chunks(line)
-        all_possible_names.extend(identify_proper_noun(line))
+        all_possible_names.extend(all_proper_nouns)
         recognized_names = identify_company_name(company_names, all_possible_names, target_company)
+        recognized_tickers = identify_tickers(full_company_ticker_list, [word for word in word_tokenize(line) if word[0].isupper()])
+        recognized_names.extend(recognized_tickers)
         if len(recognized_names) > 0:
             line = name_removal(line, recognized_names)
-        line = name_removal(line.lower(), [company_ticker.lower().split(".")[0], company_ticker.lower()])
         cleaned_lines.append(line)
     return cleaned_lines
 
