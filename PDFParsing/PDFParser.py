@@ -9,6 +9,7 @@ from pdfminer.layout import LAParams
 from nltk.corpus import stopwords
 import nltk
 import sys, getopt
+import fitz
 # nltk.download('stopwords')
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
@@ -51,15 +52,11 @@ def export_as_csv(txt_path, output_csv_path):
 
 
 def export_as_txt(pdf_path, output_txt_path):
-    output = open(output_txt_path, 'w', encoding='utf-8')
-    resource_manager = PDFResourceManager()
-    page_numbers = set()
-    device = TextConverter(resource_manager, output, laparams = LAParams())
-    with open(pdf_path, 'rb') as fp:
-        interpreter = PDFPageInterpreter(resource_manager, device)
-        for page in PDFPage.get_pages(fp, page_numbers):
-            interpreter.process_page(page)
-    device.close()
+    output = open(output_txt_path, 'wb')
+    with fitz.open(pdf_path) as doc:
+        for page in doc:
+            text = page.getText().encode("utf-8")
+            output.write(text)
     output.close()
 
 
@@ -69,7 +66,7 @@ def remove_table_and_disclosure(all_decoded_lines):
     stop_parsing = False
     for i, line in enumerate(all_decoded_lines):
         write_line = False
-        all_words = line.strip("\n").split(" ")
+        all_words = nltk.word_tokenize(line)
         for word in all_words:
             stemmed_word = p.stem(word)
             if stemmed_word == "disclosur" and i > (len(all_decoded_lines) / 2):
@@ -100,18 +97,17 @@ def pre_processing(all_lines):
         line = re.sub(r"[^\s]*[0-9@][^\s]*", '', line)  # Remove all numeric related words
         line = line.translate(dict((ord(char), " ") for char in ",.!:;@#$%^*()[]{}+_=~?<>\"'"))  # Remove punctuation
         line = line.lower()  # All words to lower case
-        all_words = line.split(" ")
+        all_words = nltk.word_tokenize(line)
         stemmed_words = []
         # Stemming and removing stop words
         for i, word in enumerate(all_words):
-            stripped_word = word.strip(" ")
-            if stripped_word in phrases_mapping:
-                stemmed_word = phrases_mapping[stripped_word][0]
+            if word in phrases_mapping:
+                stemmed_word = phrases_mapping[word][0]
             else:
-                stemmed_word = p.stem(stripped_word)
+                stemmed_word = p.stem(word)
             if word not in stopwords.words('english'):
                 stemmed_words.append(stemmed_word)
-        cleaned_lines.append(" ".join(stemmed_words))
+        cleaned_lines.append(" ".join(stemmed_words) + "\n")
     return cleaned_lines
 
 

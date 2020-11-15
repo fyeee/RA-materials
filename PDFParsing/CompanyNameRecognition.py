@@ -56,9 +56,9 @@ def identify_tickers(company_ticker_list, words):
     name_list = []
     for word in words:
         for ticker in company_ticker_list:
-            if len(ticker) <= 3:
+            if len(ticker) < 3:
                 continue
-            if len(word) > 3 and word.lower() == ticker.lower() and word not in name_list:
+            if len(word) >= 3 and word.lower() == ticker.lower() and word not in name_list:
                 name_list.append(word)
                 break
     return name_list
@@ -72,10 +72,10 @@ def name_removal(line, list_of_names):
 
 
 def remove_company_name(all_lines, company_ticker):
-    company_df = pd.read_excel("./dictionaries/list_SP500.xlsx", sheet_name="S&P500")
-    company_df["S&P 500 Index"] = company_df["S&P 500 Index"].str.slice(0, -4)
-    company_names = company_df["S&P 500 Index"]
-    target_company = company_df[company_df[".SP500"] == company_ticker]["S&P 500 Index"].max()
+    company_df = pd.read_excel("./dictionaries/list_SP500.xlsx", sheet_name="Russell 3000")
+    company_df["RUSSELL 3000 CASH (NY) INDEX"] = company_df["RUSSELL 3000 CASH (NY) INDEX"].str.slice(0, -4)
+    company_names = company_df["RUSSELL 3000 CASH (NY) INDEX"]
+    target_company = company_df[company_df[".RUA"] == company_ticker]["RUSSELL 3000 CASH (NY) INDEX"].max()
     full_company_ticker_list = pd.read_excel("./dictionaries/list_SP500.xlsx", sheet_name="Russell 3000")[".RUA"].str.split('.').str[0]
     cleaned_lines = []
     for line in all_lines:
