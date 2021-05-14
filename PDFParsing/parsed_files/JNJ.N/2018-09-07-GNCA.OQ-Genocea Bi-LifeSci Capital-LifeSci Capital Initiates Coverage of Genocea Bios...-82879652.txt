@@ -1,0 +1,638 @@
+year left
+short interest float
+genocea bioscienc gnca clinic stage biotechnolog compani
+primarili focus develop neoantigen vaccin candid treat cancer
+understand cell recogn target neoantigen uniqu patient tumor
+led vc big pharma interest neoantigen therapeut target sever larg
+collabor recent announc genocea candid design use
+proprietari antigen-select platform atla abl exclus select neoantigen
+pre-exist immun respons approach expect
+enhanc accuraci efficaci rel compet neoantigen approach util
+predict algorithm compani lead candid current test
+phase i/iia trial immunogen data expect genocea plan
+use atla develop asset pipelin includ
+intellig design neoantigen vaccin
+one key factor differenti compet neoantigen vaccin
+develop composit includ neoantigen measur pre-
+exist immun respons therebi increas probabl elicit therapeut
+relev immun respons patient addit atla platform uniqu
+abil detect neoantigen elicit respons t-cell subset
+could lead enhanc vivo efficaci compar method primarili focus
+neoantigen approach highlight pharma
+partnership develop neoantigen immunotherapi approach gener
+signific level interest vc big pharma number
+collabor announc includ larg up-front payment equiti invest
+mileston payment royalti sale describ greater detail within report
+case genocea compani note publicli explor partnership
+opportun atla platform base potenti advantag atla
+platform believ good chanc collabor emerg
+immunogen data phase i/iia trial anticip
+genocea conduct multipl proof-of-concept studi across varieti tumor type
+demonstr abil atla identifi neoantigen gener measur t-cell
+activ independ hla-typ basi posit immune-profil data
+compani announc accept ind may follow
+initi phase i/iia studi trial consist three part part assess
+monotherapi patient evid diseas high risk
+relaps part assess combin checkpoint inhibitor patient
+stabl diseas partial respons part evalu monotherapi
+patient advanc metastat diseas immunogen data part
+anticip give insight competit profil atla
+immunogen data phase i/iia studi
+analyst certif disclosur pleas see page
+strong rational combin neoantigen vaccin checkpoint inhibitor efficaci immun
+checkpoint inhibitor associ level mutat burden tumor heterogen number tumor
+infiltr lymphocyt til one key driver link mutat load checkpoint inhibitor respons
+frequenc neoantigen neoantigen vaccin abil activ direct cell toward
+highly-specif tumor-associ antigen use preclin shown synerg checkpoint inhibitor
+recent patient relaps follow vaccin compet neoantigen-vaccin trial demonstr
+complet signific partial respons subsequ checkpoint inhibitor therapi note compet
+program use predict algorithm select antigen like less accur approach genocea
+howev given likelihood respons low patient popul initi clinic data support
+idea neoantigen vaccin augment therapeut effect checkpoint inhibitor therapi
+data indic competit advantag atla platform tradit develop predict
+algorithm atla technolog like result accur identif neoantigen place
+predict tradit in-silico approach contain sever barrier efficaci often util algorithm train
+databas limit peptid length captur bind affin data small fraction potenti
+antigen addit make predict base singl bind event fail account addit step
+antigen process includ proteasom process peptid transport atla platform aim address
+underli issu expos antigen-express librari directli autolog antigen-pres cell
+mimick antigen present process would happen vivo step interact apc
+patient-deriv t-cell allow identif neoantigen elicit relev immun respons
+potenti approach demonstr immuno-profil studi compar result atla
+netmhcpan current predict algorithm patient variabl tumor type netmhcpan fail predict
+true stimul neoantigen true stimul neoantigen identifi
+atla addit netmhcpan also shown mischaracter inhibitori neoantigen
+second quarter result june genocea cash cash equival
+million expect fund oper fourth quarter second quarter compani
+amend loan secur agreement hercul capit inc provid million debt financ
+form term loan expens million second quarter compar million
+second quarter expens million second quarter compar
+million period net loss million compar net loss million second
+tabl content
+therapeut target neoantigen
+neoantigen identif atla
+clinic data discuss
+market inform immuno-oncolog
+ici combin therapi develop
+atla opportun develop
+therapeut vaccin herp
+risk invest
+clinical-stag biotechnolog compani focus develop neoantigen-bas
+therapi treatment cancer neoantigen aris non-synonym mutat within tumor cell
+recogn potenti valuabl target treatment cancer one major barrier efficaci
+current neoantigen therapi approach proper identif true neoantigen elicit stimulatori immun
+respons genocea offer differenti rational approach neo-antigen select proprietari
+atla platform immuno-profil studi show tradit predict algorithm netmhcpan fail
+predict mani true-neoantigen identifi atla genocea lead asset util atla
+select relev neoantigen creat person vaccin consist synthet long peptid pair
+poly-iclc patient varieti tumor current evalu phase i/iia studi
+immunogen data anticip treatment develop use monotherapi well
+combin immun checkpoint inhibitor due scientif rational atla platform form basi
+follow asset depict figur gener neo-antigen cancer vaccin preclin
+develop august genocea announc initi pre-clin work adopt t-cell
+therapi tailor use atlas-target select
+lifesci capit compani report
+therapeut target neoantigen
+well accept tumor evad suppress host immun system exploit number cellular
+mechan effort bypass pathway treatment develop stimul drive immun
+system better recogn cancer foreign entiti bodi one area focu understand
+har therapeut potenti neoantigen produc cancer cell neoantigen non-self-antigen aris
+result somat mutat within cancer cell protein recogn foreign non-self
+individu immun system lead anti-canc immun respons format appear correl
+increas mutat load high frequenc neoantigen format observ cancer mutat
+burden somat mutat per megabas respond well checkpoint figur
+depict estim neoantigen preval variou human cancer immunoreact neoantigen
+identifi domin form immune-system respons compar form tumor-specif
+tumor-associ target neoantigen pose signific advantag tradit use tumor-
+associ antigen taa recogn t-cell foreign subject central toler
+mechan support use neoantigen vaccin cancer higher number neoantigen
+melanoma lung cancer bladder overal respond well immunotherapi treatment wherea
+lower mutat load glioblastoma aml prostat cancer less respons util genocea
+atla platform cancer low high number neoantigen may better target immun system
+lead enhanc anti-canc respons
+figur preval neoantigen format variou cancer
+schumach schreiber
+ schreiber neoantigen cancer immunotherapi scienc pp
+ et al role neoantigen respons immun checkpoint blockad intern immunolog pp
+ et al improv cancer immunotherapi empir neoantigen select trend cancer
+approach wide use identifi neoantigen mutation-bas cancer vaccin center creat
+algorithm predict model develop stratifi treatment target hand share cancer mutat
+individu mutat depict figur
+immun activ achiev patient receiv stratifi cancer vaccin clinic trial perform
+last decad use model overal lacklust result lack efficaci understood
+result heterogen cancer mutat patient cancer type also aris
+ingrain problem predict algorithm method built train neural network predict
+possibl neoantigen base potenti bind affin variou mhc allel databas use train
+network primarili consist peptid mhc molecul preferenti bind addit
+algorithm gener limit mhc class molecul predict t-cell respons larg ignor
+mhc class ii molecul predict t-cell respons demonstr import gener
+effect immun length restrict impos boundari predict power method
+et al target heterogen cancer individu neoeptiop vaccin clin cancer
+ et al improv peptide-mhc class interact predict integr elut ligand
+peptid bind affin data journal immunolog pp
+heterogen immun system result differ proteasom antigen process neoepitop transport
+t-cell bind overal account construct algorithm factor effect
+potenti immun system activ creat weak predict algorithm make difficult identifi
+proper number type antigen stimul immun system patient thu transit
+begun develop cancer vaccin creat individu treatment address heterogen
+cancer mutat patient figur still need incorpor immun system heterogen
+patient analysi genocea antigen lead acquisit atla platform take uniqu
+approach address problem differenti competitor
+atla high-throughput t-cell antigen discoveri platform valid particip unlik
+algorithm predict model atla platform identifi neoantigen patient tumor
+patient known immun respons antigen identifi compani synthes
+person cancer vaccin patient alreadi prime respond therapi gener overview
+atla workflow depict figur
+two compon atla platform recreat natur immun respons patient
+t-cell antigen present machineri gener antigen plasmid librari human immun
+system model ex-vivo non-specif expans cell enrich patient-deriv pbmc
+differenti monocyt monocyte-deriv dendrit cell mddc autolog
+antigen-pres cell tumor exom sequenc allow identif possibl neo-antigen
+individu transform coli cell yield antigen-plasmid librari compon use
+potenti advantag atla platform mimick t-cell arm human immun system
+laboratori set platform identifi individu mutat express patient tumor cell
+distinguish specif mutat immuno-stimulatori immuno-inhibitori produc immun respons
+determin deliv coli express isol individu put neoantigen patient antigen
+present cell apc process present peptid surfac recogn
+patient cell analyz t-cell respons platform measur cytokin level trigger
+t-cell upon antigen present bind
+platform versatil identifi neoantigen also util detect tumor-associ
+antigen taa viral-associ antigen vaa cell receptor tcr versatil could lead possibl
+partnership compani administ person cancer vaccin combin checkpoint inhibitor
+high number tumor infiltr lymphocyt til specif tumor antigen correl respons
+checkpoint inhibit use atla platform genocea intend increas number tumor specif
+til ultim bypass tumor evas suppress mechan although littl detail provid
+compani note publicli explor partnership opportun atla platform
+import identifi t-cell respons t-cell possess direct cytotox
+tumor cell either direct cell-cel contact mediat secret cytokin tumor cell
+constitut express mhc class molecul versu mhc class ii molecul make recogniz
+t-cell bind exclus mhc class result much prior neoantigen screen focus
+mhc class restrict peptid howev therapeut vaccin base restrict taa shown
+margin efficaci may due part lack t-cell respons although cell preferenti
+recogn mhc class ii molecul mediat immun restrict mhc type mhc-class
+depend counterpart cell shown mediat t-cell respons prime t-
+cell initi immun respons well maintain t-cell function secret
+essenti growth prolifer t-cell addit sever studi shown
+cell acquir vivo cytotox ifn- driven upregul mhc class ii express tumor cell surfac
+result cell becom capabl recogn kill mhc class ii express tumor cell
+pathway independ t-cell mechan t-cell anti-cancer effect depict
+figur import elicit respons neoantigen vaccin support
+kol convers lead io physician test neoantigen directli
+t-cell deriv patient pbmc genocea atla platform abl detect neoantigen elicit
+respons t-cell subset potenti lead increas vivo efficaci compar method focus
+elicit t-cell respons
+ et al mhc class ii restrict neoantigen promis target tumor immunotherapi cancer letter pp
+figur anti-canc effect t-cell
+neoantigen hold great promis stimul direct immun respons aris tumor-specif
+somat mutat cell recogn antigen undergon thymic select
+recogn foreign non-self epitop util antigen produc tumor express
+normal cell cancer vaccin design direct drive cell tumor site therebi reduc side
+effect associ t-cell attack host tissu genocea atla platform vaccin candid may provid
+effect approach drive higher respons rate fewer side effect compar immuno-stimulatori
+strategi util clinic compani first neoantigen vaccin candid enter clinic gen-
+phase i/iia trial recent began test monotherapi combin therapi
+initi immunogen data studi expect step involv vaccin product
+whole blood collect pbmc enrich tumor biopsi exom sequenc neoantigen identif
+vaccin manufactur summar figur
+neoantigen identif atla begin process vaccin gener whole blood
+collect patient peripher blood mononuclear cell pbmc enrich use densiti gradient
+cell sort non-specif expand monocyt isol
+differenti monocyte-deriv dendrit cell mddc autolog antigen present cell apc
+compon becom patient human immun system plate coincid biopsi
+patient tumor taken whole exom sequenc perform identifi put neoantigen express
+tumor antigen encod plasmid librari individu transform coli creat
+antigen express librari
+ coli ad directli phagocyt human monocyte-deriv dendrit cell mddc depict order
+drive mhc antigen present coli librari co-express cytoplasm variant listeriolysin cllo
+pore-form cytolysin produc listeria monocytogen also introduc follow acidif
+phagolysosom oligomer cllo protein form pore releas content phagolysosom
+includ put neoantigen content process proteasom
+antigen enter mhc-i process pathway mddc repres patient antigen
+process present ex vivo autolog cell recognit measur quantifi
+assess concentr releas cytokin interferon gamma ifng
+system also use drive mhc-ii antigen present use second coli strain express
+cllo figur set content phagolysosom remain vesicl instead
+proteolyt process antigen enter mhc-ii process pathway mddc upon recognit
+autolog cell immunolog synaps cytokin measur quantifi
+ghamsari et al genome-scal neoantigen screen use atla priorit candid antigen
+immunotherapi non-smal cell lung cancer patient poster present societi immunotherapi cancer annual
+ et al ph-depend perfor macrophag phagosom listeriolysin listeria
+monocytogen journal experiment medicin pp
+et al role hemolysin intracellular growth listeria monocytogen jounal experiment medicin
+et al protein cell antigen method high-throughput identif vaccin
+figur mechan antigen present mhc i/ii bacteri neoantigen express librari
+neoantigen determin t-cell respons measur patient-specif cytokin threshold
+threshold determin use neg control repres coli strain express antigen
+recogn immun system stimulatori neoantigen defin result cytokin concentr
+greater standard deviat mean median cytokin concentr level across test antigen
+inhibitori neoantigen defin result cytokin concentr less standard deviat
+mean median cytokin concentr across test antigen
+vaccin develop inform regard ex vivo immun activ acquir
+relev neoantigen select ad vaccin relev neoantigen detect
+antigen yield respons given highest prioriti follow antigen yield
+strongest immun respons person vaccin compos immuno-stimulatori synthet long peptid pair
+adjuv poly-iclc formul ship directli clinic site administ poly-iclc
+immunostimul activ multipl element host defens use vaccin adjuv optim
+antigen-specif immun vaccin contain uniqu peptid use
+synthet peptid allow rapid product vaccin gmp-compliant manner well deliveri
+effect dose neoantigen stimul immun respons genocea believ needle-to-needl vaccin
+gener time approxim week compar current competitor genocea
+progress clinic develop initi part phase i/iia studi
+patient sever differ tumor type evid diseas high risk relaps part b/c
+studi proceed includ patient advanc metastat solid tumor receiv monotherapi
+combin therapi first immunogen data trial expect
+ et al improv cancer immunotherapi empir neoantigen select trend cancer
+ salazar vaccin adjuv use poly- deriv expert review vaccin pp
+potenti synergi neoantigen vaccin checkpoint inhibitor
+inhibitor merck nyse keytruda pembrolizumab bristol-my squibb nyse
+opdivo nivolumab work block interact also target pd-
+key immun checkpoint often prevent cell nk cell tumor associ macrophag
+recogn attack tumor cell class therapeut develop immuno-oncolog backbon
+treatment target axi keytruda opdivo demonstr activ across wide rang
+cancer indic includ melanoma nsclc renal cell carcinoma rcc hepatocellular carcinoma
+urotheli carcinoma other cumul sale drug class roughli billion
+market expect expand therapi becom cornerston treatment sever cancer respons
+inhibit vari cancer type although key predictor respons resist shown figur
+figur predictor respons resist inhibit
+predictor respons
+high level tumor infiltr
+high mutat burden
+high mhc
+level neg immun
+regulatori cell tumor
+predictor resist
+decreas number til
+inabl t-effector lymphocyt
+recogn tumor cell
+down-regul
+high level neg immun
+regulatori cell tumor
+immun checkpoint inhibitor ici therapi regard remov brake immun system
+howev effect elimin cancer cell must also accompani recognit cancer foreign
+adapt immun system neoantigen capabl teach adapt immun system recogn tumor
+cell specif antigen express normal host tissu provid good rational
+develop neoantigen/ici combin therapi previous conduct pre-clin studi shown
+neoantigen enhanc respons therapi murin model
+genocea current develop combin treatment therapi multipl tumor
+type use intend increas number tumor direct cell tumor
+microenviron enhanc abil t-effector lymphocyt recogn attack tumor cell
+potenti therapeut benefit co-administr ici neoantigen vaccin indic
+preliminari clinic data use predict algorithm form privat neon ntgn
+howev due issu regard predict accuraci limit type immun respons gener
+note platform appear less robust atla
+et al role neoantigen respons immun checkpoint blockad intern immunolog pp
+establish atla platform pre-clin model murin melanoma cell line inject
+follow tumor spleen collect mice tumor cell line normal
+tissu subject whole exom sequenc somat mutat identifi synthes dna
+transform coli cllo cell screen mous mddc incub individu bacteri
+clone subsequ cultur cell sort spleen tumor-bear mice cytokin
+secret measur meso scale discoveri msd assay workflow studi design present figur
+figur atla studi design mous
+msd screen plate cytokin model fit log-transform data mean respons
+control protein subtract averag respons candid neoantigen data normal
+cytokin concentr interpret standard deviat control point
+plot figur deem stimulatori least standard deviat normal
+cytokin respons control protein red point repres inhibitori respons least
+standard deviat normal control cytokin respons point fell within standard deviat
+normal cytokin respons control protein deem non-respons antigen
+starobinet et al ex vivo atlas-identif neoantigen person cancer immunotherapi mous
+melanoma poster present american associ cancer research confer chicago illinoi april
+figur atla cell respons neoantigen
+result atla platform screen compar predict neoantigen use algorithm
+predict bind affin peptid sequenc two mhc molecul figur
+predict total neoantigen antigen identifi stimulatori
+identifi inhibitori antigen atla platform atla platform identifi addit
+antigen stimulatori antigen inhibitori mhc-bind predict algorithm fail identifi
+major atlas-identifi stimulatori neoantigen predict neoantigen fail elicit
+respons atla platform overal result indic atla platform confirm known
+antigen also identifi stimulatori inhibitori antigen incorpor inform
+genocea product candid could lead better immun respons seen mani predict
+algorithm although compel addit studi need confirm proof concept atla platform
+mous atla model current use evalu therapeut impact atlas-identifi inhibitori
+figur comparison atla algorithm predict model
+clinic data discuss
+second quarter genocea announc initi part phase i/iia trial evalu
+safeti immunogen patient sever type solid tumor prior initi
+trial genocea conduct multitud immun profil studi across varieti cancer demonstr
+valid atla platform neoantigen select compani demonstr superior atla
+one predict algorithm netmhcpan fail predict stimulatori neoantigen identifi
+atla addit stronger t-cell respons note novel antigen compar tradit use
+taa support rational util atla identif novel neoantigen increas therapeut
+on-going phase i/iia clinic trial genocea announc accept ind may
+follow enrol first patient phase i/ii clinic trial june studi consist
+three part shown figur part administ monotherapi least patient solid
+tumor evid diseas high risk relaps patient enrol immedi
+follow tumor resect vaccin contain confirm neoantigen per peptid
+patient vaccin fix schedul vaccin day day day booster shot
+week week week conting posit initi safeti immunogen result part part
+b/c initi parallel light recent data regard effect baselin corticosteroid use efficaci
+ici studi requir patient steroid-fre time sampl collect vaccin
+part evalu combin ici patient stabl disease/parti respons patient
+enrol start ici therapi vaccin gener group three group time vaccin
+readi stabl disease/parti respons receiv vaccin continu ici therapi individu
+exhibit diseas progress receiv standard care complet respons option
+requir receiv part studi evalu safeti efficaci
+monotherapi advanc metastat diseas immunogen data part anticip
+figur overview phase i/iia studi
+immun profil data patient varieti solid tumor neoantigen screen perform
+individu varieti solid tumor demonstr abil atla identifi biolog relev
+cell neoantigen screen conduct individu differ tumor type
+mutat burden rang mutat atla abl gener empir identif neoantigen
+independ hla-typ without predict effect address limit current silico approach
+netmhcpan current predict algorithm fail predict true neoantigen fail predict
+true neoantigen comparison atla netmhcpan neoantigen identif
+result cell shown figur
+figur comparison neoantigen identif atla netmhcpan
+addit identif stimulatori neoantigen atla abl predict inhibitori antigen
+cell identifi use silico approach netmhcpan shown mischaracter
+inhibitori neoantigen neoantigen stimul t-cell respect atla
+analysi highlight distinct neoantigen demonstr fewer
+neoantigen share two t-cell subset analysi look mutant allel frequenc gene
+express mutat type give insight predict mutat would elicit t-cell respons
+profil t-cell respons patient colorect carcinoma t-cell profil conduct across
+popul health individu individu colorect carcinoma adenomat polyp healthi
+patient popul consist individu popul patient adenomat polyp
+individu individu includ present early-stag diseas present
+late-stag diseas shown figur popul demonstr strong enrich
+t-cell respons subset tumor-associ antigen taa approxim patient exhibit
+ et al empir neoantigen identif use atla platform across thousand mutat
+multipl tumor type highlight advantag algorithm predict method aacr abstract
+stimulatori t-cell respons two taa approxim patient exhibit stimulatori
+t-cell respons two taa measur interferon- ifn-
+figur taa-induc stimulatori respons patient popul
+establish cytokin t-cell respons popul specif taa deem statist signific
+compar healthi individu taa-specif respons also determin independ
+diseas stage demonstr compar level stimulatori respons across early-stag late-stag cohort
+t-cell subset
+profil taa-induc t-cell respons lung cancer patient genocea conduct proof-of-concept
+studi appli atla technolog platform profil t-cell respons divers sampl taa gene
+deriv lung-canc patient analysi conduct across lung-canc patient undergo
+ici treatment either nivolumab pembrolizumab stimulatori respons defin achiev cytokin
+concentr exceed median absolut deviat neg control inhibitori respons
+defin achiev cytokin concentr fall median absolut deviat neg control
+patient demonstr stimulatori respons t-cell
+patient demonstr inhibitori respons t-cell subset frequenc
+stimulatori respons rang t-cell t-cell
+shown figur ifn- respons two novel taa stronger respons seen three taa
+commonli use lung-canc vaccin atla demonstr flexibl
+ et al t-cell respons profil colorect carcinoma patient reveal enrich respons
+ et al profil t-cell respons tumor-associ antigen lung cancer patient treat
+identifi novel target well-studi realm tumor-associ antigen show potenti gener
+treatment higher efficaci major profil taa demonstr stimulatori t-cell respons
+taa induc stimulatori respons t-cell subset discoveri stronger
+t-cell respons novel taa compar taa tradit util lung cancer-vaccin highlight
+potenti increas therapeut valu use atlas-identifi neoantigen
+figur stronger respons note atla novel taa compar previous describ
+profil taa-induc t-cell respons melanoma patient blood sampl patient collect
+test full-length melanoma tumor-associ antigen taa gene taa-gen express coli
+librari test use participant-deriv mddc participant-deriv t-cell patient
+checkpoint inhibitor respond simultan gener respons t-cell t-cell
+analysi respons show may predict respons checkpoint inhibitor depict
+figur patient non-respond cohort display minim discern respons measur
+concentr varieti differ cytokin
+figur activ predictor checkpoint inhibitor blockad respons
+ et al specif t-cell respons tumor-associ antigen melanoma patient undergo immun
+ifn -- secret t-cell also show potenti predict respons immun checkpoint blockad therapi
+non-respond cohort show undetect level ifn- t-cell subset addit analysi
+respons frequenc gene t-cell subset domin taa respons detect
+suggest heterogen immun respons variou tumor-associ antigen would significantli limit
+efficaci share antigen vaccin
+market inform immuno-oncolog
+checkpoint inhibitor bristol-my squibb opdivo yervoy merck keytruda becom import
+treatment option sever form cancer although effect compar convent therapi mani patient
+respond treatment option limit follow progress respons rate inhibitor
+approv indic present figur repres sizeabl market opportun
+respons rate base prescrib label pivot trial public opdivo keytruda pfizer bavencio
+figur respons rate approv indic
+unresect metastat melanoma
+first-lin nsclc express
+chemotherapi keytruda advanc nsclc
+relaps progress classic hodgkin lymphoma
+hsct
+local advanc metastat urotheli carcinoma
+unfit cisplatin-chemotherapi
+recurr metastat cervic cancer
+includ monotherapi combin
+combin
+market opportun combin agent highlight nektar/bristol-my squibb collabor
+due vast-numb patient benefit checkpoint inhibitor great interest
+pharmaceut compani investor combin agent highlight collabor
+bristol-my squibb announc earli
+receptor beta subunit bias agonist preliminari phase i/ii data show
+encourag respons rate treatment nave melanoma nsclc treatment nave rcc treatment nave
+urotheli carcinoma includ neg tumor importantli notabl increas til
+immunosuppress regulatori cell contain tumor peripheri therebi allow immunotherapi
+combin maintain durabl effect follow earli data bristol-my squibb enter global
+develop commerci collabor nektar term agreement
+nektar receiv up-front payment billion cash stock elig receiv
+addit billion mileston compani share global profit nektar receiv
+develop cost also share two compani evalu combin
+opdivo indic tumor type size collabor give indic premium
+big pharma will pay novel immuno-oncolog therapi
+high level interest neoantigen approach big pharma highlight larg collabor
+compani privat genentech vtx rog vx merck nyse
+privat janssen nyse advaxi adx
+term deal other shown figur current vaccin
+develop program span differ antigen-select method well differ deliveri method includ rna-
+deliveri peptide-deliveri figur show overview compet neoantigen vaccin compani
+descript approach although genocea current collabor larg pharma
+compani note publicli explor partnership opportun atla platform
+partner janssen receiv
+up-front
+expand anoth up-front
+develop
+partner
+up-front equiti invest
+elig mileston
+royalti
+partner genentech
+up-front near-term mileston
+initi partner merck
+up-front invest
+expand
+up-front invest elig
+tier royalti
+partner bluebird bio
+up-front equiti invest
+partner
+up-front equiti invest
+elig receiv
+develop commerci
+mileston also partner
+boehring ingelheim up-front
+elig mileston
+royalti
+predict algorithm develop base exist method could defici
+major current neoantigen vaccin develop still reli silico antigen select method method
+associ posit predict valu due complex heterogen across mhc
+predict valu lower mhc ii bind owe increas length mhc ii
+epitop algorithm-method conting train neural network make predict base underli
+databas gener restrict peptid known bind affin howev
+distinct mhc allel human popul uniqu peptid affin databas record
+fraction divers neoantigen landscap although neon algorithm util cell engin express singl
+hla allel provid better understand specif mhc molecul singl allele-resolut still
+restrict class hla-pres peptid mean mainli identifi neoantigen potenti stimul
+ et al improv cancer immunotherapi empir neoantigen select trend cancer
+result algorithm hla-restrict like limit predict efficaci addit
+lack measur experiment data algorithm method base predict singl mhc bind event
+fail take account step involv antigen present includ peptid transport antigen
+process therefor relianc predict neoantigen-select lead incorpor irrelev
+incorpor neoantigen pre-exist immun respons offer potenti
+clinic advantag key differenti factor atla platform antigen select base direct test
+ex-vivo model patient immun system deliv possibl neoantigen directli patient
+antigen present cell apc atla allevi concern antigen process transport associ
+algorithm method neoantigen select base strength immun respons gener direct
+test autolog cell allow genocea build person vaccin consist
+neoantigen pre-exist immun respons greatli increas probabl translat benefici immun
+genocea advanc competitor neon gener modest immun respons
+like result inaccur predict method announc data clinic trial enrol
+cancer patient recent histori recurr diseas high risk relaps note underli
+algorithm compani predict model undisclos although detect respons
+predict neoepitop ex vivo approxim predict neoantigen success gener
+detect immun respons blood without vitro predict t-cell stimul
+less accur predict high-affin antigen gener respons addit t-cell
+respons detect neoantigen algorithm poor predict bind score neon
+report similar efficaci result trial enrol melanoma patient t-cell respons detect
+predict neoantigen t-cell respons detect predict neoantigen
+respons rate rise one round pre-stimul howev patient complet vaccin
+demonstr autolog tumor recognit neoantigen-specif t-cell
+atla uniqu abil identifi inhibitori antigen current predict algorithm reli
+bind affin capabl classifi antigen either inhibitori stimulatori
+method inhibitori antigen seen true sole bind event detect lead potenti
+incorpor irrelev neoantigen treatment howev label neoantigen inhibitori
+stimulatori depend effect impart t-cell post-bind genocea atla platform may solut
+measur individu autolog t-cell respons cytokin concentr variou potenti neoantigen
+antigen result cytokin concentr decreas establish threshold detect inhibitori
+genocea current begin pre-clin work therapeut impact newli identifi inhibitori
+therapeut benefit neoantigen shown promis improv antigen select may
+boost efficaci although neon opinion flaw antigen select
+method illustr potenti clinic benefit neoantigen patient demonstr detect
+ et al mass spectrometri profil hla-associ peptidom mono-allel cell enabl
+et al person rna mutanom vaccin mobil poly-specif therapeut immun cancer natur
+immun respons patient enrol biontech studi remain recurr free entireti
+follow-up period patient complet vaccin neon studi remain
+recurr free well patient relaps within biontech studi patient develop neoepitope-
+vaccin relat clinic respons develop metastat lesion demonstr complet respons
+signific partial respons vaccin patient neon studi gener epitop spread highlight
+capac neoantigen stimul immun system even beyond peptid includ treatment patient
+across trial exhibit persist neoantigen-specif t-cell month post-treat display potenti
+prolong therapeut benefit studi also support rational combin ici therapi
+neoantigen vaccin overal patient across studi relaps initi therapi
+vaccin demonstr complet respons treatment complet respons rate
+gener genocea believ main driver demonstr superior efficaci compar
+competitor increas accuraci neoantigen select proprietari atla platform
+ici combin therapi develop
+follow initi approv checkpoint inhibitor field immunotherapi drug develop quickli
+grown combin studi on-going checkpoint inhibitor approv
+immunotherapi combin treatment involv therapi melanoma renal cell
+carcinoma chemotherapi lung cancer sever treatment develop combin
+checkpoint inhibitor select one interest list figur notabl therapi
+administ intratumor inject could limit use invas tumor
+figur select combin treatment develop
+mechan
+phase
+multi-tki
+class iv
+primarili
+sq ip multipl tumor
+atla opportun develop
+genocea expect advanc next-gener person cancer vaccin util innov
+deliveri modal near futur atla platform also identifi target tumor-associ antigen
+taa vaccin viru associ antigen vaa t-cell receptor tcr develop current
+genocea also announc initi work person t-cell therapi develop
+base identif relev person neoantigen therapi work t-cell grown
+autolog pbmc collect patient present potenti advantag current t-cell therapi solid
+tumor expans t-cell target neoantigen tradit use taa pose advantag gener
+t-cell elicit enhanc immun respons subject central peripher toler
+therapeut vaccin herp
+phase iii-readi investig t-cell direct immunotherapi treatment genit herp
+infect treatment design use compani proprietari atla platform profil t-cell
+respons mount human infect compos antigen
+matrix-m adjuv in-licens inc approxim world
+popul one herp simplex unit state preval
+preval current commercially-avail vaccin cure genocea
+believ address larg unmet clinic need within patient popul
+septemb compani report result phase iib studi phase ii trial
+conduct evalu potenti phase endpoint dose subject enrol random three
+dose groups- placebo per adjuv per adjuv subject receiv
+three inject interv studi met primari endpoint demonstr statist
+signific reduct rate viral shed per adjuv cohort genocea later
+report per adjuv cohort also demonstr signific reduct median
+genit lesion rate demonstr favor safeti profil throughout studi seriou treatment-
+relat advers event low rate discontinu due advers event
+genocea current explor strateg altern ceas spend activ
+program announc strateg shift immuno-oncolog
+genocea proprietari atla platform protect three patent famili first famili consist two us-
+grant patent one pend patent cover fundament applic platform develop darren
+higgin phd licens harvard univers first patent famili expir june second
+expir decemb second patent famili includ three issu one pend us patent foreign
+applic genocea uniqu applic platform offer protect least possibl
+extens third patent famili pend patent issu famili would expir march
+presid chief execut offic
+william clark serv genocea presid chief execut offic sinc februari previous
+serv chief busi offic august februari mr clark serv genocea board
+et al persist population- epidemiolog transmiss herpesvirus biolog therapi
+immunoprophylaxi chapter
+ et al seropreval herp simplex viru type unit state journal infecti
+director sinc februari prior join compani serv chief busi offic vanda
+pharmaceut inc vanda biopharmaceut compani co-found vanda led
+compani strateg busi develop activ play central role rais million
+multipl public privat financ prior vanda mr clark princip capit llc ventur
+capit firm invest biopharmaceut compani serv varieti commerci strateg role
+smithklin beecham glaxosmithklin mr clark hold harvard univers
+wharton school univers pennsylvania
+pamela carrol ph join genocea lead immuno-oncolog effort bring expertis cancer
+biolog immuno-oncolog develop strateg direct genocea oncolog program
+previou posit includ vice presid oncolog discoveri roch pharma research earli develop
+vice presid janssen oncolog johnson johnson innov found head research belfer
+institut appli cancer scienc dana farber cancer institut dr carrol develop drug discoveri
+experi bristol-my squibb appli genom merck research laboratori oncolog dr carrol
+earn biolog st michael colleg vermont doctor cellular biolog stoni brook
+univers post-doctor fellowship stanford univers
+jessica baker flechtner ph join genocea soon compani found current serv
+chief scientif offic dr flechtner pioneer develop novel vaccin direct toward cell
+immun year experi immunolog infecti diseas cancer vaccin
+develop lead genocea effort develop cell-direct vaccin immunotherapi infecti
+diseas indic prior join genocea dr flechtner develop vaccin immunotherapi
+cancer infecti diseas autoimmun allergi sever compani includ mojav therapeut
+antigen inc inventor ten pend four issu patent multipl peer-
+review scientif public dr flechtner perform post-doctor work dana farber cancer institut
+harvard medic school hold ph cellular immunolog anim scienc cornel
+univers member american associ immunologist american associ cancer
+research societi immunotherapi cancer american societi microbiolog
+prior join genocea eric vice presid corpor busi develop program manag
+commerci oper inc acquisit merck august eric also held
+role investor relat corpor commun whilst idenix prior idenix eric spent four year
+biogen idec investor relat busi develop role spent six year wall street equiti
+research analyst morgan schwab soundview capit market bear stearn start wall street
+post-doctor research scientist depart immunobiolog guy hospit london
+studi cell develop author sever book chapter peer-review paper includ
+cell immun gene develop hold ph immunobiolog yale univers
+biolog triniti univers
+svp pharmaceut scienc manufactur
+narind singh join genocea march current serv senior vice presid pharmaceut scienc
+manufactur mr singh year experi process develop scale-up technic
+oper manufactur suppli chain biopharmaceut prior join genocea mr singh vice
+presid drug product develop manufactur built integr
+drug product group support momenta expand portfolio biosimilar novel biolog pipelin prior
+momenta mr singh play key role develop biolog base pipelin
+commerci drug product strong focu process develop commerci manufactur
+new technolog develop mr singh hold tech/m tech biochem engin
+indian institut technolog delhi chemic engin univers houston
+ ucla anderson school manag
+risk invest
+consid invest genocea high-risk invest genocea develop stage compani
+histori take treatment market current fda approv drug portfolio
+sever compani tri target indic genocea cancer treatment pipelin
+especi crowd competitor genocea lead program yet gener pivot data limit clinic
+data date furthermor earli indic efficaci necessarili translat posit late-stag result
+compani genocea may unabl obtain suffici capit fund plan develop program
+regulatori risk associ develop drug genocea may receiv fda approv
+candid despit signific time financi invest regulatori approv market sell drug
+guarante drug penetr market sale may meet expect investor
+research analyst denot ac cover report certifi multipl research analyst primarili respons
+report research analyst denot ac cover within document individu certifi respect
+secur subject compani research analyst cover research view express report accur
+reflect person view subject secur subject compani part research
+analyst compens directli indirectli relat specif recommend view express research
+analyst report

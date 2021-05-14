@@ -1,0 +1,362 @@
+
+breach
+could becom flu aw
+late last night headlin broke regard hack capit one client
+data run aw affect million individu critic
+vulner
+misconfigur rather failur aw secur
+attack carri former amazon employe
+leav compani maintain knowledg specif
+shortcom relat capit one manag aw
+workload doubt investor appreci
+headlin realiti appear factor
+enabl attack entir attribut capit one
+system design top awss infrastructur note
+collabor evrisi softwar secur analyst ken talanian
+contempl impact amazon might particularli
+among secur sensit deploy like jedi contract share
+could winner among softwar secur stock
+dig underli design cloud secur system
+highlight thing went wrong hack
+concern could hack put sensit deploy like
+jedi contract risk major question hear
+investor morn extent breach could reduc
+adopt aw particularli among secur sensit end-
+user view natur breach like
+well-understood secur expert fulli
+grasp even aw best-in-class infrastructur secur unabl
+address customer-specif shortcom area includ firewal
+configur regard high-profil jedi contract us
+depart defens view issu unlik
+impact amzn chanc ultim win deal recal
+aw current scale cloud accredit address
+full rang dod data classif
+sensit secret top secret one two along
+azur abl meet need near futur
+said reason believ use hack
+agenda stop aw win jedi deal
+like winner softwar secur evercor isi secur
+analyst ken talanian high level take capabl worker
+abl gain access capit one data store aw
+capit one suffici secur share respons
+model outlin aw secur data cof respons
+amazon capit one would like benefit use
+third parti scan tool check configur error within
+coverag continu believ
+best roadmap secur public cloud offer solut
+like would help particular issu prisma cloud
+primer share respons amazon take share
+respons approach cloud secur underli
+infrastructur custom respons secur
+model
+pleas see analyst certif import disclosur page report evercor isi affili seek busi
+compani cover research report investor awar firm may conflict interest could affect
+object report investor consid report singl factor make invest decis
+evercor isi cybersecur analyst ken talanian provid summari view
+incid follow deep dive aw architectur share respons
+capit one ticker cover john pancari breach announc today repres
+anoth remind custom dilig requir leverag public cloud asset
+amazon aw base share respons model amazon respons
+underli secur cloud custom respons secur cloud
+high level take capabl worker abl gain access capit one data
+store aw capit one suffici secur share respons
+model outlin aw secur data capit one respons amazon
+capit one would like benefit use third parti scan tool check
+configur error within coverag continu believ palo alto network
+best roadmap secur public cloud offer solut like
+would help particular issu prisma cloud
+happen current media report appear worker name
+paig thompson happen former amazon employe gain
+access capit one data describ misconfigur
+firewal like web applic firewal access rule capit one aw instanc
+allegedli post stolen data github softwar code repositori frequent
+develop real name full court case seen
+happen amazon offer scalabl cloud storag call capit one use
+on-line storag store larg amount sensit custom data share
+respons model capit one respons secur content includ
+polici allow access data instanc data secur
+aw waf web applic firewal third-parti waf option use
+control access typic use prevent data access
+could done prevent misconfigur fairli common
+among aw user repres issu instanc remedi
+dilig part custom worker often though scale aw
+instanc particularli larg custom like capit one make difficult
+custom keep configur manual initi follow good practic
+outlin blog help lot secur long-term believ
+third-parti secur solut built perform configur vulner
+analysi import secur environ
+help prevent public vendor configur vulner
+analysi offer part aw compet program includ check point/chkp
+palo alto networks/panw evid io redlock qualys/qli cover
+cover tenable/tenb cover telo corporation/tlsrp
+overview aw architectur
+amazon web servic aw repres one major offer public cloud solut
+discuss secur key hurdl move cloud believ
+amazon secur primari concern throughout develop architectur
+amazon take share respons approach cloud amazon secur
+underli infrastructur custom respons secur cloud
+respons amazon well custom depend servic
+question howev across servic respons secur custom data alway fall
+custom question amazon storag offer requir littl custom
+involv rel requir custom deploy figur
+figur share respons model aw offer
+amazon categori abstract servic repres simpl storag servic
+primarili scalabl cloud storag system core purpos servic provid
+mean custom store retriev data instanc amazon provid major
+secur offer custom still respons
+secur content inclus data encrypt data integr authent
+amazon contain servic best repres rd relat databas servic
+solut custom use rd servic set oper scale cloud base relat
+postgresql mysql mariadb
+contain rd use case custom respons
+firewal vpc virtual privat cloud
+custom iam ident access management db user tabl permiss
+data protect transit rest back-up
+amazon perhap best known elast comput cloud solut
+consid infrastructure-as-a-servic offer amazon provid underli
+comput storag databas network top global infrastructur solut
+compani also manag ident access iam aw infrastructur
+use case custom respons
+data protect transit rest back-up
+amazon secur secur cloud
+amazon respons provid secur global aw infrastructur run
+cloud servic infrastructur compris hardwar softwar network
+facil combin ultim run aw servic
+believ one amazon core compet design construct oper
+large-scal data center leverag aw data center hous
+nondescript facil physic access control perimet entranc
+access data center floor requir two-factor authent
+element physic secur provid amazon includ
+fire detect suppress
+climat temperatur
+aw design toler system hardwar failur minim custom impact
+element busi continu includ
+avail global data center cluster enabl failov protect
+incid respons coverag respond diagnos incid
+company-wid execut review intern audit aw resili plan
+commun aw secur center provid secur complianc detail aw
+aw network allow user select level secur desir given workload
+aw network util varieti autom monitor system provid high level
+servic perform avail monitor system design detect unusu
+unauthor activ ingress egress commun point server network
+usag monitor port scan activ applic usag intrus attempt
+alarm configur alert aw oper manag personnel earli
+warn trigger personnel provid document handl incid
+well mean collabor given issu process call review after-the-
+fact identifi caus issu implement prevent measur necessari
+aw network specif design provid protect follow attack
+ddo distribut denial servic attack aw use proprietari ddo mitig
+techniqu addit multi-hom across number internet provid
+mitm attack ssl encrypt use secur interact aw
+ip spoof aw instanc send spoof network traffic due rule set
+aws-control host-bas firewal infrastructur disallow traffic sourc
+ip address
+port scan default inbound port aw close open
+custom port scan typic done find open port network
+repres vulner scan consid legitim mean assess
+risk network aw unauthor port scan violat polici
+packet snif tenant technic possibl virtual instanc sniff
+traffic intend differ virtual instanc
+element network secur includ
+secur network architectur firewal boundari network devic monitor
+control commun extern boundari boundari control base
+access control list establish traffic control polici polici
+approv amazon inform secur
+secur access point aw strateg place api endpoint access point
+allow secur http traffic establish secur commun storag
+comput instanc within aw aw also network devic design interfac
+transmiss protect beyond use ssl cryptograph protect via http
+aw offer vpc virtual privat cloud anoth layer protect provid privat
+subnet within aw cloud one also use vpn virtual privat network creat
+encrypt tunnel aw vpc outsid data center
+amazon corpor segreg aw product network segreg
+amazon corpor network complex set network secur segreg devic
+ticket system place allow amazon develop admin corpor
+network access aw cloud compon must review aw servic
+owner activ connect aw network via secur connect
+fault-toler design aw design system toler system hardwar failur
+minim custom impact data center built cluster variou global region
+data center on-line serv custom data center cold autom
+process place move traffic global event failur
+custom provid secur secur cloud
+secur cloud ultim determin resourc use custom
+applic resourc basic level secur control aw resourc
+control access internet
+peopl think aw envis offer secur
+rd
+abstract/storag offer custom respons manag oper
+system run includ updat secur patch applic softwar
+util instal instanc configur secur group aw
+requir custom
+contain
+believ vast major amazon aw proprietari secur offer limit
+function amazon initi product releas tend minim viabl product
+expand time view believ gap function allow
+expans third parti offer
+firewal amazon doesnt expressli label firewal firewal function part
+secur group configur custom control inbound
+outbound traffic to/from aw resourc practic similar rulemak done
+tradit state firewal network secur enhanc within aw
+use subnet network access control list vpc virtual privat cloud secur
+group function individu virtual instanc network control list provid granular
+traffic control subnet subsect larg network resourc level vpc enabl
+network span differ avail zone contain multipl subnet
+extent user want manag hybrid cloud environ on-premis resourc
+connect aw vpn manag part vpc
+number third-parti vendor offer secur solut aw marketplac
+addit vendor provid mean integr aw outsid aw
+amazon number program distinguish partner demonstr
+success aw among aw compet program highlight partner
+demonstr technic profici proven custom success special
+solut area highlight number vendor pre-qualifi product
+solut program divid secur subsector figur
+help defin manag access polici enforc busi govern includ
+user authent sso enforc
+inspect applic deploy secur risk vulner provid
+prioriti advic assist remedi
+assist safeguard data unauthor disclosur modif
+encrypt key manag polici driven control
+design identifi protect applic data cyber-attack
+maintain visibl audit activ applic infrastructur provid
+policy-driven alert report
+note ad remov site sinc prior report nov
+discuss built-in aw secur section rule-set use within aw
+secur group compar basic on-premis state inspect firewal
+believ state inspect firewal increasingli less use modern network
+virtual environ also requir enhanc function next-gener firewal network
+traffic behavior analysi granular applic layer chief among featur
+need modern environ
+number major firewal vendor virtual solut present aw marketplac
+three firewal vendor cover chkp includ mix
+addit open sourc option virtual firewal aw
+believ initi use case virtual aw base firewal hybrid base
+deploy solut certainli use independ cloud deploy
+believ like repres minor workload place current
+econom impact custom move use physic firewal applianc on-
+premis virtual firewal cloud still unknown us time envis
+deflationari effect time effici like gain software-onli
+deploy note howev impact firewal applianc vendor like take
+year realiz make key assumpt futur viabil firewal vendor
+continu physic applianc sale believ vendor continu sell
+physic firewal applianc least anoth five year
+firewal carri higher gross margin though packag softwar along
+physic applianc effect increas gross margin physic applianc
+believ unlik vendor sell physic applianc ever reach gross
+margin oper margin pure softwar base solut
+firewal unlik realiz replac ratio believ custom
+like use multipl number virtual firewal solut public cloud
+deploy serv need on-premis offer trade-off higher
+number lower asp virtual solut compar singl higher asp physic solut
+ultim believ usag base util style price take public cloud
+offer current custom option pay usag basi bring
+exist licens usage-bas price could deflationari effect custom
+gain effici build entir infrastructur basi
+peak load might look like one consid transit virtual server
+framework think effici gain
+exampl move data center en mass on-premis
+public cloud believ hybrid deploy repres typic first foray public
+scenario believ user typic select virtual firewal offer
+vendor either current use on-premis intend use intend workload
+figur highlight exampl palo network deploy custom
+use physic pa firewal on-premis connect aw resourc
+virtual firewal use custom vpc
+figur highlight exampl hybrid deploy exampl
+highlight use multipl product within physic datacent also two
+separ virtual firewal well two separ web applic firewal
+fortiweb within vpc insid aw
+figur highlight exampl check point hybrid deploy exampl
+come case studi courtagen life scienc post check point
+websit believ exampl highlight fairli typic scenario custom want
+minim technolog actual manag yet provid scalabl necessari support
+busi exampl courtagen leverag check point seri applianc
+on-premis solut check point virtual applianc aw environ
+though pictur exampl testimoni refer use check point
+quot custom testimoni cite similar compani might pay
+budget network oper cloud solut check point reduc
+contribut less
+amazon offer proprietari waf use within aw note earlier report
+believ vast major aw proprietari secur offer limit
+function awss initi product releas tend minim viabl product
+expand time view believ gap function allow
+expans third parti offer
+believ amazon waf except view believ aw nativ waf
+use primarili develop test workload extent waf need
+product workload third-parti offer like prefer
+fortinet fortiweb offer highlight theoret exampl figur case
+fortiweb waf applianc deploy physic data center along
+virtual instanc fortiweb within aw organ explor option eventu
+move cloud believ hybrid deploy mirror cloud on-premis
+solut like logic first step mani enterpris
+howev exampl custom move entir public-fac applic
+cloud may less need on-premis waf show exampl
+imperva securespher architectur aw vpc environ although imperva
+offer hybrid deploy mode well
+number waf option custom choos within aw marketplac
+addit imperva privat includ dedic waf
+part
+broadcom/avago penta secur system privat well utm offer
+compani sopho soph-lon citrix
+barracuda
+secur risk cloud
+often refer year breach saw one prime exampl
+need secur aw environ compani known code space start saa
+base sourc code manag tool offer serv aw familiar github
+similar offer
+compani infrastructur aw point hacker gain control
+code space aw control panel demand ransom exchang releas control
+manag code space didnt compli attempt regain control aw
+instanc time period hacker delet compani resourc aw
+compani backup also access control panel hacker effect put
+code space busi
+notabl publicli trade secur compani aw secur
+featur number public secur vendor presenc aw believ
+third-parti offer within aw specif avail within aw marketplac
+on-line store evolv use cloud current solut offer
+usag hourli basi well subscript licens base model case
+believ cloud ultim move entir usag model
+symc trend micro tokyo zs solut within aw
+marketplac believ still earli day third-parti secur vendor within aw
+consider opportun public privat secur vendor believ
+eventu almost vendor need mean address environ
+aw
+firewal chkp soph believ initi use case virtual aw
+base firewal hybrid base deploy solut certainli use
+independ cloud deploy believ like repres minor
+workload place current believ publicli trade firewal vendor stand
+benefit least abat secular pressur exist premis custom opt use
+respect vendor virtual offer aw possibl custom may decid use
+virtual solut vendor differ on-premis firewal custom
+will spend time train new system
+waf believ aw nativ waf use primarili develop test workload
+extent waf need product workload third-parti offer like
+prefer barracuda network imperva privat remain
+public secur vendor virtual waf within aw
+endpoint symantec trend micro repres endpoint one would consid
+premis server endpoint protect offer within aw bring tradit anti-virus
+host firewal ids/ip type secur aw environ crowdstrik crwd
+cover bring next-gener endpoint secur aw via falcon discov offer
+current one solut within aw marketplac threat
+analyt platform allow visibl custom aw environ
+provid insight potenti secur threat
+extent custom leverag secur custom use
+app within aw gain insight deploy exampl one gather
+insight activ unauthor access attempt network configur chang
+bill anomali splunk app aw worth note one awss
+quick start includ combin deploy virtual firewal
+splunk enterpris aw link
+sotp framework appli independ ebitda multipl amazon north america aw
+busi arriv target multipl compar amazon busi line set compani current
+form well past histor period compani busi resembl amazon current
+govern regul across amazon busi line us abroad either subdu
+profit limit amazon abil take market share
+vertic specif backlash aim aw industri attempt fund competit
+large-scal data breach aw diminish custom trust thu make difficult better
+attack data sensit vertic like financi servic govern
+still somewhat limit profit valuat remain rich base near-term metric
+thu creat downsid risk event market downturn
+articl articl
+time dissemin juli
+analyst ken talanian greg melich horowitz kevin rippey primarili respons prepar research report attest
+follow view opinion render research report reflect person view subject compani
+issuer part research analyst compens directli relat specif recommend view
+research report
