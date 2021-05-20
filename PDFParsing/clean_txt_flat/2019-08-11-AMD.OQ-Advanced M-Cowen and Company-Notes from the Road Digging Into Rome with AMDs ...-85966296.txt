@@ -1,0 +1,262 @@
+day rome launch host mark papermast investor meet
+feedback remain posit took opportun dig beyond formal
+present focu breadth advantag rome go market
+partnership strategi competit dynam solid execut path
+materi share gain clear outperform top pick pt
+highlight leadership perform power price domin perform
+mr papermast reiter messag rome superior across sku coverag
+across workload domain see figur ye real number
+high end boast peak perform epyc list price versu
+xeon platinum across enterpris
+higher perform vm densiti hpc higher cloud sp
+higher contain densiti workload grant result shown
+result numer third parti industri check support
+rel out-performance thread workload cite
+smaller lower power transistor allow half power envelop like-
+for-lik perform point mani workload ipc jump core
+close gap singl thread perform xeon mani code
+exampl independ data anandtech com show industri standard
+single-thread code rome lead xeon lead differ
+ signific improv versu napl consid notabl multi-thread
+perform advantag slight deficit single-thread code
+unexpect given design trade off final rome also offer world first mainstream
+pcie datacent cpu bandwidth pcie
+expect offer support pcie lake
+pleas see page report import disclosur
+acceler move onto tsmc process enter
+silicon mani investor remain skeptic believ consist product execut
+across pc gpu server roadmap deliv upsid much higher gross margin
+target versu today materi upsid ep target
+outlin manag driven strong growth ryzen desktop notebook chip
+epyc server processor vega/navi game datacent gpu
+ryzen mobil desktop
+continu
+ramp epyc server sale
+rome
+upcom server pc cpu
+potenti buy-back cash/debt
+modest share gain desktop
+notebook solid unit share gain server
+gross margin expand target
+rang ep track well
+stronger share gain data center cpu
+gpu offer strong
+margin silicon ramp allow
+revenu gross margin upsid
+non-gaap ep
+well consensu
+manag public plan
+epyc server roadmap unabl
+gain scale alreadi announc
+ep hit fall manag
+growth stock stagnat balanc
+sheet worri return stori
+global fabless semiconductor compani develop
+hardwar cpu gpu mpu accompani softwar target comput
+applic desktop notebook embed server game market
+industri convers indic system socket compat
+napl rome next-gen milan prove import driver adopt
+rome demonstr roadmap consist versu drive long-term
+epyc adopt foundat month upgrad note gener epyc
+call genoa take new socket support pcie believ custom
+essenti abl test napl grow comfort foot market
+easili move competit rome eventu milan cpu volum
+believ push toward high core count product pragmat embrac
+chiplet-bas architectur prove prescient moor law slow
+abl continu aggress perform scale increas number core
+thread per cpu chiplet architectur success well scale
+within system make infin fabric critic follow feedback custom
+napl move central memori die architectur rome bring uniform
+solv non-uniform memori latenc issu see figur final chiplet
+architectur also benefit higher small die chiplet yield versu monolith die
+design remind investor also benefit
+hisilicon ramp million chipset tsmc process ramp yield
+ahead amd launch strategi carri forward
+major server volum server particularli high growth cloud
+sector howev offer single-socket version rome
+believ certain custom significantli reduc hardwar acquisit cost
+improv power densiti metric shift single-socket deploy certain
+workload fact show benchmark rome system outperform
+chip xeon system believ could disrupt price dynam intel
+small number cloud account storag server within certain
+segment enterpris network believ rome system could
+spectre/meltdown bug open napl delay kick open
+rome
+mr papermast admit laid roadmap re-ent server market
+expect rome compet head-on lake thu serv
+solid competitor market clear perform leader believ
+last year spectre/meltdown bug see note cpu forc
+industri reconcil fact entir server industri reliant one
+vendor thu open door encourag engag gen
+epyc napl dynam combin rome perform leap-frog
+place extrem favor posit take advantag product
+delay discuss
+rather compet lake rome set compet
+cascad lake cooper lake product discuss length
+multipl delay led window
+perform advantag versu given expect milan subsequ
+product consist month cadenc go forward believ
+lead sustain set competit duopoloy server market seen
+decad check indic rome platform stack
+well lake system launch
+consist pushback receiv abl lower price
+compens potenti perform shortfal consist
+opinion posit fundament flaw firstli lower price/margin
+hyperscal vendor serv danger preced nearli imposs
+take back view note see give percentag point
+price steep discount
+quick exampl compet server chip price work
+past work perform king
+simplifi exampl shown figur demonstr perform
+defici would translat need discount server cpu order
+datacent custom break even hardwar cost exampl
+perform deficit translat need server deliv
+performance/throughput remaind server cost dram network
+dc floor/rack space etc scale cpu discount huge discount would
+requir off-set fix per-serv cost count oper mainten
+opportun cost addit server requir exampl larg
+simplif believ illustr past amd effort undercut
+price server ineffect custom bought stack anyway
+perform rome/milan give perform advantag certain
+workload believ essenti protect share xeon
+worri lake pay attent sapphir rapid
+check indic rome/milan system perform quit well
+line-up lake server platform heard
+strong industri commentari regard sapphir rapid platform
+understand featur multi-chiplet design support pcie ramp
+much matur process time-frame given platform
+unlik ramp year believ window wide open share gain
+need re-establish execut track record hit target even
+sapphir prove amaz part rome current sizabl per-socket perform
+advantag make hard catch milan deliv mr papermast describ
+anoth above-industry-trend jump single-thread per-socket perform
+execut poorli roadmap move quickli
+memori block discuss ceo lisa
+su mark papermast tout custom abil bring togeth best-
+in-class ip block partner build complet system samsung/
+hynix/micron memori fpga amd/nvidia gpu etc abl
+bring absolut best class product segment market simultan certainli
+would huge competit advantag view unlik acknowledg
+need invest software/partnership eypc line-up grow
+discuss cover discuss point regard plan
+quickli ramp market share within cloud servic provid rome
+simultan invest expand presenc hpc market
+enterpris oem given multi-thread benchmark leadership shown essenti
+workload/market segment distinct focu secur believ rome
+platform address essenti server market roughli
+addit discuss belief work behind scene
+enter commun equip sector well certain vertic could expand
+rome toward full dcg next coupl year certainli take
+time unseat even portion domin posit non-cloud portion
+server market dispel notion portion address
+software/partnership invest across cloud hpc enterpris
+softwar invest consist brought throughout meet
+mr papermast import area focu compani built
+dedic senior isv team tripl size compil team
+work close collabor key hyperscal enterpris oem custom
+improv portabl effici mr papermast note moor law
+slow increas amount perform uplift driven softwar
+invest accordingli rome launch event note particular partnership
+announc vmware mr papermast highlight sever meet
+focu per-vm hardwar encrypt data featur particularli
+valuabl virtual isv like vmware
+googl set highest bar believ announc intern properti
+googl cloud usag rome addit gpu stadia show far
+come term roadmap consistency/compat tco/perform
+leadership thread workload believ confirm landmark win
+new win announc publicli discuss improv
+workload versu xeon combin alreadi announc partner amazon
+baidu tencent potenti allow quickli captur
+server share within cloud segment amazon cover john
+blackledg alreadi announc eypc custom napl
+compani announc expans rome high volum vm instanc final
+yet announc engag facebook eypc server
+check indic relationship acceler execut platform
+commit believ custom relationship facebook immin
+manag also discuss intern effort heed custom critic center around
+lack product platform breadth prevent break
+enterpris segment napl manag note made concert effort
+chang percept ad softwar optim much wider array
+workload rome announc sku count better align go-to-market
+strategi enterpris oem custom
+announc continu support epyc processor plan tripl
+exist sku portfolio time next year highlight broken
+record benchmark rome across enterpris databas workload think
+develop enabl consist socket compat
+napl rome server product also note increas traction key
+oem like lenovo plan widen amd-bas product portfolio
+well believ help drive enterpris adopt time also believ
+deepen partnership vmware acceler particularli
+vmware support key amazon googl cloud environ
+noth yet announc mr papermast declin comment check
+indic work build relationship partnership rome within
+enterpris network commun equip server market via sdn/nfv
+deploy given rome signific leadership low-pow threads/socket pcie
+bandwidth believ dataplan workload would well-suit open new
+server busi
+manag highlight find posit compani
+shift meaning higher napl rome manag highlight
+almost workload compet address open-sourc
+tool sw gate factor customizable/uniqu problem certain custom
+manag remain comfort enhanc datacent
+total live small sampl un-address workload
+wheelhous yet howev shown figur world
+perform record rome come across essenti workload segment
+believ custom partner within segment take notic
+consist commun minor workload
+difficultli compet initi come virtual market share
+month ago point moot view remain signific runway
+larg margin-rich server cpu market even single-thread perform
+largest rel disadvantag mr papermast note significantli
+close gap believ like maintain share small amount
+legaci socket cio concern maintain
+statu quo thu will put work port sw/workload
+new platform believ small amount total
+broaden sku coverag rome place vast major server market
+follow much anticip launch rome server cpu subsequ
+meet investor anticip rome begin seri strong quarter share
+gain start strong ramp amazon googl ramp
+enterpris cloud adopt next sever quarter addit
+strong perform power stat rome emphas googl announc
+provid signific win compani serv strong seal approv
+demand technically-astut possibl custom
+examin rome line-up roadmap anticip
+push toward server share earli exit roughli share
+roll-out come struggl roadmap given compar
+lake server cpu expect ramp volum result
+estim minimum advantag remain yet
+note much accomplish remain good deal work ahead
+cement server processor market time stay power
+addit rome server market discuss research strong
+matiss desktop portfolio much-improv game gpu offer
+potenti strong notebook game consol launch believ
+momentum sustain fact estim roughli line
+consensu manag guid street stronger result
+remain well ep versu street figur show
+path along sensit believ conserv
+server share target
+cowen compani estim
+given potenti strong momentum softer year overal
+growth follow scenario outlin
+rais price target ep remain
+outperform rate top pick inform recent product launch
+announc pleas see recap recent earn result
+final look server turnaround stori pleas see long-term
+thesi pleas see best idea note
+cowen compani estim
+cowen compani estim
+cowen compani estim
+cowen compani estim compani report
+figur incom statement incom statementmatthew non-gaap result exclud stock base compens intang amort one-tim itemscowen includ revenu present new account rule directli compar prior compani report cowen compani estimatesupd non-gaap oper incomeyear/year chang juli adjustmentsgaap ep dilut averag share outstand basicoper incomenon-gaap ep dilut amort intang assetsrestructuringadvanc micro devic consolid incom statement million except per share inform tax rate non-gaap quarter/quart chang non-gaap net incomeinterest expens incom taxesgaap net incom incom expens incom taxesincom taxnon-gaap net incomeaverag share outstand dilutedcost revenuecost sale non-gaap gross profitresearch developmentsel gener administr age salesinterest incom expens reconcili gaapstock base compensationcost good soldgross profitoper expensesresearch developmentmarket gener administrativetot oper expensesip licens gain non-revenu perioddatenot incom statementcomput graphic cg q/q y/i age salesenterpris embed semi-custom eesc q/q y/yothertot revenu cowen
+cowen compani estim
+figur incom statement gaming/profession datacent game y/i age salestot revenuecomput graphic cg q/q y/i age salesenterpris embed semi-custom eesc q/qnote incom statementadvanc micro devic consolid incom statement million except per share inform periodd cowen
+cowen compani estim compani report
+sheet cash market securities- account receiv inventori prepaid expens current total current properti equip long-term market securities- acquisit relat intang asset net- invert atmp total account payabl globalfoundri relat payabl atmp jv- short term accru current defer incom shipment total current long-term long-term total total stockhold total liabil stockhold check balanc sheetokokokokokokokokokokokoksourc compani report cowen compani estimatesnot balanc sheetbal sheet assumptionsliquid measurescurr receiv collect period inventori process period inv payment convers cycl effici measuresfix asset asset profit measuresgross profit valu ev ev ebitdaev salesbook book valu per book valu per gross gross per st debt per lt debt per payabl gf per net net incl st debt gf net per net per share incl st debt gf interest expens amdconsolid balanc statement million except per share inform cowen
+valuat methodolog primarili base forward price-to-earnings multipl plu cash follow
+ev/ebitda mani case use ev/sal third methodolog
+semiconductor industri cyclic strong correl global global
+growth slow consum demand spend could impact forecast addit
+price pressur sever certain part market particular consum
+failur execut futur cpu gpu roadmap
+failur invest softwar across end market scale necessari compet
+rapid declin pc market versu estim

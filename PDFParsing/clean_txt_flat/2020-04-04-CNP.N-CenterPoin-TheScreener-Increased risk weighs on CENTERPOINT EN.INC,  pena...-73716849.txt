@@ -1,0 +1,3 @@
+analysi
+close price
+increas risk weigh centerpoint en inc penalis rate

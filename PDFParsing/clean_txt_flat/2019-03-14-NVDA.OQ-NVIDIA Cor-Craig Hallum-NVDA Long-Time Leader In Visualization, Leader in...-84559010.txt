@@ -1,0 +1,989 @@
+long-tim leader visual leader acceler earli
+competit data center keep us neutral initi hold
+design manufactur graphic card gaming/visu art market parallel
+process hardware/softwar data center automot market
+investor awar strong franchis visual
+process outstand profit well start differ
+consensu view
+game sale crypto hangov nearli concern
+next cycl timing/trajectori nvda perform past
+year stellar ramp crypto-induc channel
+inventori reduct difficult forecast uncertain time
+ramp remain ture portfolio increment
+competit give us paus time see game favor
+market growth potenti suspect take quarter
+longer expect see potenti
+data center sale huge earli lead competit risk
+emerg nvda combin hw/sw platform larg lead
+acceler platform date perform
+well train workload view softwar stack
+signific lead doubt long-term penetr
+infer workload see risk emerg intern merchant
+solut believ manifest within next
+year dc growth averag growth past three year
+suspect may exceed next three
+auto autonom vehicl worri may gentl headwind
+clear leader hardwar support level test
+think cost-/power-effici platform requir high
+volum test worri recent news realist timefram
+estim consensu due game dc sale
+nvda recent guidanc call flat/down sale
+cautiou street initi coverag pro
+forma ep estim exclud contribut
+propos mlnx acquisit
+consensu respect reason includ conserv view
+game growth somewhat lower data center growth potenti
+higher opex growth keep invest
+visual acceler platform
+initi coverag hold rate price target
+base ev/ep multipl appli pro forma ep
+estim compar consensu
+acknowledg recent propos mlnx acquisit solidifi
+nvda posit hpc/hyperscal mlnx clear leader
+interconnect technolog increasingli import scale
+applic said doesnt allevi concern
+near term outlook
+page
+found epoch focus visual process
+game later profession visual creat strong gpu
+franchis lead share market abl grow
+annual medium term adjust crypto nvda epoch
+acceler comput larg artifici intelligence/deep learn
+ai/dl workload base gpu develop visual
+driven consider excit stock last year nvda
+stock declin significantli sinc driven first crypto-curr
+accentu china slower cloud spend
+concern data center game growth near
+term acknowledg nvda game vi market
+refer visual stronghold gener total
+sale like drive greater rel portion profit given
+limit competit strong technolog posit combin
+favor market environ see core part beyond
+acceler busi data center automot segment
+upsid opportun volatil exist result expect
+valuat
+nutshel nvda data center platform led transform
+ai/dl workload among other cloud drove sale
+compound-annual-growth-rate past three year recent posit driven
+massiv parallel process hardwar platform robust softwar
+platform cuda/cudnn/tensorrt/et al virtual competit
+believ softwar platform provid substanti valu creat
+signific barrier switch particularli cloud servic believ
+nvda hardwar increasingli challeng effici
+perf/watt vs in-hous cloud competitor numer merchant solut
+come market specif challeng materi
+penetr infer market mani other assum inevit
+suspect nvda futur dc solut evolv toward asic alreadi
+anoth acceler market auto requir continu
+invest sinc see market grow quickli nvda softwar
+platform peer market still see solid growth like
+compound-annual-growth-rate rang rather occur past
+nvda data center dc market defin sub-market
+hyperscal hpc cloud/enterpris offer potenti
+shown pend acquisit mlnx
+increas nvda data center segment annual
+run rate sale see figur review sale segment
+grew y/i quarter y/i assum
+add mlnx sale data center segment would
+page
+figur nvidia data center sub-seg
+base model believ hyperscal drive dc
+segment hpc cloud comput
+sometim refer enterpris remain
+system sale grid/oth dc sale believ
+much mlnx sale go hpc bucket remaind
+hyperscal cloud
+offer complet stack silicon hardwar softwar product
+data center market summar figur summar
+nvda recent silicon offer market figur
+page
+analyz three submarket emphasi
+analyz market segment along coupl axe train vs
+infer workload intern vs extern workload
+train vs infer need train infer
+differ train build model field deploy
+scale-up problem requir signific hardwar resourc multipl
+server even multipl rack server million input
+typic take advantag highli parallel hardwar requir
+high mathemat precis float point usual limit latenc
+requir minut hour even day toler contrast
+infer workload often run real-tim usual strict
+latenc requir usual singl input isnt conduc
+parallel workload typic need lower precis math integ vs
+float point explain later silicon hardwar softwar
+requir markedli differ type workload brief
+descript train infer differ pleas see
+made clear major datacent sale
+train applic believ infer segment
+recent becam relev part busi
+extern vs intern workload need extern vs intern
+workload somewhat differ well extern workload
+web servic offer amazon aw azur googl googl
+cloud web servic cloud among other
+ai/dl workload requir highli programm flexibl ecosystem
+enabl custom develop mode intern workload
+translat etc imag classif web search recommend
+like deploy scale particularli infer workload
+model scale flexibl need rel less import
+performance/cost watt becom import
+page
+overal take nvda posit segment
+train due high degre parallel gpu offer
+allow run larg batch size believ gpu good fit
+train sinc also highli function softwar framework
+cuda/cudnn/etc support float point nativ work
+improv scale-up via nvlink nvswitch
+virtual choic ai/dl train acceler thu domin
+part market cpu scale fpga much
+float point math capabl unclear kind softwar
+support new asic startup offer time expect
+gpu attempt compet dont believ softwar
+nearli capabl time real competit goog intern
+tpu version clearli avail
+nvda nvlink nvswitch
+technolog along signific
+optim softwar allow scale system level
+train job view much better solut
+market show advantag recent result mlperf
+organ recent benchmark differ solut summar
+figur highest images/second throughput nvda cluster
+system investor might note goog result
+better per-chip basi suspect test larger
+cluster scale well point didnt publish
+believ nvda solut sub-optimal power consumpt
+basi compar asic believ advantag provid
+solut softwar flexibl scale-up matur off-set
+time time performance/watt becom import
+believ could see encroach suspect wont
+year futur best survey start-up commun cloud
+oper suggest focu infer rather train
+suggest nvda leadership posit quit strong
+look nvda propos acquisit mlnx strengthen
+abil provid scale-up system train applic view
+mlnx interconnect technolog whether infiniband ethernet
+extens work put nvlink nvswitch may
+provid abil increas advantag within train part
+page
+infer gener sinc infer workload normal singl input
+job latenc requir thu gener use limit
+batch believ gpu optim solut perform
+effici perspect
+today infer job run cpu done part
+cpu suffici latenc underutil resourc part due
+diurnal cycl see paper sinc forthcom optim
+come math kernel librari cascad lake processor think
+tend maintain mani infer workload cpu paper
+paper suggest barrier switch
+difficult time consum overcom addit signific
+develop occur larg hyperscal oper detail
+hyperscal activ develop
+develop brainwav amazon recent announc inferentia
+processor target infer applic think amount
+intern develop suggest import effici infer
+applic thu suggest headwind signific gpu-bas
+extern applic believ extern applic good fit
+acceler addit strong top-end perform
+signific portion valu add come softwar framework
+optim librari surround acceler enabl custom
+creat nearli kind neural network desir nearli
+cuda develop directli program acceler
+support dl framework tensorflow caff pytorch etc sinc
+acceler platform nearli level rich think
+barrier entri high market
+intern applic think segment market mix bag
+earli stage model evolv quickli flexibl
+nvda softwar provid asset convers model start
+provid good enough accuraci perform start deploy scale
+believ cloud guy seek cost- power-effect
+solut lay
+mention believ nvda largest hyperscal
+custom given distant third web servic market
+behind aw azur strongli suggest address
+market custom intern applic
+overal believ continu strong hold
+external-train segment market doubt
+internal-infer segment two subseg think
+done well date continu monitor progress
+summar thought framework figur refer
+competit analysi section deeper look competit hardwar
+system solut
+page
+next step analysi determin portion overal
+hyperscal market repres quadrant found
+good extern data
+hyperscal
+commun offer character analysi offer
+help size market belief largest hyperscal
+custom sinc much smaller cloud servic
+compar conclud intern part market
+least larger also believ train part market
+much larger time although common assumpt
+infer eventu larger think smaller part
+market long run external-train precis market
+strong internal-infer like largest
+think rel weakest
+nvda enterpris busi compris primarili system
+gpu cpu infiniband interconnect
+mlnx softwar stack optim deep learn train also
+sold segment grid servic help enterpris perform
+virtual desktop relat servic
+nvda system peer market time due
+acceler card nvlink nvswitch scalabl
+rich highli optim softwar stack sell
+hyperscal massiv train facebook known least one
+cluster system claim sold least
+non-hyperscal custom number grown y/i
+believ predomin custom auto space think
+mani custom purchas easili ten system
+also increas varieti vertic market-specif offer
+serv custom market shown figur
+page
+competitionconclus strongholdconclus like sharetrain use parallel proc via batchingsw flexibilti help cpu stronghold remainssoftwar robust/flex suit cloudweak latenc powergpu scale-up abil strong nvswitch amdgoogmsftamznfbgoogmsftamznfb intctpu remain strongconclus posit internalperform sw offset cost butasic/fpga/cpu solut remain primari externalintern solut asic remain riskweak latenc powergoogmsftamznfbgoogmsftamznfbtpu
+state system multi-hundred-million-dollar
+busi suggest enterpris total data center sale
+given system asp
+model suggest sold date sell
+stand-alone also enabl system built/sold odm
+wouldnt surpris sale growth slow time
+would also posit gm mix
+view hpc market import fast-grow larg
+defens market gener total data center
+sale estim nvda earli foray general-purpos gpu gp-
+gpu comput start decad ago creat
+multi-year advantag serv hpc custom need highli parallel
+workload support acceler top top
+hpc applic take consider effort help eas market
+entri creat barrier entri
+top supercomput world today power
+gpu year ago addit top
+power effici supercomput use gpu note first dgx-
+base cluster enter top list signific achiev
+purpose-built server-bas system acquir mlnx
+increas exposur market significantli although
+quantifi well time mani top supercomput
+world use mlnx infiniband interconnect technolog
+believ true competit come hpc
+market one inher advantag offer
+system maker cpu gpu gpu offer
+model nvda hpc revenu stream believ
+consist grow revenu stream size
+market model help us assess whether
+realist even market believ suggest
+consider market avail thu expect materi growth mani
+page
+year market current model growth next
+nutshel view game strong growth market year
+favor secular trend continu benefit
+time howev see competit less favor
+architectur upgrad cycl least quarter potenti
+headwind cryptocurr boom start around
+expect sale growth mute benefit game
+avail ray tracing/dlss emerg like wont
+histor focu game sale compris
+discret geforc gpu pc game total tegra soc
+modul sold game consol primarili nintendo
+grown game sale compound-annual-growth-rate unit growth
+asp growth driven long-term secular driver
+e-sport social game higher product valu new game
+among other grew game ex nintendo switch
+alreadi high base run-rat exit believ came
+almost entir volatil channel refil wasnt indic
+true game demand estim gpu unit y/i
+asp growth around elev crypto shortag price
+ sell-in high-end card exclus
+share discret gpu competitor see figur
+view long term revenu share nearli monopoli high-
+sale grown nearli doubl rate desktop game past
+year total segment grow y/i
+nvdia arm-bas tegra soc featur nintendo switch platform
+start ship help drive close sale
+switch sold unit world-wide sinc launch
+believ nvda industri rumor indic nintendo
+introduc new switch platform sometim next year
+perform well game segment histor base
+strong cadenc architectur
+improv assist benign
+competit environ see good growth market continu
+secular trend like e-sport social game remain growth
+phase see competit less favor architectur
+upgrad cycl least quarter potenti
+headwind cryptocurr boom start around
+think sale growth much mute benefit
+game avail ray tracing/dlss emerg like wont
+page
+provid context view look nvda architectur cadenc
+past coupl gener kepler maxwel pascal
+highlight key develop provid context good look
+maxwel nvda architectur improv kepler maxwel
+substanti frame/second fp basi power effici
+allow card smaller fan cheaper introduc
+seri lower price seen past amd offer
+offer higher perform see inventori
+headwind late crypto crash lost consider share
+unabl counter seri effect forc cut
+price saw strong unit growth mix shift toward high-end
+ enthusiast game increas blend
+asp overal instal base would support strong futur upgrad
+pascal gener provid substanti fp improv compar
+maxwel particularli resolut addit new softwar
+layer drove advanc vr capabl enabl drive
+page
+game sale two quarter follow launch although
+contribut cryptocurr later cycl nvda pascal
+sale growth mostli driven high-end competit remain
+non-exist nearli first month cycl amd rx vega
+launch late end view afterthought given
+perform nvda launch two quarter prior
+combin cryptocurr benefit stabl unit growth across
+mid-rang cycl pascal nvda success launch mani
+ture pascal greatli improv frame rate defin featur
+ture imag qualiti specif two technolog real-tim ray
+trace dlss discuss long-term view
+technolog later report note game
+avail use technolog may much impact
+upgrad cycl near term
+ture launch stagger launch
+month gear toward high-end card unlik pascal far
+frame rate improv across resolut
+notic less improv provid initi pascal
+card stack maxwel sinc
+higher valu high-end card provid appear limit
+believ certain enthusiast interest upgrad
+latest high-end product get best perform avail
+fp improv pascal think overal performance-cost ratio
+favor overal game commun bundl two
+game battlefield price seen
+time msrp suggest limit upgrad environ
+introduc card januari
+perform compar card releas
+lower price point offer promis ray trace capabl road
+price/perform improv
+offer highest value-ad graphic card avail base
+passmark score per price suggest upgrad cycl could
+stronger mid-rang part market remain seen
+whether price tag dissuad nvda budget friendli mid-
+rang base whether econom environ china experienc
+recent make gamer price sensit
+nvda non-ray trace ture gpu price went
+sale feb best valu market accord metric
+offer improv
+replac pascal inventori clear channel graphic card
+also frame rate improv amd mid-rang polari card
+rx nearli perform improv
+maxwel accord trade articl card soon
+releas lower price point expect card strong
+upgrad cycl user still use maxwel legaci
+card expect card ideal mega-popular fortnit pubg
+apex legend game launch four mid-rang card four month
+page
+start drive strong mid-rang growth q/q start
+view one posit dynam year
+desktop also expect need cut price
+exist polari card aggress minim mid-rang share loss
+benefit cryptocurr start
+card see strong price seen figur nvda
+game sale growth q/q y/i abnorm
+high season weak quarter second year architectur cycl
+led increas product effort refil channel
+believ high percentag gpu use crypto led overh
+geforc gpu demand higher price shown figur
+result gpu shortag start around believ
+sell gpu market period follow price
+well mani gamer would pay crypto price declin
+channel purchas product inflat price excess
+expect mid-rang pascal inventori larg clear end
+note accord survey channel price account
+board partner use refer design mid-rang gpu still appear
+around origin launch price msrp averag rel high in-stock
+quantiti note data suggest could possibl
+channel isnt burn fast concern board
+partner want keep pascal margin steadi would like delay
+high volum order new gpu extent would
+like see price fall msrp confid
+start realiz full benefit higher volum ture mid-rang
+sale ramp channel refil
+manag estim normal game demand around
+desktop notebook consol impli strong
+crypto-driven upsid like expect estim crypto ad around
+sale upsid upward total sinc
+use histor level within game segment
+page
+believ difficult make near-term combin
+weaken econom environ lower demand high-end
+product unclear channel visibl see potenti lower
+normal trend first half dont expect return
+normal run rate second half year
+driven mid-rang sale growth modest ramp ray
+tracing/dlss high-end card releas new game around
+expect competit next two year compar
+last two dont expect much latest attempt offer high-
+end competitor radeon amd
+achiev frame rate somewhat competit
+offer price point radeon vii lack next-gen
+dont expect meaning unit radeon vi sinc gb
+memori drive cost point econom
+produc higher memori make gpu power hungri less
+effici game suspect eventu introduc higher-
+end product famili may compet high-end/enthusiast
+segment upcom architectur mid-rang stack
+decent perform goe beyond initi offer
+near-term trend mute game environ
+base analysi ture product launch last year potenti
+impact lost crypto-curr sale inventori overhang greater
+competit profil believ ramp ture notic
+lower pascal cycl potenti higher mix midrang
+page
+limit high-end demand unclear softwar support time-frame
+think asp trend seen past year mute
+also suspect high-end sale got initi benefit inventori
+build china ahead uncertain macro climat sale
+channel partner place earli order expect ture ramp
+would like pascal see high-end inventori take quarter
+work base weaker upgrad seen thu far
+price sensit gamer china believ estim provid us
+margin safeti continu weak relat suppli
+chain chines board partner zotac color affect
+trade tension slow econom growth expect improv
+new game support ray trace see materi
+contribut
+model conserv next year expect
+reset year y/i declin dont expect return
+normal run-rat expect
+notebook continu strong growth model y/i growth
+see trend game mobil drive notebook mix higher
+time sale follow reset expect growth
+see possibl catalyst drive upsid estim
+share gain mid-rang launch devic
+take pc notebook share
+units/asp perspect model declin
+increas impli flat y/i unit follow return
+normal level long-term think nvda graphic card sale
+grow unit flat depend competit
+point result total game sale growth
+reason rate compar rate past five
+final expect switch sale add littl contribut
+higher nintendo inventori level meaning
+year expect gener switch successor sometim
+lack visibl current
+ray tracing/dlss posit long-term impact ray
+trace technolog graphic market howev requir substanti
+chang game develop take time
+critic mass game current realli one game
+page
+util ray trace battlefield past five month review
+even patch saw signific perform drop-off like one
+battlefield updat suggest still learn curv
+develop dxr softwar overcom bring full
+perform technolog may take time ray
+trace becom commonplac market need
+longer term believ ray trace take raster
+techniqu portray realism visual output movi studio use ray
+trace real time render movi frame take minut
+hour render singl frame time-frame real-tim ray
+trace becom de facto featur game like dictat
+impact frame rate dont know game use ray trace
+get resolut least believ minimum
+accept fp mid- high-end gamer comput need
+perform ray trace requir substanti increas hardwar perform
+suggest continu environ valuat creation therefor
+dlss stand deep learn super sampl technolog
+well explain suppos provid better
+realism anoth techniqu call tempor anti-alias taa
+less process requir independ review one show
+imag qualiti improv scenario dlss go
+import technolog get ray trace ground plan
+use ai bring fp drop-off back intend also
+bring signific imag qualiti improv shadow reflect etc
+ray trace dxr-on enabl gameplay metro exodu
+latest game use ray trace dlss togeth review
+larg mix abl come close correct
+perform drop ray trace dlss overal still work
+progress technolog like need killer
+game becom mainstream
+gpu architectur amper plan posit
+rumor amper architectur launch like amper
+rumor manufactur samsung euv process
+result high-end sale uptick worthwhil ray trace improv
+given ture base drive consider
+year earli would expect acceler
+introduct well
+lead view radeon vii introduct
+major concern believ launch seem
+high-end stop gap test-run amd top bottom
+refresh architectur rather true high-end
+competitor could drive share shift market share
+may fluctuat quarterli like remain intact cant identifi
+advantag vega would pressur sale see implicit evid
+page
+suggest gamer switch drove gpu anytim
+expect launch discret gpu late earli
+note rumor see perform
+half cost possibl better high-end/enthusiast competitor believ
+could face share declin softwar integr ray
+tracing/dlss remain current pace truth
+performance/pric benefit would lead weaker expect
+upgrad expect nvda share discret notebook gpu
+increas follow ramp notebook use mobil gpu
+design max-q vs pascal max-q would somewhat off-set share
+loss desktop gpu
+gpu competit expect join discret gpu market
+although detail expect perform featur
+known time investor long memori recal intc last
+attempt enter graphic market time-frame larabe
+ultim never emerg reason doubt intc
+result note hire two experienc architect
+drive new product graphic possibl data center well expect
+softwar side develop difficult thu suspect
+wont immedi impact nvda market posit
+ultim see maintain least previou healthi
+market share maintain asp leadership high-end product
+next coupl year least also believ ray trace
+lead posit strongli next paradigm game
+begin see diminish return fp improv
+begin see improv
+pascal shift toward imag qualiti make game lifelik
+overal view game strong growth market year
+favor secular trend continu benefit time
+catalyst view could provid upsid sale expect would
+stronger expect mid-rang share gain follow full volum ramp
+acceler sale growth introduct
+notebook oem switch higher
+level like ray trace render capabl resolut need
+content creator editor
+histori semiconductor market one describ combin
+integr disintegr offload investor know
+moor law effect integr relat
+cost/pow benefit provid also histori offload
+primari reason specif task take mani
+cycl main processor system
+graphic process initi perform main processor pc
+platform perform graphic becam import
+pc particularli microsoft window introduc
+page
+graphic user interfac flat screen monitor increas
+resolut frame rate color palett becam preval cycl
+use graphic swamp main processor thu graphic
+processor unit born primari driver
+revolut gpu abl keep appetit graphic
+build massiv parallel process architectur support
+general-purpos comput gpu otherwis known gp-gpu
+emerg earli way acceler function
+highli paralleliz supercomput industri amongst first
+grasp technolog further develop like cuda first
+introduc enabl program paralleliz code run
+gpu sequenti code remain cpu cuda
+basi softwar stack provid basi platform effect
+creat around gpu code base
+platform like comput world signific barrier
+switch gpu asic/soc competitor
+proper perspect gpu acceler comput
+creat impress gpu go drive
+forc technolog industri moor law end dont
+think full pictur would agre moor law slow
+mani way trend directli point multi-process
+system leav impress everyth done gpu
+highli parallel spmd singl program multipl data workload true
+other like involv domain-specif architectur
+deploy scale desir
+mani investor believ gpu singular process platform
+top futur performance-limit workload move see
+nuanc version primari exampl found examin
+nvda acceler target ml/dl workload start volta
+architectur extend ture architectur specif
+telsa nvda inclus tensor core essenti
+asic core sign transit come also show non-gpu
+logic requir acceler certain type calcul case
+take need look xavier chip develop
+autonom drive essenti infer applic xavier
+complex soc two custom arm processor tensor core gpu core
+acceler logic judg figur amount die size
+xavier devot gpu minor suggest direct
+futur silicon go address market scale
+appli thesi data center market suggest
+develop devic closer asic/soc gpu
+close come whether describ gpu market
+custom investor difficult predict
+note found member risc-v allianc risc-
+ licens processor architectur could view similarli
+page
+arm would surpris see inclus devic next
+year littl doubt recogn trend wouldnt
+surpris us move toward eventu speed
+difficult know extern think respond
+develop separ hardwar project central gpu
+engin visual hardwar gpu multipl acceler
+hardwar project xavier potenti futur data center product
+associ softwar environ also complex support
+think requir signific develop
+forecast growth somewhat higher street
+view interconnect import technolog investor
+recogn well perform individu processor
+import scale hyperscale/hpc workload order
+oper time-effect manner need run larg
+number processor order see near-linear scale perform
+addit processor ad workload effici interconnect
+necessari interconnect requir found multipl
+differ level system on-chip on-board within system
+address on-board interconnect problem nvlink
+nvswitch technolog fact nvswitch chip
+billion transistor demonstr import interconnect
+problem board level view nvda acquisit mlnx
+demonstr import interconnect system level would
+surpris see creat new interconnect technolog
+address new scale problem drive lead edg data center-
+scale problem futur thu view acquisit posit
+page
+balanc thesi regard nvda hardwar busi
+model believ softwar platform provid signific valu
+enabl provid signific sustain valu custom even
+underli hardwar platform evolv develop
+cuda even cudnn tensorrt nearli
+compar next best acceler platform fpga
+platform obvious massiv base develop
+could use attract develop nervana-bas platform
+futur think use keep much infer job cpu
+huge advantag built softwar platform acceler
+applic underestim particularli sinc competitor
+outsid myriad startup far
+less invest much less product deploy system
+believ visual comput game profession
+visual vi cornerston nvda opportun
+rich platform hardwar softwar resourc
+forese hardwar approach like supersed nvda
+near futur game profession visual good growth
+market rel littl competit strong sign
+strong underli base busi opportun addit growth
+upsid ar/vr market eventu start take
+howev market specif situat around visual
+comput reserv whether gpu-ori hardwar
+prevail
+domain-specif
+architectur like preval approach sinc
+market data center automot could serv intern
+goog/msft/amzn data center tsla/uber/oth auto
+probabl question time nvda hardwar choic
+wouldnt surpris alreadi embark strategi around
+heterogen architectur hasnt announc yet plan
+supplement current gpu-ori approach internal-onli strategi
+like mean heavi invest nvda grown
+compound-annual-growth-rate past three year opex growth guidanc
+high singl digit impli like growth think
+return growth expect spend acceler follow year
+gener sale automot market two gener segment
+infotain autonom drive view infotain
+opportun grow one strateg
+import clearli spend time/invest
+stock get valuat premium autonom drive
+nvda offer includ automot segment includ silicon
+softwar subsystem product silicon level offer xavier
+soc multipl arm core multipl distinct acceler gpu
+page
+core offer top perform subsystem level
+nvda drive use xavier chip tensor core-bas gpu
+specif gener along integr softwar stock
+offer top perform addit offer
+constel drivesim simul investor recal
+system sale report data center segment also sold auto
+custom high volum
+autonom drive market strong time market
+advantag introduc drive platform earli
+gener silicon call drive pegasu base xavier
+chip gen orin slate emerg next year combin
+signific softwar ecosystem take advantag ai/dl
+capabl develop data center work surround drive
+platform believ flexibl easi use system
+nearli partner shown tremend progress sign
+partnership shown figur
+top system platform provid end-to-end system
+train test addit drive shown figur
+nvda constel system provid simul platform work
+directli drive platform think combin capabl
+without peer merchant supplier intc mobiley group would
+closest signific capabl includ signific
+custom market
+segment nvda target market two segment
+vehicl level self-driv capabl
+believ virtual competit merchant market
+solut target drive test phase market
+nvda drive platform provid enough process power
+test dl model softwar platform provid necessari
+flexibl combin sell volum self-
+page
+drive car compani record data center-enterpris sale
+segment say awar robo-taxi similar servic use
+merchant silicon isnt use hardwar havent identifi
+doubt nvda market share carmak
+robo-taxi exit test phase move volum deploy
+primari concern power consumpt gpu-bas devic
+import especi electr vehicl wouldnt
+surpris evolv futur silicon solut toward soc solut
+doubt much would use
+sinc believ power consumpt rather high howev
+announc volvo would use drive platform car sold
+earli look confirm success part
+market
+state expect silicon devic within drive platform
+evolv toward soc implement believ
+becom power effici
+size market
+see autonom drive market
+assum robo-taxi creat
+impli process content potenti self-driv car
+drive impli process content worri
+content assumpt littl aggress think
+unrealist given nvda sale autonom drive market
+still quit small domin leader serv nearer term robo-taxi
+servic growth potenti market quit strong
+forecast grow auto segment next three
+year becom busi growth rate hamper
+infotain growth
+stock perspect think impli multipl stock receiv
+market may impact much news flow self-driv
+compani
+deploy waymo
+page
+announc use safeti driver first deploy
+phoenix az suggest technolog yet readi prime time
+may show sign success part market
+near term sustain improv valuat
+see vi core market effect littl
+competit extend recent introduc ture
+architectur market grown rate last three year
+project grow rate next year one
+opportun havent given much credit video render
+say cpu use render could done real-tim
+ture ray trace technolog leav opportun open upsid
+overtim develop
+focu hyperscal market acceler deep learn
+subset machin learn ml applic howev late
+introduc rapid suit softwar tool acceler ml
+applic gpu earli say initi like provid
+opportun see increas penetr acceler server tam
+analysi expect see offer along line would widen
+nvda lead softwar platform
+augment realiti realiti adjunct game
+analysi game market specif includ materi
+potenti ar/vr market clearli disappoint
+market sinc hype googl glass magic leap year
+ago howev larg compani like fb other continu
+develop product servic around technolog think seamless
+high perform visual necessari realist experi
+page
+requir lead edg hardwar execut clearli
+leader share nascent market
+serv robot market jetson product
+believ annual rate current address
+market similar fashion automot market combin
+hw/sw suit think advanc auto market drive
+platform appli immedi jetson howev think
+problem robot perhap even difficult self-driv
+car like least year becom meaning
+develop auto market like given great
+advantag market develop
+perform comprehens analysi competit environ
+face acceler market specif data center
+automot analyz advantag disadvantag type
+architectur examin specif offer
+lay ai/dl acceler compani find figur
+includ public compani intern competit privat
+compani also includ compani like provid
+solut edg market comparison
+survey list privat compani data center market show
+five rais least anoth five rais least
+sinc belief competit solut requir
+high-perform silicon/hardwar also rich softwar platform
+roadmap extend least year think would requir least
+total invest like quit bit time
+seen littl extern confirm design win
+privat compani although note graphcor state
+publicli expect sale think
+year compani start show traction thu would
+surpris see plenti public claim traction
+convers compani suggest similar
+approach platform special hardwar follow
+graph-bas dataflow approach instead von neuman architectur
+cpu follow decad approach import reduc
+memori access hope elimin extern dram
+increas perform extern memori access
+comput memori access consum much power nearli
+order magnitud remov dram improv form factor
+up-front cost import one reason nvda solut
+provid high perform use hbm high bandwidth memori
+high perform costli power-hungri competit
+solut may abl use lower cost/pow dram even avoid extern
+page
+anoth import approach seen multipl player co-
+design softwar hardwar think import optim
+perform power consumpt also believ eas use
+import convinc hyperscal custom consid
+compet soc solut vendor shown
+figur believ nvda advantag processor power
+provid along rich softwar framework reason
+appear develop hardwar
+deploy date mobiley attempt move strong posit
+ada market open platform year
+deploy dont think win market nxp renesa two
+compani long histori automot market like
+posit least given higher power consumpt
+posit remain unclear current cover
+highli optim programm solut back one oldest
+page
+training/dc/training/dc/epublic-merchantdeviceinferenceedgeprivatedeviceinferenceedgecommentsnvda gt/idccambriconat/idcrais valuationintc/mobileyeai graphcoreat/idcrais valuationintc/movidiusai ewav computingat/idc/erais stealth modeamd/gpugtdcthinkforceaidcrais date risc-v basedibmaiesambanovaat/idcrais cofound tpu makerslsccfiemyth icmi erais embed flash quika/fiesyntiantmierais embed mrambrnaiehailo techaierais arm-basednovumindaierais computemierais neuromorph focusamznaidcadaptevaat/idcrais open sourc softwaremsftfidccornamiat/idc/erais modehuaweiat/idc/evathysatdcstealth moderevolut compat/idcstealth modeautomotive/vehiclehorizon roboticsaierais valuationambaaiepubl companydeepscaleaierais
+organ support autonom drive vislab acquir
+howev much smaller compani limit histori
+auto outsid record date lastli conjectur
+develop automak oem telsa waymo/googl
+much market absorb earli tell
+time think highli optim solut programm
+multipl level power effici deploy volum
+solut closest fit find time given time
+take see deploy scale remain seen soon
+revenu becom relev
+driven gm high rang earli decad
+past sever quarter peak quarter see figur
+driven catalyst
+game market grow demand higher perform
+abl captur much demand
+data center start grow substanti gm
+much corpor averag
+cryptocurr price increas great run
+around game gpu huge demand believ
+price well normal level
+offer follow graphic figur way think
+gm report segment clearli show data center
+product easili highest compani although note
+enterprise-ori product close corpor averag
+also note auto easili lowest suspect improv
+dramat autonom platform sale overcom
+infotain applic domin auto date
+page
+share leader adascurr open acq dataflow archno histor auto supplier historypow supplier historypow supplier historypow scalabl power open sw power consumpt
+term model gm futur follow thought
+game think competit environ littl
+difficult improv portfolio includ get
+think ray trace notic driver game
+util avail may closer
+data center think gm unusu low due
+lower mix acceler card system sale
+expect improv throughout look farther
+worri competit merchant product come market
+go compress margin degre competitor
+intern extern provid cost-effect solut
+model gm increas bottom last quarter reach
+higher prior higher
+page
+base view nvda like move toward asic/soc
+solut infer applic data center automot
+believ opex specif like grow healthi rate
+model opex growth next two year appear faster
+impli consensu estim
+comparison consensu estim
+estim slightli consensu due lower game slightli
+lower data center sale ep estim lower due sale off-set
+somewhat higher gm estim
+estim take account acquisit mlnx sinc
+wont close year end said would immedi accret
+ep didnt lay specif synergi expect assum
+modest opex synergi loss interest incom billion
+cash use pay purchas shown figur see
+potenti accret view conserv start point
+acquisit nvda balanc sheet slightli neg net
+cash although see balanc sheet concern thu risk dividend
+share repurchas howev valuat ev/ep basi
+slightli better acquisit shown figur
+page
+price target base ev/ep multipl appli
+essenti pro forma ep estim price target
+support sum part valuat detail figur
+sotp valuat made high-level assumpt earn
+attribut sale segment assign conserv multipl
+segment follow
+figur part valuat mari
+game segment could attract valuat rang given
+lead competit posit assign multipl low end
+given near-term risk
+data center given see competit risk segment
+time think earn multipl higher appropri
+impli ev/ quit healthi
+visual given limit competit environ solid
+growth prospect think ev/ep multipl appropri
+automot think segment could consist earn
+ev/ep multipl given long-term strateg natur segment
+page
+platform compani
+compar nvda histor valuat group larger cap
+semiconductor stock group cloud servic provid
+view mani investor platform shown figur nvda
+valuat similar mani larg cap semi stock earli
+suggest view mere compon supplier howev
+nvda data center sale start grow quickli appear
+investor will give multipl similar platform
+compani sinc earli earn estim declin game
+multipl come closer larg cap semi compar
+question investor judg whether deserv
+multipl commensur platform compani discuss earlier
+think nvda data center busi could platform
+think hardwar need evolv improv effici unclear
+whether deserv time
+assum grow sale annual rang think
+stock sustain multipl rang howev investor start
+view platform compani could see valuat
+greater
+factset craig-hallum note semi peer includ stm mu
+cloud oper includ fb
+also look nvda valuat rel growth rate shown
+figur busi base almost
+entir game trade ev/ep ev/
+rang strong data center growth start
+get ev/ep multipl rang view sale
+growth challeng sustain think growth sustain
+page
+requir data center growth self-driv car
+success dont see immin see strong
+potenti valuat sustain near current level
+time without view sustain platform busi
+jen-hsun jensen huang ceo director mr huang found
+serv presid ceo member board
+director prior huang work logic advanc micro
+devic hold bsee degre oregon state univers
+msee degre stanford univers
+colett kress cfo ms kress join compani septemb
+previous serv financ oper kress
+hold sc degre financ univers arizona
+southern methodist univers
+william dalli chief scientist dali join chief
+scientist spend year stanford univers
+chairman comput scienc depart dalli publish
+paper hold issu patent author four textbook
+believ invest involv follow risk
+chang consum game prefer game busi
+driven pc game chang consum prefer toward
+vertic consol cloud game mobil could weigh sale
+share could challeng competit aggress price
+enter market prolong integr ray
+tracing/dlss develop prefer tradit raster
+channel visibl sell much game product via
+channel limit visibl distort demand
+page
+googl tpu fpga asic etc high-growth infer
+market risk price pressur emerg competit
+train may could aris potenti pressur alreadi
+high margin significantli reduc nvda expect data
+automot drive market adopt prolong implement
+level autonom drive av slower
+expect
+prolifer regulatori issu may materi affect nvda sale
+potenti fast-grow av market addit would
+neg impact slower growth less content per vehicl
+china exposur china account nearli sale could
+neg affect increas geopolit uncertainti and/or
+heighten trade tension could affect suppli chain china
+largest game market world could see demand
+impact game come scrutini sanction
+impos china current work mani datacent
+solut could lead loss key market success
+page
+page
+corp incom statement end million except per share incom analysi forma gross
+page
+corp end million except per share data asset short-term receiv current current current long-term sharehold liabil sharehold activityday sale inventori inventori payabl period convers cycl tangibl book valu per valu per

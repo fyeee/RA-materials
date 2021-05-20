@@ -1,0 +1,562 @@
+existenti hardwar declin big
+ignor downgrad under-perform
+downgrad under-perform po
+downgrad buy under-perform lower po
+base price-to-earnings versu previous
+report flag prolong pressur revenu growth stem secular shift
+demand appliance-bas applic deliveri control softwar
+cloud-bas solut trend pressur price also brought
+market new player like vmware amazon/googl content deliveri network cdn
+provid like akamai also flag near-term risk estim stem
+unsustain high softwar growth rate high concentr feder order
+last quarter mask greater declin
+neg secular trend continu pressur revenu
+market go fundament chang need still exist
+market chang way pressur legaci player cloud consumpt
+model chang applic develop process/ris devop
+introduct contain microservic chang way adc consum
+instead buy hardwar applianc pre-set level capac enterpris look
+flexibl on-demand consumpt model new flexibl consumpt model
+bring price substanti also improv oper reduc
+provis time resourc month day enabl develop account
+network resourc streamlin develop process
+risk alreadi price still catalyst horizon
+respond re-architect reduc footprint softwar
+acquir ngnix nativ cloud-bas solut still appliance-bas revenu
+repres revenu declin yoy almost entir off-set
+yoy growth softwar quarter believ servic revenu
+revenu soon follow declin addit risk estim
+potenti revers recent strength feder order trade
+price-to-earnings stock look inexpens fundament headwind
+catalyst stock limit risk upsid stem moder hardwar
+declin vs better softwar growth scenario believ unlik
+full definit iqmethod sm measur see page
+bofa merril lynch seek busi issuer cover research report
+result investor awar firm may conflict interest could
+affect object report investor consid report singl
+factor make invest decis
+refer import disclosur page analyst certif page price
+object basis/risk page
+net dbt
+return capit employ
+return equiti
+iqmethod sm qualiti earn
+net incom cont oper
+chang work capit
+full definit iqmethod sm measur see page
+network provid applic
+deliveri network product manag control
+optim internet traffic within network
+storag na ddo diamet signal rout
+rate under-perform believ
+neg trend face compani
+secular hardwar declin price eros
+transit softwar increas competit
+cloud like pressur growth near-
+downgrad under-perform
+downgrad buy under-perform lower po
+battl secular declin appliance-bas revenu
+rise demand scalabl softwar cloud-bas solut applianc sale
+account total product revenu declin yoy
+major acceler record applianc sale declin yoy
+sale declin yoy softwar sale strong though
+yet total product revenu still grew easi comp believ
+dynam continu pressur growth forese futur
+report discuss underli market dynam includ reason behind shift
+hardwar softwar solut implic demand mainli neg
+impact price respons impact new market competitor like
+vmware/avi network cloud player amazon googl well
+akamai fastli
+limit catalyst stock
+report built around bull/bear discuss discuss neg posit
+factor compani stock also build bull/bear scenario model
+point upside/downsid potenti stock respect bull
+case yield earn bull case play believ
+stock like trade roughli price-to-earnings one-year forward basi scenario
+would yield stock price discount back present valu
+meanwhil bear case yield earn coupl
+bear-cas one-year forward price-to-earnings yield stock price pv
+stock declin year date versu alreadi reflect
+risk price-to-earnings stock trade near low end histor rang
+in-lin valuat level similar slow growth vendor
+undergo transitions/fac secular pressur like cisco junip
+still valuat expens us analysi lead us expect limit
+catalyst stock forese futur prompt rate downgrad
+tabl comp tabl calendar year basi price
+bofa merril lynch global research estim bloomberg consensu estim radwar cover bloomberg
+futur market
+tradit applic deliveri control adc hardwar applianc
+understand data context deploy right server enterpris servic
+provid data center use make switch decis base
+content product evolv year basic load balanc
+perform optim capabl applic acceler secur
+exhibit evolut
+given uniqu posit front applic server adc built secur
+function enhanc valu proposit secur function primarili
+consist web applic firewal waf ssl encryption/decryption/termin
+ddo prevent access polici manag
+waf sit front applic server analyz filter suspici
+activ web traffic
+ssl encryption/decrypt decrypt inbound traffic enabl secur
+inspect encrypt outbound traffic
+ddo protect filter dod attack million comput attack
+target com exampl help keep web servic
+network environ help carrier deploy offic
+on-premis email mailbox exampl
+data traffic analyt provid polici visual tool analyt help
+network plan
+hardwar adc termin declin
+mani factor driven chang way deploy consum
+first foremost enterpris want migrat rigid consumpt model
+hardwar pre-set level capac purchas flexibl model on-
+demand consumpt price benefit also oper
+advantag capac provis matter second instead week
+month migrat hardwar softwar present busi challeng
+technic issu legaci vendor busi front migrat
+softwar introduc substanti price pressur technic front mani
+legaci vendor re-architect solut lighter weight nimbl
+anoth headwind tradit adc present rise cloud
+devop major new applic leverag cloud model
+homogen network topolog cloud allow adc much simpler vs complex
+solut requir serv scale applic deploy insid organ
+vari network infrastructur cloud-first world role tradit
+softwar engin expand scope encompass stage softwar
+deliveri process provis comput resourc applic develop
+end-to-end test real-tim monitor mainten term devop
+posit devop engin becom popular describ evolv line
+work migrat devop chang softwar develop process
+also chang characterist demand softwar develop
+increasingli think deploy oper side use autom tool
+programm dynam infrastructur rather hand applic
+network oper netop team buyer adc less often netop team
+rather devop team given rise lightweight
+virtual solut includ part autom tool champion
+devop team use cloud
+lastli rise containers/microservic also dictat light-weight scalabl
+function tradit scale monolith applic costli labor intens
+time consum requir highli train network specialist ad server
+load balanc adc migrat dynam alloc cloud resourc
+enabl enterpris quickli spin server matter minut
+result softwar architectur migrat microservices/container applic
+design mesh small fine-grain applic aka microservic flexibl
+deploy compos full-fledg product new architectur necessit
+collabor develop oper team stage
+applic develop demand heavy-duti hardware-bas adc load
+balanc horizont scale monolith applic replac demand
+lightweight cloud-n software-bas adc easili spin
+demand microservices/contain
+respond stage light end tunnel
+respond threat softwar disrupt multipl way progress step
+step histor focus offer breadth depth servic sourc
+differenti expens somewhat inflat softwar footprint
+howev continu trend toward public cloud devop necessit
+creat smaller light-weight solut deploy per-app instanc
+gener softwar solut focus reduc
+footprint/resourc consumpt softwar
+first softwar product big-ip edit full-fledg virtual
+edit applianc product port softwar hardwar
+applianc provid function big-ip hardwar box big-ip
+step right direct softwar heavi load avail
+featur deploy light enough cloud solut requir
+dedic virtual machin featur case util
+competitor avi network vmware disrupt market offer
+differ architectur avi network separ execut engin librari
+featur run lightweight engin applic call
+requir service/featur librari as-need basi instead run
+entir array unus featur result lighter quicker deploy offer
+econom technic advantag approach
+continu shrink footprint solut releas ip cloud
+edit per-app instanc tradit big-ip offer lighter footprint
+faster boot time manag describ softwar footprint
+version origin virtual edit softwar footprint also plan
+releas cloud nativ version big-ip suppos
+origin virtual edit softwar footprint plan cancel
+acquisit nginx cloud offer nginx open-sourc cloud-
+nativ lightweight strong root devop commun sinc
+acquisit focus combin cloud nativ progress current nginx
+industri trend creat pressur multipl way first compani
+lost share year avi network becom bigger threat
+acquir vmware well cloud player amazon second believ
+structur perman pressur product revenu line stem
+differ hardwar softwar deploy third reput
+market-lead carri less weight devop engin recent
+interact much product though note nginx acquisit
+help off-set
+vmware acquir avi network threat
+vmware announc intent acquir avi network deal expect close
+explain avi network disrupt applic deliveri control
+space provid software-defin altern big-ip hardware/virtu
+applianc one hand acquisit confirm on-going transform
+head right direct still room software-
+defin data center howev hand acquisit creat stronger
+competitor deeper pocket strong tie within data center
+manag dismiss competit avi marketplac see signific
+implic given abil vmware integr avi nsx solut
+provid complet solut server virtual
+could nginx add
+acquisit nginx march culmin devop target
+strategi core nginx provid free/open sourc web server embrac
+devop commun current power websit nginx built
+paid model around support servic suit addit softwar solut
+capabl monitor allow engin team make sure site
+applic work correctli load balanc spread user demand
+server evenli secur protect applic cloud
+nginx offer all-in-on load balanc content cach web server capabl
+built top open sourc nginx nginx also includ enterprise-grad
+featur session persist configur via api activ health check
+nginx control manag nginx load balanc api gateway servic mesh
+deploy via singl pane glass
+nginx amplifi saa monitor tool free five server amplifi
+provid graph visual tool key metric customiz dashboard
+alert abnorm behavior
+nginx waf protect applic layer attack ad nginx
+combin provid one-stop shop on-premis cloud
+servic combin offer enterpris overarch view entir
+network footprint common servic enabl central intern
+extern network traffic polici network traffic travers big-ip hardwar
+applianc network travel nginx control
+resid cloud kubernet pod applic run
+proxim applic nginx control abl perform function
+like split traffic two version applic test differ featur
+within applic test error rate variou version devop
+engin confid new applic version featur nginx shift
+traffic new applic version without consult netop exact
+netop rule appli applic cloud via nginx would
+on-premis big-ip
+market grow
+estim total market market yoy
+hardware-bas applianc account total virtual applianc
+per ih total market expect declin compound-annual-growth-rate
+hardwar applianc declin compound-annual-growth-rate
+virtual solut grow compound-annual-growth-rate note recent quarter declin
+market profound forecast total market yoy
+hardwar yoy virtual applianc grow yoy
+chart ih expect total market declin compound-annual-growth-rate led hardwar declin
+idc add market size cloud-bas solut offer amazon
+cloud provid note adc-as-a-servic adcaa solut offer cloud
+vendor repres grow risk like primari role
+adcaa load balanc though featur also includ secur function cach
+compress idc size adcaa market yoy
+expect market grow compound-annual-growth-rate note
+segment hard size mani cloud player give solut away free
+part larger infrastructure-as-a-servic bundl current offer as-
+a-servic product cloud servic product line dn load
+balanc cloud servic compani plan add as-a-servic offer list
+view adcaa market opportun risk neg
+size rise adcaa place head-to-head competit larg cloud
+provid leverag scale far greater posit strateg
+posit multi-cloud adcaa vendor versu amazon
+cloud-agnost believ enterpris find valu abil provid
+consist hybrid architectur on-premis data center privat
+public cloud addit may lose basic load balanc busi
+adcaa cloud provid ultim believ compani abl success
+upsel advanc capabl secur help off-set risk pose
+guidanc street estim
+back march manag provid short long-term guidanc present
+tabl compani updat guidanc acquisit nginx
+recent note intent updat horizon guidanc upcom analyst
+day march updat guidanc follow nginx acquisit march
+reflect higher revenu growth rate in-lin gross margin slightli lower oper
+margin ep growth due nginx earli growth stage
+tabl long-term guidanc consensu estim
+softwar product revenu
+low-singl digit declin flat
+bull case bear case analysi
+risk around direct market abil grow revenu
+market chang potenti share loss build bull/bear model look
+potenti upsid downsid undergo transit softwar
+bull case revenu build show path
+bull case model build bottom-up revenu model model separ
+organ softwar revenu nginx revenu system revenu servic revenu
+disclos revenu compon except organ softwar
+revenu abl back nginx revenu total softwar revenu
+arriv organ softwar revenu bull case use high-end
+manag target adjust trend experienc sinc long-
+term target provid march transit softwar proven
+materi faster expect therefor pull forward growth
+bull case assum
+system revenu declin compound-annual-growth-rate independ
+market research firm expect overal hardwar applianc
+market declin compound-annual-growth-rate hardwar
+revenu declin acceler recent quarter yoy
+yoy respect manag believ share
+gain help achiev better-than-market trend previous guid
+low-singl digit declines-to-flat horizon low-singl digit
+declin horizon howev given recent market dynam
+manag note expect recent trend faster expect declin
+applianc busi continu go forward assumpt
+hardwar declin bull case lean closer manag view
+moder declin overal market
+organ softwar revenu softwar pre-nginx acquisit grow
+yoy high end manag target growth
+organ softwar growth proven stronger anticip recent
+quarter model compound-annual-growth-rate
+estim suggest organ softwar revenu would repres
+total product revenu well high-end manag target
+nginx softwar revenu grow yoy
+nginx contribut product revenu
+product revenu bull case estim call
+per quarter nginx revenu contribut
+least known variabl analysi potenti upsid
+downsid given combin go-to-market resourc
+well new product releas nginx control expect
+launch januari
+servic revenu growth yoy yoy
+current long-term target call low-to-mid singl digit growth horizon
+low-singl digit growth horizon
+bottom-up revenu build show path revenu compound-annual-growth-rate
+could gener around softwar revenu off-set hardwar declin
+compound-annual-growth-rate total product revenu comparison product
+revenu
+bull case show path ep
+appli gross oper margin fairli consist manag horizon
+horizon target see tabl model gross margin
+annual increas reach downsid risk margin center
+around step manag would take maintain/acquir compani world
+oper margin assum per annum increas per year
+reach manag guid oper margin
+horizon put assumpt in-lin middl
+guidanc rang prior nginx acquisit manag guid
+oper margin horizon high horizon assum
+nginx acquisit roughli dilut oper margin therefor
+comfort assumpt versu high guidanc prior
+add incom vs averag
+well tax rate assumpt vs actual tax rate
+share count assum slight reduct share
+share share reduct share
+count remain flat share repurchas activ assum scenario
+analysi conserv versu share count reduct
+respect though share count reduct
+assumpt arriv ep note
+bull case much higher current street estim
+respect point execut risk embed street estim
+tabl bull case revenu build show path revenu acceler despit secular declin hardwar revenu
+product revenu organ softwar
+product revenu softwar
+product revenu system
+total revenu
+total revenu
+also outlin bull case argument
+despit transit multi-cloud platform win
+strength center around abil offer central manag multi-cloud
+platform span on-premis data center privat cloud public cloud
+versu cloud-onli solut like amazon googl compani believ
+tradit divid netop devop commun blur
+time buy decis merg benefit vendor suit need
+common servic polici across environ
+view cloud-n capabl provid cloud vendor amazon
+key risk howev believ risk off-set enterpris
+desir consist across multi-cloud environ adc customiz
+irul programm interfac allow custom write rule
+inspect manag modifi network traffic expens re-architect applic
+configur align differ technolog least provid
+advantag incumb posit softwar bid
+nginx provid access new custom set net-new opportun
+nginx rich custom base devop commun provid access
+broader set custom typic netop custom base
+hardwar revenu may pressur compani transit hardwar
+purchas softwar nginx provid abil address net-new use case
+custom applic cloud help off-set hardwar declin
+combin offer netop team comfort applic
+deliv consist manner also provid devop team freedom
+creat applic go without wait network infrastructur
+purchas design new applic compani believ
+control could acceler nginx growth expand address market
+potenti deal size span broader set use case across devop netop
+nginx provid need technolog compet vmware/avi
+similar avi network nginx offer small/light weight solut solid tie
+devop commun public cloud could see share shift avi
+enterpris util vmware nsx howev greater incent use
+custom use cisco red hat
+accord market share data consist gain share
+total market past six quarter use ih markit data
+break total market three main segment hardwar software-onli
+virtual applianc software-onli segment includ virtual edit adc
+software-onli would includ big-ip cloud edit big-ip edit
+virtual segment includ hardwar applianc run virtual softwar
+instanc case virtual segment would includ viprion chassi iseri
+applianc sold vcmp allow multipl virtual instanc run
+piec hardwar
+hardwar segment market remain market-lead also
+gain share last quarter
+virtual segment market tabl gain share strong pace
+yoy far largest player
+software-onli segment tabl continu experi strong growth rate
+software-onli revenu yoy virtual applianc market
+tabl consist taken share competitor citrix market leader
+virtual applianc adc increas market share virtual
+applianc subseg yoy versu citrix cede share yoy
+tabl total virtual market includ virtual software-onli
+tabl market share fastest growth segment market
+virtual applianc softwar
+hardwar declin acceler last quarter saw stronger
+anticip softwar growth mitig declin legaci applianc
+softwar revenu account revenu bull argument state
+hardwar softwar migrat result pressur price
+parallel increas unit volum stem new use case workload
+addit manag argu dollar hardwar revenu equal
+roughli softwar revenu higher margin softwar
+offset differ prior nginx acquisit long-term margin
+guidanc impli non-gaap gross margin expans
+given higher proport softwar
+revenu guidanc also call expans oper margin
+high
+bear case revenu build show path
+bear case analysi use methodolog bull case start
+bottom-up revenu model use conserv project slightli
+low-end manag guidanc see slower revenu growth roughli
+bear case assum
+revenu declin around compound-annual-growth-rate vs
+declin estim bull case in-lin
+estim market declin also in-lin
+declin yoy respect
+organ softwar revenu softwar pre-nginx acquisit grow
+yoy vs bull case model still low end
+manag target growth given recent strength
+softwar also note assumpt repres steep
+deceler yoy howev uneven
+organ softwar revenu grew yoy
+grew strong growth could attribut
+aggress incent given softwar sale assum
+bp annual declin growth rate equat
+compound-annual-growth-rate
+estim nginx revenu differ slightli bull
+bear case vs bull case also assum
+slightli lower growth rate futur vs bull
+model vs vs note nginx
+contribut product revenu product
+revenu nginx revenu repres total
+revenu estim therefor major impact compani
+servic revenu growth yoy vs
+bull case long-term target call low-to-mid singl digit growth
+horizon low-singl digit growth horizon
+bottom-up bear case revenu build therefor call revenu compound-annual-growth-rate
+vs compound-annual-growth-rate bull case bear case incom statement
+summar tabl bear case call ep vs
+base case bull case three case call ep
+respect
+tabl bear case revenu build lead revenu growth compound-annual-growth-rate
+product revenu organ softwar
+product revenu softwar
+product revenu system
+total revenu
+total revenu
+softwar deflationari revenu requir secur growth off-set
+legaci network piec network infrastructur
+situat rich complet featur set includ among thing
+load balanc web applic firewal ssl vpn applic acceler
+world custom will pay premium swiss armi knife hardwar
+main differenti abil provid function singl
+box competitor without sacrif perform softwar world howev
+function disaggreg custom pick individu element therefor
+transit softwar inher deflationari revenu
+wherea custom look function custom may choos
+one two function serv specif need addit custom like
+use cheaper sometim free load balanc servic cloud player
+select advanc function compani need
+burden success sell product top virtual
+function secur featur off-set larg base revenu
+scope secur solut limit mainli target market waf
+ddo protect compet legaci secur vendor like imperva
+content deliv network player akamai cloudflar cloud
+infrastructur player amazon recent magic
+quadrant rank challeng quadrant note move
+left everi magic quadrant sinc compani
+leader quadrant see exhibit exhibit
+servic revenu pressur near-term
+servic revenu correl product revenu growth begin
+declin solid level seen yoy long-term
+guidanc call mid-to-low singl digit growth follow low-
+singl digit growth though note street slightli
+aggress model servic revenu histor hardwar sale
+perpetu basi would recogn revenu up-front rest would
+recogn ratabl servic revenu accord manag servic
+compon actual higher form softwar consumpt
+enterpris licens agreement ela versu histor hardwar purchas ela
+purchas revenu recogn front remaind recogn
+ratabl durat contract higher portion ratabl servic revenu
+associ ela could drive long-term growth servic line howev see
+risk near-term given natur servic lag indic product
+tabl street fairli aggress servic revenu growth
+market share stori less attract includ cloud player
+major public cloud provid form load balanc function
+exampl amazon offer elast load balanc elb aw platform
+offer network load balanc nlb azur platform googl
+offer cloud load balanc clb googl cloud platform case
+googl mani load balanc servic includ cloud
+platform free bear case tradit argu public cloud
+applic typic light weight need heavy-duti capabl
+offer could therefor use lightweight public cloud load balanc
+includ contribut amazon state share declin
+qoq amazon share alreadi increas
+yoy amazon competit becom relev acquisit
+nginx compet directli amazon load balanc amazon cloud also
+note googl give load balanc servic away free
+inclus market would like make pictur even neg
+tabl gartner market share includ amazon chang overal pictur
+concern
+macro spend weak could provid anoth near-term challeng
+transit abil off-set hardwar revenu declin cisco recent
+earn call manag highlight broad-bas soften spend across
+geographi product line custom cisco enterpris commerci order
+yoy servic provid order yoy also note
+commentari around servic provid spend capital-expenditure neg across
+board fix wireless servic provid custom
+addit flag weak hood result servic
+provid book total book declin yoy enterpris book
+total book roughli flat yoy meanwhil feder
+govern book total book grew yoy
+govern ex-u fed book total book grew yoy
+essenti gener entir yoy product book growth
+factor make difficult comp year feder book yoy
+yoy without feder book total book growth would
+street estim assum revenu
+growth addit lap nginx inclus face
+revenu headwind also flag potenti tough servic comp
+servic grew yoy lastli also flag strong organ softwar
+growth seen yoy vs offset point
+easier comp hardwar side yoy declin
+note last analyst day compani provid target view
+posit sinc transit happen faster expect
+compani current track horizon target note manag
+expect updat horizon target upcom analyst day march
+neg side updat target like push oper margin
+increas compani continu invest growth said consensu estim
+fairli conserv may alreadi factor risk
+mn expect per share
+fiscal year end septemb
+product
+servic
+total cost sale
+sale market
+gener administr
+tabl summari model chang
+price object base roughli price-to-earnings low end
+compani histor rang view appropri given
+hardwar revenu total product revenu secular declin
+continu pressur compani near-term growth potenti also note
+multipl roughli in-lin close peer cisco junip roughli
+also low-growth face secular pressur undergo transit softwar
+new product offer price strategi reposit compani benefit
+industri transit compani continu face transitori challeng
+move away hardwar softwar base solut well increas
+competit cloud believ light end tunnel
+compani long-term ultim feel near-term execut risk outweigh cap
+near-term potenti stock
+downsid risk po execut issu relat ramp new
+product increas competit particularli citrix avi network
+vmware public cloud provid faster expect hardwar declin
+lower expect softwar growth upsid risk po faster ramp new
+product price schemat slower expect hardwar declin grow mind
+share secur increas spend nfv
+tal liani herebi certifi view express research report accur
+reflect person view subject secur issuer also certifi
+part compens directli indirectli relat specif
+recommend view express research report
+us telecom data network equip coverag cluster
+qualiti earn
+iqmethod smi set bofa merril lynch standard measur serv maintain global consist three broad head busi perform qualiti earn valid key featur
+iqmethod consist structur detail transpar methodolog guidelin maxim effect compar valuat process identifi common pitfal
+iqdatabas real-tim global research databas sourc directli equiti analyst earn model includ forecast well histor data incom statement balanc sheet cash
+flow statement compani cover bofa merril lynch
+iqprofil sm iqmethod sm servic mark america corpor iqdatabas regist servic mark america corpor
