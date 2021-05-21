@@ -13,6 +13,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 import time
 import warnings
+import random
 warnings.filterwarnings("ignore", category=UserWarning)
 
 
@@ -149,7 +150,18 @@ def coalition_sample(lm, smple):
     # get a random number between 1 and 2^(no analysts)
 
     # draw random numbers (decimal)
-    list_samples = np.random.choice(range(1, 2 ** no_analysts), size=smple, replace=False)
+    #list_samples = [random.randrange(1, 2 ** no_analysts) for x in range(0, smple)]
+
+    list_samples=[]
+    no_samples=0
+    while (no_samples<smple):
+        x=random.randrange(1, 2 ** no_analysts)
+        if not(x in list_samples):
+            list_samples.append(x)
+            no_samples+=1
+
+
+    # list_samples = np.random.choice(range(1, 2 ** no_analysts), size=smple, replace=False)
     # convert random sample to binary (corresponding to rows in the power set)
     list_samples_bin = [[int(x) for x in list(format(y, "0%ib" % no_analysts))] for y in list_samples]
 
@@ -230,8 +242,8 @@ def get_factor_matrix(df, industry, quarter):
                                     random_state=100,
                                     chunksize=10,
                                     passes=10,
-                                    alpha=0.3,
-                                    eta=0.6)
+                                    alpha='auto',
+                                    eta='auto')
 
     # set alpha='auto' and eta='auto', such that the model learns from the data?
 
