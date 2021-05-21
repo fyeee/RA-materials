@@ -232,6 +232,9 @@ def get_factor_matrix(df, industry, quarter):
                                     passes=10,
                                     alpha=0.3,
                                     eta=0.6)
+
+    # set alpha='auto' and eta='auto', such that the model learns from the data?
+
     loading_matrices = []
     for companies in all_companies:
         # print(companies)
@@ -266,6 +269,10 @@ def get_shapley(df, industry, quarter):
     for i in range(len(loading_matrices)):
 
         temp = loading_matrices[i]  # get a particular stock
+
+        if len(temp[2])==0: # deal with empty matrix exceptions
+            continue
+
         print(temp[0])
         if len(temp[2]) <= max_analyst_to_sample:
             sval = shapley_values(temp[1])
@@ -326,4 +333,4 @@ if __name__ == "__main__":
 
     final_panel=list_dfs[0].append(list_dfs[1:], ignore_index=True)
 
-    final_panel.to_csv('final_shapley_value.csv')
+    final_panel.to_csv('final_shapley_value_21.csv')
