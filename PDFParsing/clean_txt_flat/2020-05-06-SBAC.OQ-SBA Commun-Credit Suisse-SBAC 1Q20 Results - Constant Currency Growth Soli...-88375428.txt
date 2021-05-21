@@ -1,0 +1,57 @@
+result model adjust report revenue /adj ebitda /affo
+y/i y/i compar cs
+estim y/i y/i y/i
+respect follow result in-lin cs estim lower guidanc
+due fx movement adjust revenue /affo estim
+respect reiter outperform rate lower tp
+revenu growth constant currenc basi net churn bp
+domest organ leas growth flat y/i saw
+organ growth intern believ
+highlight fundament strength macro tower busi expect
+acceler given on-go cycl highlight tower reit ride wave
+amend activ driver growth amend compris new
+domest leas revenu match record high robust amend
+activ repres acceler vs averag expect amend
+remain elev carrier upgrad exist cell site well spectrum re-
+farm under-util site
+thesi posit follow main factor elev tower
+amend activ direct link cycl industri driver net leverag
+end scope tailwind affo recent commenc
+dividend expect annual growth next five year yield
+expans report persist tower tenanc increas
+format tmus- new fourth carrier north american tower market
+valuat reiter outperform lower target price
+valu base averag two method arriv target price impli
+upsid p/affo multipl macro tower multipl affo
+comput per share dcf valuat assum wacc
+termin growth rate comput per share risk includ reduc
+telecom carrier spend macro tower obsolesc custom concentr global
+pandem may slowdown tower cell site deploy
+valuat metric
+ close
+legal entiti disclosur statu non-u analyst us disclosur credit suiss seek busi
+compani cover research report result investor awar firm may conflict interest could
+affect object report investor consid report singl factor make invest decis
+interest invest incom
+share associates/jv equiti
+net incom tax
+distribut incom unithold
+flow operatiion
+flow invest
+equival
+net debt ebitda
+price
+sba commun corp reit engag provis
+wireless commun infrastructur oper follow
+develop
+valuat base one-half weight
+p/ affo per share estim one-half
+weight dcf wacc termin growth rate
+grey valuat base one-half weight
+p/ affo per share estim one-half
+weight dcf wacc termin growth rate
+ close
+compani mention price
+sami badri dougla mitchelson certifi respect compani secur individu analyz view
+express report accur reflect person view subject compani secur part
+compens directli indirectli relat specif recommend view express report

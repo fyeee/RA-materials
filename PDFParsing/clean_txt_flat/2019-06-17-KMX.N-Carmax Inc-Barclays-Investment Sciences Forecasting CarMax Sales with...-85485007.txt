@@ -1,0 +1,161 @@
+forecast carmax sale
+develop model quarterli sale growth driven
+altern data provid time forecast histor test rel
+growth alt estim vs consensu would strong indic
+stock price movement simpl back-test gener return sinc
+januari model forecast total revenu million
+y/i versu consensu estim million y/i
+cover barclay equiti research
+largest used-car retail unit state like mani
+publicli trade retail compani stock price movement highli correl
+compar store sale unlik used-car retail oper
+websit intra-day updat used-car inventori make possibl
+scrape snapshot inventori daili basi use inventori data
+gather thinknum gener signal daili sale sum
+price car disappear prior day inventori
+addit adjust detail page approach appear
+accur consensu predict quarterli sale
+typic abl start forecast quarterli sale two week
+quarter find estim gener becom stabl accur
+day quarter long/short trade strategi base whether forecast
+consensu would outperform long posit stock
+hedg equal notion short sinc
+back-test sale model use simpl rule estim
+consensu impli return sinc start
+barclay capit inc and/or one affili seek busi
+compani cover research report result investor awar
+firm may conflict interest could affect object report investor
+consid report singl factor make invest decis
+largest used-car retail unit state like mani
+publicli trade retail compani stock price movement highli correl
+compar store sale perform migrat consensu estim toward
+actual report valu figur time accur forecast
+quarterli sale provid investor opportun trade around earn
+excess return correl evolut quarterli consensu estim
+fact oper websit intra-day updat use car inventori
+make possibl scrape websit take snapshot inventori daili
+basi start publicli disclos inventori valu build model
+forecast quarterli sale follow procedur
+add valu car disappear produc daili sale estim
+trim estim account potenti car reappear inventori
+aggreg trim daili sale quarterli valu
+use regress model empir normal differ sale
+observ sale report includ unobserv discount
+auction sale small number revenu item cant discern websit
+think method work well enough pass help make better
+decis test view histor alt estim would direct
+correct consensu especi earli quarter second back test
+simpl trade strategi base differ alt estim consensu
+would gener substanti excess return
+day chang quarterlyconsensu average day excess return barclay invest scienc
+build alt data quarterli sale model
+data webscrap inventori data thinknum
+start point altern data-bas model data thinknum data
+vendor special pre-packag webscrap provid dataset daili
+inform histor inventori includ vehicl identif number
+vin price make model mileag locat car histori back march
+total vehicl inventori
+basic estim add price disappear
+basic idea behind turn inventori dataset daili sale estim record
+last observ date price vin sold date sold price
+sum price car left inventori given day treat
+preliminari estim daili sale
+initi refin trim account inventori chang arent
+biggest refin necessari initi approach vin often disappear
+reason sale reappear later time produc upward bia
+basic sale estim vin reappear year later though non-sal
+return site within week solv estim seri trim
+factor figur base empir likelihood appar sale revers within
+given number day current date
+trim factor appli day sale estim produc appropri
+trim factor appli daili sale function number day lag
+scale quarterli sale
+sinc report sale quarterli basi need aggreg daili sale
+quarterli sale order build model forecast histor quarter mean
+simpli sum daili valu accord fiscal quarter rang current
+quarter sinc want provid forecast earli two week need scale
+observ qtd valu assum qtd y/i growth compar
+previou year stay rest quarter
+quarterli sale data align quarterli report sale build
+model make forecast
+normal estim better match report sale valu
+clearli linear relationship data gather report valu
+tri model believ simpl ol regress model best choic
+estim report sale preliminari estim still three option set
+ol regress model use level raw data q/q y/i input
+experi show use q/q input gener best back-test result y/i
+data great potenti longer histori stay q/q model
+notic q/q data estim alway high fiscal fourth
+quarter end februari result subsequ underestim fiscal first
+quarter end may found clear qualit explan
+observ mechan inventori sold lower list price
+quarter fortun found over/underestim two
+quarter gener stabl time introduct dummi variabl tidi
+solut problem
+q/q regress model dummi variabl consensu vs barclay forecast vs
+demonstr figur model would outperform consensu everi
+quarter sinc indic could part profit trade strategi
+sale model output consist closer eventu report revenu consensu
+use simpl trade strategi base
+forecast perform back-test
+figur show progress estim throughout quarter gener
+find estim becom stabl accur halfway day
+quarter establish whether alt estim could contribut valu investor beyond
+inform avail consensu number test simpl trade strategi
+day quarter estim consensu take long
+posit hedg equal notion short estim
+consensu short hedg long
+close trade close one day report earn
+dont account cost trade borrow leverag market impact
+simpl strategi perform well gener annual excess return sinc
+begin figur show cumul excess return sinc cours
+believ mani consider make single-nam invest
+decis margin net earn strateg evalu compani busi
+also believ model allow client make better decis
+invest would abl reli consensu alon make
+cumul return long/short strategi compar long strategi hedg
+ryan preclaw herebi certifi view express research report accur reflect person view
+subject secur issuer refer research report part compens directli indirectli relat
+specif recommend view express research report
+barclay research produc invest bank barclay bank plc affili collect individu barclay
+author contribut research report research analyst unless otherwis indic public date top report
+reflect local time report produc may differ releas date provid gmt
+avail disclosur
+compani subject research report current import disclosur regard compani pleas refer
+http //publicresearch barclay com altern send written request barclay research complianc seventh avenu floor
+new york ny call
+analyst respons prepar research report receiv compens base upon variou factor includ firm total
+revenu portion gener invest bank activ profit revenu market busi
+potenti interest firm invest client research respect asset class cover analyst
+analyst regularli conduct site visit view materi oper cover compani barclay polici prohibit accept
+payment reimburs cover compani travel expens visit
+barclay research depart produc variou type research includ limit fundament analysi equity-link analysi
+quantit analysi trade idea recommend contain one type barclay research may differ contain
+type barclay research whether result differ time horizon methodolog otherwis
+http //publicresearch barcap com/s/rd htm order access barclay research conflict manag polici statement pleas refer
+procedur pleas
+price sourc refinitiv last avail close price relev trade market unless anoth time sourc indic
+barclay bank plc and/or affili lead manag co-lead manag publicli disclos offer secur issuer
+ employe non-execut director barclay plc director issuer
+cd barclay bank plc and/or affili market-mak debt secur issu issuer
+ce barclay bank plc and/or affili market-mak equiti secur issu issuer
+barclay bank plc and/or affili receiv compens invest bank servic issuer past month
+ barclay bank plc and/or affili expect receiv intend seek compens invest bank servic issuer
+within next month
+fa barclay bank plc and/or affili benefici own class equiti secur issuer calcul accord
+us regul
+fb barclay bank plc and/or affili benefici own long posit class equiti secur issuer
+calcul accord eu regul
+fc barclay bank plc and/or affili benefici own short posit class equiti secur issuer
+calcul accord eu regul
+gd one analyst fundament credit coverag team member household financi interest debt
+equiti secur issuer
+ge one analyst fundament equiti coverag team member household financi interest debt
+equiti secur issuer
+ issuer benefici own class common equiti secur barclay plc
+barclay bank plc and/or affili parti agreement issuer provis financi servic barclay bank plc and/or
+affili
+ barclay bank plc and/or affili liquid provid and/or trade regularli secur issuer and/or relat
+ barclay bank plc and/or affili receiv non-invest bank relat compens includ compens brokerag
+servic applic issuer within past month
+ issuer past month invest bank client barclay bank plc and/or affili

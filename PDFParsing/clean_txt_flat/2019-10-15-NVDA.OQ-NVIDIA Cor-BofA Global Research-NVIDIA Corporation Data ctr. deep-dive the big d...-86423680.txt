@@ -1,0 +1,647 @@
+net dbt
+data ctr deep-div big deal
+small talk ai ep could
+natur languag process next big step ai
+reiter buy top large-cap pick rais po nvda
+data center growth cusp benefit next-big ai landmark
+abil accur listen understand speak contextu human speech refer
+natur languag process nlp /convers ai nlp app vari healthcar
+financi servic chatbot retail underli comput requir
+today domin image/video classifi ai machin see prime posit
+leverag portfolio hardwar softwar develop ecosystem
+dissect data center penetr
+introduc proprietari model nvda data center segment sale
+growth forecast sale end-us cloud supercomput enterpris workload
+artifici intellig ai train infer estim data center repres
+market includ pend mellanox deal still penetr
+face stiff competit intern cloud custom googl tpu well
+larg public privat rival howev view none
+nvda combin scale incumb silicon softwar cuda oper
+system/optim librari download develop compani
+abl leverag common parallel comput architectur scale rang
+game ai auto quit like view
+n-t macro risk ep
+nvda game sale recov cloud spend remain weak n-t data
+center sale could mute howev head forecast yoy sale
+yoy pf-ep growth best organ growth across large-cap semi driven new
+ray-tracing-bas game cycl first use high-perform manufactur
+technolog bull-cas scenario show pf-ep doubl tripl
+year around base-cas forecast bear-cas
+given increas confid nvda growth profil rais po
+pf-pe vs prior base-cas in-line histor rang
+full definit iqmethod sm measur see page
+bofa merril lynch seek busi issuer cover research report
+result investor awar firm may conflict interest could
+affect object report investor consid report singl
+factor make invest decis
+refer import disclosur page analyst certif page price
+object basis/risk page
+return capit employ
+return equiti
+iqmethod sm qualiti earn
+net incom cont oper
+chang work capit
+full definit iqmethod sm measur see page
+design sell graphic video
+process chip desktop notebook game
+pc workstat game consol acceler
+comput server supercomput
+posit view base
+underappreci transform tradit
+pc graphic chip vendor supplier high-
+comput automot market compani
+execut consist solid balanc
+sheet demonstr commit capit
+note conduct deep dive nvda data center segment introduc
+proprietari model forecast sale end-us cloud supercomput enterpris
+workload artifici intellig ai train infer overal data center
+repres market still penetr base case forecast
+nvda data center sale grow compound-annual-growth-rate drive
+ep power also outlin bull case scenario potenti compound-annual-growth-rate data
+center sale along faster growth game stronger oper margin
+could drive ep power bull case slower growth bear case yield around
+assumpt present later report
+tabl summari key estim
+chart data center account rough sale
+nvda data center busi built around hardwar offer discret
+graphics/acceler card complet server comput system
+platform ngc cuda-x softwar develop kit provid overview
+differ layer compris nvda data center platform
+acceler card ture ai infer volta ai train
+tesla primarili design use modularli mainstream server
+acceler ai train task nvda proprietari tensor
+world first gpu break tflop barrier deep learn
+perform offer perform cpu singl gpu packag
+estim asp rang
+tesla nvda latest ai inferenc gpu design ad modularli
+mainstream server base nvda newest gpu architectur ture
+acceler divers cloud workload includ high perform comput deep
+learn machin learn data analyt graphic estim asp
+rang gpu packag watt deliv uniqu
+multi/mixed-precis comput perform
+potenti acceler ai inferenc calcul factor
+popular neural network
+exhibit overview nvda data center platform
+unique/differenti hardwar softwar silicon platform end product rang discret acceler card fulli integr comput systems/serv
+addit modular acceler describ also sell
+complet comput system part hgx brand estim
+system especi famili sell /hgx
+famili offer follow product
+station prebuilt workstat enterpris data scienc team
+station featur gpu cross connect four-way nvda
+proprietari nvlink architectur system offer tflop mixed-precis
+comput perform provid ai train perform
+ supercomput built gpu crosslink
+nvlink nvda first pre-built supercomput acceler ai
+research famili succeed becam
+world first petaflop comput system combin interconnect
+gpu offer approxim perform
+hyperscal cloud server artifici intellig high perform
+comput applic featur gpu fulli connect nvlink
+enterpris server conjunct enterpris server partner
+asu fujitsu other nvda enterpris server come pre-built
+gpu varieti configur
+cuda softwar platform cuda-x ai gpu cloud ngc
+nvda hardwar offer built atop proprietari cuda platform parallel
+comput applic program interfac model first creat year
+ago iter cuda toolkit provid integr develop
+environ customers/develop creat high-perform gpu-acceler
+acceler librari debug optim tool c/c compil runtim
+deploy applic
+part make nvda platform uniqu leverag applic
+develop cuda deploy across nvda variou gpu provid
+ai scientist research highli valu capabl develop
+applic scale effici singl gpu workstat cloud
+instal contain gpu well variant
+gpu technolog confer march releas cuda-x ai collect
+gpu acceler librari built cuda acceler deep learn machin
+learn data analysi exampl librari avail part
+platform includ cudnn acceler deep learn primit rapid
+execut end-to-end data scienc analyt pipelin tensorrt
+acceler deep learn infer high-level librari provid pre-
+optim function substanti eas friction time deploy
+also collect cuda-x hpc gpu acceler librari linear algebra
+parallel algorithm signal imag process lay foundat hpc
+applic area comput physic chemistri molecular dynam
+last key piec softwar platform ngc gpu cloud gpu-
+acceler cloud platform optim deep learn scientif comput ngc
+includ deep learn contain contain registri websit platform
+run deep learn contain
+data center segment account nvda total sale repres
+fastest grow opportun sale base
+first phase deploy artifici intellig acceler workload
+cloud enterpris supercomput custom howev segment cool
+model yoy slow cloud enterpris capital-expenditure creat
+increas investor worri partli drive nvda forward pe multipl
+peak low around
+said think far peak nvda data center growth journey
+next leg could led prolifer convers ai
+requir vastli comput demand enterpris data scientist includ
+new partnership vmware tam expans pend mlnx acquisit
+lastli argu underappreci competit advantag due
+softwar platform cuda help sustain growth even continu
+face heighten competit hardware/silicon side larg semi compani
+well emerg chip startup cerebra habana etc
+convers ai requir exponenti comput
+ai research still infanc deep neural network dnn imag recognit
+surpass human accuraci came enabl
+complex task research continu creat new dnn requir
+exponenti comput latest market convers ai
+natur languag processing/nlp servic dnn train
+paramet versu popular imag recognit
+exhibit complex ai model increas exponenti rate
+axi show number paramet variou ai network
+third parti junip research estim approxim digit voic
+assist use today expect grow meanwhil per
+number custom servic interact handl ai grow
+servic interact bing chipotl order
+alreadi made use nlp mainstream howev still rel easi
+distinguish today chabot nlp servic human due factor low
+latenc accept threshold real time applic inabl
+util larg ai model real time evolv nlp servic today
+contextu intellig convers ai servic futur requir vastli larger
+train model train larg amount text
+suggest comput requir nlp could intens
+image/video process focu first phase ai deploy
+would train inferenc typic latenc
+requir necessit type versatil end-to-end platform argu
+uniqu equip enabl cuda
+exhibit natur languag process uniqu comput problem demand latenc
+nlp model capabl requir lot comput
+last sever month nlp ai model reach newfound accuraci per
+glue gener languag understand evalu benchmark background
+popular nlp model today bert bidirect encod represent
+transform bert develop open-sourc model googl octob
+facebook alibaba other sinc creat variat per
+current glue leaderboard facebook roberta mt-dnn achiev
+benchmark score human baselin howev model becom
+accur learn larg dataset text mostli
+unfeas production-readi real-time/lat sensit applic given time
+requir train model speed requir inferenc calcul
+mid-august set sever perform record bert train infer
+could pave way enterpris leverag convers ai large-scal
+app slash time take train bert-larg day minut
+superpod system meanwhil perform infer bert-
+base model gpu well ahead measur highli
+optim cpu importantli highlight result achiev
+base hardwar market month suggest
+larg accomplish feat software/system optim speak
+volum uniqu differenti natur nvda cuda ai softwar
+platform develop ecosystem well ahead competit
+late august announc partnership vmware deliv acceler gpu
+ai/machin learning/data analyt servic vmware cloud amazon web servic
+aw power modern enterpris applic still earli day view
+announc increment opportun data center key part
+unlock bigger share enterpris spend partnership enterpris
+custom gain access highli scalable/secur cloud servic consist
+amazon instanc acceler inferenc gpu new
+virtual comput server vc softwar unlik nvda prior grid virtual
+product primarili graphic orient vc allow ai machin learn
+workload virtual first time
+expect pend addit mlnx announc intent
+acquir earlier year could expand acceler nvda core data center
+opportun mlnx alreadi power world top
+supercomput serv custom across cloud/enterpris landscap
+view combin comput graphics/gpu mlnx network
+acceler key enabl capabl post moor law world datacenter-
+scale comput becom pervas provid brief overview mlnx
+fit section follow
+exhibit mlnx wd acceler nvda abil address data ctr-scale comput optim challeng
+mlnx would fit nvda data center strategi
+mlnx israeli-bas chipmak suppli high-spe interconnect
+supercomput data center mlnx sale deriv ethernet
+network interfac card smartnic cabl switch balanc come
+infiniband cabl product use facilit commun
+servers/network equip mlnx solut employ offload engin acceler
+network function data traffic turn free main processor/cpu focu
+core workload similar gpu behav rel cpu mlnx
+system-to-system interconnect complementari nvda proprietari nvlink
+exhibit mlnx would add data center
+overal mlnx network portfolio would provid increment
+data center per slightli differ mlnx
+previous outlin per manag meant signifi
+mlnx busi would candid potenti divest examin
+mlnx perspect compani current address could
+grow led growth cabl compound-annual-growth-rate adapt
+switch multi-core processor
+mlnx main competitor outlin similar expect
+past mlnx appear uniqu pois outgrow given potenti gain
+share especi switch largest opportun
+share current model mlnx sale grow compound-annual-growth-rate next
+year slightli ahead outlook led ethernet modest growth
+infiniband account grow competit omni-path
+chart tam expect grow
+in-depth look mlnx pleas refer initi report
+cuda provid underappreci competit moat
+sever compani introduc chip challeng nvda ai supremaci mani
+chip accompani astound claim purport abil
+run select dnn faster show speed-up googlenet
+alveo despit seen evid real encroach nvda
+ai leadership due nvda heavili entrench cuda platform provid
+custom flexibl program environ vital optim
+perform across broader set workload constantli chang market
+without cuda competitor forc manual code popular framework
+leav oper unsupport
+chart tensorflow compat w/o cuda competitor offer small op support
+even larg compani like support approxim
+tensorflow popular ai framework oper support cuda
+often time compet vendor focu optim
+common oper typic requir simpl model resnet
+approach competitor abl test optim perform compet
+chip solut model eventu translat impress
+benchmark/test score like exce real world perform chip
+high level nvda data center busi segment vertic
+workload vertic key end-us categori hyperscal cloud
+world lead cloud servic provid use nvda gpu accelerate/enrich
+servic deliv billion user search social network on-line
+shop live video stream cloud comput etc high-perform
+scientif comput supercomput lead research institut use
+gpu power fastest supercomput acceler applic field
+aerospac bioscienc research mechanical/fluid/weath simul etc
+enterpris grow number large/medium size corpor
+well startup use gpu facilit deep learn data scienc
+exhibit high-level simplifi overview nvda data center busi
+nvda gpu also use acceler varieti workload across vertic
+see grey box exhibit exampl commonli execut workload includ
+artifici intellig train infer data analyt scientif comput
+machin learn last analyst day laid potenti
+total address market includ mlnx compar
+revenu impli still modest penetr
+exhibit cite data center across hpc cloud enterpris
+analysi tie top-down nvda-data center sale estim bottom-up
+build build bottom-up estim use two method sale vertic cloud
+supercomput enterpris sale workload system artifici
+intellig ai infer ai train section follow introduc
+output methodolog outlin assumpt key input start
+base case model highlight still conserv rel current
+consensu estim see tabl later note summar
+output bull bear scenario analysi around present correspond
+impact nvda ep proxi intermediate-term ep power
+tabl analysi histor forecast data center sale end-us cloud supercomput enterpris
+data center sale report mn
+data center sale
+hyperscal cloud
+data center sale
+data center sale
+data center sale
+hyperscal cloud
+data center sale
+end-us analysi model see tabl start nvda report data center
+segment sale use combin nvda public commentari combin
+analysi construct mosaic believ major bucket
+nvda data center busi contribut growth
+evolv time estim time nvda data center busi becam
+meaning enough compani disclos major sale approxim
+direct larg supercomput institut particular list
+semiannu publish top list fastest supercomput world
+last year nvda data center sale grown astound compound-annual-growth-rate
+expans addit hpc/supercomput custom super
+cloud comput titan amazon facebook alibaba googl etc buy
+drove gpu order acceler comput challeng
+problem line hyper growth web-scal servic
+estim nvda data center sale came supercomput came
+cloud came tradit enterpris custom end
+due larg faster growth cloud estim split cloud
+hpc revers purchas come cloud hpc
+remain tradit enterpris custom translat year
+growth cagr cloud hpc enterpris
+nvda data center sale declin ytd track fall
+overal per latest publish model sudden trend revers creat
+confus mani investor confid underli secular driver
+busi believ small demonstr viciou cyclic recal
+gpu penetr issu complic fact
+cite weaken cloud buy pattern primari reason
+shortfal semiconductor compani cite deceler
+cloud spend magnitud deceleration/declin impli current sale
+trajectori seem impli weak beyond other cite instanc
+intel cloud sale grew yoy declin yoy
+take closer look breakdown nvda sale hyperscal cloud custom
+help explain rel weak view classifi sale hyperscal
+one two categori internal-us data center gpu deploy
+support growth cloud custom web-bas servic stream video
+recommend newsfe facebook etc public cloud
+external-us data center gpu comput capac rent enterpris
+data scientist seek easili scalable/flex comput environ
+sale hyperscal custom made last year
+estim roughli evenli split internal-us public-cloud use
+applic howev estim internal-us sale track
+declin yoy cloud sub segment sale overal
+data center sale hand estim sale
+external-use/publ cloud applic much resili
+remain rel stabl yoy thu account much larger
+proport nvda overal cloud sale
+steep declin intern use deploy like reflect sever compound
+factor includ degre demand normal cost/capac optim
+compon inventori digest follow year period nvda gpu sale
+expand factor greater use intern develop asic applic
+specif integr circuit custom chip googl tpu tensor process
+googl histor nvda largest cloud custom near-term
+matur ai train use case support imag video-rel intellig
+although long-term expect ai train demand stimul prolifer
+nlp natur languag process discuss later note
+hand continu growth public cloud external-us albeit
+much slower rate prior year reflect follow factor extens
+strong trend cite tradit premis enterpris estim
+sale track nearli doubl strong demand ai
+infer acceler tie product environ vs
+environ associ ai train discuss ai infer detail
+workload analysi section note
+methodolog forecast vertic
+base-cas model forecast nvda data center sale grow annual
+pace vertic expect cloud sale grow compound-annual-growth-rate
+hpc/supercomput sale grow compound-annual-growth-rate enterpris sale grow
+compound-annual-growth-rate forecast inform follow set assumpt
+hpc/supercomput data center sale
+research use gpu acceler wide rang applic simul
+virus variou weather scenario offer support greater
+differ hpc applic includ top twice per year list world top
+supercomput along respect tech specif publish
+sake simplic assum nvda hpc sale
+deriv sale system actual identifi hpc
+come top system howev
+point time believ major sale come top extent
+success penetr remain long-tail hpc opportun
+deriv tradit industri would repres upsid base-cas model
+recent releas data top list june show
+presenc yoy system use acceler
+importantli total number acceler machin grew substanti
+year prior use detail system specif data provid top
+list calcul total number comput core top system
+aggreg total number acceler core aggreg total number
+acceler core suppli iter top list date back
+point first start disclos data center sale
+tabl present summari data point use histor estim
+hpc sale along total number hpc acceler core
+comput estim rough asp comput core dollar per core
+suppli top hpc system calcul asp
+per core though note vari low end
+high-end last year make simplifi assumpt
+nvda asp remain flat per hpc acceler core slightli
+median price impli year sampl data collect
+cr tabl bottoms-up analysi forecast nvda high perform comput busi
+acceler system top
+acceler system top
+acceler system
+hpc core acceler
+share acceler core
+hpc core acceler
+assumpt drive hpc sale forecast includ
+total hpc comput core grow compound-annual-growth-rate
+conserv compound-annual-growth-rate demonstr last year
+hpc acceler core total comput core grow
+impli forward compound-annual-growth-rate tad
+trail growth rate believ forecast justifi given
+grow use acceler speed mani hpc applic
+lastli conserv expect nvda share total number hpc
+acceler core normal toward vs today
+taken togeth forecast hpc acceler core multipli asp
+/per core estim yield estim nvda futur data center hpc-relat sale
+shown tabl earlier section tabl expect nvda hpc
+sale grow compound-annual-growth-rate would still impli modest
+penetr hpc slightli higher penetr
+specif top supercomput system world
+tabl comput core impli /core forecast revenu world top supercomput system
+hyperscal cloud intern extern use
+last year estim nvda cloud sale grown compound-annual-growth-rate
+nearli pace super cloud capital-expenditure best proxi long-term growth
+nvda hyperscal cloud busi view consequenti see
+effect overspend declin cloud-rel busi
+year cite earlier note howev long-term continu believ
+cloud capital-expenditure best proxi nvda revenu growth
+expect cloud capital-expenditure spend grow compound-annual-growth-rate forecast horizon see
+tabl larg proport spend alloc semiconductor
+help infus ai cloud servic applic addit larger
+hyperscal cloud compani lot smaller compani pinterest snap
+paypal flipkart leverag ai comput part cloud comput
+infrastructur see demand client segment continu servic
+combin public cloud comput resourc captur public cloud
+sale estim tabl premis data center sale captur enterpris
+segment bottoms-up vertic use model
+expect hyperscal consum internet segment grow
+tam come deep learn train
+remaind come deep learn infer applic estim segment
+repres approxim nvda overal data center revenu current
+come deep learn train domin position/mkt
+share/competit moat train market to-dat view greenfield
+infer potenti lucr opportun long-term
+tabl hyperscal cloud data center sale internal/extern use larg tie trajectori cloud custom capital-expenditure spend
+hyperscal cloud
+data center sale
+hyperscal cloud
+data center sale
+cloud capital-expenditure mn super
+tradit industries/enterpris demand long tail ai adopt
+last vertic track proprietari data center model enterpris
+market serv ai comput need tradit enterpris
+industri healthcar transport manufactur retail financi servic
+telecommun believ enterpris track becom largest
+vertic within nvda data center busi sale
+compar busi like less data center sale
+year ago expect sale approach roughli tam
+relat tradit enterpris outlin investor day
+medic imag automot compani two easi understand exampl
+enterpris custom serv first much interpret
+tradit medic imag done today use form comput vision
+human identifi trend futur sort analysi could done use
+gpu second auto estim approxim supercomput
+would requir train neural network everi futur autonom car
+neural net would requir equival simul mile meanwhil
+retail segment recent highlight use gpu
+conjunct rapid nvda open sourc suit gpu acceler librari
+acceler data scienc workflow
+rapid first unveil gtc europ gpu-bas acceler platform
+data scienc machin learn rapid enabl enterpris analyz massiv
+amount data make high speed busi predict rapid
+gpu data scientist provid faster speed-up vs cpu-onli system
+accur high-impact busi predict retail groceri chain could use
+estim optim amount fruit stock far use gpu run
+product demand forecast model reduc time forecast hour
+versu sever week cpu server move forward plan
+expand technolog use case includ suppli chain logist
+merchandis in-stor function
+late august announc partnership vmware deliv acceler gpu
+ai/machin learning/data analyt servic vmware cloud amazon web servic
+aw power modern enterpris applic still earli day view
+announc increment opportun data center key part
+unlock bigger share enterpris spend pie partnership
+enterpris custom gain access highli scalabl secur cloud servic
+consist amazon instanc acceler nvidia inferenc gpu
+new nvidia virtual comput server vc softwar unlik nvda prior grid
+virtual product primarili graphic orient vc allow ai machin
+learn workload virtual first time
+vc vmware essenti creat hybrid cloud environ
+allow enterpris seamlessli migrat relev workload premis data
+center cloud need basi arrang analog privat
+cloud within aw public cloud platform sinc gpu access
+enterpris custom pass basi nvidia vc avail per
+gpu subscript sale model gpu licens requir everi gpu host
+vcs-enabl virtual machin vm singl vc licens enabl maximum
+concurr vm per nvda virtual gpu licens guid vc solut
+avail price per year per gpu
+workload analysi bottoms-up model tabl start nvda report
+data center sale top forecast sale vertic breakdown
+total sale one three categori system sale sale nvda fulli
+assembl computing/acceler system supercomput hgx
+server ai infer card part dgx/hgx
+preassembl system ai train comput acceler card
+part dgx/hgx preassembl system
+estim nvda data center sale came ai train
+product end estim sale came ai
+infer came complet comput system forecast
+nvda data center sale come discret ai train solut
+discret ai infer solut although much larger share total unit
+integr ai/comput system tabl present summari
+workload model subsequ outlin key inputs/assumpt model
+methodolog forecast workload
+base-cas model forecast nvda data center sale grow annual
+pace workload expect system revenu grow in-line
+compound-annual-growth-rate ai infer sale grow faster compound-annual-growth-rate enterpris sale grow
+compound-annual-growth-rate forecast inform follow set assumpt
+system includ supercomput box hgx server etc
+small grow piec nvda data center busi consist purpose-built
+system deep learn gpu acceler applic compani
+platform portfolio ai-supercomput latest gener system built
+nvda volta gpu platform combin gpu-optim softwar simplifi
+manag tool specif product within famili includ -pod
+refer architectur incorpor best practic comput network
+storag power cool allow custom build ai-equip data
+center world first petaflop system combin
+interconnect gpu dgx-station ai workstat
+sell price product offer part platform go
+high well estim cost discret ai train card
+discret ai infer card complic forecast sinc
+rel unit ship outsiz impact total sale especi
+quarterli basi hasnt disclos larg system busi
+say meaning howev mercuri research third parti data provid
+estim nvda data center system busi roughli quarterli
+run rate would peg annual revenu neighborhood
+sale assum system sale grow in-line nvda overal data
+center busi stay roughli sale level
+data center sale
+data center sale
+attach rate server
+data center sale
+attach rate server
+attach rate server
+tabl analysi histor forecast data center sale workload
+data center sale report mn
+deduct system sale segment remaind nvda busi two
+categori first discret card sold modular compon
+meant acceler ai inferenc applic server base industri check
+intern view estim averag sell price nvda ai infer card
+approxim estim ai infer sale account data
+center sale progress ramp use
+estim asp sale back unit sold estim
+track ship ai infer card compar roughli
+unit server would suggest nvda ai infer solut track
+penetr end year make intuit sens us given
+ai infer market still earli stage develop
+chart expect ai infer card attach ww server ship
+ai infer attach rate server
+longer term estim nvda ai infer penetr climb toward least
+annual server unit use project server unit multipli
+annual project ai infer attach drive annual ai infer unit estim
+factor modest asp degrad outer year given ai infer
+market expect much competitive/frag rel ai train
+market maintain share annual unit asp estim drive
+revenu forecast overal project nvda ai infer busi grow
+compound-annual-growth-rate annual growth unit off-set modest annual
+declin asp
+artifici intellig train acceler
+categor last piec nvda data center busi system ai
+infer ai train comput argu earlier note
+believ ai train market far matur advent ever complex
+model particularli field convers ai drive number neural
+network model paramet increas exponenti rate way address
+problem throw comput parallel resourc problem
+uniqu posit address given incumb ai train date
+estim ai train comput acceler account
+nvda data center busi yoy sale last year
+larg function slower sale hyper scale cloud custom intern
+use data center discuss dynam earlier note estim
+asp nvda ai train card emb modest amount asp
+degrad per year forecast horizon impli ai train unit
+yoy peak unit ship last year
+think attach rate less meaning metric ai train forecast impli
+attach rate nvda ai train solut grow peak toward
+overal model ai train sale grow compound-annual-growth-rate
+unit asp
+believ ai train forecast support employ trend
+comput inform research scienc industri per bureau labor statist
+bl peopl employ industri unit state
+end bl expect employ grow compound-annual-growth-rate
+faster aggreg us labor growth within
+subsector fastest grow area employ comput
+system design compound-annual-growth-rate scientif research develop compound-annual-growth-rate
+chart comput research scienc one fastest grow area employ us
+scientif research
+compound-annual-growth-rate us employ comput research scienc industri
+unit state depart labor bureau labor statist
+preced section note present base case assumpt
+support project nvda annual data center sale believ base case
+scenario compound-annual-growth-rate data center drive ep
+also taken time build distinct bull bear case scenario
+summar output bull-bear analysi tabl bull case
+scenario assum sustain sale compound-annual-growth-rate data center busi
+would driven higher attach ai infer vs base case
+faster growth train sustain recoveri cloud sale altogeth
+would expect bull case scenario drive data center sale toward
+growth assumpt may appear stretch would highlight would
+still repres modest penetr organ
+outlin still less current consensu model altogeth bull
+case scenario think potenti deliv ep
+segment outsid data center bull case scenario assum follow
+pc game compound-annual-growth-rate vs base case faster adopt turing/ray
+trace on-going asp expans gap game consol pc game
+narrow game consol compound-annual-growth-rate vs base case better/mor sustain
+unit sell-through nintendo switch consol visual compound-annual-growth-rate vs
+base case automot compound-annual-growth-rate vs base case quicker
+penetr high level autonomi oem compound-annual-growth-rate vs base
+case stabil low end pc compound new growth opportun
+convers bear case scenario project data center sale still grow
+modest compound-annual-growth-rate driven primarili slower growth cloud compound-annual-growth-rate
+vs base case conserv assum sale rebound
+peak level workload also assum lower attach rate ai infer card
+vs base case slower growth ai train compound-annual-growth-rate vs compound-annual-growth-rate
+nvda segment outsid data center assum follow pc game
+compound-annual-growth-rate vs base case due elong replac cycl weaker
+adopt turing/ray trace less asp expans competit
+game consol compound-annual-growth-rate vs base case softer sell
+demand nintendo switch consol visual sale compound-annual-growth-rate
+vs base case slower refresh enterprise/cont creation workstat less
+upsid new server render farm automot compound-annual-growth-rate vs
+base case primarili slower penetration/prolifer high level autonom
+drive featur flattish oem sale secularli declin low-end
+pc off-set mere modest growth jetson embed solut
+bear case factor slightli slower opex growth vs compound-annual-growth-rate also
+bake modest gm headwind due weaker product mix less high gm data
+center assum still deliv ep approxim mlnx
+provid context analysi present note includ
+follow tabl compar segment sale estim current sell-sid
+sale
+sale
+liquid ratio
+amort intang
+proce emp stock plan
+net chang cash/eqv
+cash/eqv begin period
+cash/eqv end period
+po base pe ex cash premium sector
+reflect superior long-term growth profil larg under-penetrated
+market choic multipl histor pe rang
+risk price object exposur pc market competit
+compani hpc/acceler comput market mcu vendor auto
+lumpi unpredict sale new enterpris auto market potenti
+deceler capit return potenti auto slowdown ada becom
+meaning elev opex growth
+vivek arya herebi certifi view express research report accur
+reflect person view subject secur issuer also certifi
+part compens directli indirectli relat specif
+recommend view express research report
+us semiconductor semiconductor capit equip coverag cluster
+iqmethod smi set bofa merril lynch standard measur serv maintain global consist three broad head busi perform qualiti earn valid key featur
+iqmethod consist structur detail transpar methodolog guidelin maxim effect compar valuat process identifi common pitfal
+iqdatabas real-tim global research databas sourc directli equiti analyst earn model includ forecast well histor data incom statement balanc sheet cash
+flow statement compani cover bofa merril lynch
+iqprofil sm iqmethod sm servic mark america corpor iqdatabas regist servic mark america corpor
+qualiti earn

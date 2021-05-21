@@ -1,0 +1,258 @@
+valu usd unless otherwis note
+view note data center demand higher
+expect think like experi higher growth rel
+cpu server demand estim rais estim next year
+improv data center growth expand margin increas
+target
+note replac earlier version correct text begin
+take-away rais price target improv
+data center demand overal think experi return
+growth util gpu data center offici improv
+longer run normal set-up gener speak
+investor speak neg think
+air pocket would send stock assum product cycl
+announc talk posit game base-
+line number comfort current expect
+view recent beat high-end server demand
+come back explain notabl improv high-end
+spend back beta net net remain
+posit view stock best larg cap name
+time month frame
+data center biggest swing factor us util rate
+gpu data center check suggest util rate
+extrem low well sinc idea use gpu
+deep learning/parallel process novel time led
+softwar develop improv util rate caus
+notabl slowdown growth combin scrambl acquir
+server increasingli expens memori market put togeth
+think util gpu improv normal level
+rang see digest phase pass move
+natur languag process horovod case studi specif exampl
+poor util gpu look engin horovod fast
+easi distribut deep learn tensor detail highlight
+report
+adjust estim near-term estim like upsid
+think key improv margin growth
+unreason see compani earn ep assum data
+center demand return solid growth combin potenti
+mellanox close improv demand trend core game
+see clear path estim revis vs street current stand
+price prior trade day market close estimate unless otherwis note
+revenu mix shift go forward think mix continu
+move toward data center grow fastest
+rel segment game grow mid-
+singl digit long-term automot ramp
+ level drive final think enterpris segment
+quadro grid see flattish trend
+game remain largest segment compani
+overal bullish long-term given multipl tailwind
+includ complex video game virtual realiti
+potenti custom shift nvidia
+data center see traction expect solid y/
+growth data center segment see potenti
+robust growth data center along vr importantli
+think product continu ramp come
+automot drive growth recent ramp
+effort within automot segment
+car transit basic comput turn signal
+radio window shield wiper basic function
+complex visual softwar need speech-to-text interfac
+internet-connect devic proxim sens self-
+drive potenti beyond addit sensor
+connect devic note display technolog
+also increas futur creat need
+comput power includ upgrad navig
+system back-seat passeng display surround view
+visual oem think stabl trend
+low- mid-single-digit growth fair less relev
+core busi game auto data center think low-
+mid-single-digit growth achiev
+bloomberg capit market estim upside/downside/target
+price target base rais
+due increas data center growth post
+confer call ep previous
+line high-growth semiconductor peer data center
+segment particular see return growth
+second half year importantli think result
+within data center game specif
+expect could caus forward number
+increas materi fashion think market need
+encapsul data center growth along previou
+expect vr potenti automot upsid
+upsid scenario see materi growth
+game long-term double-digit growth data center
+continu grow long-term addit game
+auto continu ramp teen growth game
+acceler growth auto drive ep toward
+upsid case growth dc drive gross
+downsid scenario game growth turn neg
+trend line pc low- mid-single-digit
+declin automot segment see modest growth
+mid-singl digit make difficult grow final macro
+environ erod caus multipl contract
+horovod fast easi distribut deep learn tensorflow februari
+alexand sergeev mike del balso
+abstract emphasi train modern deep learn model requir larg amount
+comput often provid gpu scale comput one gpu mani enabl
+much faster train research progress entail two complic first train
+librari must support inter-gpu commun depend particular method
+employ commun may entail anywher neglig signific overhead
+second user must modifi train code take advantag inter-gpu
+commun depend train librari api modif requir may
+either signific minim
+exist method enabl multi-gpu train tensorflow librari
+entail non-neglig commun overhead requir user heavili modifi model-
+build code lead mani research avoid whole mess stick slower single-
+gpu train paper introduc horovod open sourc librari improv
+obstruct scale employ effici inter-gpu commun via ring reduct
+requir line modif user code enabl faster easier distribut
+train tensorflow
+first highlight report suggest modif need improv train
+import point given time articl earli gpu train
+new secondli look benchmark see util high qualiti
+exact calcul ideal simplist see perform data
+result run
+first follow document code exampl alway clear
+code modif need made distribut model train code second
+issu dealt challeng comput uber scale run benchmark
+found could get standard distribut tensorflow scale well
+servic requir exampl lost half resourc due commun
+overhead train gpu
+exhibit higher gpu count led increas spread ideal imag per second vs distribut tensorflow
+horovod fast easi distribut deep learn tensorflow februari alexand sergeev mike del balso
+second highlight initi revel chang structur
+tensorflow program increas complex instead multipl worker feed
+singl paramet server structur chang averag gradient work
+variou separ worker feed simpl term use singl paramet server bottleneck
+creat
+horovod fast easi distribut deep learn tensorflow februari alexand sergeev mike del balso
+third highlight structur adjust white paper suggest follow
+reduc buffer increas number output per tensor tensor fusion step
+describ follow
+determin tensor readi reduc select first tensor fit
+buffer data type
+alloc fusion buffer previous alloc default fusion buffer size
+copi data select tensor fusion buffer
+execut allreduc oper fusion buffer
+copi data fusion buffer output tensor
+repeat tensor reduc cycl
+conclus process led materi chang perform per gpu
+notabl gpu scenario would also explain recent downdraft data
+center spend earli along sudden decreas need gpu purchas
+emphas near-term natur underli demand chang view
+function improv algorithm pascal gpu
+horovod fast easi distribut deep learn tensorflow februari alexand sergeev mike del balso
+wrap weve seen increas perform result close
+ideal scenario think addit softwar develop close gap materi
+unlik mean like enter new data center growth phase
+risk includ addit develop data center player abstract suggest
+three way improv project make easier/fast instal mpi
+collect share adjust model paramet distribut deep learn ad
+larg modul multipl gpu span
+upsid case highlight think growth possibl even game slowdown
+compar last year gross margin data center sale high end chip could
+send margin assum similar opex spend percent sale would lead
+oper margin work toward bull case scenario assum flattish share-
+count compani offset share creep
+exhibit bull case
+capit market estim compani file
+game see bull case doubl digit revenu growth scenario keep
+assumpt modest maintain gross margin profil final vr unit could
+add notabl increment revenu year content begin prolifer
+data center assum snap-back data center spend due product cycl
+overal think product cycl could chang sequenti pattern season
+growth legacyincom statement semiconductor
+auto think acceler growth would make sens automot segment
+particularli year approach level drive vehicl result
+higher like higher margin well expand margin tad
+oem/ip crypto currenc upsid behind us think segment
+stabil gener around per year core part nvidia
+pro-visu recent result solid think possibl see doubl
+digit growth y/i comparison may easier
+confer call compani state anticip see revenu cost
+synergi transact think conserv given potenti cross-sel
+opportun natur oper leverag integr larger entiti scale
+simplist assum opex save get us accret
+deal interact model exhibit toggl chang revenu growth/opex
+capit market estim factset consensu estim mellanox
+mlnx product compani address high-perform interconnect market
+help remov bottleneck commun comput storag resourc
+fast transfer data latenc reduct improv applic process central
+process unit cpu util effici share resourc
+product includ adapt ic card connectx connect-ib product famili
+switch ic infiniscal switchx spectrum switch-ib quantum product famili
+system gateway ic bridgex product famili gateway system long-haul system
+nvdamlnxcombinedmlnx interest nanalost interest nanalost interest semiconductor
+metrox bluefield famili soc multi-core smartnic processor softwar linkx cabl
+transceiv connectx famili adapt card support ethernet
+infiniband interconnect standard switchx famili silicon system
+support ethernet infiniband includ gateway support bridg
+infiniband ethernet spectrum switch support ethernet standard switch-ib
+quantum switch support infiniband standard final long-haul system expand reach
+infiniband lossless ethernet kilomet
+mellanox list follow key issu address product
+cluster comput cloud comput storag
+environ high bandwidth low latenc key requir captur full
+perform capabl cluster usag multipl multi-cor processor
+server storag embed system i/o bandwidth abl keep pace
+processor advanc creat perform bottleneck data access becom
+critic requir take advantag increas comput power microprocessor
+addit interconnect latenc becom limit factor cluster overal
+increas complex increas usag cluster server storag system
+critic tool led increas complex interconnect configur
+number configur connect also prolifer edc make system
+increasingli complic manag expens oper addit manag
+multipl softwar applic util dispar interconnect infrastructur becom
+interconnect ineffici deploy cluster comput storag creat
+addit interconnect implement challeng addit comput storag
+system node ad cluster interconnect must abl scale order
+provid expect increas cluster perform addit increas attent
+data center energi effici caus manag look way adopt energy-
+limit reliabl stabil connect interconnect solut design
+provid reliabl connect util larg cluster environ caus data
+transmiss interrupt applic edc share interconnect
+advanc traffic manag applic partit becom necessari maintain
+stabil reduc system time capabl offer
+poor price/perform econom order provid requir system bandwidth
+effici high-perform interconnect implement complex multi-chip
+implement tradit extrem
+high level perspect move parallel process continu moor law
+continu slow mellanox product help acceler next gener data
+center one major bottl neck abil move data effici product
+offer mellanox help solv issu allow data center scale effect
+price target base rais due increas data center
+growth post confer call ep previous line high-
+growth semiconductor peer data center segment particular see return
+growth second half year importantli think result within data center
+game specif expect could caus forward number
+increas materi fashion think market need encapsul data center
+growth along previou expect vr potenti automot upsid
+price target support outperform rate
+risk rate price target
+pc end-market demand weak last year pc exhibit flattish growth
+trend pc unit sale continu declin gpu busi could also shrink
+result flat declin total revenu oper profit
+worsen macro major macroeconom rollov bode neg semiconductor
+compani first node long technolog suppli chain could experi
+revenu declin greater declin global gross oper margin also
+histor fluctuat wors revenu declin result harsh declin ep
+automot slowdown automot segment see slower growth content
+per vehicl overal unit product would neg impact share
+game move mobil think game industri continu grow singl
+digit consum continu switch mobil smartphon tablet instead turn
+pc growth within segment mute
+solut base two import technolog gpu mobil processor
+highli complex chip design engin manufactur third-
+parti chip foundri tsmc gpu engin visual computingth scienc art
+use comput understand creat enhanc imag compani three gpu
+product brand geforc creat realist visual experi gamer quadro
+standard visual comput design digit artist acceler
+applic scientist research incorpor california april
+reincorpor delawar april headquart facil santa clara
+sale
+sale
+sale
+sale
+interest expens incom
+chg acct principl net tax
+compani report capit market estim

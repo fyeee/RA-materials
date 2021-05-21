@@ -1,0 +1,23 @@
+reduc ep estim deferred-tax-asset charg
+reduc ep estim reflect million charg
+relat deferred-tax-asset after-tax pre-tax flow
+incom tax line item corpor segment
+reduc ep estim compar
+current consensu maintain ep estim
+compar current consensu maintain
+ep estim compar current consensu
+market data recent avail data
+product servic
+corpor advic wealth
+plan advic asset manag
+invest advic
+invest product retail institut
+fix annuiti product protect
+segment provid rang insur product
+april acquir long-term
+asset manag busi columbia
+manag group america
+sandler neill partner right reserv sandler neill seek busi
+compani cover research report result investor awar sandler neill may
+conflict interest could affect object report investor consid report
+singl factor make invest decis pleas see import disclosur analyst

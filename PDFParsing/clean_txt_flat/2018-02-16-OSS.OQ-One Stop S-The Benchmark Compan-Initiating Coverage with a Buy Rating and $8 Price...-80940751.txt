@@ -1,0 +1,399 @@
+initi coverag buy rate price target
+initi coverag one stop system inc oss buy rate
+price target price target assum earn multipl
+non-gaap ep estim invest thesi predic rapid organ
+inorgan growth within high perform comput hpc market
+oss gener revenu today benchmark estimate
+see opportun firm grow organ next three
+year new acquisit currenc recent ipo believ manag
+make sever small accret acquisit drive scale maintain
+technolog leadership support larger oem militari contract
+leader high perform comput oss design manufactur high-
+speed comput system high perform comput hpc applic
+requir fast process storag extrem larg data set applic
+engin simul secur defens draw upon extens design
+librari year expertis design manufactur custom system
+origin equip manufactur oem compani hpc system built
+use latest graphic process unit gpu enterprise-class flash-bas
+base case model revenu growth compound-annual-growth-rate
+estim assum organ revenu growth
+includ potenti contribut futur acquisit base-cas
+revenu assumpt lead bp gross margin expans
+non-gaap ep power
+bull case ad accret model million
+revenu prior year howev believ manag
+stretch goal achiev million revenu potenti stretch
+revenu million base transact queue
+regard believ target oss radar current
+profit could profit upon combin synergi lead
+initi coverag
+initi coverag one stop system inc oss buy rate
+price target price target assum earn multipl non-gaap ep
+estim invest thesi predic rapid organ inorgan
+growth within high perform comput hpc market oss gener
+revenu today benchmark estimate see opportun firm
+grow organ next three year new acquisit currenc
+recent ipo believ manag make sever small accret
+acquisit drive scale maintain lead edg technolog support larger oem
+militari contract
+leader high perform comput oss design manufactur high-spe
+comput system high perform comput hpc applic requir fast
+process storag larg data set applic includ artifici intellig
+ai machin learn seismic explor engin simul secur
+defens draw upon extens design librari year expertis design
+manufactur custom system origin equip manufactur oem
+compani hpc system built use latest graphic process unit gpu
+base case model revenu growth compound-annual-growth-rate
+figur estim assum organ revenu growth
+includ potenti contribut futur acquisit base-cas revenu
+assumpt lead bp gross margin expans
+non-gaap ep power
+bull case ad accret model million revenu
+prior year howev believ manag stretch goal
+achiev million revenu potenti stretch revenu
+million base transact queue regard believ
+target oss radar current profit could profit upon combin
+synergi lead immedi ep accret
+tabl content
+treadmil innov allow oss differenti add valu high perform
+comput hpc play role scientif discoveri militari defens medic research
+artifici intellig ai mani ground-break applic central process
+unit cpu develop still domin tradit hpc
+landscap power aforement discoveri cpu provid
+comput power applic requir instead cpu crunch power subsid
+graphic processor unit gpu develop help pave way
+greater discoveri ever-expand hpc applic parallel oper
+figur oss product expertis
+instanc cpu pair gpu insid server box gpu
+crunch comput intens task cpu handl mundan
+task gpu cpu often match server attach storag resourc
+hard disk drive hdd and/or solid state drive ssd server configur
+known hyper-converg comput mani hpc system simpli enough
+space one server chassi hous cpu gpu memori storag need
+support workload addit sometim make sens pair cpu storag
+gpu server chassi hardwar element matur
+differ timet often server cluster share gpu storag resourc last
+ad mani gpu within singl server chassi may produc much heat often
+separ gpu applianc extern network storag array requir deliv
+hardwar comput resourc requir intens workload la cart hpc
+system refer compos comput system
+oss develop hyper-converg comput system compani valu add
+appliances/expans flash storag array connect server via latest
+treadmil innov gpu cpu flash storag pcie interconnect
+allow oss differenti add valu rel mass market hardwar platform
+tradit server storag oem oss custom typic requir expand
+compos comput storag system lead edg perform fast
+pcie interconnect long keep develop power gpu per moor
+law believ oss performance-focus nich long new version
+pcie introduc everi year oss enjoy interconnect advantag
+competit long advanc nand flash i/o perform
+oss chanc differenti long militari applic requir
+rugged modular temperatur toler storag comput system oss
+estim approxim oss ship custom solut
+pci loom upcom pcie standard drive new custom
+engag oss pcie main component-to-compon bu interconnect
+use comput today introduc intel corpor oss first
+manufactur design produc pcie box-to-box interconnect product
+develop oss becom lead supplier pcie adapt expans system
+pcie adapt expans system use fast interconnect
+server gpu applianc extern storag system util latest pcie
+standard prevent interconnect becom perform bottleneck
+current system develop oss pcie signal propag across multipl
+circuit board connector cabl suffici signal qualiti receiv
+reliabl recogn digit signal transit occur billion time per second
+howev interconnect continu advanc area technolog oss
+demonstr abil keep technolog treadmil sever
+gener signal speed fact oss first-mov gener
+pcie compani deliv industri first pcie-over-c solut pcie
+oss current track first-mov next
+gener product includ pcie nvlink involv signal
+billion billion transit per second respect
+addit ex-fus io interconnect add oss compet sandisk
+acquir fusion io leader flash-bas pcie hardwar softwar solut target
+enterpris data center storag market facebook
+subsequ western digit wdcbuy cover mark miller acquir sandisk
+recent oss brought core group fusion io team within
+may oss enter agreement acquir sourc code licens
+array softwar known ion connect transact
+oss acquir softwar engin team develop softwar intent
+oss provid on-going support exist custom new releas
+softwar new softwar team provid oss expertis support
+develop storag array except perform densiti reliabl
+mobil plan oss leverag capabl exist product servic
+time
+ion softwar provid interfac standard server easili read write
+data array ssd establish storag softwar in-hous softwar
+engin allow oss easili produc semi-custom product variat well add
+new featur capabl product portfolio futur product featur may includ
+data encrypt de-dupl compress well capabl request
+custom
+compani build backlog recent navi contract recent conclud contract
+raytheon help drive end backlog substanti higher
+figur oss book backlog mil
+note book-to-bil ratio sept end backlog substanti higher
+million sept
+oss work close raytheon build custom flash storag array flash
+drive instal remov canist storag solut use us navi
+poseidon aircraft next gener long-rang maritim aircraft use-cas oss
+solid state storag solut replac hard-to-remov system seven-
+pound remov modul estim size poseidon us navi contract
+worth annual potenti contract raytheon grow
+believ poseidon aircraft contain oss flash storag canist
+length repetit natur contract creat layer effect sinc oem
+design win gener revenu stream year potenti longer militari
+system new design win layer top exist run-rat busi within
+commerci market design win may year lifespan within militari
+aerospac end market project last year often militari aerospac
+win renew expand
+industri ripe accret consolid date oss made two rel larg
+acquisit includ magma western digit ion softwar team new-
+found acquisit currenc follow compani ipo believ oss remain
+acquisit particular believ oss alreadi identifi sever accret
+acquisit target far away compani current busi center
+southern ca lake citi germani etc mani potenti target like sub-
+shown figur tradit server/storag oem ibm-lenovo dell-
+emc sgi nearli share hpc market howev half
+market control smaller custom maker well taiwanes odm
+inventec wistron compal build white-label solut lead data center
+oper aw facebook etc fragment market outsid
+tradit server oem odm oss would like consolid
+highlight earlier believ oss produc organ revenu growth
+next year potenti supplement organ growth
+oss use follow criteria potenti acquisit target
+presenc serv desir market
+product easili integr compani product portfolio and/or product
+roadmap result accret benefit exist posit
+profit posit cash flow outset shortli
+follow acquisit
+target product provid million increment revenu
+geograph target rel close oss southern california
+acquisit candid exist increment servic revenu stream
+market server storag oem lean oss develop special hpc system
+privat label prototyp engag within server market oss nich
+posit develop purpose-built specialti server major server supplier
+choos suppli requir custom tune special featur major oem
+easili provid
+oss sell product world-wide industri lead compani like cisco disguis
+formerli nation instrument northrop grumman raytheon
+addit key partner oss due recent acquisit ion
+softwar licens softwar develop team note oss earli day
+ramp sale oem go-to-market strategi
+hpc market offer mid-single-digit- growth potenti world-wide hpc market
+expect grow billion billion repres
+compound annual growth rate accord intersect research aug
+oss compet mass market hpc server storag system market
+rather oss custom requir system meet specif oper specif power
+requir speed latenc requir cover tradit design
+estim oss address market hpc comput approxim
+other categori identifi figur roughli overal address hpc
+all-flash-array market offer tremend growth potenti especi nich market
+serv oss although oss maintain offer standard flash array product
+compani sweet spot provid array special packag
+demand applic suitabl standard offer applic
+includ militari aerospac applic requir uniqu packag data
+portabl result develop product provid extrem data
+densiti low weight high degre portabl secur data
+accord delloro group all-flash array storag market grew
+approach billion total attribut tradit larg
+oem like emc hewlett packard enterpris pure storag
+remain total revenu billion address mani
+smaller flash storag provid includ oss oss focu market
+adopt flash requir custom solut believ oss flash-rel sale
+grow faster overal all-flash array market
+hpc servic hpcaa offer new avenu growth associ
+advanc technolog comput intens use-cas cost hpc tool
+often reach smaller sub-scal user similar auto industri evolv
+car-as-a-servic model auto leas escal cost hpc creat
+market nich hpc-as-a-servic hpcaa model wherebi user leas hpc resourc
+storag capac comput power etc cloud hpc market estim grow
+billion estim compound annual growth rate
+accord market research publish marketsandmarket
+april oss form skyscal llc skyscal hpcaa provid offer
+custom world-class ultra-fast multi-gpu hardwar platform cloud skyscal
+own jv allow custom leas state-of-the-art high perform
+comput hardwar skyscal gener meaning revenu moment
+howev believ possibl revenu ramp soon perhap
+gener million sale increment invest oss fairli
+low therefor profit potenti revenu sourc could carri high gross
+margin high overal profit servic also act test bed sale funnel
+skyscal address three class custom first provid dedic hpc gpu
+comput node end-us custom weekli monthli rental basi
+custom typic either develop deep learn ai engin team
+complex simul task vertic industri like automot aerospac oil
+ga second skyscal provid backend hardwar cloud infrastructur
+util special cloud servic provid front-end custom portal
+instanc skyscal infrastructur private-label front-end servic provid
+often hpc line extens aw amazon web servic microsoft azur
+host servic lastli skyscal provid virtual privat cloud enterpris want
+hpc hardwar cloud also want dedic resourc rather use public
+servic aw
+margin expans model oss realiz gross margin
+expans respect figur specif model oss
+gross margin expand longer term
+compani target gross margin revenu mix scale help drive gross
+margin compani higher relat mix higher proport sale deriv
+militari end market help drive margin higher addit grow
+portion revenu ascrib softwar inher carri much higher
+gross margin contribut skyscal hpcaa also drive margin expans
+fee tend recur weekly/monthly/annu fix fee minim
+increment oper cost final point product mix grow proport
+sale tie custom engin product build help drive gross margin higher
+compani grow scale organ inorgan firm garner
+bargain power compon supplier gpu pcie switch ic
+supplier addit oss grown design librari librari help creat
+effici work flow new project design librari continu grow
+oss effici gross margin
+competit mani case oss custom also repres potenti sourc
+competit mani time oss performance-focus gpu interconnect storag
+hardwar solut fill product void lead server storag oem time
+today perform tier hardwar develop oss may becom mass market
+target oss oem partner addit oss sell directli end user hpc
+platform mani may decid futur intern develop custom hpc
+firm oper model lend understand technic physic
+specif complet rapid design base oss librari previou
+design prototyp build rapid prototyp custom approv effici
+design-to-manufactur process treadmil innov oss abil
+maintain lead edg allow compani stay one step ahead competit
+hpc treadmil innov slow opportun oss differenti may
+establish server storag system competitor includ lenovo
+offer broad rang standard product servic hpc market mani case
+compani abl meet custom need standard product offer
+case compani work oss help extend product capabl
+third-parti competit product includ case manufactur underli
+chip board-level product decid also offer system-level product would includ
+competit other time time
+pure storag notabl all-flash storag array competitor
+inabl receiv compon could hinder oss abil differenti fill
+custom order throughout shortag flash memori ic mostli due
+low manufactur yield new gener flash memori technolog
+shortag lower-end nand flash use smartphon pc ssd etc oss
+yet experienc suppli constraint type nand flash use enterprise-class
+ssd secret amd gpu sale growth enhanc significantli
+hpc applic bitcoin mine ai ml etc oss
+experienc suppli constraint gpu strong demand gpu could time time
+impact oss sale margin work capit form higher gpu cost purchas
+commit longer procur lead time addit shortag pcie switch
+ic ltd could impact oss build rate
+acquisit may bring execut risk oss manag aim consolid nich
+hpc market one reason compani went public acquisit
+integr execut risk manag due dilig acquisit
+target may fail uncov cultur conflict often aris well erron
+larg contract could creat volatil result time time oss sign larg contract
+drive volatil result repres larg percentag firm overal
+revenu exampl raytheon contract discuss earlier could repres
+revenu next year raytheon contract expect last
+sever year inabl back-fil contract upon expir could hurt oss futur
+revenu growth rate addit oss sale disguis repres larg
+percentag revenu
+risk intellectu properti theft oss hold sever import patent
+compani reli mostli extens design librari help develop valu
+differenti hpc solut imper oss manag secur librari
+previou design oss coopetit much larger system integr
+hpc oem import oss document protect proprietari
+base case model revenu growth compound-annual-growth-rate
+estim assum organ revenu growth includ
+potenti contribut acquisit base-cas revenu assumpt lead
+bp gross margin expans non-gaap ep
+power
+bull case ad accret model million revenu
+prior year howev believ manag stretch goal
+achiev million revenu potenti stretch revenu
+million base transact queue regard believ
+target oss radar current profit could profit upon combin
+synergi lead immedi ep accret
+expect oss report revenu excess million mid-single-digit- q/q
+fiscal year typic season weak believ compani
+show acceler revenu growth driven firm recent navi contract
+raytheon grow busi disguis
+price target assum earn multipl non-gaap ep
+estim estim well financi model estim assum
+organ growth assum accret benefit potenti
+acquisit valuat multipl line compar tech hardwar compani
+similar growth rate
+compar compani oss uniqu compani hybrid hpc
+integr ratheon hpc interconnect ic/system compani
+ mellanox recent acquir hpc/enterprise-class vendor
+concurr comput sold acquir vecima network fusion-
+io acquir sandisk/wd ev/sal stec acquir wd ev/sal
+aver system acquir sgi acquir ev/sal
+organ inorgan revenu growth shown figur model oss
+grow revenu compound-annual-growth-rate organ growth
+includ potenti contribut acquisit
+gross margin room expand bp shown figur model oss
+realiz bp bp gross margin expans
+respect specif model oss gross margin expand
+longer term compani target gross margin
+revenu mix scale help drive gross margin higher
+oper margin potenti believ oss achiev non-gaap oper
+margin likelihood oper margin long-term
+steve cooper chairman ceo/presid co-found co-found
+presid ceo one stop system steve cooper led compani
+upheav two recess becom lead supplier high
+perform comput system steve background includ engin sale
+market execut manag
+i-bu sb
+technolog mr cooper hold bsee degre univers california
+john morrison chief offic join oss sept work
+year public account pwc korea serv
+chief oper offic internet technolog compani
+year john also kelley book year instrument
+sale compani john bachelor master
+account degre brigham young univers licens
+high
+tim miller vice presid magma busi tim miller year
+develop sale miller previous ceo dolphin interconnect
+solut ceo founder stargen inc mr miller hold bachelor
+cornel univers master busi
+administr wharton master comput scienc
+univers pennsylvania
+engin
+jim ison vice presid sale market jim ison year combin
+experi bus-board marketplac hpc industri prior oss jim
+held variou sale market posit center militari
+converg commun account ziatech rittal jim hold bachelor
+degre aeronaut engin calpoli slo univers
+florida
+julia elbert vice presid engin julia elbert year
+experi engin special linux pci express devic driver
+commun hardwar elbert respons manag lead team
+engin one stop system develop high speed electron product
+focus around pci express also work busi develop build
+partnership vendor custom support one stop system
+magma product line increas sale elbert graduat univers
+california san diego
+carla basquin vice presid administr carla
+basquin one stop system sinc found bring
+year experi employe relat human resourc carla began
+career profession resourc group softwar respons
+train offic autom patient flow organ best busi practic
+privat practic univers throughout carla current
+respons acquisit new talent employ benefit train iso
+certif administr depart
+hester vice presid oper year experi
+entrepreneurship co-found differ compani began career
+start small busi oversaw oper
+compani grew less year
+board advisor world help chair annual causelif tournament
+san diego recipi multipl commun involv award victor
+hold thoma edison state univers attend stanford
+execut institut manag technolog compani
+revenu
+interest incom net
+provis incom tax
+concilli non-gaap result
+oper
+average common stock use dilut ep
+averag number share relat outstand option
+oss long-term target model call non-gaap gross margin
+oss intermediate-term non-gaap om lt
+non-gaap figur exclud option expens amort intang non-cash non-recur charg
+cash equival
+prepaid expens current asset
+deposit
+current portion lt debt
+accru expens liabil
+current portion related-parti note payabl net debt discount respect
+current portion note payabl net debt discount respect
+related-parti note payabl net current portion debt discount respect
+note payabl net current portion debt discount respect
+number share outstand

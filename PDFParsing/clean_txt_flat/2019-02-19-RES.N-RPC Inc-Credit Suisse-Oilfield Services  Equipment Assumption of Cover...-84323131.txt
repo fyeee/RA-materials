@@ -1,0 +1,411 @@
+assumpt coverag
+jacob lundberg assum primari coverag name oilfield
+make chang rate target price estim time
+suiss seek busi compani cover research report result investor awar
+firm may conflict interest could affect object report investor consid report
+singl factor make invest decis
+assumpt coverag
+jacob lundberg assum primari coverag baker hugh ge
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+baker hugh incorpor baker hugh engag
+oilfield servic industri baker hugh supplier oilfield
+servic product technolog system world-wide oil
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+given estim exclud bj servic limit north american
+upsid forecast continu strong perform
+east/asia pacif largest area upsid model
+europe/africa/russian caspian and/or latin america
+grey-ski scenario play bhge would need see
+weak either north america east/asia pacif
+two area ramp grey-ski scenario
+assum small ebit increas rel
+ close
+assumpt coverag
+jacob lundberg assum primari coverag servic
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+ energi servic provid hydraul fractur coil
+tube wirelin complementari servic focu
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue-ski valuat cj deriv target price
+assign multipl
+grey-ski valuat cj deriv target price
+assum multipl cj ex-frac busi
+assum cj valuat frac busi fall replac
+ close
+assumpt coverag
+jacob lundberg assum primari coverag cactu
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+cactu design manufactur sell rent rang highli
+engin wellhead pressur control equip
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario abl continu aggress
+take market share model reach market share
+grey sky scenario competit us surfac wellhead
+market emerg lose share model market
+share declin
+ close
+assumpt coverag
+jacob lundberg assum primari coverag diamond off-shore drill
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+diamond off-shore drill inc provid contract drill servic
+energi industri world-wide also provid off-shore drill
+servic custom base includ independ oil ga
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+base case assum udw dayrat opex
+meanwhil assum pickup tender
+rig push util dayrat
+opex increas cost put back
+valu deriv dcf assum long-term
+dayrat
+base case assum udw dayrat opex
+meanwhil grey assum pressur
+util dayrat driven recoveri push right
+grey assum decreas dayrat
+opex decreas expect cost reduct
+grey valu deriv dcf assum
+long-term dayrat
+ close
+assumpt coverag
+jacob lundberg assum primari coverag ensco esv
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+ensco plc ensco formerli plc global
+oper four segment deepwat asia pacif europ
+africa north south america
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+base case assum udw dayrat opex
+meanwhil assum pickup tender
+rig push util dayrat
+opex increas cost put back
+valu deriv dcf assum long-term
+dayrat
+base case assum udw dayrat opex
+meanwhil grey assum pressur
+util dayrat driven recoveri push right
+grey assum decreas dayrat
+opex decreas expect cost reduct
+grey valu deriv dcf assum
+long-term dayrat
+ close
+assumpt coverag
+jacob lundberg assum primari coverag
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+one largest provid hydraul fractur servic
+north america
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario equat ebitda estim
+grey sky scenario equat ebitda estim
+ close
+assumpt coverag
+jacob lundberg assum primari coverag
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+halliburton compani oilfield servic compani
+compani busi segment complet
+product segment drill evalu segment
+compani provid rang servic product
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario employ multipl ebitda
+grey sky scenario employ multipl ebitda
+ close
+assumpt coverag
+jacob lundberg assum primari coverag helmerich payn
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+helmerich payn inc engag contract drill oil ga
+well other compani contract drill busi consist
+three busi segment land drill off-shore drill
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario assum reach dividend
+grey sky scenario assum pull dividend
+trade fy ebitda estim
+ close
+assumpt coverag
+jacob lundberg assum primari coverag mammoth energi
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+mammoth diversifi oilfield servic compani provid servic
+compani north american onshor sector suit
+servic includ complet product natur sand contract
+direct drill remot accommod
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue-ski scenario reach market need
+begin capit puerto rico work continu busi
+grey sky scenario puerto rico work lost scenario
+ close
+assumpt coverag
+jacob lundberg assum primari coverag
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+nabor ltd land drill contractor land well-
+servic workov contractor us canada compani
+market approxim land drill rig oil ga land
+drill oper us state canada south america etc
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario employ multipl ebitda
+grey sky scenario employ multipl ebitda
+ close
+assumpt coverag
+jacob lundberg assum primari coverag nation oilwel varco
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+inc provid equip
+compon use oil ga drill product oper oilfield
+serv suppli chain serv oper buss segment
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario contempl multipl
+grey sky scenario contempl multipl
+ close
+assumpt coverag
+jacob lundberg assum primari coverag nc multistag
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+provid engin product servic oil natur
+ga well complet field develop project compani
+provid product servic compani across north
+america select intern market
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario assum abl take
+market share unit state level us market share
+grey sky scenario assum fail penetr
+us market eventu retreat pure-play canadian
+compani level us market share impli valuat
+ close
+assumpt coverag
+jacob lundberg assum primari coverag energi servic
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+north american onshor complet product
+servic provid target unconvent oil ga resourc
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario assign multipl
+ebitda estim impli
+grey sky scenario assum see price market
+share util gain growth driven
+underli market growth capac addit multipl
+ close
+assumpt coverag
+jacob lundberg assum primari coverag nobl corpor ne
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+off-shore drill contractor oil ga industri
+performa contract drill servic fleet mobil off-shore
+drill unit one float product storag offload unit
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+base case assum udw dayrat opex
+meanwhil assum pickup tender
+rig push util dayrat
+opex increas cost put back
+price deriv dcf assum long-term
+dayrat
+base case assum udw dayrat opex
+meanwhil grey assum pressur
+util dayrat driven recoveri push right
+grey assum decreas dayrat
+opex decreas expect cost reduct
+grey price deriv dcf assum
+long-term dayrat
+ close
+assumpt coverag
+jacob lundberg assum primari coverag patterson-uti
+make chang rate target price estim time
+valuat metric
+number share
+price month
+ close
+patterson-uti inc own oper fleet -base
+drill rig unit state drill fleet consist
+market -base drill rig provid pressur
+pump servic oil natur ga oper
+profit tax
+chang work capit
+flow oper
+free cash-flow firm
+flow invest
+chang net cash/debt
+total liabil equiti
+share wtd average
+price book
+roe stated-return
+blue sky scenario employ multipl
+grey sky scenario employ multipl ebitda
+ close
+assumpt coverag
+jacob lundberg assum primari coverag propetro hold
+make chang rate target price estim time
+valuat metric
+number share
+price month
