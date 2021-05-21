@@ -12,6 +12,8 @@ from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 import time
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
 
 
 # functions to organize data before building matrix
@@ -268,7 +270,7 @@ def get_shapley(df, industry, quarter):
         if len(temp[2]) <= max_analyst_to_sample:
             sval = shapley_values(temp[1])
         else:
-            sval = shapley_values_draw(temp[2], 2 ** max_analyst_to_sample - 1)
+            sval = shapley_values_draw(temp[1], 2 ** max_analyst_to_sample - 1)
 
         sval['Analyst'] = sval['Analyst'].apply(lambda x: list(temp[2].keys())[int(x)])
         sval['InfoDiversity'] = diversity(temp[1])
@@ -298,14 +300,30 @@ if __name__ == "__main__":
     df2['industry-quarter'] = list(zip(df2.industry, df2.quarter_year))
     list_industries_quarter = df2.groupby('industry-quarter').count().reset_index()['industry-quarter'].tolist()
 
-    industry = 2030
-    quarter = '2018 q4'
+    #industry = 2030
+    #quarter = '2018 q4'
 
-    data_industry_quarter = get_shapley(df, industry, quarter)
-    data_industry_quarter = data_industry_quarter.merge(
-        df[(df['industry'] == industry) & (df['quarter_year'] == quarter)][
+    list_dfs=[]
+    iterloop=1
+    for iq in list_industries_quarter:
+        print(iq,iterloop)
+        loop_time = time.time()
+
+        industry=int(iq[0])
+        quarter=iq[1]
+
+        data_industry_quarter = get_shapley(df, industry, quarter)
+        data_industry_quarter = data_industry_quarter.merge(
+            df[(df['industry'] == industry) & (df['quarter_year'] == quarter)][
             ['Analyst', 'GenderAnalyst', 'Contributor']].drop_duplicates(), on='Analyst')
 
-    print("--- %s seconds ---" % (time.time() - start_time))
+        print("--- %s seconds ---" % (time.time() - loop_time))
 
-    data_industry_quarter.to_csv('example_shapley_value.csv')
+        list_dfs.append(data_industry_quarter)
+        iterloop+=1
+
+    print("Loop: --- %s seconds ---" % (time.time() - start_time))
+
+    final_panel=list_dfs[0].append(list_dfs[1:], ignore_index=True)
+
+    final_panel.to_csv('final_shapley_value.csv')
