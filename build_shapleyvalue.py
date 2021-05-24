@@ -179,6 +179,7 @@ def shapley_values_draw(loading_matrix, no_draws):
     data = pd.DataFrame(columns={'Analyst', 'InfoContribution'})
 
     for k in range(no_analysts):
+        print (k)
         loading_others = np.delete(loading_matrix, k, 0)
         all_sets = coalition_sample(np.delete(loading_matrix, k, 0), no_draws)[1]
 
@@ -242,8 +243,8 @@ def get_factor_matrix(df, industry, quarter):
                                     random_state=100,
                                     chunksize=10,
                                     passes=10,
-                                    alpha='auto',
-                                    eta='auto')
+                                    alpha=0.3,
+                                    eta=0.6)
 
     # set alpha='auto' and eta='auto', such that the model learns from the data?
 
@@ -275,7 +276,8 @@ def get_shapley(df, industry, quarter):
 
     loading_matrices = LDA_Objects[0]
 
-    max_analyst_to_sample = 20  # compute full Shapley for <= x analysts
+    max_analyst_to_sample = 16  # compute full Shapley for <= x analysts, 16 is the 80% quantile by industry-quarter.
+    print(max_analyst_to_sample)
 
     list_of_dataframes = []
     for i in range(len(loading_matrices)):
@@ -307,7 +309,7 @@ def get_shapley(df, industry, quarter):
 
 
 if __name__ == "__main__":
-    start_time = time.time()
+    start_time =  time.time()
 
     # load meta-data file
     df = pd.read_csv("metadata_reports_noduplicates_with_industry.csv")
@@ -345,4 +347,4 @@ if __name__ == "__main__":
 
     final_panel=list_dfs[0].append(list_dfs[1:], ignore_index=True)
 
-    final_panel.to_csv('final_shapley_value_21.csv')
+    final_panel.to_csv('final_shapley_value.csv')
