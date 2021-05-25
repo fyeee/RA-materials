@@ -12,6 +12,9 @@ from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 import time
+import warnings
+import random
+warnings.filterwarnings("ignore", category=UserWarning)
 
 
 # functions to organize data before building matrix
@@ -147,7 +150,18 @@ def coalition_sample(lm, smple):
     # get a random number between 1 and 2^(no analysts)
 
     # draw random numbers (decimal)
-    list_samples = np.random.choice(range(1, 2 ** no_analysts), size=smple, replace=False)
+    #list_samples = [random.randrange(1, 2 ** no_analysts) for x in range(0, smple)]
+
+    list_samples=[]
+    no_samples=0
+    while (no_samples<smple):
+        x=random.randrange(1, 2 ** no_analysts)
+        if not(x in list_samples):
+            list_samples.append(x)
+            no_samples+=1
+
+
+    # list_samples = np.random.choice(range(1, 2 ** no_analysts), size=smple, replace=False)
     # convert random sample to binary (corresponding to rows in the power set)
     list_samples_bin = [[int(x) for x in list(format(y, "0%ib" % no_analysts))] for y in list_samples]
 
@@ -165,6 +179,7 @@ def shapley_values_draw(loading_matrix, no_draws):
     data = pd.DataFrame(columns={'Analyst', 'InfoContribution'})
 
     for k in range(no_analysts):
+        print (k)
         loading_others = np.delete(loading_matrix, k, 0)
         all_sets = coalition_sample(np.delete(loading_matrix, k, 0), no_draws)[1]
 
@@ -230,6 +245,9 @@ def get_factor_matrix(df, industry, quarter):
                                     passes=10,
                                     alpha=0.3,
                                     eta=0.6)
+
+    # set alpha='auto' and eta='auto', such that the model learns from the data?
+
     loading_matrices = []
     for companies in all_companies:
         # print(companies)
@@ -258,17 +276,22 @@ def get_shapley(df, industry, quarter):
 
     loading_matrices = LDA_Objects[0]
 
-    max_analyst_to_sample = 20  # compute full Shapley for <= x analysts
+    max_analyst_to_sample = 16  # compute full Shapley for <= x analysts, 16 is the 80% quantile by industry-quarter.
+    print(max_analyst_to_sample)
 
     list_of_dataframes = []
     for i in range(len(loading_matrices)):
 
         temp = loading_matrices[i]  # get a particular stock
+
+        if len(temp[2])==0: # deal with empty matrix exceptions
+            continue
+
         print(temp[0])
         if len(temp[2]) <= max_analyst_to_sample:
             sval = shapley_values(temp[1])
         else:
-            sval = shapley_values_draw(temp[2], 2 ** max_analyst_to_sample - 1)
+            sval = shapley_values_draw(temp[1], 2 ** max_analyst_to_sample - 1)
 
         sval['Analyst'] = sval['Analyst'].apply(lambda x: list(temp[2].keys())[int(x)])
         sval['InfoDiversity'] = diversity(temp[1])
@@ -286,7 +309,7 @@ def get_shapley(df, industry, quarter):
 
 
 if __name__ == "__main__":
-    start_time = time.time()
+    start_time =  time.time()
 
     # load meta-data file
     df = pd.read_csv("metadata_reports_noduplicates_with_industry.csv")
@@ -298,14 +321,30 @@ if __name__ == "__main__":
     df2['industry-quarter'] = list(zip(df2.industry, df2.quarter_year))
     list_industries_quarter = df2.groupby('industry-quarter').count().reset_index()['industry-quarter'].tolist()
 
-    industry = 2030
-    quarter = '2018 q4'
+    #industry = 2030
+    #quarter = '2018 q4'
 
-    data_industry_quarter = get_shapley(df, industry, quarter)
-    data_industry_quarter = data_industry_quarter.merge(
-        df[(df['industry'] == industry) & (df['quarter_year'] == quarter)][
+    list_dfs=[]
+    iterloop=1
+    for iq in list_industries_quarter:
+        print(iq,iterloop)
+        loop_time = time.time()
+
+        industry=int(iq[0])
+        quarter=iq[1]
+
+        data_industry_quarter = get_shapley(df, industry, quarter)
+        data_industry_quarter = data_industry_quarter.merge(
+            df[(df['industry'] == industry) & (df['quarter_year'] == quarter)][
             ['Analyst', 'GenderAnalyst', 'Contributor']].drop_duplicates(), on='Analyst')
 
-    print("--- %s seconds ---" % (time.time() - start_time))
+        print("--- %s seconds ---" % (time.time() - loop_time))
 
-    data_industry_quarter.to_csv('example_shapley_value.csv')
+        list_dfs.append(data_industry_quarter)
+        iterloop+=1
+
+    print("Loop: --- %s seconds ---" % (time.time() - start_time))
+
+    final_panel=list_dfs[0].append(list_dfs[1:], ignore_index=True)
+
+    final_panel.to_csv('final_shapley_value.csv')
