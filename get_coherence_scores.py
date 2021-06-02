@@ -189,7 +189,9 @@ if __name__ == "__main__":
         coherence_scores = get_coherence(df, industry, quarter)[1]
         optimal_topics=np.argmax(coherence_scores)
 
-        df_coherence=df_coherence.append([industry,quarter,coherence_scores,optimal_topics])
+        new_row={'Industry':industry, 'Quarter':quarter, 'Coherence scores':coherence_scores, 'Optimal topics':optimal_topics}
+
+        df_coherence=df_coherence.append(new_row,ignore_index=True)
         print(df_coherence.head())
         df_coherence.to_csv('industry_coherence_analysis.csv')
         print("Loop: --- %s seconds ---" % (time.time() - loop_time))
