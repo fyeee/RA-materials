@@ -312,7 +312,7 @@ if __name__ == "__main__":
     start_time =  time.time()
 
     # load meta-data file
-    df = pd.read_csv("metadata_reports_noduplicates_with_industry.csv")
+    df = pd.read_csv("cleaned_metadata_reports_noduplicates_with_industry.csv")
 
     df['industry'] = df['ggroup']
     df['quarter_year'] = df["year"].astype("str") + " q" + df["quarter"].astype("str")
