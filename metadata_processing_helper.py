@@ -50,16 +50,33 @@ def construct_analyst_index_mapping(df, all_files_dcns):
     return analyst_to_index
 
 
+def get_industry_dcns(df, industries_to_index, industry):
+    indexes = industries_to_index[industry]
+    # DCN is the unique identification code for the reports
+
+    dcns = set(df.iloc[list(indexes), :]["DCN"])
+    all_files_dcns = get_file_paths(dcns)
+    return all_files_dcns
+
+
+def get_industry_quarter_dcns(df, industries_to_index, quarter_to_index, industry, quarter):
+    # select all report indices (rows in metadata) for the industry-quarter
+    indexes = industries_to_index[industry].intersection(quarter_to_index[quarter])
+    # set of all company names for the industry-quarter
+    all_companies = df.iloc[list(indexes), :]['TICKER'].unique()
+    # DCN is the unique identification code for the reports
+
+    dcns = set(df.iloc[list(indexes), :]["DCN"])
+    all_files_dcns = get_file_paths(dcns)
+    return all_files_dcns
+
+
+
 def get_all_companies(df, indexes):
     """
     Return the set of companies in the dataframe with the given indexes
     """
-    raw_companies = df.iloc[list(indexes), 4].unique()
-    all_companies = set()
-    for item in raw_companies:
-        l = item.split(",")
-        for company in l:
-            all_companies.add(company.strip(" ").strip("^L19"))
+    all_companies = df.iloc[list(indexes), :]['TICKER'].unique()
     return all_companies
 
 
