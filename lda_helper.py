@@ -63,7 +63,7 @@ def get_coherence(all_files_dcns):
         print(num_topics)
         # generate the LDA Model
         lda_time = time.time()
-        lda_model = models.LdaMulticore(corpus=corpus,
+        lda_model = models.LdaModel(corpus=corpus,
                                         id2word=dictionary_LDA,
                                         num_topics=num_topics,
                                         random_state=100,
@@ -90,13 +90,13 @@ def get_topic_industry(all_files_dcns, num_topics):
     words, dictionary_LDA, corpus = construct_corpus(all_files_dcns)
 
     # generate the LDA Model
-    lda_model = models.LdaMulticore(corpus=corpus,
+    lda_model = models.LdaModel(corpus=corpus,
                                     id2word=dictionary_LDA,
                                     num_topics=num_topics,
                                     random_state=100,
                                     chunksize=50,
                                     passes=100,
-                                    alpha=0.1,
+                                    alpha='auto',
                                     eta=0.01)
 
     # set alpha='auto' and eta='auto', such that the model learns from the data?
