@@ -69,7 +69,7 @@ def get_coherence(all_files_dcns):
                                         random_state=100,
                                         chunksize=50,
                                         passes=50,
-                                        alpha=0.1,
+                                        alpha='auto',
                                         eta=0.01)
         print("LDA: --- %s seconds ---" % (time.time() - lda_time))
 
@@ -96,8 +96,8 @@ def get_topic_industry(all_files_dcns, num_topics):
                                     random_state=100,
                                     chunksize=50,
                                     passes=100,
-                                    alpha='asymmetric',
-                                    eta='auto')
+                                    alpha=0.1,
+                                    eta=0.01)
 
     # set alpha='auto' and eta='auto', such that the model learns from the data?
 
